@@ -5,3 +5,4 @@ source/hocr/
 source/tif/
 source/djvu.txt
 __pycache__/
+.claude/
