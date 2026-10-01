@@ -1,0 +1,446 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bardsley Surname Index</title>
+<meta name="description" content="A searchable index of C. W. Bardsley's A Dictionary of English and Welsh Surnames (1901).">
+<style>
+/* Plain, dense reference table. */
+:root {
+  --bg: #ffffff; --fg: #1a1a1a; --muted: #666666; --rule: #dddddd; --head: #f3f3f3;
+  --hover: #f5f7fa; --open: #eef2f7; --link: #1a4fa0; --mark: #fff1a8; --box: #d08a00;
+  --box-wash: rgba(255, 196, 0, 0.18); --scan-filter: none;
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161616; --fg: #e6e6e6; --muted: #9a9a9a; --rule: #333333; --head: #202020;
+    --hover: #1f2329; --open: #232a33; --link: #8ab4f8; --mark: #5c4d00; --box: #ffb300;
+    --box-wash: rgba(255, 179, 0, 0.18); --scan-filter: brightness(.85); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161616; --fg: #e6e6e6; --muted: #9a9a9a; --rule: #333333; --head: #202020;
+  --hover: #1f2329; --open: #232a33; --link: #8ab4f8; --mark: #5c4d00; --box: #ffb300;
+  --box-wash: rgba(255, 179, 0, 0.18); --scan-filter: brightness(.85); color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font: 13px/1.4 var(--font); padding-inline: 16px; padding-block: 16px 40px; margin: 0; }
+a { color: var(--link); }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--link); outline-offset: 1px; }
+h1 { font-size: 1.25rem; font-weight: 600; margin: 0 0 4px; }
+.sub { margin: 0 0 12px; color: var(--fg); }
+
+.filters { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: flex-end; margin-bottom: 8px; }
+.filters label { display: grid; gap: 2px; }
+.filters input[type="search"], .filters input[type="text"], .filters select {
+  height: 28px; padding: 0 6px; border: 1px solid var(--rule); border-radius: 3px; background: var(--bg); min-width: 0;
+}
+#q { width: 260px; max-width: 100%; }
+#fFirst, #fLast { width: 130px; }
+#fFrom, #fTo { width: 58px; }
+.filters select { max-width: 220px; }
+.check { display: flex !important; grid-auto-flow: column; align-items: center; gap: 6px; height: 28px; }
+.btn { height: 28px; padding: 0 10px; border: 1px solid var(--rule); border-radius: 3px; background: var(--head); cursor: pointer; text-decoration: none; color: var(--fg); display: inline-flex; align-items: center; }
+.btn:hover { border-color: var(--muted); }
+.bar { display: flex; flex-wrap: wrap; gap: 4px 16px; justify-content: space-between; margin: 6px 0; }
+.muted { color: var(--muted); }
+
+.tablewrap { overflow-x: auto; border: 1px solid var(--rule); }
+table { border-collapse: collapse; width: 100%; min-width: 980px; }
+th, td { padding: 2px 6px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+th { position: sticky; top: 0; background: var(--head); font-weight: 600; white-space: nowrap; }
+th button { all: unset; cursor: pointer; }
+th button[aria-sort="ascending"]::after { content: " ▲"; }
+th button[aria-sort="descending"]::after { content: " ▼"; }
+tr.rec { cursor: pointer; }
+tr.rec:hover td { background: var(--hover); }
+tr.rec.open td, tr.detail td { background: var(--open); }
+td.nw { white-space: nowrap; }
+td.page { white-space: nowrap; }
+.pagebtn { all: unset; color: var(--link); text-decoration: underline; cursor: pointer; }
+.detail td { padding: 4px 6px 8px; }
+.detail p { margin: 0 0 3px; }
+mark { background: var(--mark); color: inherit; }
+.empty { padding: 16px 6px; }
+
+details.notes { margin-top: 16px; max-width: 900px; }
+details.notes summary { cursor: pointer; font-weight: 600; }
+details.notes p { margin: 6px 0; }
+.key { columns: 2 320px; margin: 6px 0; padding: 0; list-style: none; }
+.key li { break-inside: avoid; }
+
+dialog#viewer { width: min(1200px, calc(100vw - 16px)); height: min(94vh, 1100px); max-height: calc(100vh - 16px);
+  padding: 0; border: 1px solid var(--rule); background: var(--bg); color: var(--fg); }
+dialog#viewer::backdrop { background: rgba(0, 0, 0, .5); }
+.viewer { display: grid; grid-template-rows: auto 1fr; height: 100%; }
+.vbar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; padding: 6px 8px; border-bottom: 1px solid var(--rule); }
+.vbar .title { font-weight: 600; margin-right: auto; }
+.vbar button[aria-pressed="true"] { background: var(--open); border-color: var(--muted); }
+.vbody { display: grid; grid-template-columns: minmax(0, 1fr) 280px; min-height: 0; }
+.scanport { overflow: auto; min-height: 0; }
+.scan { position: relative; width: 100%; }
+.scan img { display: block; width: 100%; height: auto; max-width: none; filter: var(--scan-filter); }
+.colmark { position: absolute; top: 0; bottom: 0; background: var(--box-wash); pointer-events: none; }
+.colmark.faint { background: transparent; border-inline: 1px solid var(--box); }
+.linemark { position: absolute; border: 2px solid var(--box); background: var(--box-wash); pointer-events: none; }
+.linemark.approx { border-style: dashed; background: transparent; }
+.vside { border-left: 1px solid var(--rule); padding: 8px; overflow: auto; min-width: 0; }
+.vside p { margin: 0 0 6px; }
+@media (max-width: 760px) {
+  .vbody { grid-template-columns: 1fr; grid-template-rows: minmax(0, 1fr) auto; }
+  .vside { border-left: 0; border-top: 1px solid var(--rule); max-height: 30vh; }
+  dialog#viewer { width: 100vw; height: 100%; max-height: 100%; max-width: 100vw; margin: 0; }
+}
+</style>
+</head>
+<body>
+
+<h1>A searchable index of C. W. Bardsley's <i>A Dictionary of English and Welsh Surnames</i></h1>
+<p class="sub" id="coverage">Loading…</p>
+
+<form class="filters" id="filters" onsubmit="return false">
+  <label>Search all columns <input id="q" type="search" autocomplete="off"></label>
+  <label>First name <input id="fFirst" type="text" autocomplete="off"></label>
+  <label>Surname <input id="fLast" type="text" autocomplete="off" title="Also matches the entry's variant spellings"></label>
+  <label>Location <select id="fLoc"><option value="">All</option></select></label>
+  <label>From year <input id="fFrom" type="text" inputmode="numeric" maxlength="4"></label>
+  <label>To year <input id="fTo" type="text" inputmode="numeric" maxlength="4"></label>
+  <label>Record type <select id="fEvent"><option value="">All</option></select></label>
+  <label>Source <select id="fSource"><option value="">All</option></select></label>
+  <label>Page <select id="fPage"><option value="">All</option></select></label>
+  <label class="check"><input type="checkbox" id="fUndated"> Include undated entries</label>
+  <button class="btn" id="reset" type="button">Clear</button>
+  <a class="btn" id="csv" href="data/entries.csv" download="bardsley-surname-index.csv">Download full CSV</a>
+</form>
+
+<div class="bar"><span id="count" aria-live="polite"></span><span class="muted" id="status"></span></div>
+
+<div class="tablewrap">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col"><button data-sort="first_name">First name</button></th>
+        <th scope="col"><button data-sort="last_name">Surname</button></th>
+        <th scope="col">Meaning</th>
+        <th scope="col"><button data-sort="year">Date</button></th>
+        <th scope="col"><button data-sort="location">Location</button></th>
+        <th scope="col">Notes</th>
+        <th scope="col">Source</th>
+        <th scope="col"><button data-sort="id">Page</button></th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+
+<details class="notes">
+  <summary>About the data and Bardsley's abbreviations</summary>
+  <p>Each row is one name as printed in a citation. People named together in one record (a married couple, a parent and child, a man and his wife, a name and its alias) each have their own row, sharing that record's date, place and source. Click a row to see the line as printed; click the page number to see the scan, with the line boxed (dashed where the position is estimated).</p>
+  <p>Dates are as printed. Regnal years are converted for the year filter, so "20 Edw. I" counts as 1291–92. Location is the county, or London; where the book gives no place but the source is local (such as the 1379 West Riding poll tax), the location is taken from the source.</p>
+  <p>In "Henry le Abbé, co. Salop, 1273. A.", co. Salop is the county (Shropshire) and the letter after the date names the source: A is the Hundred Rolls of 1273. "ibid." repeats the source of the line above. Bardsley's source letters:</p>
+  <ul class="key" id="keylist"></ul>
+  <p>Transcribed by reading the page scans. Rows whose print is damaged say so in Notes; check anything important against the scan.</p>
+</details>
+
+<dialog id="viewer" aria-labelledby="vtitle">
+  <div class="viewer">
+    <div class="vbar">
+      <span class="title" id="vtitle">Page</span>
+      <button class="btn" type="button" data-zoom="1">Fit</button>
+      <button class="btn" type="button" data-zoom="1.6">1.6×</button>
+      <button class="btn" type="button" data-zoom="2.4">2.4×</button>
+      <button class="btn" type="button" id="prevPage">‹ Prev</button>
+      <button class="btn" type="button" id="nextPage">Next ›</button>
+      <button class="btn" type="button" id="closeViewer">Close</button>
+    </div>
+    <div class="vbody">
+      <div class="scanport" id="scanport">
+        <div class="scan" id="scan">
+          <img id="scanImg" alt="">
+          <div class="colmark" id="colmark" hidden></div>
+          <div class="linemark" id="linemark" hidden></div>
+        </div>
+      </div>
+      <aside class="vside" id="vside"></aside>
+    </div>
+  </div>
+</dialog>
+
+<script>
+(() => {
+  const $ = s => document.querySelector(s);
+  const state = { data: null, rows: [], view: [], sort: { key: "id", dir: 1 }, open: new Set(), viewer: null, downloads: null };
+  const els = {
+    q: $("#q"), first: $("#fFirst"), last: $("#fLast"), loc: $("#fLoc"), from: $("#fFrom"), to: $("#fTo"),
+    event: $("#fEvent"), source: $("#fSource"), page: $("#fPage"), undated: $("#fUndated"),
+    tbody: $("#rows"), count: $("#count"), status: $("#status"),
+  };
+
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const fold = s => String(s ?? "").normalize("NFD").replace(/\p{M}/gu, "").replace(/[\[\]]/g, "").toLowerCase();
+
+  function dateText(r) {
+    if (!r.date) return "";
+    if (r.year_from == null || /^\s*\d{4}\s*$/.test(r.date)) return r.date;
+    const a = String(r.year_from), b = String(r.year_to);
+    const yrs = a === b ? a : a + "–" + (a.slice(0, 2) === b.slice(0, 2) ? b.slice(2) : b);
+    return /^\s*\d{4}\s*-\s*\d{1,4}\s*$/.test(r.date) ? r.date : `${r.date} (${yrs})`;
+  }
+
+  function prepare(data) {
+    return data.records.map(r => {
+      const h = data.headwords[r.h];
+      const row = { ...r, ...h, named: !!r.first_name || !!r.record_text };
+      row.variants = h.headword.split(/,\s*/).map(fold);
+      row._first = fold(r.first_name);
+      row._last = fold(r.last_name);
+      row._hay = fold([r.first_name, r.last_name, h.headword, h.meaning, h.origin, h.author_comment, r.date, r.event,
+        r.place, r.location, r.notes, r.source, r.source_abbrev, r.record_text, "p. " + r.page].join(" | "));
+      return row;
+    });
+  }
+
+  function fillSelect(sel, values, fmt = v => v) {
+    const counts = new Map();
+    values.forEach(v => { if (v) counts.set(v, (counts.get(v) || 0) + 1); });
+    [...counts.keys()].sort((a, b) => typeof a === "number" ? a - b : String(a).localeCompare(String(b)))
+      .forEach(v => sel.add(new Option(`${fmt(v)} (${counts.get(v)})`, v)));
+  }
+
+  function filters() {
+    const yr = el => { const n = parseInt(el.value, 10); return Number.isFinite(n) ? n : null; };
+    return {
+      terms: fold(els.q.value).split(/\s+/).filter(Boolean),
+      first: fold(els.first.value.trim()), last: fold(els.last.value.trim()),
+      loc: els.loc.value, event: els.event.value, source: els.source.value, page: els.page.value,
+      from: yr(els.from), to: yr(els.to), undated: els.undated.checked,
+    };
+  }
+
+  function matches(r, f) {
+    if (!f.undated && r.year_from == null) return false;
+    if (f.first && !r._first.includes(f.first)) return false;
+    if (f.last && !r._last.includes(f.last) && !r.variants.some(v => v.includes(f.last))) return false;
+    if (f.loc && r.location !== f.loc) return false;
+    if (f.event && r.event !== f.event) return false;
+    if (f.source && r.source_work !== f.source) return false;
+    if (f.page && String(r.page) !== f.page) return false;
+    if (f.from != null || f.to != null) {
+      if (r.year_from == null) return false;
+      if (f.from != null && r.year_to < f.from) return false;
+      if (f.to != null && r.year_from > f.to) return false;
+    }
+    return f.terms.every(t => r._hay.includes(t));
+  }
+
+  function sortRows(list) {
+    const { key, dir } = state.sort;
+    const val = r => key === "year" ? (r.year_from ?? 99999) : key === "id" ? r.id : fold(r[key]) || "~";
+    return list.sort((a, b) => { const x = val(a), y = val(b); return (x < y ? -1 : x > y ? 1 : a.id - b.id) * dir; });
+  }
+
+  // Highlight search terms; works on the raw text, escapes everything.
+  function mark(text, terms) {
+    text = String(text ?? "");
+    if (!terms.length || !text) return esc(text);
+    const folded = fold(text);
+    if (folded.length !== text.length) return esc(text);
+    const ranges = [];
+    terms.forEach(t => { let i = folded.indexOf(t); while (i !== -1) { ranges.push([i, i + t.length]); i = folded.indexOf(t, i + t.length); } });
+    ranges.sort((a, b) => a[0] - b[0]);
+    let out = "", pos = 0;
+    for (const [s, e] of ranges) {
+      if (s < pos) continue;
+      out += esc(text.slice(pos, s)) + "<mark>" + esc(text.slice(s, e)) + "</mark>";
+      pos = e;
+    }
+    return out + esc(text.slice(pos));
+  }
+
+  function rowHtml(r, t) {
+    const open = state.open.has(r.id);
+    const notes = [r.event, r.notes].filter(Boolean).join(". ");
+    let html = `<tr class="rec${open ? " open" : ""}" data-id="${r.id}">
+      <td class="nw">${mark(r.first_name, t)}</td>
+      <td class="nw">${mark(r.last_name, t)}</td>
+      <td>${mark(r.meaning, t)}</td>
+      <td class="nw">${mark(dateText(r), t)}</td>
+      <td>${mark(r.location, t)}</td>
+      <td>${mark(notes, t)}</td>
+      <td>${mark(r.source, t)}</td>
+      <td class="page"><button class="pagebtn" type="button" data-page="${r.id}">p. ${r.page}</button></td>
+    </tr>`;
+    if (open) {
+      html += `<tr class="detail"><td colspan="8">
+        ${r.record_text ? `<p>As printed: ${mark(r.record_text, t)}</p>` : ""}
+        <p>Entry: ${esc(r.headword)}${r.origin ? ` (${esc(r.origin)})` : ""}: ${esc(r.meaning)}</p>
+        ${r.author_comment ? `<p>Author's comment: ${mark(r.author_comment, t)}</p>` : ""}
+        ${r.place ? `<p>Place as recorded: ${mark(r.place, t)}${r.location_from_source ? " (location taken from the source)" : ""}</p>` : ""}
+        ${r.source_abbrev ? `<p>Source as printed: ${esc(r.source_abbrev)}</p>` : ""}
+        <p>Cite as: C. W. Bardsley, A Dictionary of English and Welsh Surnames (1901), p. ${r.page}. <a href="https://archive.org/details/adictionaryengl00goog/page/${r.page}/mode/1up" target="_blank" rel="noopener">Internet Archive</a></p>
+      </td></tr>`;
+    }
+    return html;
+  }
+
+  function render() {
+    const f = filters();
+    state.view = sortRows(state.rows.filter(r => matches(r, f)));
+    const hidden = f.undated ? 0 : state.rows.filter(r => r.year_from == null).length;
+    els.count.textContent = `${state.view.length} ${state.view.length === 1 ? "name" : "names"}`;
+    els.status.textContent = hidden ? `${hidden} undated entries hidden` : "";
+    els.tbody.innerHTML = state.view.length
+      ? state.view.map(r => rowHtml(r, f.terms)).join("")
+      : `<tr><td colspan="8" class="empty">No names match. Only pages ${pageSpan()} are transcribed so far.</td></tr>`;
+    document.querySelectorAll("th button[data-sort]").forEach(b => {
+      if (b.dataset.sort === state.sort.key) b.setAttribute("aria-sort", state.sort.dir > 0 ? "ascending" : "descending");
+      else b.removeAttribute("aria-sort");
+    });
+  }
+
+  const pageList = () => Object.keys(state.data.pages).map(Number).sort((a, b) => a - b);
+  const pageSpan = () => { const p = pageList(); return p.length ? `${p[0]}–${p[p.length - 1]}` : ""; };
+
+  /* Page viewer */
+  const dlg = $("#viewer"), img = $("#scanImg"), scan = $("#scan"), port = $("#scanport"),
+    colmark = $("#colmark"), linemark = $("#linemark");
+
+  function lineBox(rec) {
+    if (!rec || !rec.line) return null;
+    const [top, bottom, exact] = rec.line, pad = exact ? 0.003 : 0.014;
+    return { top: Math.max(0, top - pad), bottom: Math.min(1, bottom + pad), exact: !!exact };
+  }
+
+  function openViewer(rec) {
+    state.viewer = { page: rec.page, rec, zoom: rec.line ? 1.6 : 1 };
+    if (!dlg.open) dlg.showModal();
+    showPage();
+  }
+
+  function showPage() {
+    const v = state.viewer, meta = state.data.pages[v.page];
+    const rec = v.rec && v.rec.page === v.page ? v.rec : null;
+    $("#vtitle").textContent = `Page ${v.page}`;
+    img.alt = `Scan of page ${v.page}`;
+    img.width = meta.width; img.height = meta.height;
+    if (img.getAttribute("src") !== meta.image) img.src = meta.image;
+    const box = lineBox(rec);
+    if (rec && meta.columns[rec.column - 1]) {
+      const [x0, x1] = meta.columns[rec.column - 1];
+      Object.assign(colmark.style, { left: x0 * 100 + "%", width: (x1 - x0) * 100 + "%" });
+      colmark.classList.toggle("faint", !!box);
+      colmark.hidden = false;
+      if (box) {
+        Object.assign(linemark.style, { left: x0 * 100 + "%", width: (x1 - x0) * 100 + "%",
+          top: box.top * 100 + "%", height: (box.bottom - box.top) * 100 + "%" });
+        linemark.classList.toggle("approx", !box.exact);
+      }
+      linemark.hidden = !box;
+    } else colmark.hidden = linemark.hidden = true;
+    const pages = pageList(), i = pages.indexOf(v.page);
+    $("#prevPage").disabled = i <= 0;
+    $("#nextPage").disabled = i >= pages.length - 1;
+    const archive = `https://archive.org/details/adictionaryengl00goog/page/${v.page}/mode/1up`;
+    $("#vside").innerHTML = rec
+      ? `<p><b>${esc((rec.first_name + " " + rec.last_name).trim())}</b>, ${esc(dateText(rec))}</p>
+         ${rec.record_text ? `<p>As printed: ${esc(rec.record_text)}</p>` : ""}
+         <p>Under: ${esc(rec.headword)}</p>
+         <p class="muted">${!box ? `Column ${rec.column} is highlighted.` : box.exact ? "Boxed where printed." : "Dashed box: approximate position, within a line or two."}</p>
+         <p><a href="${archive}" target="_blank" rel="noopener">Page ${v.page} on the Internet Archive</a></p>`
+      : `<p><a href="${archive}" target="_blank" rel="noopener">Page ${v.page} on the Internet Archive</a></p>`;
+    applyZoom();
+  }
+
+  function applyZoom() {
+    scan.style.width = state.viewer.zoom * 100 + "%";
+    dlg.querySelectorAll("[data-zoom]").forEach(b => b.setAttribute("aria-pressed", String(Number(b.dataset.zoom) === state.viewer.zoom)));
+    centre();
+  }
+
+  function centre() {
+    const v = state.viewer;
+    if (!v || !dlg.open) return;
+    const rec = v.rec && v.rec.page === v.page ? v.rec : null;
+    if (!rec || colmark.hidden) { port.scrollLeft = 0; port.scrollTop = 0; return; }
+    const [x0, x1] = state.data.pages[v.page].columns[rec.column - 1];
+    const w = scan.offsetWidth, h = scan.offsetHeight, box = lineBox(rec);
+    port.scrollLeft = Math.max(0, ((x0 + x1) / 2) * w - port.clientWidth / 2);
+    port.scrollTop = box ? Math.max(0, ((box.top + box.bottom) / 2) * h - port.clientHeight / 2) : 0;
+  }
+  img.addEventListener("load", centre);
+
+  /* Events */
+  let timer;
+  const later = () => { clearTimeout(timer); timer = setTimeout(render, 120); };
+  [els.q, els.first, els.last, els.from, els.to].forEach(el => el.addEventListener("input", later));
+  [els.loc, els.event, els.source, els.page, els.undated].forEach(el => el.addEventListener("change", render));
+  $("#reset").addEventListener("click", () => {
+    $("#filters").reset(); state.sort = { key: "id", dir: 1 }; render();
+  });
+  document.querySelectorAll("th button[data-sort]").forEach(b => b.addEventListener("click", () => {
+    const k = b.dataset.sort;
+    state.sort = state.sort.key === k ? { key: k, dir: -state.sort.dir } : { key: k, dir: 1 };
+    render();
+  }));
+  els.tbody.addEventListener("click", e => {
+    const pb = e.target.closest("[data-page]");
+    if (pb) { openViewer(state.rows.find(r => r.id === Number(pb.dataset.page))); return; }
+    if (e.target.closest("a")) return;
+    const tr = e.target.closest("tr.rec");
+    if (!tr) return;
+    const id = Number(tr.dataset.id);
+    state.open.has(id) ? state.open.delete(id) : state.open.add(id);
+    render();
+  });
+  $("#closeViewer").addEventListener("click", () => dlg.close());
+  dlg.addEventListener("click", e => { if (e.target === dlg) dlg.close(); });
+  dlg.querySelectorAll("[data-zoom]").forEach(b => b.addEventListener("click", () => { state.viewer.zoom = Number(b.dataset.zoom); applyZoom(); }));
+  const turn = d => { const p = pageList(), i = p.indexOf(state.viewer.page) + d; if (p[i] != null) { state.viewer.page = p[i]; showPage(); } };
+  $("#prevPage").addEventListener("click", () => turn(-1));
+  $("#nextPage").addEventListener("click", () => turn(1));
+  dlg.addEventListener("keydown", e => { if (e.key === "ArrowLeft") turn(-1); if (e.key === "ArrowRight") turn(1); });
+
+  // Full CSV: a plain link on an ordinary website; inside the Claude viewer, its save dialog.
+  if (window.claude && window.claude.use) {
+    window.claude.use("downloads").then(d => { state.downloads = d; }).catch(() => {});
+  }
+  $("#csv").addEventListener("click", async e => {
+    if (!state.downloads) return;
+    e.preventDefault();
+    try {
+      const csv = await fetch("data/entries.csv").then(r => { if (!r.ok) throw new Error(r.status); return r.text(); });
+      await state.downloads.save({ filename: "bardsley-surname-index.csv", data: csv });
+    } catch (err) {
+      if (err && err.code !== "declined") els.status.textContent = "The download didn't start. Please try again.";
+    }
+  });
+
+  /* Load */
+  Promise.all([
+    fetch("data/entries.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch("data/sources.json").then(r => r.ok ? r.json() : null).catch(() => null),
+  ]).then(([data, sources]) => {
+    state.data = data;
+    state.rows = prepare(data);
+    const named = state.rows.filter(r => r.first_name && r.year_from != null).length;
+    $("#coverage").textContent = `Pages ${pageSpan()} transcribed, ${named} named people.`;
+    fillSelect(els.loc, state.rows.map(r => r.location));
+    fillSelect(els.event, state.rows.map(r => r.event));
+    fillSelect(els.source, state.rows.map(r => r.source_work));
+    fillSelect(els.page, state.rows.map(r => r.page), p => "p. " + p);
+    if (sources) {
+      $("#keylist").innerHTML = Object.entries(sources.letters).filter(([k]) => !/\.\s*\d/.test(k))
+        .map(([k, v]) => `<li><b>${esc(k)}</b> ${esc(v)}</li>`).join("");
+    }
+    render();
+  }).catch(err => {
+    $("#coverage").textContent = "";
+    els.tbody.innerHTML = `<tr><td colspan="8" class="empty">The index didn't load (data/entries.json: ${esc(err.message)}). If you opened this file from disk, serve the folder instead, e.g. <code>python -m http.server</code>.</td></tr>`;
+  });
+})();
+</script>
+</body>
+</html>

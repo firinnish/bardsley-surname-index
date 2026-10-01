@@ -1,0 +1,7 @@
+# Large or regenerable working files (see README: scripts/render_pages.py and locate_lines.py recreate them)
+book/
+source/crops/
+source/hocr/
+source/tif/
+source/djvu.txt
+__pycache__/
