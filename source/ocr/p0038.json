@@ -1,0 +1,1712 @@
+[
+{
+"column": 1,
+"x0": 0.21982,
+"x1": 0.27567,
+"y0": 0.08011,
+"y1": 0.09409,
+"text": "ABEL",
+"conf": 0.925
+},
+{
+"column": 1,
+"x0": 0.12579,
+"x1": 0.3775,
+"y0": 0.10807,
+"y1": 0.12341,
+"text": "Birkenhead, co. Chester, is but a'",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.12497,
+"x1": 0.37586,
+"y0": 0.12205,
+"y1": 0.13739,
+"text": "variant, being the adjectival form ;",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12538,
+"x1": 0.37257,
+"y0": 0.135,
+"y1": 0.15068,
+"text": "v.Beck. Cf.Rogera'Hulle (co. Oxf.,",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12579,
+"x1": 0.36518,
+"y0": 0.14932,
+"y1": 0.16364,
+"text": "1273. A.), i.e. Roger at the Hill.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13811,
+"x1": 0.37298,
+"y0": 0.16398,
+"y1": 0.17864,
+"text": "Wydo del Beck't, co. Linc., 2o Edw.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12661,
+"x1": 0.16521,
+"y0": 0.17489,
+"y1": 0.18545,
+"text": "J. R.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13893,
+"x1": 0.37545,
+"y0": 0.18511,
+"y1": 0.19841,
+"text": "18o!. Married--William a'Beckett and",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12456,
+"x1": 0.37462,
+"y0": 0.19398,
+"y1": 0.21102,
+"text": "Sarah Abbott: St. Geo. Han. Sq. ii. 233.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13852,
+"x1": 0.23255,
+"y0": 0.20489,
+"y1": 0.22057,
+"text": "Philadelphia, 3",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.14222,
+"x1": 0.37257,
+"y0": 0.22125,
+"y1": 0.23659,
+"text": "Abel, Abell, Abells, Ableson.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.12661,
+"x1": 0.37298,
+"y0": 0.23386,
+"y1": 0.25159,
+"text": "Able.--Bapt. ‘the Bon of Abel.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12497,
+"x1": 0.37586,
+"y0": 0.24784,
+"y1": 0.26557,
+"text": "Much more popular in mediaeval",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12661,
+"x1": 0.37339,
+"y0": 0.26216,
+"y1": 0.27716,
+"text": "society than in that of the r9th",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.12661,
+"x1": 0.37257,
+"y0": 0.27614,
+"y1": 0.29148,
+"text": "century. Among the peasantry,",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12538,
+"x1": 0.3738,
+"y0": 0.28932,
+"y1": 0.30261,
+"text": "however, Abel still l  receives a",
+"conf": 0.592
+},
+{
+"column": 1,
+"x0": 0.12579,
+"x1": 0.37668,
+"y0": 0.30193,
+"y1": 0.31693,
+"text": "certain amount of attention as a",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.1262,
+"x1": 0.20258,
+"y0": 0.31693,
+"y1": 0.32886,
+"text": "font-name.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13852,
+"x1": 0.34629,
+"y0": 0.33023,
+"y1": 0.34489,
+"text": "Richard Abel, co. Bucks, 1273: A",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.13975,
+"x1": 0.33028,
+"y0": 0.34216,
+"y1": 0.35409,
+"text": "Abel le Specer, co. Derby, ibid.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13893,
+"x1": 0.30975,
+"y0": 0.35205,
+"y1": 0.36466,
+"text": "Henry Abel, co. Notts, ibid.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13934,
+"x1": 0.30975,
+"y0": 0.36261,
+"y1": 0.37489,
+"text": "Allan' Abel. co. Camb., ibid.",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.14016,
+"x1": 0.25883,
+"y0": 0.37352,
+"y1": 0.38409,
+"text": "Abel le Orfeure. T.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.13893,
+"x1": 0.37462,
+"y0": 0.38273,
+"y1": 0.39602,
+"text": "Richard Abel, co. Soms, 1 Edw. I1I:",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.12661,
+"x1": 0.25965,
+"y0": 0.39295,
+"y1": 0.40693,
+"text": "Kirby's Quest, p. 201.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.1377,
+"x1": 0.37503,
+"y0": 0.40216,
+"y1": 0.41989,
+"text": "1578. George Abell, co. Derby : Reg.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.1262,
+"x1": 0.31016,
+"y0": 0.41307,
+"y1": 0.42773,
+"text": "Univ. Oxf. vol. ii. pt. i. p. 83.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13893,
+"x1": 0.37503,
+"y0": 0.425,
+"y1": 0.43761,
+"text": "1623. Richard 1 'Abelsonand  Ellen",
+"conf": 0.92
+},
+{
+"column": 1,
+"x0": 0.12579,
+"x1": 0.37298,
+"y0": 0.43455,
+"y1": 0.4492,
+"text": "Brocke: Marriage Lic. (Westminster),",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.1262,
+"x1": 0.15782,
+"y0": 0.44784,
+"y1": 0.45739,
+"text": "p. 29.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13893,
+"x1": 0.37503,
+"y0": 0.45466,
+"y1": 0.47034,
+"text": "1714. William Abell, patron of Bramp",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12456,
+"x1": 0.2962,
+"y0": 0.46489,
+"y1": 0.47989,
+"text": "ton, co. Norf.: FF. vi. 440.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13688,
+"x1": 0.37462,
+"y0": 0.47545,
+"y1": 0.49045,
+"text": "Boston (U.S.), 58, 10, 2. 0, 0: London,",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12456,
+"x1": 0.37462,
+"y0": 0.48636,
+"y1": 0.50068,
+"text": "7.8. 1, 1, O; MbB. (N. Rid. Yorkshire),",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.12497,
+"x1": 0.17096,
+"y0": 0.49614,
+"y1": 0.50909,
+"text": "Able I.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.27649,
+"x1": 0.37462,
+"y0": 0.51466,
+"y1": 0.52591,
+"text": ".‘Ab-Ithel'",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12661,
+"x1": 0.37339,
+"y0": 0.52545,
+"y1": 0.54114,
+"text": "(Welsh) ; i.e. the son of Ithel; v.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.12538,
+"x1": 0.30359,
+"y0": 0.53943,
+"y1": 0.55307,
+"text": "Bethell, and cf. Abadam.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.1377,
+"x1": 0.20545,
+"y0": 0.55341,
+"y1": 0.56739,
+"text": "London, I.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.14099,
+"x1": 0.37298,
+"y0": 0.56977,
+"y1": 0.5875,
+"text": "Ablett, Ablott, Abletson.-",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.12456,
+"x1": 0.37462,
+"y0": 0.58409,
+"y1": 0.59977,
+"text": "Bapt. 'the son of Abel,' from dim,",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12497,
+"x1": 0.37503,
+"y0": 0.59807,
+"y1": 0.61307,
+"text": "Abel-ot. A feminine form occurs",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12415,
+"x1": 0.35081,
+"y0": 0.6117,
+"y1": 0.62602,
+"text": "in the Hundred Rolls ; v. infra.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13811,
+"x1": 0.37298,
+"y0": 0.62636,
+"y1": 0.64136,
+"text": "Abelot (withont surname), co. Camb..",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12497,
+"x1": 0.18123,
+"y0": 0.6383,
+"y1": 0.64955,
+"text": "1273.. A.",
+"conf": 0.911
+},
+{
+"column": 1,
+"x0": 0.13934,
+"x1": 0.34095,
+"y0": 0.64614,
+"y1": 0.66148,
+"text": "William Abelot, co. Camb., ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13811,
+"x1": 0.36395,
+"y0": 0.65773,
+"y1": 0.67239,
+"text": "Abalotta de la Forde, co. Hunts, ibid.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.1377,
+"x1": 0.28922,
+"y0": 0.66761,
+"y1": 0.68125,
+"text": "Richard Abelote. V. il.",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.13688,
+"x1": 0.3738,
+"y0": 0.67818,
+"y1": 0.69284,
+"text": "William Ablot, 1o Edw. Ill: Freemen",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.12415,
+"x1": 0.20997,
+"y0": 0.68773,
+"y1": 0.70273,
+"text": "of York, i. 31.",
+"conf": 0.917
+},
+{
+"column": 1,
+"x0": 0.3545,
+"x1": 0.37093,
+"y0": 0.70636,
+"y1": 0.71182,
+"text": "tne",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12374,
+"x1": 0.37339,
+"y0": 0.70977,
+"y1": 0.72443,
+"text": "town of Newcastle upon Tyne, conveyed",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12292,
+"x1": 0.37462,
+"y0": 0.71898,
+"y1": 0.73432,
+"text": "a house in Gateshead to Wiflian Abletson",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12333,
+"x1": 0.37545,
+"y0": 0.73023,
+"y1": 0.7442,
+"text": "and Agnes his wife ': Brand's Hist. of",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12415,
+"x1": 0.23461,
+"y0": 0.7408,
+"y1": 0.75307,
+"text": "Newcastle, i. 261.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13688,
+"x1": 0.37339,
+"y0": 0.75205,
+"y1": 0.76432,
+"text": "1770. Rene Rogier and Hannah Ablett :",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.12292,
+"x1": 0.27443,
+"y0": 0.75989,
+"y1": 0.77625,
+"text": "St.'Geo. Han. Sq. i. 194.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.13483,
+"x1": 0.23666,
+"y0": 0.77182,
+"y1": 0.78648,
+"text": "London, 4, 0, 0.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.14099,
+"x1": 0.37298,
+"y0": 0.78784,
+"y1": 0.80352,
+"text": "Ablewhite.---Local, doubtless a",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.12415,
+"x1": 0.37462,
+"y0": 0.80045,
+"y1": 0.81955,
+"text": "corruption of Applethwaite, q.v. ;",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12456,
+"x1": 0.24446,
+"y0": 0.81443,
+"y1": 0.82943,
+"text": "cf. Hebblewhite.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14016,
+"x1": 0.37134,
+"y0": 0.83284,
+"y1": 0.85023,
+"text": "Ablin.--Bapt. ‘the son of Abel,",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12415,
+"x1": 0.37257,
+"y0": 0.84511,
+"y1": 0.86523,
+"text": "from the dim. Abel-in ; v. Aplin (2).",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13647,
+"x1": 0.35697,
+"y0": 0.86284,
+"y1": 0.87818,
+"text": "Thomas Abelyn, co. Kent, 1273. A.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.50211,
+"x1": 0.52264,
+"y0": 0.08284,
+"y1": 0.09716,
+"text": "38",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.58792,
+"y0": 0.11011,
+"y1": 0.12341,
+"text": "Jsolda Abelin, 6 Edw. I. BBB.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.63515,
+"y0": 0.12102,
+"y1": 0.13466,
+"text": "168s. Bapt. - John, son of Edward",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38672,
+"x1": 0.59449,
+"y0": 0.12989,
+"y1": 0.14557,
+"text": "Ablin': St. Jas. Clerkenwell, i. 3!1.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3974,
+"x1": 0.63473,
+"y0": 0.1425,
+"y1": 0.15477,
+"text": "1721. -- Thomas, son of Francis Ablin :",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38508,
+"x1": 0.45735,
+"y0": 0.15034,
+"y1": 0.16636,
+"text": "ibid. ii. 127.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40233,
+"x1": 0.63268,
+"y0": 0.17011,
+"y1": 0.18545,
+"text": "Abraham,. Abrahams, A.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.63432,
+"y0": 0.18307,
+"y1": 0.20011,
+"text": "brahamson, Abram, Abrams,",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.63597,
+"y0": 0.1967,
+"y1": 0.21443,
+"text": "Abramson.-(1) Bapt.  the son of",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.3859,
+"x1": 0.63556,
+"y0": 0.21034,
+"y1": 0.22705,
+"text": "Abraham.' A popular font-name",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.38426,
+"x1": 0.63473,
+"y0": 0.22432,
+"y1": 0.24068,
+"text": "in the 13th century; v. Abbot. In",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.63515,
+"y0": 0.23693,
+"y1": 0.25364,
+"text": "the Fen district especially the",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.63556,
+"y0": 0.25125,
+"y1": 0.26625,
+"text": "entries are common. The instances",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38426,
+"x1": 0.63432,
+"y0": 0.26455,
+"y1": 0.27955,
+"text": "in the Hundred Rolls are all but en-",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38508,
+"x1": 0.63186,
+"y0": 0.27818,
+"y1": 0.29284,
+"text": "tirely confined to the Fen counties.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.63391,
+"y0": 0.28966,
+"y1": 0.30807,
+"text": "A giance at the London Directory",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38508,
+"x1": 0.63473,
+"y0": 0.30466,
+"y1": 0.32,
+"text": "will show that in general Abraham",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.63432,
+"y0": 0.31864,
+"y1": 0.33364,
+"text": "representstheold English stock,and",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38508,
+"x1": 0.63432,
+"y0": 0.33091,
+"y1": 0.34761,
+"text": "Abrahamsthe more modern Jewish.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.63597,
+"y0": 0.34386,
+"y1": 0.36227,
+"text": "This is proved by comparing the",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.63432,
+"y0": 0.35852,
+"y1": 0.37489,
+"text": "personal or Christian names pre.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38508,
+"x1": 0.63432,
+"y0": 0.37148,
+"y1": 0.38818,
+"text": "fixed to the instances ; cf. Solomon",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.47788,
+"y0": 0.38511,
+"y1": 0.39909,
+"text": "and Salmon.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.60435,
+"y0": 0.40352,
+"y1": 0.41886,
+"text": "John Abraam, co. Bedf., 1273.. A.",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.39863,
+"x1": 0.60271,
+"y0": 0.41443,
+"y1": 0.42875,
+"text": "Ralph Abraham. co. Camb., ibid.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.63515,
+"y0": 0.425,
+"y1": 0.43966,
+"text": "John Abraham, co. Soms., I Edw. III :",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.51853,
+"y0": 0.43557,
+"y1": 0.4492,
+"text": "Kirby's Quest, P. I !l.",
+"conf": 0.935
+},
+{
+"column": 2,
+"x0": 0.39822,
+"x1": 0.63432,
+"y0": 0.4458,
+"y1": 0.4608,
+"text": "William fil. Abraham, co. Linc., 20",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.3859,
+"x1": 0.45899,
+"y0": 0.45636,
+"y1": 0.4683,
+"text": "Edw. I. R.",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.39863,
+"x1": 0.63391,
+"y0": 0.46727,
+"y1": 0.48125,
+"text": "Magota Abraham, 1379: P. T. Yorks.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38549,
+"x1": 0.42491,
+"y0": 0.47989,
+"y1": 0.49045,
+"text": "p. 399.",
+"conf": 0.922
+},
+{
+"column": 2,
+"x0": 0.41793,
+"x1": 0.63432,
+"y0": 0.49477,
+"y1": 0.51011,
+"text": ")Local, ‘of Abram,' a town.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.63309,
+"y0": 0.50841,
+"y1": 0.52409,
+"text": "ship in the parish of Wigan, Lanc.,",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.63556,
+"y0": 0.52239,
+"y1": 0.53739,
+"text": "originally written Adburgham. The",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.63515,
+"y0": 0.535,
+"y1": 0.55,
+"text": "Lancashire Abram and Abraham",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.3859,
+"x1": 0.55015,
+"y0": 0.54932,
+"y1": 0.56364,
+"text": "spring from this place.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.60435,
+"y0": 0.56568,
+"y1": 0.58,
+"text": "Gilbert de Abram, temp. Hen. IV.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39863,
+"x1": 0.63391,
+"y0": 0.57659,
+"y1": 0.59193,
+"text": "John Abraham 'of Abraham, temp.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3859,
+"x1": 0.57068,
+"y0": 0.58614,
+"y1": 0.60114,
+"text": "Hen. V : Baines' Lanc. ii. 190.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.39699,
+"x1": 0.63638,
+"y0": 0.59602,
+"y1": 0.61273,
+"text": "Isaac Abraham, of Liverpool, 1613:",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38549,
+"x1": 0.54686,
+"y0": 0.60625,
+"y1": 0.62227,
+"text": "Wills at Chester, i. 128-9.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.63432,
+"y0": 0.61818,
+"y1": 0.63182,
+"text": "Nicholas Lucas, of Alpraham,1598 : ibid.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.39699,
+"x1": 0.63515,
+"y0": 0.62807,
+"y1": 0.64341,
+"text": "Robert Lythgoe, of Abram, 1578 : ibid.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39904,
+"x1": 0.63556,
+"y0": 0.63932,
+"y1": 0.65432,
+"text": "William 'Abram, parish of \"Sephton,",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.38631,
+"x1": 0.45324,
+"y0": 0.64955,
+"y1": 0.66182,
+"text": "1617 : ibid.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.39617,
+"x1": 0.6335,
+"y0": 0.65943,
+"y1": 0.67477,
+"text": "London, 24, 56, 3.3, .0. ?; Liverpool,",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.38426,
+"x1": 0.63432,
+"y0": 0.67068,
+"y1": 0.68534,
+"text": "11, 3. 0, 2, 0, 0; Philadelphia, 14, 21, 2,",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.38549,
+"x1": 0.43928,
+"y0": 0.68125,
+"y1": 0.69386,
+"text": "11, 28,1.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.40151,
+"x1": 0.6335,
+"y0": 0.69625,
+"y1": 0.71227,
+"text": "Abry.--Bapt. ‘the son of A.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38385,
+"x1": 0.63432,
+"y0": 0.70955,
+"y1": 0.72455,
+"text": "brahee, of",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38426,
+"x1": 0.45571,
+"y0": 0.72352,
+"y1": 0.73716,
+"text": "Abraham.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39617,
+"x1": 0.62365,
+"y0": 0.73807,
+"y1": 0.7558,
+"text": "Alan fil, Abrahec, co. Linc., I273. A.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.39699,
+"x1": 0.59614,
+"y0": 0.75,
+"y1": 0.76295,
+"text": "Dyay fil. Abrahe, co. Linc., ibid.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.39781,
+"x1": 0.62324,
+"y0": 0.76023,
+"y1": 0.77318,
+"text": "William fl. Abbrahee, co. Linc., ibid.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39658,
+"x1": 0.63432,
+"y0": 0.77148,
+"y1": 0.78409,
+"text": "1598. Edward Abrey : Reg. Univ. Oxf.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38426,
+"x1": 0.63638,
+"y0": 0.80182,
+"y1": 0.81545,
+"text": "Charnish, in com. Wilts' : Visitation of",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38467,
+"x1": 0.52962,
+"y0": 0.81273,
+"y1": 0.82568,
+"text": "Doreetshire, 1623, P. 15.",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.39863,
+"x1": 0.63432,
+"y0": 0.82364,
+"y1": 0.83523,
+"text": "1786. Marr ied-Richard Lucas and Eliz.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.38426,
+"x1": 0.62283,
+"y0": 0.83352,
+"y1": 0.84648,
+"text": "abeth Abrey : St. Gea. Han. Sq. i. 392.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.3974,
+"x1": 0.63515,
+"y0": 0.84477,
+"y1": 0.85705,
+"text": "1787. -- Robert,Abray.and. Jane W'ard :",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38385,
+"x1": 0.45735,
+"y0": 0.85432,
+"y1": 0.86795,
+"text": "ibid p. 410.",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.39576,
+"x1": 0.47952,
+"y0": 0.8625,
+"y1": 0.8792,
+"text": "New York, 3.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.70429,
+"x1": 0.82292,
+"y0": 0.08523,
+"y1": 0.09818,
+"text": "ACKERMAN",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66037,
+"x1": 0.8927,
+"y0": 0.11182,
+"y1": 0.12784,
+"text": "Absalom, Absalon, Abso.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64355,
+"x1": 0.89229,
+"y0": 0.12545,
+"y1": 0.14182,
+"text": "lom.-Bapt. ' the son of Absolom.'",
+"conf": 0.899
+},
+{
+"column": 3,
+"x0": 0.64437,
+"x1": 0.89434,
+"y0": 0.13943,
+"y1": 0.15614,
+"text": "A fairly popular font-name in the",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64519,
+"x1": 0.89434,
+"y0": 0.15375,
+"y1": 0.16807,
+"text": "13th century, and not confined tc",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.64437,
+"x1": 0.71538,
+"y0": 0.16705,
+"y1": 0.18068,
+"text": "the Jews.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65175,
+"x1": 0.89311,
+"y0": 0.18102,
+"y1": 0.19568,
+"text": "'Now was ther of that chirche a parish",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.67023,
+"x1": 0.70429,
+"y0": 0.19364,
+"y1": 0.20352,
+"text": "clerk,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.87997,
+"y0": 0.20284,
+"y1": 0.21614,
+"text": "The which that was ycleped Absolon.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.75601,
+"x1": 0.88079,
+"y0": 0.21375,
+"y1": 0.22739,
+"text": "Chancer; C. T. 33!2.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65627,
+"x1": 0.87792,
+"y0": 0.22261,
+"y1": 0.23898,
+"text": "Thomas Apsolon, London, 1273. A.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.81553,
+"y0": 0.23386,
+"y1": 0.24716,
+"text": "Abaolon in le Dyche, ibid.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.89188,
+"y0": 0.24409,
+"y1": 0.25841,
+"text": "Thomas Absolon : Patent Roll, 19 Eliz.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64519,
+"x1": 0.67597,
+"y0": 0.25602,
+"y1": 0.26727,
+"text": "pt. 7:",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.7987,
+"y0": 0.26591,
+"y1": 0.27716,
+"text": "Absolon fil. Simon. C.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.89188,
+"y0": 0.275,
+"y1": 0.28932,
+"text": "William Ahaolon, co. Soms., I Edw.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64478,
+"x1": 0.80978,
+"y0": 0.28489,
+"y1": 0.30023,
+"text": "Ill : Kirby's Quest, p. 172.",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.89352,
+"y0": 0.29614,
+"y1": 0.31045,
+"text": "George Absolon, 'bound for ye Bor.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.6456,
+"x1": 0.89352,
+"y0": 0.30773,
+"y1": 0.31932,
+"text": "modos, 1635: Hotten's Lists of Emi-",
+"conf": 0.92
+},
+{
+"column": 3,
+"x0": 0.64478,
+"x1": 0.73015,
+"y0": 0.3183,
+"y1": 0.33023,
+"text": "grants. P. 132.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.6575,
+"x1": 0.89393,
+"y0": 0.32784,
+"y1": 0.34045,
+"text": "1756. Married- Clemmuell Clark and",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.64437,
+"x1": 0.889,
+"y0": 0.33636,
+"y1": 0.35239,
+"text": "Eliz. Absalom : St. Geo. Han. Sq. i. 65.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.65586,
+"x1": 0.87833,
+"y0": 0.34761,
+"y1": 0.3633,
+"text": "London, I, I, 3; New York, I. 'i, 0..",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.66078,
+"x1": 0.8927,
+"y0": 0.36295,
+"y1": 0.38,
+"text": "Abson.-- Bapt.'the son of Abra-",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64437,
+"x1": 0.75642,
+"y0": 0.37693,
+"y1": 0.39125,
+"text": "ham '; v. Abbs.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.6612,
+"x1": 0.89023,
+"y0": 0.395,
+"y1": 0.41102,
+"text": "Aburn.-Local, ‘at the burn,",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64437,
+"x1": 0.89352,
+"y0": 0.40966,
+"y1": 0.42398,
+"text": "corrupted to Aburn; cf. A'Becket,",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.64478,
+"x1": 0.74124,
+"y0": 0.42227,
+"y1": 0.43625,
+"text": "A'Wood, &c.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65791,
+"x1": 0.87833,
+"y0": 0.43795,
+"y1": 0.45193,
+"text": "Henry Ateburn, co. Bucks, 1273: A",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.6575,
+"x1": 0.86766,
+"y0": 0.44852,
+"y1": 0.46216,
+"text": "Richard Atteburnc, co. Kent, ibid.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.89393,
+"y0": 0.45841,
+"y1": 0.47307,
+"text": ")641. Francis ] Edmonds and Mary",
+"conf": 0.873
+},
+{
+"column": 3,
+"x0": 0.64642,
+"x1": 0.89311,
+"y0": 0.46932,
+"y1": 0.48295,
+"text": "Ah·rne : Marriage Lic. : London), ii. 25i.",
+"conf": 0.927
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.89434,
+"y0": 0.47955,
+"y1": 0.49318,
+"text": "1690. John Fishwickand Mary Aburne :",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6456,
+"x1": 0.86971,
+"y0": 0.48977,
+"y1": 0.50443,
+"text": "Marriage Alleg: (Canterbury). p. 166.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.84714,
+"x1": 0.89311,
+"y0": 0.50239,
+"y1": 0.51295,
+"text": "With:",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.64478,
+"x1": 0.87505,
+"y0": 0.51057,
+"y1": 0.52557,
+"text": "Marriage Lic. (Faculty Office), p. 216.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.72564,
+"y0": 0.52136,
+"y1": 0.53398,
+"text": "London, I.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65955,
+"x1": 0.89434,
+"y0": 0.53432,
+"y1": 0.55068,
+"text": "Acatour,Achatour.--Oficial ;",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.64683,
+"x1": 0.70881,
+"y0": 0.54898,
+"y1": 0.56159,
+"text": "v. Cator.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.88408,
+"y0": 0.56091,
+"y1": 0.57625,
+"text": "Bernard le Acatour, temp. 1300. M.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65914,
+"x1": 0.79747,
+"y0": 0.57216,
+"y1": 0.58477,
+"text": "Henry le Achator. 'H.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.83031,
+"y0": 0.58239,
+"y1": 0.59739,
+"text": "Jocius le Achatur, 1273. A.",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.65668,
+"x1": 0.89434,
+"y0": 0.59568,
+"y1": 0.61102,
+"text": "Chaucer says of the manciple who",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64519,
+"x1": 0.89188,
+"y0": 0.60932,
+"y1": 0.625,
+"text": "was so 'wise in buying of victuals,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6456,
+"x1": 0.72687,
+"y0": 0.62227,
+"y1": 0.63557,
+"text": "that of him",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.87669,
+"y0": 0.63557,
+"y1": 0.64989,
+"text": "' Achatours mighten take ensample.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.66161,
+"x1": 0.89516,
+"y0": 0.65159,
+"y1": 0.66591,
+"text": "Achard.--Bapt. ' tbe son of",
+"conf": 0.916
+},
+{
+"column": 3,
+"x0": 0.64519,
+"x1": 0.81101,
+"y0": 0.66523,
+"y1": 0.6792,
+"text": "Achard'; v. Hatchard.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65709,
+"x1": 0.81512,
+"y0": 0.68091,
+"y1": 0.6942,
+"text": "London, I ; New York, I.",
+"conf": 0.94
+},
+{
+"column": 3,
+"x0": 0.6612,
+"x1": 0.88285,
+"y0": 0.69659,
+"y1": 0.71125,
+"text": "Achurch,--Local ; v. Atkirk.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.66078,
+"x1": 0.89393,
+"y0": 0.71455,
+"y1": 0.73125,
+"text": "Ackerman, Ackermann, A-",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64355,
+"x1": 0.89475,
+"y0": 0.72932,
+"y1": 0.74398,
+"text": "kerman, Akermann.--Occup.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64478,
+"x1": 0.89598,
+"y0": 0.74182,
+"y1": 0.75886,
+"text": "'the Acreman': a ploughman, a",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.64396,
+"x1": 0.89516,
+"y0": 0.75545,
+"y1": 0.7708,
+"text": "husbandman, a tiller of the soil:",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64437,
+"x1": 0.89557,
+"y0": 0.76875,
+"y1": 0.78511,
+"text": ": both prestis and knightis mosten",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64355,
+"x1": 0.89598,
+"y0": 0.78102,
+"y1": 0.79943,
+"text": "bicome acremen and heerdis,' 1389':",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64642,
+"x1": 0.75724,
+"y0": 0.79568,
+"y1": 0.81102,
+"text": "Hist. Eng. Dic.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65832,
+"x1": 0.86848,
+"y0": 0.81102,
+"y1": 0.82636,
+"text": "'The foules up, and song on bough,",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.66448,
+"x1": 0.86437,
+"y0": 0.82193,
+"y1": 0.83591,
+"text": "And acremen yede to the plough.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.70265,
+"x1": 0.88613,
+"y0": 0.83318,
+"y1": 0.84614,
+"text": "Lay le Freine, 176 (Halliwell).",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6575,
+"x1": 0.89064,
+"y0": 0.84511,
+"y1": 0.85875,
+"text": "Roger le Acreman, co. Oxf., 1273.. A.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65873,
+"x1": 0.88941,
+"y0": 0.85568,
+"y1": 0.86795,
+"text": "Alexander Acherman, co. Hunts, ibid.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65955,
+"x1": 0.85904,
+"y0": 0.86625,
+"y1": 0.8792,
+"text": "Hugh Akerman, co. Camb., ibid.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.6965,
+"x1": 0.90008,
+"y0": 0.91534,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.995
+}
+]

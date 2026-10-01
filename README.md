@@ -35,7 +35,9 @@ Internet Archive into `book/`.
 ```
 python scripts/render_pages.py 41 50      # scans + column crops (needs: pip install pymupdf)
 # transcribe each page into data/raw/p0041.json ... following source/TRANSCRIPTION_SPEC.md
+python scripts/local_ocr.py 41 50         # our own OCR of the scans (pip install rapidocr-onnxruntime)
 python scripts/locate_lines.py 41 50      # find each record's line on the scan
+python scripts/crosscheck.py              # transcription vs local OCR: disagreements -> data/review.csv
 python scripts/build_data.py              # rebuild entries.json / entries.csv
 ```
 

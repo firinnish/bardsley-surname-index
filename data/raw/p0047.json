@@ -413,11 +413,11 @@
   "event": "Marriage",
   "place": "St. Dionis Backchurch, London",
   "county": "London",
-  "notes": "Married Robarte Walles",
+  "notes": "[Unclear: fourth letter of Walles has a hook at the top like f or long s (possibly Walfes); read as Walles] Married Robarte Walles?",
   "source_abbrev": "St. Dionis Backchurch, p 2",
   "source": "Register of St. Dionis Backchurch, London, 1538-1754 (Harleian Society), p. 2",
   "record_text": "1541. Married—Robarte Walles and Eliz. Aylarde: St. Dionis Backchurch, p 2.",
-  "confidence": "high"
+  "confidence": "low"
  },
  {
   "page": 47,
@@ -428,16 +428,16 @@
   "author_comment": "v. Adlard.",
   "modern_distribution": "London, 7, 0; Boston (U.S.), 20, 0",
   "first_name": "Robarte",
-  "last_name": "Walles",
+  "last_name": "Walles?",
   "date": "1541",
   "event": "Marriage",
   "place": "St. Dionis Backchurch, London",
   "county": "London",
-  "notes": "Married Eliz[abeth] Aylarde",
+  "notes": "[Unclear: fourth letter of Walles has a hook at the top like f or long s (possibly Walfes); read as Walles] Married Eliz[abeth] Aylarde",
   "source_abbrev": "St. Dionis Backchurch, p 2",
   "source": "Register of St. Dionis Backchurch, London, 1538-1754 (Harleian Society), p. 2",
   "record_text": "1541. Married—Robarte Walles and Eliz. Aylarde: St. Dionis Backchurch, p 2.",
-  "confidence": "high"
+  "confidence": "low"
  },
  {
   "page": 47,

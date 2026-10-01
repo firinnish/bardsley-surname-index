@@ -1,0 +1,1739 @@
+[
+{
+"column": 1,
+"x0": 0.19054,
+"x1": 0.25296,
+"y0": 0.09034,
+"y1": 0.10398,
+"text": "ALlIs",
+"conf": 0.763
+},
+{
+"column": 1,
+"x0": 0.11128,
+"x1": 0.34659,
+"y0": 0.11898,
+"y1": 0.13057,
+"text": "William de Alington, co. Norf., J273. A.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.11046,
+"x1": 0.34864,
+"y0": 0.12784,
+"y1": 0.14284,
+"text": "1575. Bapt.--Medcalf, s. Mr. Allington :",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.09691,
+"x1": 0.34002,
+"y0": 0.13875,
+"y1": 0.15273,
+"text": "St. Thomas the Apostle (London), p. 27.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.11251,
+"x1": 0.34864,
+"y0": 0.15034,
+"y1": 0.16261,
+"text": "1687.1 Married---Gileas Allington   and",
+"conf": 0.784
+},
+{
+"column": 1,
+"x0": 0.09855,
+"x1": 0.34864,
+"y0": 0.15955,
+"y1": 0.17489,
+"text": "Mary' Lunn : St. Mary Aldermary, P. 33.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11169,
+"x1": 0.18027,
+"y0": 0.17114,
+"y1": 0.18341,
+"text": "London, I.",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.1158,
+"x1": 0.34823,
+"y0": 0.18614,
+"y1": 0.20011,
+"text": "Allis, Alliss.--Bapt. ‘thc son",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.09773,
+"x1": 0.27472,
+"y0": 0.19807,
+"y1": 0.21545,
+"text": "of Alice' ; v. Alison (i).",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.11128,
+"x1": 0.34864,
+"y0": 0.2158,
+"y1": 0.23148,
+"text": "Gocelinus fl. Alice, co. Linc., I273. A.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.11251,
+"x1": 0.31374,
+"y0": 0.22807,
+"y1": 0.23932,
+"text": "Richard fl. Alise, co. Salop, ibid.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.1121,
+"x1": 0.34947,
+"y0": 0.23761,
+"y1": 0.25125,
+"text": "157!. George Haynes and Agnes Alles :",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.09896,
+"x1": 0.28499,
+"y0": 0.24818,
+"y1": 0.26148,
+"text": "Marriage Lic. (Londop), i. 50.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.11169,
+"x1": 0.34947,
+"y0": 0.25773,
+"y1": 0.27239,
+"text": "1675.Bapt.-Mary, d william Allis:",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.09814,
+"x1": 0.2661,
+"y0": 0.26795,
+"y1": 0.28261,
+"text": "St. Jas. Clerkenwell, i. 269.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.10964,
+"x1": 0.33797,
+"y0": 0.27784,
+"y1": 0.29318,
+"text": "Exuvias Antonii Allys, armigeri . .",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.09937,
+"x1": 0.35029,
+"y0": 0.28966,
+"y1": 0.30261,
+"text": "obiit vicesimo, nono die 'Octobris anno",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.10019,
+"x1": 0.239,
+"y0": 0.30091,
+"y1": 0.31386,
+"text": "salutis, 1709 aetatis",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.09978,
+"x1": 0.32318,
+"y0": 0.3108,
+"y1": 0.32273,
+"text": "Nicholas, Yarmouth, see FF. xi. 394.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.11251,
+"x1": 0.34947,
+"y0": 0.32,
+"y1": 0.335,
+"text": "MDB.(Lincoin), 1,4 ; Philadelphia, 1, 0.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.11621,
+"x1": 0.32031,
+"y0": 0.33807,
+"y1": 0.35341,
+"text": "Allison.--Bapt. ; v. Alison.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.11662,
+"x1": 0.34618,
+"y0": 0.35784,
+"y1": 0.37284,
+"text": "Alkins, Allchin, Alchin,",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.09937,
+"x1": 0.34988,
+"y0": 0.37114,
+"y1": 0.38716,
+"text": "Alllrin, Alkins.---Bapt. ‘the son",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.10019,
+"x1": 0.35029,
+"y0": 0.38545,
+"y1": 0.40011,
+"text": "of Allen,' from the dim. Allikin or",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.34823,
+"y0": 0.40011,
+"y1": 0.41273,
+"text": "Allkin; cf Per-kin, Wat-kin, &c.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10019,
+"x1": 0.3507,
+"y0": 0.41239,
+"y1": 0.42841,
+"text": "Mr. Lower suggests that it stands",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.1006,
+"x1": 0.3507,
+"y0": 0.42705,
+"y1": 0.43966,
+"text": "for Halkin, the dim. ofHenry. This",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.35152,
+"y0": 0.44068,
+"y1": 0.4533,
+"text": "view is defeated by the fact that",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.35111,
+"y0": 0.4533,
+"y1": 0.46659,
+"text": "Alkin has always been without the",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.10183,
+"x1": 0.3507,
+"y0": 0.46727,
+"y1": 0.48057,
+"text": "aspirate, and has always run side",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.10348,
+"x1": 0.34905,
+"y0": 0.48125,
+"y1": 0.49284,
+"text": "by side with its close relation",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.35111,
+"y0": 0.49284,
+"y1": 0.50886,
+"text": "Alcock, q.v. Let it not be for-",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.10101,
+"x1": 0.35193,
+"y0": 0.50636,
+"y1": 0.5217,
+"text": "gotten that Allen, as one of the",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.35111,
+"y0": 0.52068,
+"y1": 0.535,
+"text": "favourite personal  names of the",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.10224,
+"x1": 0.35111,
+"y0": 0.53466,
+"y1": 0.54761,
+"text": "13th and 14th centuries, must have",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.10183,
+"x1": 0.34947,
+"y0": 0.54795,
+"y1": 0.56057,
+"text": "had its popular nick. and pet forms.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10183,
+"x1": 0.3507,
+"y0": 0.56091,
+"y1": 0.57386,
+"text": "I have included Allchin and Alchin",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.3507,
+"y0": 0.5742,
+"y1": 0.5875,
+"text": "as variants of Allkin. But v. All-",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10183,
+"x1": 0.13961,
+"y0": 0.59057,
+"y1": 0.60045,
+"text": "corn.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.11374,
+"x1": 0.25214,
+"y0": 0.6025,
+"y1": 0.61682,
+"text": "John Alkyn, 1306. M.",
+"conf": 0.898
+},
+{
+"column": 1,
+"x0": 0.11539,
+"x1": 0.35111,
+"y0": 0.61443,
+"y1": 0.62568,
+"text": "1617. 'Thomas Alkin and Mary New.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.10142,
+"x1": 0.3277,
+"y0": 0.62193,
+"y1": 0.63898,
+"text": "tman : Marriage Lic. (London), ii. 53.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.11497,
+"x1": 0.3507,
+"y0": 0.6342,
+"y1": 0.64818,
+"text": "1693. Married-- RichardAlk in andMary",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10265,
+"x1": 0.33181,
+"y0": 0.64341,
+"y1": 0.65977,
+"text": "Green : St. Dionis Backchurch, P. 43:",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.1158,
+"x1": 0.3507,
+"y0": 0.655,
+"y1": 0.66864,
+"text": "1754. Richard Allchin and Mary",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.10265,
+"x1": 0.31127,
+"y0": 0.66455,
+"y1": 0.67886,
+"text": "Chandler : St. Geo. Han. Sg. i. 55.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.11333,
+"x1": 0.3507,
+"y0": 0.67477,
+"y1": 0.69182,
+"text": "London, 2, 5, 1, 1, o; Philadeiphia, 1,",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.10183,
+"x1": 0.15974,
+"y0": 0.68807,
+"y1": 0.7,
+"text": "0, 1, 0, 9.",
+"conf": 0.904
+},
+{
+"column": 1,
+"x0": 0.11908,
+"x1": 0.3507,
+"y0": 0.70273,
+"y1": 0.71909,
+"text": "Allman, Almond, Allmond,",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10348,
+"x1": 0.35193,
+"y0": 0.71693,
+"y1": 0.73193,
+"text": "Allmen.- Local, or nick. ‘the",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.10389,
+"x1": 0.35111,
+"y0": 0.73091,
+"y1": 0.74557,
+"text": "Alcmaund,' i.e. German; cf. Fr.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10389,
+"x1": 0.35029,
+"y0": 0.74455,
+"y1": 0.75784,
+"text": "Lallimond : or still more locally",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.33345,
+"x1": 0.34947,
+"y0": 0.75989,
+"y1": 0.76977,
+"text": "cf",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10471,
+"x1": 0.35152,
+"y0": 0.77182,
+"y1": 0.78443,
+"text": "Fr. D'Almaine. With Almond cf.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.1043,
+"x1": 0.35234,
+"y0": 0.78477,
+"y1": 0.79909,
+"text": "almond-furmace, i. c. a German fur-",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10512,
+"x1": 0.3507,
+"y0": 0.79943,
+"y1": 0.8117,
+"text": "nace (H.E.D.) ; also under Almain,",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.10594,
+"x1": 0.35275,
+"y0": 0.8117,
+"y1": 0.82636,
+"text": "' the almond-leape,'a German dance.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.1158,
+"x1": 0.35316,
+"y0": 0.82807,
+"y1": 0.84273,
+"text": "'The Almains ben _ouer come,' 1314:",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.10512,
+"x1": 0.25665,
+"y0": 0.83932,
+"y1": 0.85398,
+"text": "Guy Warw. 7o (H.E.D.).",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13633,
+"x1": 0.3047,
+"y0": 0.84886,
+"y1": 0.86386,
+"text": "'Forth he went into Speyne",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14044,
+"x1": 0.35316,
+"y0": 0.8567,
+"y1": 0.87545,
+"text": "And after into Almayne.'ibid. 35.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.11826,
+"x1": 0.35357,
+"y0": 0.86966,
+"y1": 0.885,
+"text": ": Item, the last daie (Nov. 1531) paide in",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.47281,
+"x1": 0.4917,
+"y0": 0.08966,
+"y1": 0.1033,
+"text": "49",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.35787,
+"x1": 0.60787,
+"y0": 0.11761,
+"y1": 0.13057,
+"text": "rewarde to a gentleman of Almayne':",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.35869,
+"x1": 0.58776,
+"y0": 0.12818,
+"y1": 0.14114,
+"text": "Privy Pune Exp., Henry Vlll, P. 178.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.37018,
+"x1": 0.60705,
+"y0": 0.13909,
+"y1": 0.15102,
+"text": "John Alaman, or Aleman, 12i6: GGG.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.35951,
+"x1": 0.39974,
+"y0": 0.15205,
+"y1": 0.16091,
+"text": "P. 247.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.37059,
+"x1": 0.58735,
+"y0": 0.15818,
+"y1": 0.1725,
+"text": "Terric le Alemaund, co. Bucks, 1273.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37224,
+"x1": 0.58776,
+"y0": 0.16977,
+"y1": 0.1817,
+"text": "Henry de Alemania, co. Notta, ibid.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.371,
+"x1": 0.60048,
+"y0": 0.17932,
+"y1": 0.19295,
+"text": "Bertram de Aimannia, co. Linc., ibid.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37059,
+"x1": 0.60746,
+"y0": 0.18955,
+"y1": 0.20489,
+"text": "Willelmus Alman, 1379 : P. T.'Yorks",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36854,
+"x1": 0.39974,
+"y0": 0.20386,
+"y1": 0.21239,
+"text": "300.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37265,
+"x1": 0.52043,
+"y0": 0.21068,
+"y1": 0.22364,
+"text": "William Alemannus. C",
+"conf": 0.55
+},
+{
+"column": 2,
+"x0": 0.37183,
+"x1": 0.57626,
+"y0": 0.21989,
+"y1": 0.23455,
+"text": "Johu le Aleman, co. York. W. 7.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.371,
+"x1": 0.59802,
+"y0": 0.23011,
+"y1": 0.24545,
+"text": "Robert Aimene, co. Camb., 1273. A",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.371,
+"x1": 0.60828,
+"y0": 0.24136,
+"y1": 0.255,
+"text": "1582._ Buried--Thomas Allmon: St.",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.35787,
+"x1": 0.52331,
+"y0": 0.25193,
+"y1": 0.26625,
+"text": "Dionis Backchurch, p. 198.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37224,
+"x1": 0.60705,
+"y0": 0.26352,
+"y1": 0.27477,
+"text": "Hanekin Almond, John de Almann,",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.3591,
+"x1": 0.60787,
+"y0": 0.27273,
+"y1": 0.2867,
+"text": "varlets of Countess of Surrey, Household",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.3591,
+"x1": 0.60952,
+"y0": 0.28284,
+"y1": 0.29716,
+"text": "Book of Queen Isabella, 1358 (Cott. MS.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.35951,
+"x1": 0.45434,
+"y0": 0.2942,
+"y1": 0.30648,
+"text": "Galba, E. xiv.).",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.37018,
+"x1": 0.60952,
+"y0": 0.30261,
+"y1": 0.31795,
+"text": "Libertus Alman, rector of North Repps,",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.35787,
+"x1": 0.54055,
+"y0": 0.31318,
+"y1": 0.32852,
+"text": "co. Norf. 1583 : FF. vili. 154.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.37142,
+"x1": 0.60952,
+"y0": 0.32409,
+"y1": 0.33807,
+"text": "1622.  Thomas _Minne and Susan Al-",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.35951,
+"x1": 0.5972,
+"y0": 0.33602,
+"y1": 0.34795,
+"text": "mond : Marriage Lic. (London), i. 114.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.371,
+"x1": 0.60952,
+"y0": 0.34523,
+"y1": 0.36023,
+"text": "London, 2, & 0, o: Manchester, 3, 7. 1,",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.36115,
+"x1": 0.51633,
+"y0": 0.3558,
+"y1": 0.36943,
+"text": "I ; Philadelphia, 8, 8. 7, 0.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.37675,
+"x1": 0.55369,
+"y0": 0.37284,
+"y1": 0.38614,
+"text": "Allmark ; v. Hallmark.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37265,
+"x1": 0.46091,
+"y0": 0.38852,
+"y1": 0.40216,
+"text": "Manchester, 2.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37675,
+"x1": 0.60952,
+"y0": 0.40455,
+"y1": 0.41818,
+"text": "Allnutt.-Bapt. ‘the son of",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.36279,
+"x1": 0.60828,
+"y0": 0.41886,
+"y1": 0.43114,
+"text": "Alnot' or 'Alnoth,' the A.S. Alnod.",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.37347,
+"x1": 0.60952,
+"y0": 0.43455,
+"y1": 0.44648,
+"text": "'The Earl Warren had also two caru-",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.36115,
+"x1": 0.60828,
+"y0": 0.44511,
+"y1": 0.45739,
+"text": "cates of land, which Ainod, a freeman,",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36033,
+"x1": 0.60828,
+"y0": 0.455,
+"y1": 0.46864,
+"text": "possessed in King Edward's reign': FF.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.35992,
+"x1": 0.40056,
+"y0": 0.46659,
+"y1": 0.47886,
+"text": "x. 308.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.34391,
+"x1": 0.60952,
+"y0": 0.47545,
+"y1": 0.49011,
+"text": "1 Ainoht, a freeman of Archbishop",
+"conf": 0.63
+},
+{
+"column": 2,
+"x0": 0.36238,
+"x1": 0.54219,
+"y0": 0.48705,
+"y1": 0.49932,
+"text": "Stigand, King",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.35992,
+"x1": 0.49047,
+"y0": 0.49557,
+"y1": 0.51193,
+"text": "reign ' : ibid. vii. 25.",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.37511,
+"x1": 0.60869,
+"y0": 0.50602,
+"y1": 0.51898,
+"text": "Rockland belonged d 'to Alnoth, Godric,",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36279,
+"x1": 0.61075,
+"y0": 0.51705,
+"y1": 0.52898,
+"text": "Ulketel, Ulf, and° William de Noers at",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.36156,
+"x1": 0.58817,
+"y0": 0.52682,
+"y1": 0.5408,
+"text": "the Confeasor's Survey ' : ibid. v. 483.",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.34391,
+"x1": 0.60869,
+"y0": 0.53807,
+"y1": 0.55034,
+"text": "e Earlham's Manor in Surlingham be",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.36156,
+"x1": 0.61116,
+"y0": 0.54898,
+"y1": 0.56091,
+"text": "longed to 'Godric the Sewer, and Alnot",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.34391,
+"x1": 0.50976,
+"y0": 0.55852,
+"y1": 0.57148,
+"text": "D the Saxon ': FF. v. 469:",
+"conf": 0.754
+},
+{
+"column": 2,
+"x0": 0.37265,
+"x1": 0.59843,
+"y0": 0.56602,
+"y1": 0.58409,
+"text": "William Ainath, co. Wilts, 1273. A.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.3747,
+"x1": 0.53685,
+"y0": 0.57966,
+"y1": 0.59193,
+"text": "Cecil Aylnet, co. Oxf., ibid.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.37552,
+"x1": 0.53644,
+"y0": 0.59023,
+"y1": 0.6025,
+"text": "Alnot Red, co. Salop, ibid.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37429,
+"x1": 0.56682,
+"y0": 0.59977,
+"y1": 0.61341,
+"text": "William Alinot, co. Bucks, ibid.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37429,
+"x1": 0.55245,
+"y0": 0.61034,
+"y1": 0.62398,
+"text": "Havisia Alinet, co. Oxf., ibid.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37429,
+"x1": 0.60952,
+"y0": 0.62091,
+"y1": 0.6342,
+"text": "Ailnoth Arscote, sup. for D.C.L., Nov.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36156,
+"x1": 0.5541,
+"y0": 0.63148,
+"y1": 0.6458,
+"text": "10, 1513: Reg. Univ. Oxf. p. 89.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.37839,
+"x1": 0.60993,
+"y0": 0.64545,
+"y1": 0.65739,
+"text": "As will be seen from the above in-",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36197,
+"x1": 0.61116,
+"y0": 0.65841,
+"y1": 0.67239,
+"text": "stances, Alnot or Alnoth remained",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36115,
+"x1": 0.61198,
+"y0": 0.6717,
+"y1": 0.68705,
+"text": "in use as a personal name till the",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.36279,
+"x1": 0.45886,
+"y0": 0.6867,
+"y1": 0.7,
+"text": "16th century.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37429,
+"x1": 0.61321,
+"y0": 0.70068,
+"y1": 0.71364,
+"text": "Cicely Alnet, temp. 158o: Visitation of",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.36156,
+"x1": 0.4917,
+"y0": 0.71091,
+"y1": 0.72455,
+"text": "London, 1634, ii. 168.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.37552,
+"x1": 0.61198,
+"y0": 0.7217,
+"y1": 0.73364,
+"text": "1787. Dew Brockctt and Harriot",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.3632,
+"x1": 0.56887,
+"y0": 0.73125,
+"y1": 0.74489,
+"text": "Allnutt : St. Geo. Han. Sg. i. 406.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.3747,
+"x1": 0.55122,
+"y0": 0.74216,
+"y1": 0.75545,
+"text": "London, 7 : Boston (U.S.), 1.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.37839,
+"x1": 0.60993,
+"y0": 0.76057,
+"y1": 0.7742,
+"text": "Allott,Allett,Alletson,Allot.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37388,
+"x1": 0.61198,
+"y0": 0.7725,
+"y1": 0.78989,
+"text": "-Bapt. ‘the son of Alot'; query,",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.37552,
+"x1": 0.61321,
+"y0": 0.78784,
+"y1": 0.80045,
+"text": " form of Eliot, with Eliota as",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.36362,
+"x1": 0.61198,
+"y0": 0.8008,
+"y1": 0.81443,
+"text": "fem. ; v. Elliot. In the Ulverston",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36362,
+"x1": 0.61321,
+"y0": 0.81409,
+"y1": 0.82943,
+"text": "Registers, co. Lanc., the forms are",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36362,
+"x1": 0.61075,
+"y0": 0.82773,
+"y1": 0.8417,
+"text": "Alletson, Aletson, Elatson, Elatt-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.36362,
+"x1": 0.60993,
+"y0": 0.84068,
+"y1": 0.85568,
+"text": "son, Elletson, Eletson, all I repre-",
+"conf": 0.882
+},
+{
+"column": 2,
+"x0": 0.36362,
+"x1": 0.61116,
+"y0": 0.85466,
+"y1": 0.86932,
+"text": "senting the same patronymic Eliot-",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36238,
+"x1": 0.61321,
+"y0": 0.86761,
+"y1": 0.88295,
+"text": "son; v.Alletson in Index ofRegisters",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.48143,
+"x1": 0.49662,
+"y0": 0.88807,
+"y1": 0.90102,
+"text": "E",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.69266,
+"x1": 0.79943,
+"y0": 0.08966,
+"y1": 0.1033,
+"text": "ALLPRBSS",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.61915,
+"x1": 0.86678,
+"y0": 0.11761,
+"y1": 0.1333,
+"text": "of St. Mary, Ulverston. In any",
+"conf": 0.931
+},
+{
+"column": 3,
+"x0": 0.61915,
+"x1": 0.86719,
+"y0": 0.13159,
+"y1": 0.14591,
+"text": "case the surname, with its variants,",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.61874,
+"x1": 0.74728,
+"y0": 0.14523,
+"y1": 0.15989,
+"text": "is of fontal origin.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63353,
+"x1": 0.82572,
+"y0": 0.16057,
+"y1": 0.17386,
+"text": "Alyott de Symondston. AA. 2.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63147,
+"x1": 0.86925,
+"y0": 0.17045,
+"y1": 0.18648,
+"text": "William Aloteasone, co. Lanc., 1332 :",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.61997,
+"x1": 0.7633,
+"y0": 0.18273,
+"y1": 0.19432,
+"text": "Lay Subxidy (Rylands)",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63065,
+"x1": 0.86966,
+"y0": 0.19193,
+"y1": 0.20659,
+"text": "Alet fl. Boydini, Essex, Hen. I1I-",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.62079,
+"x1": 0.6943,
+"y0": 0.20352,
+"y1": 0.21443,
+"text": "Edw. 1. K",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.63229,
+"x1": 0.86719,
+"y0": 0.21205,
+"y1": 0.22705,
+"text": "Alota fl. Robert le Archer, co. Derby,",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.61956,
+"x1": 0.67788,
+"y0": 0.22364,
+"y1": 0.23727,
+"text": "1273...A.",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.6327,
+"x1": 0.81299,
+"y0": 0.2325,
+"y1": 0.2475,
+"text": "Phillip Allote, co. Hunts, ibid.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63229,
+"x1": 0.80313,
+"y0": 0.24443,
+"y1": 0.25705,
+"text": "Peter' Allot, co. Camb, ibid.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.63188,
+"x1": 0.86473,
+"y0": 0.2533,
+"y1": 0.26932,
+"text": "Adam Alot, 1379 : P.T. Yorks. p. 204.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.63188,
+"x1": 0.78876,
+"y0": 0.26489,
+"y1": 0.2792,
+"text": "Richard Alot, 1379 : ibid.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63147,
+"x1": 0.86761,
+"y0": 0.27534,
+"y1": 0.2883,
+"text": "1568. Richard''Allett, sup. for B.A.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.61915,
+"x1": 0.81299,
+"y0": 0.28489,
+"y1": 0.30023,
+"text": "Dec. 17 : Reg. Univ. Oxf, i. 273:",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.63229,
+"x1": 0.86884,
+"y0": 0.29648,
+"y1": 0.30807,
+"text": "Thomas Alot, rector of Brandeston and",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62038,
+"x1": 0.81093,
+"y0": 0.30636,
+"y1": 0.32,
+"text": "Guton, co. Norf. : FF. vii. 199.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.63353,
+"x1": 0.86925,
+"y0": 0.31693,
+"y1": 0.32955,
+"text": "1707. . Buried--Annc Alletson, a maid",
+"conf": 0.907
+},
+{
+"column": 3,
+"x0": 0.61874,
+"x1": 0.86884,
+"y0": 0.32682,
+"y1": 0.3408,
+"text": "to Mr. Winton: St. Mary Aldermary",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62038,
+"x1": 0.72551,
+"y0": 0.33773,
+"y1": 0.35102,
+"text": "(London), P. 210.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63353,
+"x1": 0.86884,
+"y0": 0.34898,
+"y1": 0.36057,
+"text": "1781. Benjamin Williams and Margaret",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62079,
+"x1": 0.83065,
+"y0": 0.35852,
+"y1": 0.3708,
+"text": "Alletson : St. Geo. Han. Sg. i. 323.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.63147,
+"x1": 0.86802,
+"y0": 0.36807,
+"y1": 0.38375,
+"text": "Crockford, 4, 0, 0, o; Philadeiphia, 1,",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.66268,
+"y0": 0.38273,
+"y1": 0.39261,
+"text": "1, 0 1.",
+"conf": 0.775
+},
+{
+"column": 3,
+"x0": 0.63681,
+"x1": 0.86719,
+"y0": 0.39841,
+"y1": 0.41409,
+"text": "Alloway, Allaway. -- Bapt.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62121,
+"x1": 0.87007,
+"y0": 0.41307,
+"y1": 0.4267,
+"text": "' the son of Aldwy' ; v. Allaway and",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.62038,
+"x1": 0.86966,
+"y0": 0.42602,
+"y1": 0.44068,
+"text": "Allvey, where Alwayis clearly iden-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.61997,
+"x1": 0.86966,
+"y0": 0.44,
+"y1": 0.45398,
+"text": "tified.  From Alway or Allway to",
+"conf": 0.947
+},
+{
+"column": 3,
+"x0": 0.61997,
+"x1": 0.87048,
+"y0": 0.45227,
+"y1": 0.46898,
+"text": "Alloway is an easy gradation ; cf.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.61997,
+"x1": 0.87048,
+"y0": 0.46659,
+"y1": 0.48193,
+"text": "Ottaway or  Greenaway for Ot-",
+"conf": 0.881
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.87048,
+"y0": 0.48125,
+"y1": 0.4942,
+"text": "way and Grecnway. Alloway has",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.62121,
+"x1": 0.86925,
+"y0": 0.49409,
+"y1": 0.50784,
+"text": "ramified somewhat strongly in",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.62203,
+"x1": 0.86966,
+"y0": 0.50705,
+"y1": 0.52,
+"text": "America. But it arose in England.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.7789,
+"x1": 0.86514,
+"y0": 0.5208,
+"y1": 0.52966,
+"text": "1ocal Hollo",
+"conf": 0.76
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.75098,
+"y0": 0.53534,
+"y1": 0.54795,
+"text": "way; v. Allaway.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63311,
+"x1": 0.86925,
+"y0": 0.55102,
+"y1": 0.56432,
+"text": "1616. Edward Hewlinge and Eliz.",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.86925,
+"y0": 0.56091,
+"y1": 0.57625,
+"text": "Allewaye: Marriage Lic. (London), ii. 43:",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63435,
+"x1": 0.87089,
+"y0": 0.57182,
+"y1": 0.58545,
+"text": "178o.Marriedwilliam  Maslen and",
+"conf": 0.923
+},
+{
+"column": 3,
+"x0": 0.62244,
+"x1": 0.87007,
+"y0": 0.58375,
+"y1": 0.59534,
+"text": "Mary Allaway : St. Geo. Han. Sq. i. 311.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63517,
+"x1": 0.87089,
+"y0": 0.59432,
+"y1": 0.60557,
+"text": "1786. -- Jamcs Alloway and Barbara",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.74564,
+"y0": 0.60386,
+"y1": 0.61648,
+"text": "Pittett : ibid. p. 396.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63394,
+"x1": 0.83968,
+"y0": 0.61477,
+"y1": 0.62841,
+"text": "Philadelphia, 13, 0; London, 0, 2.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.63804,
+"x1": 0.86925,
+"y0": 0.63182,
+"y1": 0.64784,
+"text": "Allpres8.---?Nick. ‘the holy",
+"conf": 0.889
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.87048,
+"y0": 0.64784,
+"y1": 0.66148,
+"text": "priest' (?) ; A.S. halig, holy, from",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.87048,
+"y0": 0.65977,
+"y1": 0.67511,
+"text": "hal, whole. Whatever the meaning.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.8713,
+"y0": 0.67409,
+"y1": 0.68807,
+"text": "the following cntry refers to the",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.62244,
+"x1": 0.69184,
+"y0": 0.69045,
+"y1": 0.7,
+"text": "ancestor :",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.63435,
+"x1": 0.86309,
+"y0": 0.7017,
+"y1": 0.71773,
+"text": "Thomas Alprest, co. Camb, 1273. A.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.63886,
+"x1": 0.87212,
+"y0": 0.72011,
+"y1": 0.73477,
+"text": "Thus -prest (priest) and not -press",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62367,
+"x1": 0.87212,
+"y0": 0.73409,
+"y1": 0.74466,
+"text": "is the sufx The surname has",
+"conf": 0.761
+},
+{
+"column": 3,
+"x0": 0.62285,
+"x1": 0.87212,
+"y0": 0.74659,
+"y1": 0.76159,
+"text": "always had cos. Cambridgc and",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62408,
+"x1": 0.87171,
+"y0": 0.76125,
+"y1": 0.77352,
+"text": "Hants for its habitat. There need",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.62285,
+"x1": 0.87171,
+"y0": 0.77455,
+"y1": 0.7875,
+"text": "be no anxicty as to the want of an",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62203,
+"x1": 0.87212,
+"y0": 0.78716,
+"y1": 0.80182,
+"text": "h if Holy-priest be the parent. The",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62326,
+"x1": 0.87377,
+"y0": 0.80011,
+"y1": 0.81614,
+"text": "Hundred Rolls (1273) in scores of",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.62162,
+"x1": 0.87253,
+"y0": 0.81341,
+"y1": 0.83045,
+"text": "cases ignore the aspirate.  The",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.62408,
+"x1": 0.86925,
+"y0": 0.82909,
+"y1": 0.8417,
+"text": "Cockney is not in it, judging by",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.62367,
+"x1": 0.73085,
+"y0": 0.84273,
+"y1": 0.85602,
+"text": "early registers.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.63394,
+"x1": 0.8713,
+"y0": 0.85943,
+"y1": 0.87205,
+"text": "London, 2; MDB. (co. Hunts), 7.",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.62079,
+"x1": 0.71812,
+"y0": 0.87,
+"y1": 0.88364,
+"text": "(Cambridgo), 1.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.69677,
+"x1": 0.87418,
+"y0": 0.91602,
+"y1": 0.94841,
+"text": "Digitized by Goog",
+"conf": 0.955
+}
+]

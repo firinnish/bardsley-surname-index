@@ -1,0 +1,1748 @@
+[
+{
+"column": 1,
+"x0": 0.19139,
+"x1": 0.26003,
+"y0": 0.08386,
+"y1": 0.09648,
+"text": "ADLIN",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11164,
+"x1": 0.35129,
+"y0": 0.1108,
+"y1": 0.12477,
+"text": "MDB. (Lincoln), 5; London, 4; New.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.10013,
+"x1": 0.1511,
+"y0": 0.12273,
+"y1": 0.13466,
+"text": "York, 2.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.11534,
+"x1": 0.35088,
+"y0": 0.13568,
+"y1": 0.15068,
+"text": "Adlin, Adling.--Bapt. ‘the",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.34882,
+"y0": 0.15034,
+"y1": 0.16261,
+"text": "son of Adeline,' alias Atheline ; cf.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.09972,
+"x1": 0.2514,
+"y0": 0.16398,
+"y1": 0.17591,
+"text": "Athelard and Adlard.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11205,
+"x1": 0.33526,
+"y0": 0.17761,
+"y1": 0.19193,
+"text": "William Atheline, co. Oxf., 1273. .A.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.11164,
+"x1": 0.32622,
+"y0": 0.18886,
+"y1": 0.20284,
+"text": "Richard Athelyne, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11329,
+"x1": 0.348,
+"y0": 0.20045,
+"y1": 0.21205,
+"text": "Adelinus (without surname), co. Linc.,",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.09972,
+"x1": 0.12726,
+"y0": 0.21136,
+"y1": 0.22159,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11287,
+"x1": 0.30402,
+"y0": 0.21989,
+"y1": 0.23318,
+"text": "William Adelyn, co. Norf., ihid.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.11205,
+"x1": 0.32457,
+"y0": 0.23011,
+"y1": 0.24375,
+"text": "Henry fil Adelyne, co. Derby, ibid.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11164,
+"x1": 0.32416,
+"y0": 0.24068,
+"y1": 0.25432,
+"text": "Geoffrey Adelyne, co. Camb., ibid.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.1137,
+"x1": 0.34882,
+"y0": 0.25125,
+"y1": 0.26318,
+"text": "1542. Buried--Richard  Adlin : St.",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.24359,
+"y0": 0.26182,
+"y1": 0.27545,
+"text": "Antholin, London, p. 3.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.11411,
+"x1": 0.34759,
+"y0": 0.27205,
+"y1": 0.28568,
+"text": "1558. Margaret Adlyn : St. Peter's,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.09849,
+"x1": 0.19426,
+"y0": 0.28216,
+"y1": 0.29648,
+"text": "Cornhill, i. 113.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.11123,
+"x1": 0.34923,
+"y0": 0.29273,
+"y1": 0.30705,
+"text": "1572. 'Bapt—Jane, d. of John Adlin :",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.09849,
+"x1": 0.16343,
+"y0": 0.30409,
+"y1": 0.31466,
+"text": "ibid. p. I.4.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.11246,
+"x1": 0.3517,
+"y0": 0.31284,
+"y1": 0.32716,
+"text": "'Elizabeth, d. of John ..Adlyn, of",
+"conf": 0.901
+},
+{
+"column": 1,
+"x0": 0.09808,
+"x1": 0.35006,
+"y0": 0.32443,
+"y1": 0.33807,
+"text": "London, draper, 162s': Visitation  of",
+"conf": 0.896
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.23085,
+"y0": 0.335,
+"y1": 0.34932,
+"text": "London, 1634, i. 241.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11616,
+"x1": 0.34965,
+"y0": 0.35034,
+"y1": 0.36534,
+"text": "Adnam, Adlam, Adman,",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.35047,
+"y0": 0.36398,
+"y1": 0.37693,
+"text": "Adlum, ,Adnum.---Local, ‘of",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.09972,
+"x1": 0.34882,
+"y0": 0.37864,
+"y1": 0.39193,
+"text": "Addingham.' Parishes in co. Cum.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.34882,
+"y0": 0.39193,
+"y1": 0.40386,
+"text": "berland and W. Rid. Yorkshire ;",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.09849,
+"x1": 0.34841,
+"y0": 0.40523,
+"y1": 0.41818,
+"text": "cf. Swetnam and Swetman for",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.34759,
+"y0": 0.41886,
+"y1": 0.43114,
+"text": "Swettenham, or Debnam and Dead-",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.34882,
+"y0": 0.43216,
+"y1": 0.44477,
+"text": "man for Debenham, or Putnam and",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.10054,
+"x1": 0.34923,
+"y0": 0.44511,
+"y1": 0.45807,
+"text": "Putman  for Puttenham. Adlam",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.09849,
+"x1": 0.34923,
+"y0": 0.45909,
+"y1": 0.4717,
+"text": "is a further and natural variant;",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.10013,
+"x1": 0.34841,
+"y0": 0.47205,
+"y1": 0.48466,
+"text": "cf. bannister for baluster. With",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.09972,
+"x1": 0.33855,
+"y0": 0.48602,
+"y1": 0.49864,
+"text": "Adnum, cf. Barnum for Barnham.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.11329,
+"x1": 0.34923,
+"y0": 0.50091,
+"y1": 0.51455,
+"text": "1574-5.. 1 Robert Kychell and Anne",
+"conf": 0.892
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.34636,
+"y0": 0.51148,
+"y1": 0.52409,
+"text": "Adman': Marriage Lic. (London), i. 63.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.11246,
+"x1": 0.34841,
+"y0": 0.52273,
+"y1": 0.53364,
+"text": "1768. Married-John Adlam and Ann",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.29292,
+"y0": 0.53227,
+"y1": 0.54523,
+"text": "Rode : St. Geo. Han. Sq. i. 171.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.11082,
+"x1": 0.34841,
+"y0": 0.54148,
+"y1": 0.55716,
+"text": "1774. --. John Mason and Dorothy",
+"conf": 0.932
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.22633,
+"y0": 0.55273,
+"y1": 0.56636,
+"text": "Adnam : ibid. p. 238.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.11082,
+"x1": 0.34965,
+"y0": 0.56295,
+"y1": 0.5783,
+"text": "London, k3 0 0, O: New York, 9 1,",
+"conf": 0.85
+},
+{
+"column": 1,
+"x0": 0.09767,
+"x1": 0.34923,
+"y0": 0.57318,
+"y1": 0.58818,
+"text": "0, 3, 0; MDB. (co.' Gloucester), 0, 0, 0.",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.10013,
+"x1": 0.12603,
+"y0": 0.58716,
+"y1": 0.59602,
+"text": "I, 1.",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.11575,
+"x1": 0.34718,
+"y0": 0.59807,
+"y1": 0.6117,
+"text": "Adnett, Adnitt, Adnet, Ad-",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.09808,
+"x1": 0.34553,
+"y0": 0.61205,
+"y1": 0.62568,
+"text": "not.—Bapt. ‘the son of Adam,",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.34718,
+"y0": 0.62568,
+"y1": 0.63898,
+"text": "from the nick. Addy, dim. Add-in,",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.34759,
+"y0": 0.63966,
+"y1": 0.65125,
+"text": "second dim. Add-in-et; cf. Addin-",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.34965,
+"y0": 0.65295,
+"y1": 0.66625,
+"text": "son, ，q.v. Adin or Addin was",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.09808,
+"x1": 0.35088,
+"y0": 0.66523,
+"y1": 0.67989,
+"text": "evidently the O.F. equivalent of",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.34923,
+"y0": 0.67955,
+"y1": 0.69352,
+"text": "Adkin, the customary English form;",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.27113,
+"y0": 0.69318,
+"y1": 0.70511,
+"text": "v. Atkins and Atkinson.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.11082,
+"x1": 0.34677,
+"y0": 0.70773,
+"y1": 0.7217,
+"text": "Henricus fl. Adynet, 1379 : P. T. Yorks.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.09931,
+"x1": 0.14042,
+"y0": 0.72034,
+"y1": 0.73125,
+"text": "P. 200.",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.11082,
+"x1": 0.29374,
+"y0": 0.72784,
+"y1": 0.74318,
+"text": "Adinet del Forest, 1379 : ibid.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.11123,
+"x1": 0.34923,
+"y0": 0.73841,
+"y1": 0.75341,
+"text": "William Addynet, “co. York, 1525:",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.09972,
+"x1": 0.18275,
+"y0": 0.74966,
+"y1": 0.76364,
+"text": "W. !1, p. 201:",
+"conf": 0.826
+},
+{
+"column": 1,
+"x0": 0.11123,
+"x1": 0.34923,
+"y0": 0.7592,
+"y1": 0.77352,
+"text": "William Haddynytt, co. York, 1530 :",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.17001,
+"y0": 0.77011,
+"y1": 0.78409,
+"text": "ibid. p. 215",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.11205,
+"x1": 0.34882,
+"y0": 0.78102,
+"y1": 0.79364,
+"text": "1604. Ezckicl Burbery  and  Anne",
+"conf": 0.867
+},
+{
+"column": 1,
+"x0": 0.09849,
+"x1": 0.33978,
+"y0": 0.79057,
+"y1": 0.80489,
+"text": "Adnitt : Marriage Lic. (London), i. 288.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.11082,
+"x1": 0.34882,
+"y0": 0.80182,
+"y1": 0.8158,
+"text": "London, I, I, o, o; New York, o, o, I, I.",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.11575,
+"x1": 0.25921,
+"y0": 0.81682,
+"y1": 0.83148,
+"text": "Adney.-Local (l).",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.11041,
+"x1": 0.34882,
+"y0": 0.83045,
+"y1": 0.84682,
+"text": "1599. Andrew Adney, co. Salop: Reg.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.0989,
+"x1": 0.28223,
+"y0": 0.84205,
+"y1": 0.85636,
+"text": "Univ. Oxf. yol. ii. pt. if. p. 236.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11287,
+"x1": 0.34759,
+"y0": 0.85398,
+"y1": 0.86489,
+"text": "1617-&. John Adney and Mary Steed-",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.09849,
+"x1": 0.32293,
+"y0": 0.86284,
+"y1": 0.87716,
+"text": "man : Marriage Lic. (London), i. s8.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.47728,
+"x1": 0.49619,
+"y0": 0.08284,
+"y1": 0.09682,
+"text": "41",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37205,
+"x1": 0.61006,
+"y0": 0.10909,
+"y1": 0.12511,
+"text": "1792. Married--Lazarus Plummer and",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36013,
+"x1": 0.60019,
+"y0": 0.12,
+"y1": 0.13568,
+"text": "Elinor Adney : St. Geo. Han. Sq. ii. 73.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37164,
+"x1": 0.44152,
+"y0": 0.13227,
+"y1": 0.14523,
+"text": "London, 2.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37616,
+"x1": 0.608,
+"y0": 0.14898,
+"y1": 0.16193,
+"text": "Adrain, Adrian, Adrinson.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36178,
+"x1": 0.61006,
+"y0": 0.16227,
+"y1": 0.17625,
+"text": "--Bapt. ‘the son of Adrian.' The",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.36054,
+"x1": 0.61006,
+"y0": 0.17489,
+"y1": 0.1892,
+"text": "form Adrain is an old one. The",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.608,
+"y0": 0.19023,
+"y1": 0.2025,
+"text": "sheriff, John Adrian, entered below,",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.608,
+"y0": 0.20352,
+"y1": 0.21648,
+"text": "is recorded as John Adrain: A. i.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.41028,
+"y0": 0.21989,
+"y1": 0.23148,
+"text": "P. 403.",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.37246,
+"x1": 0.56443,
+"y0": 0.23386,
+"y1": 0.24682,
+"text": "John Adrien, co. Suff., 1273. A.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.37452,
+"x1": 0.61047,
+"y0": 0.24375,
+"y1": 0.25807,
+"text": "John_ Adrian, 1258, sherif of London :",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.36178,
+"x1": 0.41069,
+"y0": 0.25568,
+"y1": 0.26523,
+"text": "W'ww.",
+"conf": 0.9
+},
+{
+"column": 2,
+"x0": 0.37246,
+"x1": 0.60923,
+"y0": 0.26489,
+"y1": 0.27784,
+"text": "156s-6. Audrian Awdryan and Chris",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.60882,
+"y0": 0.27636,
+"y1": 0.28761,
+"text": "tiane Ede : Marriage Lic. (London). i. 32.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37123,
+"x1": 0.60965,
+"y0": 0.28625,
+"y1": 0.29852,
+"text": "1597. Matthew Merytt and Elizabeth",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36013,
+"x1": 0.50154,
+"y0": 0.2958,
+"y1": 0.31011,
+"text": "Adrinson: ibid. p. 241.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37123,
+"x1": 0.61006,
+"y0": 0.30636,
+"y1": 0.31932,
+"text": "1628. Adrian Eyers and Ellen Wood.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.60965,
+"y0": 0.31727,
+"y1": 0.33057,
+"text": "cocke. : Marriage Lic.(Westminster), P.32.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.37041,
+"x1": 0.61088,
+"y0": 0.32682,
+"y1": 0.34216,
+"text": "London, 1, 0, o; Crockford, 0, I, 0;",
+"conf": 0.921
+},
+{
+"column": 2,
+"x0": 0.35972,
+"x1": 0.61047,
+"y0": 0.33636,
+"y1": 0.3517,
+"text": "Philadelphia, 0, '6, 0: New York",
+"conf": 0.832
+},
+{
+"column": 2,
+"x0": 0.36013,
+"x1": 0.43124,
+"y0": 0.34864,
+"y1": 0.36125,
+"text": "(Adrain), 1.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37575,
+"x1": 0.60882,
+"y0": 0.36568,
+"y1": 0.3783,
+"text": "Adshead.--Local,'ofAdshead,'",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.60965,
+"y0": 0.37932,
+"y1": 0.39364,
+"text": "some spot in the neighbourhood",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.61047,
+"y0": 0.39295,
+"y1": 0.40693,
+"text": "of Prestbury, co. Chester, whose",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.61047,
+"y0": 0.40625,
+"y1": 0.42023,
+"text": "church register teems with entries",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.61047,
+"y0": 0.4192,
+"y1": 0.43352,
+"text": "relating to the family. The surname",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.35972,
+"x1": 0.53689,
+"y0": 0.43455,
+"y1": 0.44545,
+"text": "has crossed the Atlantic.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.37164,
+"x1": 0.61006,
+"y0": 0.4492,
+"y1": 0.46318,
+"text": "156o.  Married John  Wilkinson   and",
+"conf": 0.899
+},
+{
+"column": 2,
+"x0": 0.36013,
+"x1": 0.60759,
+"y0": 0.46148,
+"y1": 0.47375,
+"text": "Margret Adshed : Reg. Prestbury (Ches.),",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.36054,
+"x1": 0.38603,
+"y0": 0.47477,
+"y1": 0.48364,
+"text": "P. 2.",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.37164,
+"x1": 0.608,
+"y0": 0.48057,
+"y1": 0.49455,
+"text": "1612. Bapt. -- Isabell Adshed :  ibid.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.40124,
+"y0": 0.49386,
+"y1": 0.50477,
+"text": "p.193.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.37041,
+"x1": 0.60759,
+"y0": 0.50057,
+"y1": 0.51591,
+"text": "Reynold Adshed, 15s8, Pott Shrigley,",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.57265,
+"y0": 0.51318,
+"y1": 0.52409,
+"text": "near Prestbury : East Ches. ii. 218.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37041,
+"x1": 0.60923,
+"y0": 0.52205,
+"y1": 0.53705,
+"text": "Thomas Adeshead, 1579, of Birchin-",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.45879,
+"y0": 0.53364,
+"y1": 0.54455,
+"text": "cliffe: ibid. i. 18.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37123,
+"x1": 0.60841,
+"y0": 0.54284,
+"y1": 0.55648,
+"text": "1731. Married--Philip Platt and Dorothy",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.59238,
+"y0": 0.55409,
+"y1": 0.5667,
+"text": "Adshad : St. Jas. Clerkenwell, iii. 258.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.37,
+"x1": 0.61006,
+"y0": 0.56364,
+"y1": 0.57864,
+"text": "London, 3': Manchester, 9; Phila-",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.35972,
+"x1": 0.42056,
+"y0": 0.57489,
+"y1": 0.58886,
+"text": "delphia 4.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37534,
+"x1": 0.61006,
+"y0": 0.59125,
+"y1": 0.60386,
+"text": "Afleck, Aflick.--Local, ‘ of",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.60965,
+"y0": 0.60386,
+"y1": 0.61852,
+"text": "Auchinleck,'N.B. ‘A singular con-",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.60595,
+"y0": 0.6192,
+"y1": 0.63045,
+"text": "traction ofthe surname Auchinleck.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.35808,
+"x1": 0.60923,
+"y0": 0.63114,
+"y1": 0.6458,
+"text": "borme by an ancient family “ of that",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.60882,
+"y0": 0.64409,
+"y1": 0.65909,
+"text": "ilk\" in nAyrshire. Sir Edmund",
+"conf": 0.886
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.608,
+"y0": 0.65841,
+"y1": 0.67239,
+"text": "Afleck, created baronet in I782,",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.60759,
+"y0": 0.67239,
+"y1": 0.685,
+"text": "was sixth in descent from Sir John",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.61006,
+"y0": 0.68534,
+"y1": 0.69898,
+"text": "Auchinleck, son of Gilbert A. of",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.35931,
+"x1": 0.60923,
+"y0": 0.69795,
+"y1": 0.71364,
+"text": "Auchinleck': Lower, Pat. Brit.,P. 3.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.37164,
+"x1": 0.60636,
+"y0": 0.71693,
+"y1": 0.72989,
+"text": "1679. Bapt.-Andrew, ye son of L'.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.52497,
+"x1": 0.608,
+"y0": 0.72795,
+"y1": 0.74023,
+"text": "(also spelled",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.60882,
+"y0": 0.73773,
+"y1": 0.75102,
+"text": "Aflick): St. Jas  ( Ch.  Barbadoes ;",
+"conf": 0.917
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.60841,
+"y0": 0.74727,
+"y1": 0.76295,
+"text": "Hotten's Lists of Emigranta, Pp. 497.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.38438,
+"y0": 0.76057,
+"y1": 0.77148,
+"text": "500.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37041,
+"x1": 0.60841,
+"y0": 0.76739,
+"y1": 0.78273,
+"text": "1748. Married-William Darby and",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.3589,
+"x1": 0.59608,
+"y0": 0.78,
+"y1": 0.79193,
+"text": "Mary Afleck : St. Geo. Han. Sq. i. 40.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37246,
+"x1": 0.608,
+"y0": 0.78989,
+"y1": 0.8025,
+"text": "1749. - Thomas Aflrck and Mar.",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.35643,
+"x1": 0.60677,
+"y0": 0.79943,
+"y1": 0.81477,
+"text": "garet 'Stuart: St. Geo. Chap. Mayfair,",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.39959,
+"y0": 0.81273,
+"y1": 0.8233,
+"text": "p. 141.",
+"conf": 0.908
+},
+{
+"column": 2,
+"x0": 0.37041,
+"x1": 0.60923,
+"y0": 0.82023,
+"y1": 0.83557,
+"text": "Manchester, 4 O; Philadelphia, 1, 5;",
+"conf": 0.934
+},
+{
+"column": 2,
+"x0": 0.35849,
+"x1": 0.45796,
+"y0": 0.83114,
+"y1": 0.84443,
+"text": "New York, 6, 0.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37493,
+"x1": 0.608,
+"y0": 0.84716,
+"y1": 0.86284,
+"text": "Agar, Agars, Ager.-- Bapt.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.35767,
+"x1": 0.60965,
+"y0": 0.86045,
+"y1": 0.87648,
+"text": "'the son of Agar,' or'Ager.' Pro-",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.71041,
+"x1": 0.78264,
+"y0": 0.0825,
+"y1": 0.0975,
+"text": "AGATE",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62052,
+"x1": 0.86925,
+"y0": 0.11114,
+"y1": 0.1258,
+"text": "bably a form of Algar, a Domesday",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.6197,
+"x1": 0.87007,
+"y0": 0.12511,
+"y1": 0.14011,
+"text": "personal name, and very popular",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.61929,
+"x1": 0.84421,
+"y0": 0.13807,
+"y1": 0.15307,
+"text": "for several centuries; v. Algar.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.63078,
+"x1": 0.87007,
+"y0": 0.15443,
+"y1": 0.17045,
+"text": "Thomas Agar, 1544, co. York : W. 11,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6197,
+"x1": 0.65951,
+"y0": 0.16807,
+"y1": 0.17864,
+"text": "p.233.",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.63119,
+"x1": 0.85037,
+"y0": 0.17489,
+"y1": 0.19125,
+"text": "Wifrid Agar, 1544, co. York : ibid.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63324,
+"x1": 0.86679,
+"y0": 0.1875,
+"y1": 0.19977,
+"text": "1578. BuriedJoane Agar, a mayde",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.61847,
+"x1": 0.86884,
+"y0": 0.1967,
+"y1": 0.21136,
+"text": "of fourscore years olde : St. Michael.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.62011,
+"x1": 0.71985,
+"y0": 0.20659,
+"y1": 0.22159,
+"text": "Cornhill, p. 195.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.63324,
+"x1": 0.86925,
+"y0": 0.21886,
+"y1": 0.23114,
+"text": "1619. Andrew Agar : Reg. Univ. Oxf.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.63324,
+"x1": 0.65787,
+"y0": 0.23114,
+"y1": 0.24102,
+"text": "350.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63488,
+"x1": 0.86925,
+"y0": 0.23864,
+"y1": 0.25057,
+"text": "1635. Married--Thomas  . Agar and",
+"conf": 0.865
+},
+{
+"column": 3,
+"x0": 0.62011,
+"x1": 0.86884,
+"y0": 0.24852,
+"y1": 0.26284,
+"text": "Mary Rigley : St. Peter's, Cornhill, i. 255.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6316,
+"x1": 0.86761,
+"y0": 0.25909,
+"y1": 0.27443,
+"text": "London, 9, 1, 8; Boston (U.S.), 5, 7. 0.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.63611,
+"x1": 0.87007,
+"y0": 0.27614,
+"y1": 0.2925,
+"text": "Agard. -- Bapt. ; v. Haggard.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62134,
+"x1": 0.86884,
+"y0": 0.29034,
+"y1": 0.30341,
+"text": "Artbur distinguished",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.62093,
+"x1": 0.86925,
+"y0": 0.30398,
+"y1": 0.3183,
+"text": "antiquary, was descended of an old",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62175,
+"x1": 0.86925,
+"y0": 0.31727,
+"y1": 0.33159,
+"text": "Derbyshire family. He was born",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62011,
+"x1": 0.87048,
+"y0": 0.33125,
+"y1": 0.34523,
+"text": "in 1540, and died in 1615. He",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.62011,
+"x1": 0.86925,
+"y0": 0.34557,
+"y1": 0.3575,
+"text": "was one of the original members",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.62011,
+"x1": 0.87048,
+"y0": 0.35784,
+"y1": 0.37182,
+"text": "of the Society of Antiquaries, and",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.62052,
+"x1": 0.86925,
+"y0": 0.36977,
+"y1": 0.3858,
+"text": "was buried in Westminster Abbey.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62093,
+"x1": 0.86966,
+"y0": 0.38443,
+"y1": 0.39943,
+"text": "(Dict. Nat. Biog. i. 173. and Stan-",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.6197,
+"x1": 0.86843,
+"y0": 0.39739,
+"y1": 0.41375,
+"text": "ley's Westminster Abbey, p. 443.)",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62011,
+"x1": 0.87089,
+"y0": 0.41068,
+"y1": 0.42636,
+"text": "Haggard is the usual form of this",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6197,
+"x1": 0.70671,
+"y0": 0.42602,
+"y1": 0.43898,
+"text": "patronymic.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63283,
+"x1": 0.87007,
+"y0": 0.44239,
+"y1": 0.455,
+"text": "159!. Stephen Agard, co. Northampt. :",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.6197,
+"x1": 0.83559,
+"y0": 0.45261,
+"y1": 0.46523,
+"text": "Reg. U'niv. 'Oxf. vol. ii. pt. i. p. 184.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.63201,
+"x1": 0.86884,
+"y0": 0.46284,
+"y1": 0.47614,
+"text": "1634. Married--John Aggard and Mary",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62052,
+"x1": 0.86514,
+"y0": 0.47341,
+"y1": 0.4867,
+"text": "Adderley : St. Antholin (London), p. 68.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.63611,
+"x1": 0.86679,
+"y0": 0.49102,
+"y1": 0.50568,
+"text": "Aga880n, Agace, Aggas,",
+"conf": 0.917
+},
+{
+"column": 3,
+"x0": 0.61929,
+"x1": 0.87048,
+"y0": 0.5033,
+"y1": 0.52,
+"text": "Haggis.--- Bapt. the son ofAgace';",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.61847,
+"x1": 0.74406,
+"y0": 0.51773,
+"y1": 0.52966,
+"text": "a form of Agatha.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63119,
+"x1": 0.86925,
+"y0": 0.53466,
+"y1": 0.5483,
+"text": "John Messor et Agacia, uxor sua, co.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62093,
+"x1": 0.72847,
+"y0": 0.54591,
+"y1": 0.55818,
+"text": "Camb., 1273._ A.",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.63242,
+"x1": 0.85858,
+"y0": 0.55545,
+"y1": 0.56773,
+"text": "Agacia de Gatesdon, co. Devon, ibid.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63119,
+"x1": 0.84175,
+"y0": 0.56534,
+"y1": 0.57966,
+"text": "Robert fl Agacie, co. Camb., ibid.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63078,
+"x1": 0.82,
+"y0": 0.57625,
+"y1": 0.58989,
+"text": "Symon Agace, co. Hunta, ibid.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63078,
+"x1": 0.82246,
+"y0": 0.58545,
+"y1": 0.60114,
+"text": "William Agaz, co. Bucks, ibid.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63078,
+"x1": 0.86843,
+"y0": 0.59636,
+"y1": 0.61136,
+"text": "Simon Agasoon, 1379: P. T. York8 p.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.6435,
+"x1": 0.8672,
+"y0": 0.61784,
+"y1": 0.63011,
+"text": "Agas Zibrandson, of Amsterdam,",
+"conf": 0.835
+},
+{
+"column": 3,
+"x0": 0.61888,
+"x1": 0.86884,
+"y0": 0.62909,
+"y1": 0.64102,
+"text": "Sept. 21, 156s: Cal. 'State Papers (Do-",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.61764,
+"x1": 0.70876,
+"y0": 0.63864,
+"y1": 0.65227,
+"text": "mestic), i. 258",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.63119,
+"x1": 0.86925,
+"y0": 0.6492,
+"y1": 0.66216,
+"text": "'Ralph Agas (1540-1621), a land sur.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.61847,
+"x1": 0.86966,
+"y0": 0.65841,
+"y1": 0.67375,
+"text": "veyor, who roge to eminence by making",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.61847,
+"x1": 0.86802,
+"y0": 0.67034,
+"y1": 0.68295,
+"text": "maps of London. A native of 'Stoke-by.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.61806,
+"x1": 0.86925,
+"y0": 0.67886,
+"y1": 0.69455,
+"text": "Nayland, in Sufolk ': Dict. Nat. Biog.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.61806,
+"x1": 0.87007,
+"y0": 0.69045,
+"y1": 0.70375,
+"text": "i. 173. This district agrees with the chief",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.61806,
+"x1": 0.70425,
+"y0": 0.70136,
+"y1": 0.71261,
+"text": "entries above.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63119,
+"x1": 0.87007,
+"y0": 0.71114,
+"y1": 0.72375,
+"text": "Edward Aggas (1564-16o1), bookseller",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.61764,
+"x1": 0.87048,
+"y0": 0.7217,
+"y1": 0.73398,
+"text": "and printer, son of Robert Aggas of",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.61806,
+"x1": 0.86432,
+"y0": 0.73068,
+"y1": 0.74466,
+"text": "Stoke by.Nayland, in Suffolk : ibid. 175.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63037,
+"x1": 0.84257,
+"y0": 0.74045,
+"y1": 0.75648,
+"text": "1547. Buried-Agas Larbroke:",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.61847,
+"x1": 0.78347,
+"y0": 0.75273,
+"y1": 0.76534,
+"text": "Dionis Backchurch, p. 181.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.6316,
+"x1": 0.86884,
+"y0": 0.7633,
+"y1": 0.77591,
+"text": "!578. Ralph Agas, rector of Grassen-",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.61641,
+"x1": 0.78962,
+"y0": 0.77045,
+"y1": 0.78852,
+"text": "hale, co. Norf. : FF. ix. 519.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.6316,
+"x1": 0.74365,
+"y0": 0.78409,
+"y1": 0.79739,
+"text": "London, O, I, I, 2.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.63529,
+"x1": 0.86597,
+"y0": 0.79977,
+"y1": 0.81375,
+"text": "Agate.--(i) Local, (at the gate,",
+"conf": 0.92
+},
+{
+"column": 3,
+"x0": 0.61847,
+"x1": 0.86597,
+"y0": 0.81375,
+"y1": 0.82636,
+"text": "from residence thereby; cf. Atwood,",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.6197,
+"x1": 0.71738,
+"y0": 0.82773,
+"y1": 0.84068,
+"text": "Bywater, &c.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63078,
+"x1": 0.82574,
+"y0": 0.83898,
+"y1": 0.85773,
+"text": "Adam Ategate, co. Hunts, 173.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.63201,
+"x1": 0.82205,
+"y0": 0.85125,
+"y1": 0.86625,
+"text": "Alan Attegate, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63119,
+"x1": 0.82328,
+"y0": 0.86216,
+"y1": 0.87682,
+"text": "Leonard Agate, teimp. Eliz. Z.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.69727,
+"x1": 0.87417,
+"y0": 0.91568,
+"y1": 0.94875,
+"text": "Digitized by Go0g",
+"conf": 0.802
+}
+]

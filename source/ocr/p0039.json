@@ -1,0 +1,1775 @@
+[
+{
+"column": 1,
+"x0": 0.19145,
+"x1": 0.27695,
+"y0": 0.08284,
+"y1": 0.09614,
+"text": "ACKLMY",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.12485,
+"x1": 0.35752,
+"y0": 0.1108,
+"y1": 0.12341,
+"text": "Peter de Akerman, o. Oxf., 1273. A.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.1302,
+"x1": 0.34642,
+"y0": 0.1275,
+"y1": 0.13841,
+"text": "Akermann is of German birth.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12568,
+"x1": 0.36204,
+"y0": 0.14182,
+"y1": 0.15375,
+"text": "18o2. Married -- John Sandford and",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.11252,
+"x1": 0.36081,
+"y0": 0.15239,
+"y1": 0.16466,
+"text": "Mary Ackerman : St. Geo, Han.Sq. ii.272.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12403,
+"x1": 0.36204,
+"y0": 0.16261,
+"y1": 0.17659,
+"text": "London, 2,2,5,0; Philadelphia, 20,8,3, 1.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12814,
+"x1": 0.36081,
+"y0": 0.17795,
+"y1": 0.19295,
+"text": "Ackley.--Local, 'at the Ackley.'",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.11129,
+"x1": 0.36163,
+"y0": 0.19227,
+"y1": 0.20489,
+"text": "i.e. the oak-meadow. . The exact",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.1117,
+"x1": 0.29956,
+"y0": 0.20523,
+"y1": 0.21989,
+"text": "equivalent of Oakley, q.v.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12362,
+"x1": 0.34067,
+"y0": 0.22057,
+"y1": 0.23625,
+"text": "Ralph de Ackle, co. Oxf., 1273. A.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12526,
+"x1": 0.29339,
+"y0": 0.2325,
+"y1": 0.24409,
+"text": "John de Aclc, co. Oxf., ibid.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12362,
+"x1": 0.31765,
+"y0": 0.24239,
+"y1": 0.255,
+"text": "Robert de Acle, co. Bucks, ibid.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12321,
+"x1": 0.36122,
+"y0": 0.25261,
+"y1": 0.26625,
+"text": "157!: Henry. Acley, Ch. Ch. Coll. :",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.11005,
+"x1": 0.24941,
+"y0": 0.26318,
+"y1": 0.27716,
+"text": "Reg. Uniy. Oxf. iii. 44.",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.12321,
+"x1": 0.36081,
+"y0": 0.27273,
+"y1": 0.28705,
+"text": "161o. Henry Cannon and Mary Acly :",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.11129,
+"x1": 0.29915,
+"y0": 0.2842,
+"y1": 0.29614,
+"text": "Marriage: Lic. (London), i. 322.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12403,
+"x1": 0.36163,
+"y0": 0.29375,
+"y1": 0.30705,
+"text": "1769. Married -- Henry Hughes and",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11047,
+"x1": 0.35341,
+"y0": 0.30432,
+"y1": 0.31761,
+"text": "Betty Ackley : St. Geo. Han. Sq. i. 184.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.12362,
+"x1": 0.29339,
+"y0": 0.31523,
+"y1": 0.32852,
+"text": "Boston, I ; Philadelphia, 17.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.12609,
+"x1": 0.35547,
+"y0": 0.33091,
+"y1": 0.34591,
+"text": "Acklom.--Local, 'of Acklam,",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11005,
+"x1": 0.35999,
+"y0": 0.34523,
+"y1": 0.3592,
+"text": "two parishes in co. York, one in",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.11047,
+"x1": 0.35958,
+"y0": 0.35955,
+"y1": 0.37182,
+"text": "the union of Malton, the other in",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11005,
+"x1": 0.27325,
+"y0": 0.3725,
+"y1": 0.38545,
+"text": "the union of Stockton.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.12156,
+"x1": 0.35629,
+"y0": 0.38852,
+"y1": 0.40182,
+"text": "Robert de Acclom, co. York, 1273. A.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12239,
+"x1": 0.35876,
+"y0": 0.39841,
+"y1": 0.41205,
+"text": "1742. Married -- John 1Newman and",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.10882,
+"x1": 0.35793,
+"y0": 0.40795,
+"y1": 0.4233,
+"text": "Eliz. Acklon: St. Geo. Chap. Mayfair,",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11047,
+"x1": 0.14335,
+"y0": 0.4233,
+"y1": 0.4325,
+"text": "P. 23.",
+"conf": 0.885
+},
+{
+"column": 1,
+"x0": 0.12198,
+"x1": 0.35835,
+"y0": 0.43011,
+"y1": 0.44341,
+"text": "18o6. - John Philip Acklam and Eliz.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10882,
+"x1": 0.33327,
+"y0": 0.43864,
+"y1": 0.45534,
+"text": "Robinson :' St. Geo. Han. Sq. ii. 353.",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.1228,
+"x1": 0.25886,
+"y0": 0.45159,
+"y1": 0.46352,
+"text": "MDB. (co. Lincoln), 1.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.12691,
+"x1": 0.35711,
+"y0": 0.46727,
+"y1": 0.47989,
+"text": "Ackroyd, Ecroyd, Acke-",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.10964,
+"x1": 0.35752,
+"y0": 0.48057,
+"y1": 0.4942,
+"text": "royd, Akroyd, Akeroyd.---",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10964,
+"x1": 0.35835,
+"y0": 0.49443,
+"y1": 0.50773,
+"text": "Local, ,'of the Ackroyd,' i.e. the",
+"conf": 0.926
+},
+{
+"column": 1,
+"x0": 0.108,
+"x1": 0.35793,
+"y0": 0.50682,
+"y1": 0.5225,
+"text": "oak clearing; cf. Ormerod, Murgat-",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10923,
+"x1": 0.35752,
+"y0": 0.52034,
+"y1": 0.535,
+"text": "royd, &c. A well-known York-",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10882,
+"x1": 0.21529,
+"y0": 0.53636,
+"y1": 0.54795,
+"text": "shire surname.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.1228,
+"x1": 0.35793,
+"y0": 0.55,
+"y1": 0.56091,
+"text": "Richard de Akerode, co. York. W.2.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12198,
+"x1": 0.35752,
+"y0": 0.56057,
+"y1": 0.5725,
+"text": "1612. John Acroyd, co.York : Reg.Unir.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.108,
+"x1": 0.26626,
+"y0": 0.57011,
+"y1": 0.58409,
+"text": "Oxf. vol. ii. pt. ii.'p. 328.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.12074,
+"x1": 0.35793,
+"y0": 0.58102,
+"y1": 0.59261,
+"text": "1618. Matthew Aickroid, co. York :",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.10841,
+"x1": 0.1787,
+"y0": 0.59125,
+"y1": 0.60557,
+"text": "jbid. p. 372.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.12074,
+"x1": 0.35835,
+"y0": 0.60148,
+"y1": 0.61443,
+"text": "1619-2o. Samuel Akeroyd, co. York :",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.10759,
+"x1": 0.1787,
+"y0": 0.61239,
+"y1": 0.62568,
+"text": "jbid. p. 380.",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.12074,
+"x1": 0.35917,
+"y0": 0.61989,
+"y1": 0.63693,
+"text": "16s5. Buried-Mary, d. Robert Acrod :",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10759,
+"x1": 0.35876,
+"y0": 0.63182,
+"y1": 0.64648,
+"text": "St. Thomas the Apostie (London), p. 131.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12074,
+"x1": 0.35876,
+"y0": 0.64341,
+"y1": 0.65534,
+"text": "1678. John Somerscales and Susanna",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.11005,
+"x1": 0.3567,
+"y0": 0.65398,
+"y1": 0.66659,
+"text": "Aykroyd : Marriage Lic. (Westminster),",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.10759,
+"x1": 0.14664,
+"y0": 0.66659,
+"y1": 0.67852,
+"text": "p 179.",
+"conf": 0.889
+},
+{
+"column": 1,
+"x0": 0.12115,
+"x1": 0.35752,
+"y0": 0.67341,
+"y1": 0.68636,
+"text": "1687. Jamcs Galliere Vareilles and",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.10677,
+"x1": 0.3567,
+"y0": 0.68432,
+"y1": 0.6983,
+"text": "Faith'Aikeroyd: Marriage Alleg. (Canter-",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.10677,
+"x1": 0.18734,
+"y0": 0.69523,
+"y1": 0.70886,
+"text": "bury) p. 278.",
+"conf": 0.89
+},
+{
+"column": 1,
+"x0": 0.12033,
+"x1": 0.35711,
+"y0": 0.70511,
+"y1": 0.71841,
+"text": "West Riding Court Dir., 28, 2, 0, 2,.6 ;",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10677,
+"x1": 0.35835,
+"y0": 0.71534,
+"y1": 0.73034,
+"text": "MDB. (W. Riding), 17, 0, 1, 4, 0 ; 'Phila-",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.10759,
+"x1": 0.23173,
+"y0": 0.72716,
+"y1": 0.73943,
+"text": "delphia, 8, 0, 0, 0, 0.",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.12321,
+"x1": 0.35793,
+"y0": 0.74148,
+"y1": 0.75545,
+"text": "Acland, Ackland.---Local, ‘of",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.10718,
+"x1": 0.35793,
+"y0": 0.75477,
+"y1": 0.76841,
+"text": "Acland.' ‘From the situation of",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.10677,
+"x1": 0.35588,
+"y0": 0.76841,
+"y1": 0.78307,
+"text": "their ancient seat in Lankey, near",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10635,
+"x1": 0.35629,
+"y0": 0.78205,
+"y1": 0.79739,
+"text": "Barnstaple, co. Devon, which, being",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10594,
+"x1": 0.35711,
+"y0": 0.79568,
+"y1": 0.81034,
+"text": "in the midst of a large grove of",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10677,
+"x1": 0.35588,
+"y0": 0.80966,
+"y1": 0.82295,
+"text": "oaks (in Saxon ac), ohtained the",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10471,
+"x1": 0.35506,
+"y0": 0.82125,
+"y1": 0.83727,
+"text": "name of Ac or Oakiand. ... They",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10594,
+"x1": 0.35341,
+"y0": 0.83625,
+"y1": 0.85023,
+"text": "were settled in this place as early",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.10512,
+"x1": 0.35423,
+"y0": 0.84886,
+"y1": 0.8642,
+"text": "as the reign of Henry I1.' (Lower,",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10635,
+"x1": 0.32998,
+"y0": 0.86318,
+"y1": 0.87818,
+"text": "quoting Kimber's Baronetage.)",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.48809,
+"x1": 0.50948,
+"y0": 0.0808,
+"y1": 0.09648,
+"text": "39",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38693,
+"x1": 0.62298,
+"y0": 0.11011,
+"y1": 0.1217,
+"text": "Richard Ackelonde, co. Soms., 1 Edw.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.37377,
+"x1": 0.53703,
+"y0": 0.12034,
+"y1": 0.13364,
+"text": "I1I : Kirby's Quest, P. 247.",
+"conf": 0.927
+},
+{
+"column": 2,
+"x0": 0.38652,
+"x1": 0.62215,
+"y0": 0.13057,
+"y1": 0.14318,
+"text": "16o9. Baldwin Aclande. co. Devon,",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.35486,
+"x1": 0.59172,
+"y0": 0.14011,
+"y1": 0.15511,
+"text": "d Reg. Univ. Oxf. vol. ii. pt. ii. p. 305.",
+"conf": 0.662
+},
+{
+"column": 2,
+"x0": 0.38446,
+"x1": 0.56787,
+"y0": 0.15205,
+"y1": 0.16398,
+"text": "John Acklande, temp. Eliz.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.38529,
+"x1": 0.62133,
+"y0": 0.16159,
+"y1": 0.17352,
+"text": "164 1. Buried - Elizabeth Acklande,",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.37254,
+"x1": 0.60242,
+"y0": 0.1725,
+"y1": 0.18409,
+"text": "widdowe : St. Peter's, Cornhill, i. 198.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38364,
+"x1": 0.62174,
+"y0": 0.18239,
+"y1": 0.19636,
+"text": "Exeter, 1. 2 : MDB. ico. Devon), 3, 2 ;",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.37089,
+"x1": 0.62215,
+"y0": 0.19295,
+"y1": 0.20693,
+"text": "London, 4, 6 ; Philadelphia, 0, 2 ; Boston,",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37048,
+"x1": 0.39968,
+"y0": 0.20557,
+"y1": 0.2175,
+"text": "0, 3.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.3894,
+"x1": 0.61928,
+"y0": 0.2175,
+"y1": 0.2308,
+"text": "Acock, Acocks, Haucock,",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.37172,
+"x1": 0.62133,
+"y0": 0.23182,
+"y1": 0.24511,
+"text": "Haycock, Haycox.--Bapt. ‘ the",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.37048,
+"x1": 0.62133,
+"y0": 0.24545,
+"y1": 0.25943,
+"text": "son of Alcock,' q.v., corrupted to",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.37172,
+"x1": 0.62092,
+"y0": 0.25909,
+"y1": 0.27102,
+"text": "Accock. This took the imitative",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.37131,
+"x1": 0.62051,
+"y0": 0.27136,
+"y1": 0.285,
+"text": "form of Haycock. At least it would",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.36843,
+"x1": 0.62174,
+"y0": 0.28398,
+"y1": 0.3017,
+"text": "appear so. If we could find any",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.37007,
+"x1": 0.62133,
+"y0": 0.29784,
+"y1": 0.31352,
+"text": "instances of Halcock representing",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37007,
+"x1": 0.6201,
+"y0": 0.31148,
+"y1": 0.32716,
+"text": "Henry, we should then be obliged",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37007,
+"x1": 0.61886,
+"y0": 0.32614,
+"y1": 0.33909,
+"text": "to reter the three last to that per-",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37007,
+"x1": 0.45684,
+"y0": 0.33943,
+"y1": 0.35239,
+"text": "sonal name.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38159,
+"x1": 0.62051,
+"y0": 0.35375,
+"y1": 0.36841,
+"text": "Rogrr Accok et uxor, i379: P.T.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.37131,
+"x1": 0.4552,
+"y0": 0.36534,
+"y1": 0.37864,
+"text": "Yorks. p.. 270.",
+"conf": 0.91
+},
+{
+"column": 2,
+"x0": 0.38159,
+"x1": 0.6201,
+"y0": 0.37318,
+"y1": 0.38852,
+"text": "1633. William Aucocke and Rebecca",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.37007,
+"x1": 0.61763,
+"y0": 0.38614,
+"y1": 0.39841,
+"text": "Richardson : Marriage. Lic. (London), ii.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.37048,
+"x1": 0.39392,
+"y0": 0.39875,
+"y1": 0.40761,
+"text": "210.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.382,
+"x1": 0.6201,
+"y0": 0.40591,
+"y1": 0.41955,
+"text": "1782. Married-George_ Betterton and",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36884,
+"x1": 0.61023,
+"y0": 0.41648,
+"y1": 0.42943,
+"text": "Sarah Acock : St. Geo. Han. Sq. i. 338.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.37953,
+"x1": 0.6201,
+"y0": 0.4267,
+"y1": 0.44205,
+"text": "London, 1, 2, 1, 6, 1 ; Philadelphia, 0,",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36884,
+"x1": 0.42641,
+"y0": 0.44,
+"y1": 0.45125,
+"text": "0, 0, 2, 0.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38529,
+"x1": 0.61722,
+"y0": 0.45227,
+"y1": 0.46659,
+"text": "Acomb, Acome.--(1) Local,",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.37048,
+"x1": 0.61886,
+"y0": 0.46625,
+"y1": 0.48023,
+"text": "'of Acomb,' a parish near York.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.37007,
+"x1": 0.61928,
+"y0": 0.47955,
+"y1": 0.49386,
+"text": "(2) Local, ‘of Acomb,' two town-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36884,
+"x1": 0.61763,
+"y0": 0.49409,
+"y1": 0.50636,
+"text": "ships in the union of Hexham, co.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.36966,
+"x1": 0.49262,
+"y0": 0.5067,
+"y1": 0.51932,
+"text": "Northumberland.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37994,
+"x1": 0.61845,
+"y0": 0.5217,
+"y1": 0.53534,
+"text": "Willelmus de Acom, 1379: P. T. Yorks.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.36802,
+"x1": 0.40749,
+"y0": 0.53466,
+"y1": 0.54489,
+"text": "P. 301.",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.37953,
+"x1": 0.5321,
+"y0": 0.54182,
+"y1": 0.55716,
+"text": "Elena Acom, J379 : ibid.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.382,
+"x1": 0.6164,
+"y0": 0.55375,
+"y1": 0.56534,
+"text": "1670. MarricdHenry Acum and Eliz.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.36802,
+"x1": 0.61352,
+"y0": 0.56261,
+"y1": 0.57693,
+"text": "Blackwell : St. Jas. Clerkenwell, i. 171.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38117,
+"x1": 0.6201,
+"y0": 0.57318,
+"y1": 0.58682,
+"text": "1692. Samuel Acomb and Ann Beat :",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36802,
+"x1": 0.5946,
+"y0": 0.58409,
+"y1": 0.59807,
+"text": "Marriage Alleg: (Canterbury), p. 220.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.38035,
+"x1": 0.61763,
+"y0": 0.59432,
+"y1": 0.6083,
+"text": "1767. Married-Owen Scott and Mary",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36925,
+"x1": 0.57898,
+"y0": 0.60523,
+"y1": 0.61784,
+"text": "Acombe: St. Geo. Han. Sq. i. 170.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38076,
+"x1": 0.6164,
+"y0": 0.61545,
+"y1": 0.62943,
+"text": "West Riding Court Dir., 2, o; ' London,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.36637,
+"x1": 0.39598,
+"y0": 0.62773,
+"y1": 0.64,
+"text": "0, 3.",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.38405,
+"x1": 0.61763,
+"y0": 0.64102,
+"y1": 0.65568,
+"text": "Acott, v. Acock ; a variant ; cf.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36966,
+"x1": 0.54155,
+"y0": 0.65466,
+"y1": 0.66795,
+"text": "Glasscock for Glasscott.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38076,
+"x1": 0.44409,
+"y0": 0.66966,
+"y1": 0.68159,
+"text": "Oxford, 1.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.38405,
+"x1": 0.61516,
+"y0": 0.685,
+"y1": 0.69932,
+"text": "Acre, Acres, Acker, Akers.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.37665,
+"x1": 0.61763,
+"y0": 0.69727,
+"y1": 0.71466,
+"text": "-Local, ‘of the Acre,' or Acres,",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.3676,
+"x1": 0.61722,
+"y0": 0.71216,
+"y1": 0.7258,
+"text": "from residence beside the field or",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36719,
+"x1": 0.59213,
+"y0": 0.72523,
+"y1": 0.73955,
+"text": "fields called the Acre or Acres.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37912,
+"x1": 0.61763,
+"y0": 0.74114,
+"y1": 0.75375,
+"text": "Bartholomew de Acre, or Akers, bailiff",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36514,
+"x1": 0.54813,
+"y0": 0.74898,
+"y1": 0.7667,
+"text": "of Norwich, 1282 : FF. iii. 74:",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.37912,
+"x1": 0.60036,
+"y0": 0.76261,
+"y1": 0.77455,
+"text": "Oliver del Acre, 36 Hen. I11. BBB.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.37871,
+"x1": 0.5103,
+"y0": 0.7725,
+"y1": 0.78545,
+"text": "W'alter de! Acre, ibid.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.3783,
+"x1": 0.60077,
+"y0": 0.78239,
+"y1": 0.7967,
+"text": "Walter del Acre, C. R, 42 Hen. 11l.",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.37747,
+"x1": 0.61681,
+"y0": 0.79261,
+"y1": 0.80693,
+"text": "William del Acre, co. Essex, Hen. llI.",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.36719,
+"x1": 0.4408,
+"y0": 0.80386,
+"y1": 0.81511,
+"text": "Edw. I. K.",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.37665,
+"x1": 0.61599,
+"y0": 0.81205,
+"y1": 0.82875,
+"text": "Johannes Acrys, 1379 : P. T.Yorka.p. 29.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.3783,
+"x1": 0.57733,
+"y0": 0.82398,
+"y1": 0.83932,
+"text": "Roger Acres, 1379: ibid. p. 291.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.37871,
+"x1": 0.61599,
+"y0": 0.83523,
+"y1": 0.84818,
+"text": "1691. Bapt.-—John, 8. Richard Acres :",
+"conf": 0.935
+},
+{
+"column": 2,
+"x0": 0.36596,
+"x1": 0.53127,
+"y0": 0.8458,
+"y1": 0.85807,
+"text": "St. Jas. Clerkenwell, i. 340.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37583,
+"x1": 0.61722,
+"y0": 0.85227,
+"y1": 0.87239,
+"text": "London, 0, 2, 1, 8 : Philadelphia, I, 0,",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.36555,
+"x1": 0.39845,
+"y0": 0.86898,
+"y1": 0.87886,
+"text": "27, 0.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.67994,
+"x1": 0.83991,
+"y0": 0.08284,
+"y1": 0.09443,
+"text": "ADAMTHWAITE",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65074,
+"x1": 0.88103,
+"y0": 0.10943,
+"y1": 0.12307,
+"text": "Acton.---Local, ‘ of  Acton.",
+"conf": 0.779
+},
+{
+"column": 3,
+"x0": 0.63471,
+"x1": 0.88391,
+"y0": 0.12307,
+"y1": 0.13705,
+"text": "There are in England no less than",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63347,
+"x1": 0.8835,
+"y0": 0.13739,
+"y1": 0.15068,
+"text": "sixteen parishes, hamlets, town-",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63306,
+"x1": 0.88432,
+"y0": 0.15068,
+"y1": 0.16466,
+"text": "ships, &c., called Acton, i.e. the",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.63347,
+"x1": 0.82428,
+"y0": 0.16466,
+"y1": 0.17693,
+"text": "farmstcad among the oaks.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6454,
+"x1": 0.87322,
+"y0": 0.1783,
+"y1": 0.1933,
+"text": "John de Aketon, co. Soms., I273. A.",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.64581,
+"x1": 0.88103,
+"y0": 0.1892,
+"y1": 0.20284,
+"text": "Nicholas de Aketon, co. 'Northumb.,",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.63306,
+"x1": 0.65979,
+"y0": 0.20045,
+"y1": 0.21034,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64581,
+"x1": 0.88268,
+"y0": 0.21068,
+"y1": 0.22193,
+"text": "John de Actone, co. Soms., I Edw.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63183,
+"x1": 0.79714,
+"y0": 0.21955,
+"y1": 0.23489,
+"text": "I1l : Kirby's Quest, p. 188.",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.64458,
+"x1": 0.88103,
+"y0": 0.23148,
+"y1": 0.24375,
+"text": "Drue de Acton, co. Norf., c. Hen. IlI :",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.63183,
+"x1": 0.7042,
+"y0": 0.24136,
+"y1": 0.25364,
+"text": "FF. ix. 111.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.64252,
+"x1": 0.88268,
+"y0": 0.25159,
+"y1": 0.26489,
+"text": "Johannes de Ayketon, 1379: P. T.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63142,
+"x1": 0.71777,
+"y0": 0.26182,
+"y1": 0.2758,
+"text": "Yorks. p. 25!.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64293,
+"x1": 0.88103,
+"y0": 0.27136,
+"y1": 0.285,
+"text": "1569.' Bapt. -- Alexdr., son of Alexdr.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.63142,
+"x1": 0.83621,
+"y0": 0.28125,
+"y1": 0.29591,
+"text": "Acton': St. Jas. Clerkenwell, i: 5.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.64211,
+"x1": 0.88144,
+"y0": 0.29102,
+"y1": 0.30739,
+"text": "1582. John Acton.. co. Salop: Reg.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63142,
+"x1": 0.81482,
+"y0": 0.30307,
+"y1": 0.31466,
+"text": "Univ. Oxf. vol. ii. pt. ii. p. 119.",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.64211,
+"x1": 0.81318,
+"y0": 0.3125,
+"y1": 0.32716,
+"text": "London, 6 ; Philadelphia, 7.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64704,
+"x1": 0.87939,
+"y0": 0.32784,
+"y1": 0.34045,
+"text": "Acworth. --Local, ‘ofAck-",
+"conf": 0.947
+},
+{
+"column": 3,
+"x0": 0.63018,
+"x1": 0.88021,
+"y0": 0.34045,
+"y1": 0.35511,
+"text": "worth,' a parish near Wakefield,",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63183,
+"x1": 0.69639,
+"y0": 0.35614,
+"y1": 0.3667,
+"text": "co. York.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64293,
+"x1": 0.87939,
+"y0": 0.36977,
+"y1": 0.38205,
+"text": "Ricardus de Ackeworthe, 1379: P. T.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.63101,
+"x1": 0.70873,
+"y0": 0.37966,
+"y1": 0.39261,
+"text": "Yorks. p. 6o.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64211,
+"x1": 0.87363,
+"y0": 0.38852,
+"y1": 0.40386,
+"text": "Adam de Ackeworth, 1379: ibid. p. 33.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64211,
+"x1": 0.88062,
+"y0": 0.39943,
+"y1": 0.41409,
+"text": "1529-3o. Robert Charnock and Frances",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.63059,
+"x1": 0.86993,
+"y0": 0.41034,
+"y1": 0.42364,
+"text": "Acworth : Marriage Lic. (London), i. 7.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64252,
+"x1": 0.8798,
+"y0": 0.42125,
+"y1": 0.43386,
+"text": "1589. Richard Ackworth. London :",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62977,
+"x1": 0.84854,
+"y0": 0.43114,
+"y1": 0.44443,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 172.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64252,
+"x1": 0.88062,
+"y0": 0.44205,
+"y1": 0.45364,
+"text": "16oy-!. Buried - Thomas  Acworth :",
+"conf": 0.916
+},
+{
+"column": 3,
+"x0": 0.62936,
+"x1": 0.81606,
+"y0": 0.45193,
+"y1": 0.46523,
+"text": "St. U:onis Backchurch, p. 205.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64293,
+"x1": 0.80907,
+"y0": 0.46284,
+"y1": 0.47545,
+"text": "West Riding Court Dir., I.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.64622,
+"x1": 0.87856,
+"y0": 0.47614,
+"y1": 0.49011,
+"text": "Adam, Adames, Adams,",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.85101,
+"x1": 0.88103,
+"y0": 0.49114,
+"y1": 0.50375,
+"text": "of",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.63059,
+"x1": 0.87856,
+"y0": 0.50364,
+"y1": 0.51625,
+"text": "Adam.' Almost the prime favourite",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62895,
+"x1": 0.88021,
+"y0": 0.51591,
+"y1": 0.53159,
+"text": "as a font-name in the 13th century ;",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62936,
+"x1": 0.87733,
+"y0": 0.53091,
+"y1": 0.54352,
+"text": "V. Addis, Adcock, Atkins, Atkinson,",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63018,
+"x1": 0.87856,
+"y0": 0.54386,
+"y1": 0.55818,
+"text": "Addyman, &c. Adams is remark-",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62936,
+"x1": 0.87939,
+"y0": 0.55716,
+"y1": 0.57114,
+"text": "ably well represented in the United",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62854,
+"x1": 0.87939,
+"y0": 0.5708,
+"y1": 0.58511,
+"text": "States. A single glance at the Index",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62813,
+"x1": 0.87774,
+"y0": 0.58477,
+"y1": 0.59705,
+"text": "to Hotten's Lists of Emigrants will",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.87692,
+"y0": 0.59739,
+"y1": 0.61136,
+"text": "sufice to show that many Adams,",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62936,
+"x1": 0.87939,
+"y0": 0.61239,
+"y1": 0.62466,
+"text": "Addams, Adamsons, or Addamsons",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6273,
+"x1": 0.84649,
+"y0": 0.62466,
+"y1": 0.63966,
+"text": "were among the early settlers.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.6417,
+"x1": 0.8214,
+"y0": 0.63966,
+"y1": 0.65193,
+"text": "John fil. Adam, co. Oxf., 1273:",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64129,
+"x1": 0.82387,
+"y0": 0.6492,
+"y1": 0.66318,
+"text": "Hugh Gl. Adam, co. Oxf., ibid.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.63923,
+"x1": 0.83909,
+"y0": 0.65875,
+"y1": 0.67409,
+"text": "Gernan Adain, co. Camb., ibid.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64087,
+"x1": 0.83374,
+"y0": 0.66932,
+"y1": 0.68398,
+"text": "Juliana Adaus, co. Hunts, ibid.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.63923,
+"x1": 0.87774,
+"y0": 0.67989,
+"y1": 0.69489,
+"text": "Johannes Adamson, 1379: P. T. Yorks.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.66637,
+"y0": 0.69318,
+"y1": 0.70409,
+"text": "p. 112.",
+"conf": 0.9
+},
+{
+"column": 3,
+"x0": 0.63882,
+"x1": 0.87733,
+"y0": 0.70136,
+"y1": 0.71466,
+"text": "Johannes Adam, carnifex, 1379: ibid.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.66637,
+"y0": 0.7142,
+"y1": 0.72477,
+"text": "p. I13.",
+"conf": 0.868
+},
+{
+"column": 3,
+"x0": 0.63964,
+"x1": 0.87198,
+"y0": 0.72216,
+"y1": 0.73443,
+"text": "Thomas Adamson, .379 : ibid. p. 300.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.84279,
+"x1": 0.87733,
+"y0": 0.73341,
+"y1": 0.7433,
+"text": "Anne",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.87774,
+"y0": 0.7425,
+"y1": 0.75614,
+"text": "Addams : Marriage Lic. (London), ii. 80.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.6417,
+"x1": 0.87733,
+"y0": 0.75307,
+"y1": 0.76568,
+"text": "1640-1. Thoinas A i: mes and Eliz.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.76383,
+"y0": 0.76364,
+"y1": 0.77659,
+"text": "Emerson: ibid. p. 256.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63841,
+"x1": 0.87815,
+"y0": 0.77352,
+"y1": 0.78818,
+"text": "London, 11, 2, 18o, 14: Boston, 9. 0,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62772,
+"x1": 0.67295,
+"y0": 0.78648,
+"y1": 0.79705,
+"text": "363、 14.",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.64375,
+"x1": 0.87856,
+"y0": 0.79739,
+"y1": 0.81068,
+"text": "Adamthwaite. -- Local, 'of",
+"conf": 0.811
+},
+{
+"column": 3,
+"x0": 0.62607,
+"x1": 0.88062,
+"y0": 0.81034,
+"y1": 0.82534,
+"text": "Adamthwaite' (i. e. the clearing of",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.87692,
+"y0": 0.825,
+"y1": 0.83727,
+"text": "Adam the first settler, probably in",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62566,
+"x1": 0.87898,
+"y0": 0.83659,
+"y1": 0.8533,
+"text": "the 12th century), a small hamlet",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62525,
+"x1": 0.87733,
+"y0": 0.85057,
+"y1": 0.86557,
+"text": "in Ravenstonedale, co. Westm.;",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.71572,
+"y0": 0.86625,
+"y1": 0.8775,
+"text": "v. Thwaites.",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.69639,
+"x1": 0.88227,
+"y0": 0.91534,
+"y1": 0.94807,
+"text": "Digitized by Googl",
+"conf": 0.983
+}
+]

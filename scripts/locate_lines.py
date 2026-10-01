@@ -1,10 +1,10 @@
 """Find where each transcribed record sits on its page scan, so the website can point at the exact line.
 
-The archive.org OCR text is too garbled to use as data, but its line boxes are accurate and its text is
-close enough to fuzzy-match against our transcriptions. Records are matched in column order.
+Uses our own OCR of the high-resolution scans (source/ocr/, from scripts/local_ocr.py), fuzzy-matching each
+transcribed citation to an OCR line, in column order. Falls back to the archive.org OCR (downloaded by byte
+range) for any page without local OCR; that OCR is old and loses many lines, so prefer local_ocr.py.
 
-  python scripts/locate_lines.py 37 40
-Downloads the hOCR for those pages (by byte range) and writes data/line_positions.json.
+  python scripts/locate_lines.py 37 50     -> data/line_positions.json
 """
 import gzip, html, json, os, re, sys, urllib.request
 from difflib import SequenceMatcher
@@ -90,16 +90,32 @@ def key(r):
     return "|".join([str(r["page"]), r["headword"], r["first_name"], r["last_name"], r["record_text"]])
 
 
+def local_lines(p):
+    """Lines from our own OCR (scripts/local_ocr.py), by column: {column: [(x0, y0, x1, y1, text)]}."""
+    path = os.path.join(ROOT, "source", "ocr", f"p{p:04d}.json")
+    if not os.path.exists(path):
+        return None
+    by_col = {}
+    for l in json.load(open(path, encoding="utf-8")):
+        by_col.setdefault(l["column"], []).append((l["x0"], l["y0"], l["x1"], l["y1"], l["text"]))
+    return by_col
+
+
 def main(first, last):
     pages = json.load(open(os.path.join(ROOT, "data", "pages.json"), encoding="utf-8"))
-    hocr = fetch_hocr([pages[str(p)]["leaf"] for p in range(first, last + 1)])
-    positions, found, approx, total = {}, 0, 0, 0
+    positions, found, approx, total, used_archive = {}, 0, 0, 0, []
     for p in range(first, last + 1):
         meta = pages[str(p)]
         rows = json.load(open(os.path.join(ROOT, "data", "raw", f"p{p:04d}.json"), encoding="utf-8"))
-        lines = ocr_lines(hocr[meta["leaf"]])
+        local = local_lines(p)
+        if local is None:  # fall back to the archive's OCR for pages not yet OCR'd locally
+            used_archive.append(p)
+            lines = ocr_lines(fetch_hocr([meta["leaf"]])[meta["leaf"]])
         for c, (cx0, cx1) in enumerate(meta["columns"], 1):
-            in_col = sorted((l for l in lines if cx0 - 0.01 <= (l[0] + l[2]) / 2 <= cx1 + 0.01), key=lambda l: l[1])
+            if local is not None:
+                in_col = sorted(local.get(c, []), key=lambda l: l[1])
+            else:
+                in_col = sorted((l for l in lines if cx0 - 0.01 <= (l[0] + l[2]) / 2 <= cx1 + 0.01), key=lambda l: l[1])
             col = [l for l in in_col if l[4].strip()]
             col_rows = [r for r in rows if r["column"] == c]
             spans = [None] * len(col_rows)  # (top, bottom) where the OCR text matched
@@ -118,6 +134,10 @@ def main(first, last):
                     # Try joining with the next line too, but only if it is physically the next line.
                     if i + 1 < len(col) and col[i + 1][1] - col[i][3] < 0.006:
                         s = max(s, score(target, col[i][4] + " " + col[i + 1][4]) - 0.05)
+                    # Citations look alike (", co. Oxf., 1273. A."): unless the line matches very closely,
+                    # the name itself must be on it, or a missing line drags every later match out of place.
+                    if s < 0.8 and name_score(r, col[i][4]) < 0.5:
+                        continue
                     if s > best:
                         best, best_i = s, i
                 if best_i is not None and best >= 0.55:
@@ -134,7 +154,8 @@ def main(first, last):
                 lo, hi = (prev[1] - 0.002) if prev else 0, (nxt[0] + 0.002) if nxt else 1
                 target = r["record_text"] or r["headword"]
                 cands = [l for l in col if lo <= l[1] and l[3] <= hi]
-                scored = [(max(score(target, l[4]) + 0.1, name_score(r, l[4])), l) for l in cands]
+                scored = [(max(score(target, l[4]) + 0.1, name_score(r, l[4])), l) for l in cands
+                          if name_score(r, l[4]) >= 0.5 or score(target, l[4]) >= 0.8]
                 if scored:
                     s, line = max(scored, key=lambda t: t[0])
                     if s >= 0.6:
@@ -177,6 +198,8 @@ def main(first, last):
         json.dump(positions, f, ensure_ascii=False, indent=0)
     print(f"{total} rows: {found} matched to an OCR line, {approx} placed between neighbours, "
           f"{total - found - approx} column only")
+    if used_archive:
+        print("used archive.org OCR (run scripts/local_ocr.py for better results) on pages", used_archive)
 
 
 if __name__ == "__main__":
