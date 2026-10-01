@@ -593,11 +593,12 @@
   "event": "",
   "place": "Yorkshire",
   "county": "Yorkshire",
-  "notes": "First name printed 'Johu', possibly a misprint for John",
+  "notes": "First name printed 'Johu' (confirmed by eye)",
   "source_abbrev": "W. 7",
   "source": "Illustrative Documents (Surtees Society)",
   "record_text": "Johu le Aleman, co. York. W. 7.",
-  "confidence": "high"
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 49,

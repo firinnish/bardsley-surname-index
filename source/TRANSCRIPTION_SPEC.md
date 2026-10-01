@@ -82,6 +82,14 @@ you are not sure of the reading, put your best reading of the PRINTED letters fo
 and describe the damage in notes. Do not offer a modern equivalent in the name fields; a note may say
 "possibly a misprint for ..." if helpful. Editorial expansions of abbreviations in [square brackets] are allowed.
 
+### Human-checked rows
+
+A row with `"human_checked": true` has been confirmed by a person reading the scan. Never change its
+name, date or record_text, and never re-flag it as unclear. New transcriptions don't set this field;
+confirmations are recorded in `scripts/apply_human_checks.py` (re-runnable), which sets it.
+Note that a print that looks odd in a crop may be a partly cut-off letter, not a medieval spelling: if the
+letter is damaged, use "?" and let a human confirm.
+
 ### Gender
 
 Do not infer gender from a first name. A parent is "Parent of ..." unless the print says father/mother

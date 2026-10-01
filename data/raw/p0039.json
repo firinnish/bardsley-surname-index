@@ -493,11 +493,12 @@
   "event": "Marriage licence",
   "place": "",
   "county": "",
-  "notes": "Marriage allegation (licence) with James Galliere Varcilles?",
+  "notes": "Marriage allegation (licence) with James Galliere Vareilles",
   "source_abbrev": "Marriage Alleg. (Canterbury), p. 278",
   "source": "Allegations for Marriage Licences issued by the Vicar-General of the Archbishop of Canterbury, 1660-1694 (Harleian Society), p. 278",
-  "record_text": "1687. James Galliere Varcilles and Faith Aikeroyd: Marriage Alleg. (Canterbury), p. 278.",
-  "confidence": "low"
+  "record_text": "1687. James Galliere Vareilles and Faith Aikeroyd: Marriage Alleg. (Canterbury), p. 278.",
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 39,
@@ -508,16 +509,17 @@
   "author_comment": "Cf. Ormerod, Murgatroyd, &c. A well-known Yorkshire surname.",
   "modern_distribution": "West Riding Court Dir., 28, 2, 0, 2, 6; MDB. (W. Riding), 17, 0, 1, 4, 0; Philadelphia, 8, 0, 0, 0, 0",
   "first_name": "James Galliere",
-  "last_name": "Varcilles?",
+  "last_name": "Vareilles",
   "date": "1687",
   "event": "Marriage licence",
   "place": "",
   "county": "",
-  "notes": "[Unclear: fourth letter could be c or e (Varcilles or Vareilles)] Marriage allegation (licence) with Faith Aikeroyd",
+  "notes": "Marriage allegation (licence) with Faith Aikeroyd",
   "source_abbrev": "Marriage Alleg. (Canterbury), p. 278",
   "source": "Allegations for Marriage Licences issued by the Vicar-General of the Archbishop of Canterbury, 1660-1694 (Harleian Society), p. 278",
-  "record_text": "1687. James Galliere Varcilles and Faith Aikeroyd: Marriage Alleg. (Canterbury), p. 278.",
-  "confidence": "low"
+  "record_text": "1687. James Galliere Vareilles and Faith Aikeroyd: Marriage Alleg. (Canterbury), p. 278.",
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 39,

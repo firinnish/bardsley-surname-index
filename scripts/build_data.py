@@ -153,7 +153,8 @@ def main():
             missing = [k for k in FIELDS if k not in r]
             if missing:
                 problems.append(f"{os.path.basename(path)} row {i}: missing {missing}")
-            rows.append({k: r.get(k, "") for k in FIELDS})
+            # human_checked: a person has confirmed this reading against the scan (optional, default false).
+            rows.append({k: r.get(k, "") for k in FIELDS} | {"human_checked": bool(r.get("human_checked"))})
 
     # A headword can run across a page break; give every row the fullest version of its headword fields.
     head = {}
@@ -186,12 +187,13 @@ def main():
             "source_work": source_work(r["source"]),
             "archive_url": ARCHIVE.format(page=r["page"]),
             "line": line,
+            "human_checked": r["human_checked"],
         })
 
     # For the website: surname-level fields stored once per headword, records point at them.
     HEAD_KEYS = ("headword", "origin", "meaning", "author_comment", "modern_distribution")
     REC_KEYS = ("id", "first_name", "last_name", "date", "year_from", "year_to", "event", "place", "location",
-                "location_from_source", "notes", "source_abbrev", "source", "source_work", "record_text", "page", "column", "line", "confidence")
+                "location_from_source", "notes", "source_abbrev", "source", "source_work", "record_text", "page", "column", "line", "confidence", "human_checked")
     headwords, h_index, records = [], {}, []
     for r in out:
         if r["headword"] not in h_index:
@@ -211,7 +213,7 @@ def main():
         json.dump(site, f, ensure_ascii=False, separators=(",", ":"))
     cols = ["id", "first_name", "last_name", "meaning", "origin", "date", "year_from", "year_to", "event",
             "location", "location_from_source", "place", "notes", "author_comment", "source", "source_work", "source_abbrev", "record_text",
-            "page", "column", "headword", "modern_distribution", "confidence", "archive_url"]
+            "page", "column", "headword", "modern_distribution", "confidence", "human_checked", "archive_url"]
     with open(os.path.join(ROOT, "data", "entries.csv"), "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()

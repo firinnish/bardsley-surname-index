@@ -1107,17 +1107,18 @@
   "meaning": "the son of Aldred",
   "author_comment": "This personal name died out soon after the surname epoch, and instances of its occurrence as a fontal name are scarce.",
   "modern_distribution": "London, 9, 0; Boston (U.S.), 2, 1",
-  "first_name": "Henrv",
+  "first_name": "Henry",
   "last_name": "Aldred",
   "date": "1603",
   "event": "",
   "place": "Rushall, Norfolk",
   "county": "Norfolk",
-  "notes": "vicar of Rushall (first name printed 'Henrv', possibly a misprint for Henry)",
+  "notes": "Vicar of Rushall",
   "source_abbrev": "FF. v. 343",
   "source": "History of Norfolk (Blomefield and Parkin), vol. v, p. 343",
-  "record_text": "1603. Henrv Aldred, vicar of Rushall, co. Norf.: FF. v. 343.",
-  "confidence": "high"
+  "record_text": "1603. Henry Aldred, vicar of Rushall, co. Norf.: FF. v. 343.",
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 45,

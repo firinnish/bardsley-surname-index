@@ -553,11 +553,12 @@
   "event": "Marriage licence",
   "place": "London",
   "county": "London",
-  "notes": "[Unclear: spouse's first name printed 'Kobeit', possibly a damaged/misprinted Robert] Licence to marry Kobeit Eton",
+  "notes": "Licence to marry Robert Eton",
   "source_abbrev": "Marriage Lic. (London), i. 33",
   "source": "Allegations for Marriage Licences issued by the Bishop of London, 1520-1828 (Harleian Society), i. 33",
-  "record_text": "1565-6. Kobeit Eton and Margaret Aleblaster: Marriage Lic. (London), i. 33.",
-  "confidence": "low"
+  "record_text": "1565-6. Robert Eton and Margaret Aleblaster: Marriage Lic. (London), i. 33.",
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 43,
@@ -567,17 +568,18 @@
   "meaning": "the Arbalester, i.e. cross-bowman; O.F. arbalestier; v. H.E.D.",
   "author_comment": "Illustrated by verses from Robert of Gloucester ('Spearmen anote, and bowemen, and also arblasters') and Chaucer, Rom. Rose, 4196 ('Of arblasters great plentie were').",
   "modern_distribution": "London, 5, 0; Philadelphia, 0, 1",
-  "first_name": "Kobeit",
+  "first_name": "Robert",
   "last_name": "Eton",
   "date": "1565-6",
   "event": "Marriage licence",
   "place": "London",
   "county": "London",
-  "notes": "[Unclear: first name printed 'Kobeit', possibly a damaged/misprinted Robert] Licence to marry Margaret Aleblaster",
+  "notes": "Licence to marry Margaret Aleblaster",
   "source_abbrev": "Marriage Lic. (London), i. 33",
   "source": "Allegations for Marriage Licences issued by the Bishop of London, 1520-1828 (Harleian Society), i. 33",
-  "record_text": "1565-6. Kobeit Eton and Margaret Aleblaster: Marriage Lic. (London), i. 33.",
-  "confidence": "low"
+  "record_text": "1565-6. Robert Eton and Margaret Aleblaster: Marriage Lic. (London), i. 33.",
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 43,

@@ -828,16 +828,17 @@
   "author_comment": "Alfried, Alfred, Alfrey; cf. Godfrey, Godfried, Humfrey, Humfreid: Yonge, i. pp. lxviii and lxxviii.",
   "modern_distribution": "London, 1, 3, 0, 0; Crockford, 0, 0, 5, 0; Philadelphia, 0, 0, 0, 1",
   "first_name": "Thomas",
-  "last_name": "Alfrav",
+  "last_name": "Alfray",
   "date": "1379",
   "event": "",
   "place": "West Riding of Yorkshire",
   "county": "Yorkshire",
-  "notes": "Surname printed 'Alfrav', possibly a misprint (or broken y) for Alfray",
+  "notes": "",
   "source_abbrev": "ibid.",
   "source": "Poll Tax, West Riding of Yorkshire, 1379, p. 9",
-  "record_text": "Thomas Alfrav, 1379: ibid.",
-  "confidence": "low"
+  "record_text": "Thomas Alfray, 1379: ibid.",
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 46,

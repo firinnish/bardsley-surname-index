@@ -21,6 +21,7 @@ Internet Archive into `book/`.
 | `data/entries.csv` | Every row, flat, for spreadsheets. |
 | `data/entries.json` | Same data for the page (surname-entry fields stored once per headword). |
 | `data/raw/pNNNN.json` | Hand-checked transcription of each printed page. **Edit these to fix mistakes**, then rebuild. |
+| `scripts/apply_human_checks.py` | Readings a person has confirmed against the scan. Add to its list and re-run; those rows get `human_checked: true` and are never changed again. |
 | `data/sources.json` | Bardsley's key to abbreviations (pp. xiii–xvi): `A` = Hundred Rolls 1273, `K` = Testa de Nevill, etc. |
 | `data/pages.json` | Scan size and column boundaries per page. |
 | `data/line_positions.json` | Where each record sits on its scan, for the line box in the viewer. |
