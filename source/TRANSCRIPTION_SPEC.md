@@ -73,6 +73,21 @@ One row per citation line (per named person record). Fields:
 - **Quoted literary passages** (e.g. a line of Chaucer) are not people: put them in `author_comment` only if short, else skip.
 - Do NOT emit rows for the directory-count lines (`London, 8, 4, 4; ...`) or `MDB.` lines; they go in `modern_distribution`.
 
+### Never modernise or correct spellings
+
+Names, `record_text` and every other transcribed field keep the book's exact letters, even when they look like
+misprints: medieval spellings are often strange. "Kobeit" stays "Kobeit" (or "Robeit?" if the first letter is
+genuinely unclear), never "Robert"; "Johu" stays "Johu"; "Henrv" stays "Henrv". Where a letter is damaged and
+you are not sure of the reading, put your best reading of the PRINTED letters followed by "?" (e.g. "Alfrav?"),
+and describe the damage in notes. Do not offer a modern equivalent in the name fields; a note may say
+"possibly a misprint for ..." if helpful. Editorial expansions of abbreviations in [square brackets] are allowed.
+
+### Gender
+
+Do not infer gender from a first name. A parent is "Parent of ..." unless the print says father/mother
+(pater/mater). "fil." may be filius or filia, so its child is "child of ...". Use son/daughter, wife/husband,
+widow only when the print states it ("s.", "d.", "uxor", "relicta", "Married").
+
 ### One row per NAME (overrides the special cases above where they differ)
 
 The database is for searching names, so **every personal name printed in a citation gets its own row**, not
@@ -83,7 +98,7 @@ and `notes`. Put the extra rows directly after the headword-bearer's row, in the
 - **Marriages / licences**: `"1648. Married—George Abbey and Mary Feild"` -> row George Abbey (notes `"Married Mary Feild"`)
   AND row Mary Feild (notes `"Married George Abbey"`).
 - **Baptisms**: `"1631. Bapt.—Eliz., d. Henrye Abbes"` -> row Eliz[abeth] Abbes (notes `"Daughter of Henrye Abbes"`)
-  AND row Henrye Abbes (notes `"Father of Eliz[abeth] Abbes, baptised"`). When the child's surname is implied, copy it:
+  AND row Henrye Abbes (notes `"Parent of Eliz[abeth] Abbes, baptised"`). When the child's surname is implied, copy it:
   `"1641. Bapt.—Willm., s. Willm. Abbison"` gives Will[iam] Abbison (child) and Will[iam] Abbison (father).
   `"John, son of John and Susanah Adee"` gives three rows.
 - **Burials from a house**: `"Buried—George Woodlve, from Dan. Abiss"` -> Dan[iel] Abiss (notes `"George Woodlve was buried from his house"`)
@@ -92,7 +107,7 @@ and `notes`. Put the extra rows directly after the headword-bearer's row, in the
   `last_name: "(unknown)"` (never assume a wife shared her husband's surname), notes `"Wife (uxor ejus) of Johannes del Abdy"`.
   Use `"(unknown)"` for any surname that is not printed. An unnamed wife (`"et uxor"`) gets no row.
 - **Patronymics** (`fil.`, `son of`, `relicta`): `"John fil. Adam"` -> John with `last_name: "fil. Adam"` AND a row for the
-  parent: first `"Adam"`, last `"(unknown)"`, notes `"Father of John fil. Adam. Recorded as a patronymic - may not necessarily
+  parent: first `"Adam"`, last `"(unknown)"`, notes `"Parent of John fil. Adam. Recorded as a patronymic - may not necessarily
   be nominative form"` (for `relicta X`: `"Husband of ..."`).
 - **dictus / alias / or**: `"William de Mikelfeld, dictus del Abbay"` -> TWO rows: William `"de Mikelfeld"` (notes
   `"Also called William del Abbay"`) and William `"del Abbay"` (notes `"Also called William de Mikelfeld"`).
