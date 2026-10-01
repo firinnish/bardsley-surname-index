@@ -4,7 +4,7 @@ A searchable database of the people cited in C. W. Bardsley, *A Dictionary of En
 Surnames, with Special American Instances* (1901), from the Internet Archive scan
 [adictionaryengl00goog](https://archive.org/details/adictionaryengl00goog).
 
-Transcribed so far: printed pages 37–40 (307 names under 44 surname entries).
+Transcribed so far: printed pages 37–50 (1,039 names, 949 of them dated, under 149 surname entries).
 Each row is one name as printed; people named together in one record each get a row. Surnames not printed
 (wives, parents named in patronymics) are "(unknown)".
 

@@ -49,7 +49,11 @@ def column_bounds(pix):
                 x += 1
             rules.append((start + x) / 2)
         x += 1
-    rules = [r for r in rules if 0.25 * w < r < 0.75 * w][:2]
+    kept = []
+    for r in rules:  # a smudge next to a rule can look like a second rule; rules are a column apart
+        if 0.25 * w < r < 0.75 * w and (not kept or r - kept[-1] > 0.15 * w):
+            kept.append(r)
+    rules = kept[:2]
     if len(rules) == 2:
         # Columns are equal width, so the outer edges follow from the rules
         # (more robust than ink, which picks up specks in the scan margins).

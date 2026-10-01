@@ -29,11 +29,14 @@ REIGNS = {
 }
 REIGN_RE = re.compile(
     r"(?:(\d{1,2})(?:\s*-\s*(\d{1,2}))?\s+)?"
-    r"(Will|Wm|Hen|Edw|Ric|Steph|John|Eliz|Elizabeth|Jas|Chas|Mary|Anne|Geo)\.?"
+    r"(William|Will|Wm|Henry|Hen|Edward|Edw|Richard|Ric|Stephen|Steph|John|Eliz|Elizabeth|James|Jas|Charles|Chas|Mary|Anne|George|Geo)\b\.?"
     r"(?:\s+(VIII|VII|VI|IV|V|III|II|I)\b)?")
+FULL_NAMES = {"William": "Will", "Wm": "Will", "Henry": "Hen", "Edward": "Edw", "Richard": "Ric", "Stephen": "Steph",
+              "Elizabeth": "Eliz", "James": "Jas", "Charles": "Chas", "George": "Geo"}
+ROMAN = {"xi": 11, "xii": 12, "xiii": 13, "xiv": 14, "xv": 15, "xvi": 16, "xvii": 17, "xviii": 18}
 
 def reign_key(name, numeral):
-    name = {"Wm": "Will", "Elizabeth": "Eliz"}.get(name, name)
+    name = FULL_NAMES.get(name, name)
     if name in ("John", "Mary", "Anne"):
         return name
     if name in ("Steph", "Eliz"):
@@ -51,9 +54,18 @@ def year_range(date):
     'Hen. III-Edw. I' -> (1216, 1307). Returns (None, None) when undatable."""
     if not date:
         return None, None
+    # Edward the Confessor (Domesday's "T.R.E.", "King Edward's reign", "the Confessor's survey").
+    if re.search(r"Confessor|King Edward's reign|T\. ?R\. ?E\.", date):
+        return 1042, 1066
+    m = re.search(r"\b(x[ivx]+|\d{2})(?:th|st|nd|rd)\.? cent", date, re.I)
+    if m:
+        g = m.group(1)
+        c = int(g) if g.isdigit() else ROMAN.get(g.lower())
+        if c:
+            return (c - 1) * 100, (c - 1) * 100 + 99
     years = []
     for m in REIGN_RE.finditer(date):
-        if not (m.group(3) and (m.group(4) or m.group(3) in ("John", "Mary", "Anne", "Steph", "Eliz", "Elizabeth"))):
+        if not (m.group(3) and (m.group(4) or m.group(3) in ("John", "Mary", "Anne", "Steph", "Stephen", "Eliz", "Elizabeth"))):
             continue
         key = reign_key(m.group(3), m.group(4))
         if key not in REIGNS:
