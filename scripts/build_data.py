@@ -188,12 +188,14 @@ def main():
             "archive_url": ARCHIVE.format(page=r["page"]),
             "line": line,
             "human_checked": r["human_checked"],
+            # A forename pulled out of someone else's patronymic ("Adam" from "John fil. Adam"): hidden by default.
+            "constructed_from_patronymic": "Recorded as a patronymic" in r["notes"],
         })
 
     # For the website: surname-level fields stored once per headword, records point at them.
     HEAD_KEYS = ("headword", "origin", "meaning", "author_comment", "modern_distribution")
     REC_KEYS = ("id", "first_name", "last_name", "date", "year_from", "year_to", "event", "place", "location",
-                "location_from_source", "notes", "source_abbrev", "source", "source_work", "record_text", "page", "column", "line", "confidence", "human_checked")
+                "location_from_source", "notes", "source_abbrev", "source", "source_work", "record_text", "page", "column", "line", "confidence", "human_checked", "constructed_from_patronymic")
     headwords, h_index, records = [], {}, []
     for r in out:
         if r["headword"] not in h_index:
@@ -213,7 +215,7 @@ def main():
         json.dump(site, f, ensure_ascii=False, separators=(",", ":"))
     cols = ["id", "first_name", "last_name", "meaning", "origin", "date", "year_from", "year_to", "event",
             "location", "location_from_source", "place", "notes", "author_comment", "source", "source_work", "source_abbrev", "record_text",
-            "page", "column", "headword", "modern_distribution", "confidence", "human_checked", "archive_url"]
+            "page", "column", "headword", "modern_distribution", "confidence", "human_checked", "constructed_from_patronymic", "archive_url"]
     with open(os.path.join(ROOT, "data", "entries.csv"), "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()

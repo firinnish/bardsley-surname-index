@@ -14,11 +14,6 @@
 0.6282,
 1
 ],
-"37|Abbey, Abbee, Abbe|Ralph|le Abbe|Ralph le Abbe, co. Devon, Hen. III-Edw. I. K.": [
-0.638,
-0.647,
-0
-],
 "37|Abbey, Abbee, Abbe|William|le Abbe|William le Abbe, co. Devon, ibid.": [
 0.6478,
 0.6585,
@@ -29,16 +24,6 @@
 0.679,
 1
 ],
-"37|Abbey, Abbee, Abbe|William|de Mikelfeld|William de Mikelfeld, dictus del Abbay, 12-13 Edw. I: Freemen of York, i. 4.": [
-0.6781,
-0.6904,
-0
-],
-"37|Abbey, Abbee, Abbe|William|del Abbay|William de Mikelfeld, dictus del Abbay, 12-13 Edw. I: Freemen of York, i. 4.": [
-0.6896,
-0.7002,
-0
-],
 "37|Abbey, Abbee, Abbe|William|del Abbay|William del Abbay, ceynturer: ibid.": [
 0.6986,
 0.7109,
@@ -47,7 +32,7 @@
 "37|Abbey, Abbee, Abbe|George|Abbey|1594. George Abbey, Magd. Coll.: Reg. Univ. Oxf. iii. 181.": [
 0.7101,
 0.7215,
-0
+1
 ],
 "37|Abbey, Abbee, Abbe|Richard|Abby|1601. Richard Abby and Eliz. Hodgkins: Marriage Lic. (London), i. 267.": [
 0.7305,
@@ -58,16 +43,6 @@
 0.7305,
 0.7527,
 1
-],
-"37|Abbey, Abbee, Abbe|George|Abbey|1648. Married—George Abbey and Mary Feild: St. Jas. Clerkenwell, iii. 82.": [
-0.7502,
-0.7625,
-0
-],
-"37|Abbey, Abbee, Abbe|Mary|Feild|1648. Married—George Abbey and Mary Feild: St. Jas. Clerkenwell, iii. 82.": [
-0.7625,
-0.7723,
-0
 ],
 "37|Abbinett||Abbinett|": [
 0.792,
@@ -109,6 +84,16 @@
 0.4308,
 1
 ],
+"37|Abbiss|Elizabeth Dianah|Abbiss|1779. James Rycroft and Elizabeth Dianah Abbiss: St. Geo. Han. Sq. i. 303.": [
+0.5192,
+0.5446,
+1
+],
+"37|Abbiss|James|Rycroft|1779. James Rycroft and Elizabeth Dianah Abbiss: St. Geo. Han. Sq. i. 303.": [
+0.5192,
+0.5446,
+1
+],
 "37|Abbitt, Abbot, Abbott, Abbotson, Abbett|Henry|Abbod|Henry Abbod, co. Oxf., 1273. A.": [
 0.6314,
 0.6421,
@@ -124,16 +109,6 @@
 0.6626,
 1
 ],
-"37|Abbitt, Abbot, Abbott, Abbotson, Abbett|Juliana|Abbot|Juliana Abbot, co. Bedf., ibid.": [
-0.6626,
-0.6708,
-0
-],
-"37|Abbitt, Abbot, Abbott, Abbotson, Abbett|Margareta|Abbot|Margareta Abbot, co. Camb., ibid.": [
-0.6691,
-0.6822,
-0
-],
 "37|Abbitt, Abbot, Abbott, Abbotson, Abbett|Anne|Abbitt|1720. Married—Edward Sanders and Anne Abbitt: St. Antholin, London, p. 134.": [
 0.683,
 0.7019,
@@ -142,6 +117,21 @@
 "37|Abbitt, Abbot, Abbott, Abbotson, Abbett|Edward|Sanders|1720. Married—Edward Sanders and Anne Abbitt: St. Antholin, London, p. 134.": [
 0.683,
 0.7019,
+1
+],
+"37|Abbs, Abson, Abbison|William|fil. Abi|William fil. Abi, co. Bucks, 1273. A.": [
+0.7035,
+0.7125,
+0
+],
+"37|Abbs, Abson, Abbison|Abi|(unknown)|William fil. Abi, co. Bucks, 1273. A.": [
+0.7035,
+0.7125,
+0
+],
+"37|Abbs, Abson, Abbison|Willelmus|Abson|Willelmus Abson, 1379: P. T. Yorks. p. 71.": [
+0.7314,
+0.7437,
 1
 ],
 "37|Abbs, Abson, Abbison|John|Abbys|John Abbys, co. Norf., 1480: FF. vi. 445.": [
@@ -294,6 +284,11 @@
 0.7748,
 1
 ],
+"38|Ablewhite||Ablewhite|": [
+0.7887,
+0.8034,
+1
+],
 "38|Ablin|Thomas|Abelyn|Thomas Abelyn, co. Kent, 1273. A.": [
 0.864,
 0.8771,
@@ -314,24 +309,14 @@
 0.1441,
 1
 ],
-"38|Ablin|Thomas|Ablin|1721. — Thomas, son of Francis Ablin: ibid. ii. 127.": [
-0.1441,
-0.1561,
-0
-],
-"38|Ablin|Francis|Ablin|1721. — Thomas, son of Francis Ablin: ibid. ii. 127.": [
-0.1507,
-0.1627,
-0
-],
-"38|Abraham, Abrahams, Abrahamson, Abram, Abrams, Abramson|John|Abraam|John Abraam, co. Bedf., 1273. A.": [
-0.1572,
-0.1692,
-0
-],
 "38|Abraham, Abrahams, Abrahamson, Abram, Abrams, Abramson|Ralph|Abraham|Ralph Abraham, co. Camb., ibid.": [
 0.1704,
 0.1851,
+1
+],
+"38|Abraham, Abrahams, Abrahamson, Abram, Abrams, Abramson|John|Abraham|John Abraham, co. Soms., 1 Edw. III: Kirby's Quest, p. 111.": [
+0.2113,
+0.2383,
 1
 ],
 "38|Abraham, Abrahams, Abrahamson, Abram, Abrams, Abramson|William|fil. Abraham|William fil. Abraham, co. Linc., 20 Edw. I. R.": [
@@ -367,21 +352,21 @@
 "38|Abry|Edward|Abrey|1598. Edward Abrey: Reg. Univ. Oxf. i. 349.": [
 0.7723,
 0.7838,
-0
+1
 ],
 "38|Abry|Arthure|Abry|'Alice, married to Arthure Abry, of Charnish, in com. Wilts': Visitation of Dorsetshire, 1623, p. 15.": [
-0.783,
-0.8034,
-0
+0.7936,
+0.8133,
+1
 ],
 "38|Abry|Alice|(unknown)|'Alice, married to Arthure Abry, of Charnish, in com. Wilts': Visitation of Dorsetshire, 1623, p. 15.": [
 0.7936,
-0.8051,
-0
+0.8133,
+1
 ],
 "38|Abry|Elizabeth|Abrey|1786. Married—Richard Lucas and Elizabeth Abrey: St. Geo. Han. Sq. i. 392.": [
-0.8034,
-0.8133,
+0.8256,
+0.8354,
 0
 ],
 "38|Abry|Richard|Lucas|1786. Married—Richard Lucas and Elizabeth Abrey: St. Geo. Han. Sq. i. 392.": [
@@ -444,6 +429,11 @@
 0.3505,
 1
 ],
+"38|Abson||Abson|": [
+0.3645,
+0.3784,
+1
+],
 "38|Aburn|Henry|Ateburn|Henry Ateburn, co. Bucks, 1273. A.": [
 0.439,
 0.4513,
@@ -474,20 +464,10 @@
 0.5078,
 1
 ],
-"38|Aburn|John|Aburne|1695. John Aburne and Ann With: Marriage Lic. (Faculty Office), p. 216.": [
-0.5356,
-0.5504,
-0
-],
-"38|Aburn|Ann|With|1695. John Aburne and Ann With: Marriage Lic. (Faculty Office), p. 216.": [
-0.5356,
-0.5504,
-0
-],
 "38|Acatour, Achatour|Bernard|le Acatour|Bernard le Acatour, temp. 1300. M.": [
 0.5356,
 0.5504,
-0
+1
 ],
 "38|Acatour, Achatour|Henry|le Achator|Henry le Achator. H.": [
 0.5667,
@@ -502,6 +482,11 @@
 "38|Achard||Achard|": [
 0.6658,
 0.6781,
+1
+],
+"38|Ackerman, Ackermann, Akerman, Akermann|Roger|le Acreman|Roger le Acreman, co. Oxf., 1273. A.": [
+0.7428,
+0.7568,
 1
 ],
 "39|Ackerman, Ackermann, Akerman, Akermann|Peter|de Akerman|Peter de Akerman, co. Oxf., 1273. A.": [
@@ -527,6 +512,16 @@
 "39|Acklom|Eliz[abeth]|Robinson|1806. —John Philip Acklam and Eliz. Robinson: St. Geo. Han. Sq. ii. 353.": [
 0.4242,
 0.4529,
+1
+],
+"39|Ackroyd, Ecroyd, Ackeroyd, Akroyd, Akeroyd|Richard|de Akerode|Richard de Akerode, co. York. W. 2.": [
+0.4808,
+0.4947,
+1
+],
+"39|Ackroyd, Ecroyd, Ackeroyd, Akroyd, Akeroyd|John|Acroyd|1612. John Acroyd, co. York: Reg. Univ. Oxf. vol. ii. pt. ii. p. 328.": [
+0.4947,
+0.5217,
 1
 ],
 "39|Ackroyd, Ecroyd, Ackeroyd, Akroyd, Akeroyd|Matthew|Aickroid|1618. Matthew Aickroid, co. York: ibid. p. 372.": [
@@ -574,6 +569,21 @@
 0.1843,
 1
 ],
+"39|Acock, Acocks, Haucock, Haycock, Haycox|Roger|Accok|Roger Accok et uxor, 1379: P. T. Yorks. p. 270.": [
+0.2596,
+0.2858,
+1
+],
+"39|Acock, Acocks, Haucock, Haycock, Haycox|William|Aucocke|1633. William Aucocke and Rebecca Richardson: Marriage Lic. (London), ii. 210.": [
+0.5758,
+0.5962,
+1
+],
+"39|Acock, Acocks, Haucock, Haycock, Haycox|Rebecca|Richardson|1633. William Aucocke and Rebecca Richardson: Marriage Lic. (London), ii. 210.": [
+0.5758,
+0.5962,
+1
+],
 "39|Acock, Acocks, Haucock, Haycock, Haycox|Sarah|Acock|1782. Married—George Betterton and Sarah Acock: St. Geo. Han. Sq. i. 338.": [
 0.5913,
 0.6175,
@@ -619,11 +629,6 @@
 0.2637,
 1
 ],
-"39|Acton|Alexd[e]r|Acton|1569. Bapt.—Alexdr., son of Alexdr. Acton: St. Jas. Clerkenwell, i. 5.": [
-0.2738,
-0.2858,
-0
-],
 "39|Acton|John|Acton|1582. John Acton, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 119.": [
 0.294,
 0.3153,
@@ -648,16 +653,6 @@
 0.7314,
 0.7551,
 1
-],
-"39|Adam, Adames, Adams, Adamson|Thomas|Adames?|1640-1. Thomas Adames and Eliz. Emerson: ibid. p. 256.": [
-0.7748,
-0.7862,
-0
-],
-"39|Adam, Adames, Adams, Adamson|Eliz[abeth]|Emerson|1640-1. Thomas Adames and Eliz. Emerson: ibid. p. 256.": [
-0.7748,
-0.7862,
-0
 ],
 "39|Adamthwaite||Adamthwaite|": [
 0.7985,
@@ -684,16 +679,6 @@
 0.2048,
 1
 ],
-"40|Adcock, Atcock|Hamme|son of Adecock|'Hamme, son of Adecock, held 29 acres of land': De Lacy Inquisition, 1311.": [
-0.2039,
-0.2146,
-0
-],
-"40|Adcock, Atcock|Adecock|(unknown)|'Hamme, son of Adecock, held 29 acres of land': De Lacy Inquisition, 1311.": [
-0.2351,
-0.2482,
-0
-],
 "40|Adcock, Atcock|Robertus|Adcok|Robertus Adcok, 1379: P. T. Yorks. p. 203.": [
 0.3129,
 0.3243,
@@ -702,7 +687,7 @@
 "40|Adcock, Atcock|Robertus|Adkokson|Robertus Adkokson, 1379: ibid. p. 287.": [
 0.3342,
 0.3448,
-0
+1
 ],
 "40|Adcock, Atcock|William|Atcok|William Atcok, 1379: ibid. p. 234.": [
 0.3448,
@@ -759,6 +744,11 @@
 0.5954,
 1
 ],
+"40|Addinell||Addinell|": [
+0.611,
+0.6241,
+1
+],
 "40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Nicholas|fil. Ade|Nicholas fil. Ade, 1379: P. T. Yorks. p. 203.": [
 0.7944,
 0.8059,
@@ -809,6 +799,31 @@
 0.1212,
 1
 ],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|John|Addye|1574. John Addye and Eliz. Walker: Marriage Alleg. (Canterbury), p. 5.": [
+0.1474,
+0.1777,
+1
+],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Eliz[abeth]|Walker|1574. John Addye and Eliz. Walker: Marriage Alleg. (Canterbury), p. 5.": [
+0.1474,
+0.1777,
+1
+],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Edward|Adice|1575. Edward Adice, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 65.": [
+0.19,
+0.2088,
+1
+],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Agnes|Adye|1580. Thomas Buller and Agnes Adye: Marriage Alleg. (Canterbury), p. 7.": [
+0.2105,
+0.2318,
+1
+],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Thomas|Buller|1580. Thomas Buller and Agnes Adye: Marriage Alleg. (Canterbury), p. 7.": [
+0.2105,
+0.2318,
+1
+],
 "40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Leah|Ady|1665. Henry Marsh and Leah Ady: Marriage Alleg. (Canterbury), p. 106.": [
 0.2523,
 0.2744,
@@ -847,6 +862,16 @@
 "40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Susanah|Adee|1699. Bapt.—John, son of John and Susanah Adee: St. Dionis Backchurch, London, p. 138.": [
 0.3251,
 0.3456,
+1
+],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|Edward|Addis|1713.—Edward, son of John Addis: St. Jas. Clerkenwell, ii. 71.": [
+0.4521,
+0.4783,
+1
+],
+"40|Addis, Addison, Adds, Addy, Ade, Ades, Adey, Adie, Ady, Addey, Aday, Adee|John|Addis|1713.—Edward, son of John Addis: St. Jas. Clerkenwell, ii. 71.": [
+0.4521,
+0.4783,
 1
 ],
 "40|Addyman|Elizabeth|Addeman|1775. Samuel Hill and Elizabeth Addeman: St. Geo. Han. Sq. i. 248.": [
@@ -950,8 +975,8 @@
 1
 ],
 "40|Adlard|Athelard|de Barwe|Athelard de Barwe: Close Roll, 2 Edw. I.": [
-0.7617,
-0.7715,
+0.774,
+0.7821,
 0
 ],
 "40|Adlard|Adam|Adelard|Adam Adelard, co. Camb., 1273. A.": [
@@ -1015,8 +1040,8 @@
 1
 ],
 "41|Adlin, Adling|Adelinus|(unknown)|Adelinus (without surname), co. Linc., ibid.": [
-0.199,
 0.2113,
+0.2203,
 0
 ],
 "41|Adlin, Adling|William|Adelyn|William Adelyn, co. Norf., ibid.": [
@@ -1044,11 +1069,6 @@
 0.2637,
 1
 ],
-"41|Adlin, Adling|Margaret|Adlyn|1558. — Margaret Adlyn: St. Peter's, Cornhill, i. 113.": [
-0.2637,
-0.2757,
-0
-],
 "41|Adlin, Adling|Jane|Adlin|1572. Bapt.—Jane, d. of John Adlin: ibid. p. 14.": [
 0.294,
 0.3063,
@@ -1057,6 +1077,16 @@
 "41|Adlin, Adling|John|Adlin|1572. Bapt.—Jane, d. of John Adlin: ibid. p. 14.": [
 0.294,
 0.3063,
+1
+],
+"41|Adlin, Adling|Elizabeth|Adlyn|'Elizabeth, d. of John Adlyn, of London, draper, 1625': Visitation of London, 1634, ii. 241.": [
+0.3514,
+0.3776,
+1
+],
+"41|Adlin, Adling|John|Adlyn|'Elizabeth, d. of John Adlyn, of London, draper, 1625': Visitation of London, 1634, ii. 241.": [
+0.3514,
+0.3776,
 1
 ],
 "41|Adnam, Adlam, Adman, Adlum, Adnum|Anne|Adman|1574-5. Robert Kychell and Anne Adman: Marriage Lic. (London), i. 63.": [
@@ -1138,6 +1168,26 @@
 0.8526,
 0.8763,
 1
+],
+"41|Adney|Elinor|Adney|1792. Married—Lazarus Plummer and Elinor Adney: St. Geo. Han. Sq. ii. 73.": [
+0.1769,
+0.2023,
+1
+],
+"41|Adney|Lazarus|Plummer|1792. Married—Lazarus Plummer and Elinor Adney: St. Geo. Han. Sq. ii. 73.": [
+0.1769,
+0.2023,
+1
+],
+"41|Adrain, Adrian, Adrinson|John|Adrien|John Adrien, co. Suff., 1273. A.": [
+0.2547,
+0.2645,
+0
+],
+"41|Adrain, Adrian, Adrinson|John|Adrian|John Adrian, 1258, sheriff of London: WWW.": [
+0.2547,
+0.2645,
+0
 ],
 "41|Adrain, Adrian, Adrinson|Audrian|Awdryan|1565-6. Audrian Awdryan and Christiane Ede: Marriage Lic. (London), i. 32.": [
 0.2662,
@@ -1274,21 +1324,6 @@
 0.5471,
 1
 ],
-"41|Agasson, Agace, Aggas, Haggis|Agacia|de Gatesdon|Agacia de Gatesdon, co. Devon, ibid.": [
-0.5471,
-0.5591,
-0
-],
-"41|Agasson, Agace, Aggas, Haggis|Robert|fil Agacie|Robert fil Agacie, co. Camb., ibid.": [
-0.5549,
-0.5669,
-0
-],
-"41|Agasson, Agace, Aggas, Haggis|Agacie|(unknown)|Robert fil Agacie, co. Camb., ibid.": [
-0.5627,
-0.5747,
-0
-],
 "41|Agasson, Agace, Aggas, Haggis|Symon|Agace|Symon Agace, co. Hunts, ibid.": [
 0.5782,
 0.588,
@@ -1359,24 +1394,19 @@
 0.1925,
 1
 ],
-"42|Agate|James|Agate|1768. Married—James Agate and Ann Bennett: St. Geo. Han. Sq. i. 177.": [
-0.1908,
-0.2023,
-0
-],
 "42|Agate|Ann|Bennett|1768. Married—James Agate and Ann Bennett: St. Geo. Han. Sq. i. 177.": [
-0.2179,
-0.2318,
-0
+0.1908,
+0.2121,
+1
 ],
 "42|Agg, Agge|Alice|Agge|Alice Agge, co. Oxf., 1273. A.": [
-0.231,
-0.2449,
-0
+0.2179,
+0.2318,
+1
 ],
 "42|Agg, Agge|Thomas|Agge|Thomas Agge, co. Oxf., ibid.": [
-0.2449,
-0.2588,
+0.2744,
+0.2957,
 0
 ],
 "42|Agg, Agge|William|Agge|William Agge, co. Linc., ibid.": [
@@ -1481,13 +1511,13 @@
 ],
 "42|Ainsley, Ainslie, Annesley, Aynsley|Martha|Ainsley|1751. — John Sharp and Martha Ainsley: ibid. p. 194.": [
 0.3874,
-0.3997,
-0
+0.4193,
+1
 ],
 "42|Ainsley, Ainslie, Annesley, Aynsley|John|Sharp|1751. — John Sharp and Martha Ainsley: ibid. p. 194.": [
-0.4005,
+0.3874,
 0.4193,
-0
+1
 ],
 "42|Ainsworth|William|de Aynesworth|William de Aynesworth, co. Lanc., 1332: Lay Subsidy (Rylands), p. 33.": [
 0.4824,
@@ -1525,8 +1555,8 @@
 1
 ],
 "42|Airey, Airy, Airay|Henry|Airay|'Henry Airay (1560?-1616), a puritan divine and author, was born at Kentmere, Westmoreland, being son of William Airay, the favourite servant of Bernard Gilpin': ibid.": [
-0.7502,
-0.7666,
+0.7584,
+0.7715,
 0
 ],
 "42|Airey, Airy, Airay|William|Airay|'Henry Airay (1560?-1616), a puritan divine and author, was born at Kentmere, Westmoreland, being son of William Airay, the favourite servant of Bernard Gilpin': ibid.": [
@@ -1749,16 +1779,6 @@
 0.6601,
 1
 ],
-"43|Alabaster, Allblaster|James|Arblaster|James Arblaster, co. Norf., 29 Hen. VI: FF. viii. 300.": [
-0.6757,
-0.6871,
-0
-],
-"43|Alabaster, Allblaster|Odo|Arbalistar|Odo Arbalistar, co. Norf., temp. Stephen: ibid. xi. 142.": [
-0.6757,
-0.6871,
-0
-],
 "43|Alabaster, Allblaster|Margaret|Aleblaster|1565-6. Robert Eton and Margaret Aleblaster: Marriage Lic. (London), i. 33.": [
 0.7052,
 0.7305,
@@ -1814,6 +1834,26 @@
 0.5864,
 1
 ],
+"43|Albery, Albury|Willelmus|Dyan|Willelmus Dyan et Albray uxor ejus, 1379: P. T. Yorks. p. 42.": [
+0.6364,
+0.6642,
+1
+],
+"43|Albery, Albury|Albray|(unknown)|Willelmus Dyan et Albray uxor ejus, 1379: P. T. Yorks. p. 42.": [
+0.6364,
+0.6642,
+1
+],
+"43|Albery, Albury|Samuell|Albury|1683. Bapt.—Samuell, s. William Albury: St. Mary Aldermary, p. 109.": [
+0.7494,
+0.7707,
+1
+],
+"43|Albery, Albury|William|Albury|1683. Bapt.—Samuell, s. William Albury: St. Mary Aldermary, p. 109.": [
+0.7494,
+0.7707,
+1
+],
 "43|Albin|Albin|le Porteur|Albin le Porteur. N.": [
 0.8198,
 0.8288,
@@ -1829,24 +1869,514 @@
 0.8616,
 1
 ],
+"44|Albin|Albin|de Dereby|Earlier still, in 1269, we find one Albin de Dereby forbidden to dwell within the precincts of London city: WWW. p. 125.": [
+0.1138,
+0.154,
+1
+],
+"44|Albin|Mary|Albin|1664. Bapt.—Mary, d. Hugh Albin: St. Jas. Clerkenwell, i. 221.": [
+0.1835,
+0.2154,
+1
+],
+"44|Albin|Hugh|Albin|1664. Bapt.—Mary, d. Hugh Albin: St. Jas. Clerkenwell, i. 221.": [
+0.1835,
+0.2154,
+1
+],
+"44|Albin|Benign|Albin|1786. Married—Benign Albin and Louisa Charlier: St. Geo. Han. Sq. i. 382.": [
+0.1982,
+0.2252,
+1
+],
+"44|Albin|Louisa|Charlier|1786. Married—Benign Albin and Louisa Charlier: St. Geo. Han. Sq. i. 382.": [
+0.1982,
+0.2252,
+1
+],
+"44|Albinson, Albeson, Allbeson, Albason|Isabella|fil. Albin|Isabella fil. Albin, co. Camb., 1273. A.": [
+0.2965,
+0.3071,
+1
+],
+"44|Albinson, Albeson, Allbeson, Albason|Albin|(unknown)|Isabella fil. Albin, co. Camb., 1273. A.": [
+0.2965,
+0.3071,
+1
+],
+"44|Albinson, Albeson, Allbeson, Albason|John|fil. Albini|John fil. Albini, co. Camb., ibid.": [
+0.3071,
+0.3178,
+1
+],
+"44|Albinson, Albeson, Allbeson, Albason|Albini|(unknown)|John fil. Albini, co. Camb., ibid.": [
+0.3071,
+0.3178,
+1
+],
+"44|Albinson, Albeson, Allbeson, Albason|Jane|Alberson|1790. Married—James Barlow and Jane Alberson: St. Geo. Han. Sq. ii. 40.": [
+0.3514,
+0.3735,
+1
+],
+"44|Albinson, Albeson, Allbeson, Albason|James|Barlow|1790. Married—James Barlow and Jane Alberson: St. Geo. Han. Sq. ii. 40.": [
+0.3514,
+0.3735,
+1
+],
+"44|Albon, Albone|James|Albon|1787. Married—James Albon and Ann Pook: St. Geo. Han. Sq. i. 401.": [
+0.4627,
+0.4848,
+1
+],
+"44|Albon, Albone|Ann|Pook|1787. Married—James Albon and Ann Pook: St. Geo. Han. Sq. i. 401.": [
+0.4627,
+0.4848,
+1
+],
+"44|Albury, Albro|David|de Aldebury|David de Aldebury, co. Salop, 1273. A.": [
+0.57,
+0.5815,
+1
+],
+"44|Albury, Albro|Stephen|de Aldebury|Stephen de Aldebury, co. Oxf., ibid.": [
+0.5807,
+0.5921,
+1
+],
+"44|Albury, Albro|William|de Aldebiry|William de Aldebiry, co. Oxf., Hen. III-Edw. I. K.": [
+0.5905,
+0.6102,
+1
+],
+"44|Albury, Albro|Richard|de Aldeburgh|Richard de Aldeburgh, co. Bedf., 20 Edw. I. R.": [
+0.6118,
+0.6224,
+1
+],
+"44|Albury, Albro|William|Alberry|1809. Married—William Alberry and Esther Kemp: St. Geo. Han. Sq. ii. 420.": [
+0.6323,
+0.6544,
+1
+],
+"44|Albury, Albro|Esther|Kemp|1809. Married—William Alberry and Esther Kemp: St. Geo. Han. Sq. ii. 420.": [
+0.6323,
+0.6544,
+1
+],
+"44|Albutt, Allbutt|John|Albot|John Albot, co. Devon, 1273. A.": [
+0.6806,
+0.6945,
+1
+],
+"44|Albutt, Allbutt|Augustin|Albot|Augustin Albot, co. Hunts, ibid.": [
+0.7658,
+0.7764,
+0
+],
+"44|Albutt, Allbutt|Roger|Albot|Roger Albot, co. Bedf., ibid.": [
+0.7658,
+0.7764,
+0
+],
+"44|Albutt, Allbutt|Henry|Albot|Henry Albot, rector of Rockland, co. Norf., 1350: FF. v. 486.": [
+0.7658,
+0.7764,
+0
+],
+"44|Albutt, Allbutt|Sarah|Allbut|1751. Married—Joseph Haddock and Sarah Allbut: St. Geo. Chap. Mayfair, p. 198.": [
+0.7731,
+0.7887,
+1
+],
+"44|Albutt, Allbutt|Joseph|Haddock|1751. Married—Joseph Haddock and Sarah Allbut: St. Geo. Chap. Mayfair, p. 198.": [
+0.7731,
+0.7887,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Matilda|Alcoke|'The same holds one messuage which formerly belonged to Matilda Alcoke, doghtyr.': Rental of Halifax (1439)": [
+0.1409,
+0.181,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Alcoke|of Hynganderode|'The same holds one tenement which formerly belonged to Alcoke of Hynganderode': Rental of Halifax (1439), Cotton MSS. Vespasian; F. 15, Brit. Mus.": [
+0.181,
+0.2351,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Alcok|de Stonys|Alcok de Stonys, co. Derbys., 1273. A.": [
+0.2391,
+0.2514,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Johannes|Alcokson|Johannes Alcokson, 1379: P. T. Yorks. p. 124.": [
+0.2482,
+0.2613,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Ellenor|Alcocke|1627. Richard Hatton and Ellenor Alcocke: Marriage Lic. (London), ii. 191.": [
+0.3743,
+0.3956,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Richard|Hatton|1627. Richard Hatton and Ellenor Alcocke: Marriage Lic. (London), ii. 191.": [
+0.3743,
+0.3956,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Cecilia|Allicok|Cecilia Allicok, 1379: P. T. Yorks. p. 124.": [
+0.6093,
+0.6216,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Henry|Alycock|Henry Alycock, rector of Colney, co. Norf., 1481: FF. v. 3.": [
+0.6233,
+0.6519,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Thoma|Alicok|'In 1493, Thoma Alicok gave 10 marks to buy a cope': ibid. iv. 128.": [
+0.6495,
+0.6724,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Frances|Allicock|1692. Thoma Abbott and Frances Allicock: Marriage Lic. (London), ii. 313.": [
+0.6716,
+0.6937,
+1
+],
+"44|Alcock, Alecock, Allcock, Alcockson|Thoma|Abbott|1692. Thoma Abbott and Frances Allicock: Marriage Lic. (London), ii. 313.": [
+0.6716,
+0.6937,
+1
+],
+"44|Aldam'||Aldam|": [
+0.7093,
+0.7232,
+1
+],
+"44|Alden, Aldin, Aldine|William|de Aldwinshaw|William de Aldwinshaw, 1422: Baines' Lanc. i. 440.": [
+0.1826,
+0.2031,
+1
+],
+"44|Alden, Aldin, Aldine|Adam|de Aldewyneshawe|Adam de Aldewyneshawe, co. Lanc., 20 Edw. I: R. p. 230.": [
+0.2023,
+0.2244,
+1
+],
+"44|Alden, Aldin, Aldine|Aldwina|de Blancpain|Aldwina de Blancpain, Hen. III-Edw. I. K.": [
+0.2236,
+0.2351,
+1
+],
+"44|Alden, Aldin, Aldine|William|Aldyn|William Aldyn, co. Soms., 1 Edw. III: Kirby's Quest, p. 104.": [
+0.2408,
+0.2654,
+1
+],
+"44|Alden, Aldin, Aldine|Richard|Aldewyn|Richard Aldewyn, co. Wilts, 1273. A.": [
+0.2621,
+0.276,
+1
+],
+"44|Alden, Aldin, Aldine|Alexander|Aldeyn|Alexander Aldeyn, co. Oxf., ibid.": [
+0.2752,
+0.2867,
+1
+],
+"44|Alden, Aldin, Aldine|Robert|fil. Aldun|Robert fil. Aldun, co. Oxf., ibid.": [
+0.2867,
+0.2948,
+1
+],
+"44|Alden, Aldin, Aldine|Aldun|(unknown)|Robert fil. Aldun, co. Oxf., ibid.": [
+0.2867,
+0.2948,
+1
+],
+"44|Alden, Aldin, Aldine|Reginald|Aldyne|Reginald Aldyne, co. Norf., ibid.": [
+0.2965,
+0.3079,
+1
+],
 "44|Alden, Aldin, Aldine|Philip|Aldwin|1678-9. Philip Aldwin and Susanna Weekes: Marriage Lic. (Westminster), p. 294.": [
-0.0806,
-0.0885,
+0.4046,
+0.4308,
 1
 ],
 "44|Alden, Aldin, Aldine|Susanna|Weekes|1678-9. Philip Aldwin and Susanna Weekes: Marriage Lic. (Westminster), p. 294.": [
-0.0806,
-0.0885,
+0.4046,
+0.4308,
 1
 ],
-"45|Aldwinckle|William|Allwinckle|1648. Married-William Allwinckle and Mary King: St. Dionis Backchurch (London), p. 26.": [
-0.0642,
-0.0727,
+"44|Alder|Thomas|in the Alren|Thomas in the Alren, co. Soms., 1 Edw. III: Kirby's Quest, p. 182.": [
+0.5143,
+0.5373,
+1
+],
+"44|Alder|Henry|in the Alren|Henry in the Alren, co. Soms., 1 Edw. III: ibid. p. 259.": [
+0.5348,
+0.5577,
+1
+],
+"44|Alder|Isaacke|Alders|1605. Buried—Isaacke, s. Henrie Alders: St. Jas. Clerkenwell, iv. 89.": [
+0.5766,
+0.5979,
+1
+],
+"44|Alder|Henrie|Alders|1605. Buried—Isaacke, s. Henrie Alders: St. Jas. Clerkenwell, iv. 89.": [
+0.5766,
+0.5979,
+1
+],
+"44|Alder|Margrett|(unknown)|1621. — Margrett, wife of Richard Alder: ibid. p. 154.": [
+0.5971,
+0.6298,
+1
+],
+"44|Alder|Richard|Alder|1621. — Margrett, wife of Richard Alder: ibid. p. 154.": [
+0.5971,
+0.6298,
+1
+],
+"44|Alder|Eliz[abeth]|Alder|1743.—Eliz. Alder: St. Thomas the Apostle (London), p. 156.": [
+0.6118,
+0.6405,
+1
+],
+"44|Alderman|Aldermann'|de Bretford|Aldermann' de Bretford, co. Sussex, 1273. A.": [
+0.7109,
+0.7224,
+1
+],
+"44|Alderman|Jukel|Alderman|Jukel Alderman, Sheriff of London, 1194: WWW. p. 187.": [
+0.7248,
+0.7543,
+1
+],
+"44|Alderman|Jacob|Alderman|Jacob Alderman, Sheriff of London, 1199: ibid. p. 188.": [
+0.7502,
+0.7731,
+1
+],
+"44|Alderman|Robert|le Alderman|Robert le Alderman, co. Norf., 1273. A.": [
+0.7731,
+0.7846,
+1
+],
+"44|Alderman|Thomas|Alderman|Thomas Alderman, rector of St. Buttolph, Norwich, 1388: FF. iv. 442.": [
+0.8043,
+0.8272,
+1
+],
+"44|Alderman|Thomas|Alderman|1691. Bapt.—Thomas, son of Joseph Alderman: St. Jas. Clerkenwell, i. 341.": [
+0.8239,
+0.8485,
+1
+],
+"44|Alderman|Joseph|Alderman|1691. Bapt.—Thomas, son of Joseph Alderman: St. Jas. Clerkenwell, i. 341.": [
+0.8239,
+0.8485,
+1
+],
+"45|Aldersey|Ralph|Aldersey|Ralph Aldersey, of Chester, alderman, 1555: Wills at Chester (1545-1620), p. 3.": [
+0.3227,
+0.3489,
+1
+],
+"45|Aldersey|Thomas|Aldersey|Thomas Aldersey, of Middle Aldersey, Cheshire, 1588: ibid.": [
+0.3497,
+0.3759,
+1
+],
+"45|Aldersey|Hugh|Aldersey|Hugh Aldersey, of Aldersey, yeoman, 1635: ibid. (1620-50), p. 3.": [
+0.4218,
+0.4488,
+1
+],
+"45|Alderson|John|Aldeson|1554. John Aldeson: Reg. Univ. Oxf. vol. ii. pt. ii. p. xiv.": [
+0.4791,
+0.498,
+1
+],
+"45|Alderson|John|Alderson|1591. John Alderson, of London: ibid. p. 183.": [
+0.4996,
+0.5111,
+1
+],
+"45|Alderson|Richard|Alderson|1620. Bapt.-Richard, son of Richard Alderson: St. Jas. Clerkenwell, i. 88.": [
+0.7412,
+0.7649,
+1
+],
+"45|Aldham, Aldam|Eunice|Aldham|1671. Richard Kingsmill and Eunice Aldham: Marriage Lic. (Faculty Office), p. 117.": [
+0.7641,
+0.7862,
+1
+],
+"45|Aldham, Aldam|Richard|Kingsmill|1671. Richard Kingsmill and Eunice Aldham: Marriage Lic. (Faculty Office), p. 117.": [
+0.7641,
+0.7862,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|William|fil. Alduse|William fil. Alduse, co. Notts, 1273. A.": [
+0.1966,
+0.2072,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Alduse|(unknown)|William fil. Alduse, co. Notts, 1273. A.": [
+0.1966,
+0.2072,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Cecilia|fil. Aldus|Cecilia fil. Aldus, co. Oxf., ibid.": [
+0.2064,
+0.2179,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Aldus|(unknown)|Cecilia fil. Aldus, co. Oxf., ibid.": [
+0.2064,
+0.2179,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Aldus|Waveloc|Aldus Waveloc, co. Camb., ibid.": [
+0.217,
+0.2285,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Hugo|fil. Aldus|Hugo fil. Aldus, co. Norf., ibid.": [
+0.2244,
+0.2391,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Aldus|(unknown)|Hugo fil. Aldus, co. Norf., ibid.": [
+0.2244,
+0.2391,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Hugo|fil. Alduse|Hugo fil. Alduse, co. Norf., ibid.": [
+0.2375,
+0.2482,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Alduse|(unknown)|Hugo fil. Alduse, co. Norf., ibid.": [
+0.2375,
+0.2482,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Alan|Haldehous|Alan Haldehous, 1379: ibid. p. 226.": [
+0.2588,
+0.2695,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Walter|Aldous|Walter Aldous, rector of Wreningham, co. Norf., 1393: FF. v. 120.": [
+0.2695,
+0.2891,
+1
+],
+"45|Aldhouse, Aldhous, Aldis, Aldous, Aldus, Alldiss|Robert|Aldhouse|Robert Aldhouse, rector of Narburgh, co. Norf., 1355: ibid. vi. 165.": [
+0.2899,
+0.3014,
+1
+],
+"45|Aldith, Awdith|Alditha|(unknown)|Alditha uxor Willelmi Aufuerer, C. R., 42 Hen. III.": [
+0.3997,
+0.412,
+1
+],
+"45|Aldith, Awdith|Willelmi|Aufuerer|Alditha uxor Willelmi Aufuerer, C. R., 42 Hen. III.": [
+0.3997,
+0.412,
+1
+],
+"45|Aldith, Awdith|Adam|fil. Aldith|Adam fil. Aldith, co. Oxf., 1273. A.": [
+0.507,
+0.5184,
+1
+],
+"45|Aldith, Awdith|Aldith|(unknown)|Adam fil. Aldith, co. Oxf., 1273. A.": [
+0.507,
+0.5184,
+1
+],
+"45|Aldith, Awdith|William|fil. Aldith|William fil. Aldith, co. Wilts, ibid.": [
+0.7412,
+0.7527,
+1
+],
+"45|Aldith, Awdith|Aldith|(unknown)|William fil. Aldith, co. Wilts, ibid.": [
+0.7412,
+0.7527,
+1
+],
+"45|Aldith, Awdith|John|Aldit|John Aldit, co. Hunts, ibid.": [
+0.7723,
+0.7838,
+1
+],
+"45|Aldrich, Aldridge|John|fil. Aldrech|John fil. Aldrech. C.": [
+0.7805,
+0.7961,
+1
+],
+"45|Aldrich, Aldridge|Aldrech|(unknown)|John fil. Aldrech. C.": [
+0.7805,
+0.7961,
+1
+],
+"45|Aldrich, Aldridge|Robertus|Aldrech|Robertus Aldrech, 1379: P. T. Yorks. p. 255.": [
+0.7912,
+0.8051,
+1
+],
+"45|Aldrich, Aldridge|John|Aldryche|John Aldryche, bailiff of Yarmouth, 1469: FF. xi. 325.": [
+0.8116,
+0.8354,
+1
+],
+"45|Aldrich, Aldridge|Peter|Aldrich|1609-10. Peter Aldrich and Catherine Rowell: Marriage Lic. (London), i. 318.": [
+0.8346,
+0.8534,
+1
+],
+"45|Aldrich, Aldridge|Catherine|Rowell|1609-10. Peter Aldrich and Catherine Rowell: Marriage Lic. (London), i. 318.": [
+0.8346,
+0.8534,
+1
+],
+"45|Aldwinckle|Henry|de Audewinkle|Henry de Audewinkle, co. Northampt., Henry III-Edw. I. K.": [
+0.1949,
+0.2138,
 1
 ],
 "45|Aldwinckle|Mary|King|1648. Married-William Allwinckle and Mary King: St. Dionis Backchurch (London), p. 26.": [
-0.0642,
-0.0727,
+0.2236,
+0.2359,
+1
+],
+"45|Aldworth|John|Aldeworth|John Aldeworth, co. Oxf., 1273. A.": [
+0.3579,
+0.3694,
+1
+],
+"45|Aldworth|Agnes|Aldeworthe|1587-8. Francis Feilde and Agnes Aldeworthe: Marriage Lic. (London), i. 168.": [
+0.3686,
+0.3898,
+1
+],
+"45|Aldworth|Francis|Feilde|1587-8. Francis Feilde and Agnes Aldeworthe: Marriage Lic. (London), i. 168.": [
+0.3686,
+0.3898,
+1
+],
+"45|Aldworth|John|Aldworth|1595. John Aldworth, co. Glouc.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 210.": [
+0.389,
+0.4087,
+1
+],
+"45|Alefounder|John|(unknown)|A confirmation by John, Abbot of Cockerham, Lancashire, 1 Ric. III ... Baines' Lanc. ii. 588.": [
+0.5692,
+0.6085,
 1
 ],
 "46|Alefounder|Thomas|Layet|'In the records of the manor of Hale in the xvth cent. one Thomas Layet is mentioned as being fined ... for having concealed the founding pot (quia concelavit le fowundynge pot), 3d.' [Three Early Metr. Rom. (Camden Soc.), p. xxxviii]": [
@@ -1854,19 +2384,14 @@
 0.1957,
 1
 ],
-"46|Alefounder|Mary|Alfounder|Mary Alfounder. PP.": [
-0.1949,
-0.208,
-0
-],
 "46|Alefounder|Richard|Alefounder|Richard Alefounder. Z.": [
 0.2498,
 0.2588,
 1
 ],
 "46|Alefounder|William|Alefounder|William Alefounder was rector of Birchamwell in 1374: FF. vii. 295.": [
-0.2604,
-0.2695,
+0.2711,
+0.2793,
 0
 ],
 "46|Alefounder|Robert|Alefounder|'There is a brass in East Bergholt Church to Robert Alefounder in the middle of the last century': N. and Q., June 11, 1887, p. 474.": [
@@ -1880,18 +2405,23 @@
 1
 ],
 "46|Alefounder|John|Alefounder|1746. - John, son of John Alefounder: ibid. p. 208.": [
-0.3841,
-0.3948,
-0
-],
-"46|Alefounder|John|Alefounder|'John Alefounder (d. 1795), portrait and miniature painter, studied at the Royal Academy, and gained a silver medal in 1782,' &c.: Dict. Nat. Biog. i. 254.": [
-0.4046,
-0.4161,
-0
+0.3612,
+0.3767,
+1
 ],
 "46|Aletunner|Walter|le Aletunnere|Walter le Aletunnere, C. R., 16 Edw. I.": [
 0.4775,
 0.4898,
+1
+],
+"46|Alexander|Geoffrey|fil. Alexandri|Geoffrey fil. Alexandri, co. Oxf., 1273. A.": [
+0.493,
+0.5061,
+1
+],
+"46|Alexander|Alexandri|(unknown)|Geoffrey fil. Alexandri, co. Oxf., 1273. A.": [
+0.493,
+0.5061,
 1
 ],
 "46|Alexander|Alexander|le Syre|Alexander le Syre, co. Hunts, ibid.": [
@@ -1940,13 +2470,13 @@
 1
 ],
 "46|Alfred, Allured|William|Alured|William Alured, co. Camb., ibid.": [
-0.475,
-0.4848,
+0.4758,
+0.4922,
 0
 ],
 "46|Alfred, Allured|Stephen|Alfrad|Stephen Alfrad, co. Oxf., ibid.": [
-0.475,
-0.4848,
+0.4758,
+0.4922,
 0
 ],
 "46|Alfred, Allured|Michael|Alfred|Michael Alfred, co. Bucks, ibid.": [
@@ -1965,14 +2495,14 @@
 0
 ],
 "46|Alfred, Allured|Thomas|Alured|1617. Thomas Alured and Mary Jones: Marriage Lic. (London), ii. 50.": [
-0.5168,
-0.525,
-0
+0.5356,
+0.5487,
+1
 ],
 "46|Alfred, Allured|Mary|Jones|1617. Thomas Alured and Mary Jones: Marriage Lic. (London), ii. 50.": [
 0.5356,
-0.5479,
-0
+0.5487,
+1
 ],
 "46|Alfred, Allured|Everell|Allured|1634. Andrew Clare and Everell Allured: ibid. p. 20.": [
 0.5569,
@@ -2054,6 +2584,26 @@
 0.4988,
 1
 ],
+"46|Alison, Allison|Nicholas|fil. Alicie|Nicholas fil. Alicie, co. Camb., ibid.": [
+0.5119,
+0.5242,
+1
+],
+"46|Alison, Allison|Alicie|(unknown)|Nicholas fil. Alicie, co. Camb., ibid.": [
+0.5119,
+0.5242,
+1
+],
+"46|Alison, Allison|Isabel|fil. Alice|Isabel fil. Alice, co. Oxf., ibid.": [
+0.525,
+0.5373,
+1
+],
+"46|Alison, Allison|Alice|(unknown)|Isabel fil. Alice, co. Oxf., ibid.": [
+0.525,
+0.5373,
+1
+],
 "46|Alison, Allison|Alisceon|de Tuxforth|Alisceon de Tuxforth, co. York. W. 2.": [
 0.6527,
 0.6642,
@@ -2099,6 +2649,16 @@
 0.8714,
 1
 ],
+"47|Alison, Allison|William|Alleson|1618. William Alleson and Eliz. Broomer: Marriage Lic. (London), ii. 60": [
+0.1212,
+0.145,
+1
+],
+"47|Alison, Allison|Eliz[abeth]|Broomer|1618. William Alleson and Eliz. Broomer: Marriage Lic. (London), ii. 60": [
+0.1212,
+0.145,
+1
+],
 "47|Alker|Margaret|Alcar|Margaret Alcar, of Ormskirk, widow, 1634: Wills at Chester (1545-1620), p. 3.": [
 0.2809,
 0.3137,
@@ -2109,25 +2669,10 @@
 0.3137,
 1
 ],
-"47|Alkins||Alkins|": [
-0.3178,
-0.3342,
-0
-],
 "47|Allamand|Oliver|Almonde|1578. Oliver Almonde, co. Oxf.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 83.": [
 0.3849,
 0.398,
 1
-],
-"47|Allamand|Roger|Allmonte|1592. Roger Allmonte, or Almon: ibid. p. 192.": [
-0.4414,
-0.4545,
-0
-],
-"47|Allamand|Roger|Almon|1592. Roger Allmonte, or Almon: ibid. p. 192.": [
-0.4414,
-0.4545,
-0
 ],
 "47|Allard, Allardson|Alard|le Fleminge|Alard le Fleminge. B.": [
 0.4832,
@@ -2158,16 +2703,6 @@
 0.5283,
 0.5479,
 1
-],
-"47|Allard, Allardson|Adelard|Baate|Adelard, or Alard Baate, 1505: Reg. Univ. Oxf. i. 40.": [
-0.5455,
-0.5569,
-0
-],
-"47|Allard, Allardson|Alard|Baate|Adelard, or Alard Baate, 1505: Reg. Univ. Oxf. i. 40.": [
-0.5561,
-0.5676,
-0
 ],
 "47|Allard, Allardson|Aluardus|de Camar|Aluardus de Camar, Hen. III-Edw. I. K.": [
 0.5667,
@@ -2215,24 +2750,24 @@
 1
 ],
 "47|Allardyce, Allardice|Alex[ander]|Allardyce|1795. Married—James Farqnhar and Helen Innes; witnesses, Alex. Allardyce and Gavin Young: St. Geo. Han. Sq. ii. 130.": [
-0.6798,
-0.6912,
-0
+0.6962,
+0.7363,
+1
 ],
 "47|Allardyce, Allardice|James|Farqnhar|1795. Married—James Farqnhar and Helen Innes; witnesses, Alex. Allardyce and Gavin Young: St. Geo. Han. Sq. ii. 130.": [
-0.7093,
-0.7224,
-0
+0.6962,
+0.7363,
+1
 ],
 "47|Allardyce, Allardice|Helen|Innes|1795. Married—James Farqnhar and Helen Innes; witnesses, Alex. Allardyce and Gavin Young: St. Geo. Han. Sq. ii. 130.": [
+0.6962,
 0.7363,
-0.7494,
-0
+1
 ],
 "47|Allardyce, Allardice|Gavin|Young|1795. Married—James Farqnhar and Helen Innes; witnesses, Alex. Allardyce and Gavin Young: St. Geo. Han. Sq. ii. 130.": [
-0.774,
-0.783,
-0
+0.6962,
+0.7363,
+1
 ],
 "47|Allatt|Robert|Aliot|Robert Aliot, 1273. A.": [
 0.8288,
@@ -2265,14 +2800,14 @@
 1
 ],
 "47|Allaway, Ellaway|Eliz[abeth]|Allaway|1731. Married—John Raymond and Eliz. Allaway, co. Bedf.: St. Antholin, London, p. 144.": [
-0.2621,
-0.276,
-0
+0.2744,
+0.2834,
+1
 ],
 "47|Allaway, Ellaway|John|Raymond|1731. Married—John Raymond and Eliz. Allaway, co. Bedf.: St. Antholin, London, p. 144.": [
 0.2744,
-0.2867,
-0
+0.2834,
+1
 ],
 "47|Allaway, Ellaway|Maria|Allaway|1807. - William Lester and Maria Allaway: St. Geo. Han. Sq. ii. 374.": [
 0.2875,
@@ -2297,12 +2832,7 @@
 "47|Allbon, Allbones|Willelmus|Albanes|Willelmus Albanes, 1379: P. T. Yorks. p. 219.": [
 0.5209,
 0.534,
-0
-],
-"47|Allbon, Allbones|Richard|Albon|Richard Albon, co. Norf., 1273. A.": [
-0.5348,
-0.5455,
-0
+1
 ],
 "47|Allbon, Allbones|Alban|Bull|1588. Bapt.—Alban, s. Thomas Bull: St. Jas. Clerkenwell, i. 20.": [
 0.5725,
@@ -2357,7 +2887,7 @@
 "47|Allbright, Albrecht, Albert, Albertson, Albright|John|Albertson|John Albertson, mayor of Yarmouth, 1688: FF. xi. 330.": [
 0.819,
 0.8296,
-0
+1
 ],
 "47|Allbright, Albrecht, Albert, Albertson, Albright|Farman|Alberd|Farman Alberd, bailiff of Yarmouth, 1325: ibid. p. 323.": [
 0.8337,
@@ -2383,21 +2913,6 @@
 0.4939,
 0.5078,
 1
-],
-"47|Allcorn, Alchin, Allchin, Alchorn, Alcorn|Stephan|Alcorn|Stephan Alcorn, co. Kent, ibid.": [
-0.5471,
-0.5594,
-0
-],
-"47|Allcorn, Alchin, Allchin, Alchorn, Alcorn|Thomas|Allcorn|Thomas Allcorn, 1774: Reg. Cant. Cath. p. 34.": [
-0.5471,
-0.5594,
-0
-],
-"47|Allcorn, Alchin, Allchin, Alchorn, Alcorn|John|Alchorne|John Alchorne, 1690: St. Mary Aldermary (London), p. 110.": [
-0.5471,
-0.5594,
-0
 ],
 "47|Allcorn, Alchin, Allchin, Alchorn, Alcorn|Alex[ander]|Alchorne|Alex. Alchorne, of Southampton, married, 1695: St. Dionis Backchurch (London), p. 44.": [
 0.5733,
@@ -2464,20 +2979,40 @@
 0.5766,
 1
 ],
-"48|Allenson, Allinson, Allanson|Hugh|fil. Aleyn|Hugh fil. Aleyn, co. Oxf., 1273. A.": [
-0.5848,
-0.5995,
-0
-],
-"48|Allenson, Allinson, Allanson|Aleyn|(unknown)|Hugh fil. Aleyn, co. Oxf., 1273. A.": [
-0.6044,
-0.6167,
-0
-],
 "48|Allenson, Allinson, Allanson|Johannes|Alynson|Johannes Alynson, 1379: P. T. Yorks. p. 87.": [
 0.6544,
 0.6691,
 1
+],
+"48|Allenson, Allinson, Allanson|William|Aleynsonne|William Aleynsonne. BB.": [
+0.7199,
+0.7305,
+1
+],
+"48|Allenson, Allinson, Allanson|George|Alonsonne|George Alonsonne. ZZ.": [
+0.7404,
+0.7494,
+0
+],
+"48|Allenson, Allinson, Allanson|William|Allenson|William Allenson, co. Norf., 1625: FF. iv. 487.": [
+0.7453,
+0.7609,
+0
+],
+"48|Allenson, Allinson, Allanson|Agnes|Alinson|1782. Married—James Read and Agnes Alinson: St. Geo. Han. Sq. i. 331.": [
+0.7518,
+0.7625,
+0
+],
+"48|Allenson, Allinson, Allanson|James|Read|1782. Married—James Read and Agnes Alinson: St. Geo. Han. Sq. i. 331.": [
+0.7518,
+0.7625,
+0
+],
+"48|Allenson, Allinson, Allanson|John|de Alencon|John de Alencon, 1 Ric. I: FF. viii. 162.": [
+0.7518,
+0.7625,
+0
 ],
 "48|Allenson, Allinson, Allanson|Robert|de Alenson|Robert de Alenson, co. Norf., 1220: ibid p. 375.": [
 0.8337,
@@ -2550,14 +3085,14 @@
 1
 ],
 "48|Alley|Jane|Alley|1726. Married—Thomas Bougin and Jane Alley: St. Geo. Han. Sq. i. 2.": [
-0.6527,
 0.6658,
-0
+0.6929,
+1
 ],
 "48|Alley|Thomas|Bougin|1726. Married—Thomas Bougin and Jane Alley: St. Geo. Han. Sq. i. 2.": [
-0.6527,
 0.6658,
-0
+0.6929,
+1
 ],
 "48|Allfrey, Allfree||Allfrey|": [
 0.7232,
@@ -2579,6 +3114,16 @@
 0.1441,
 1
 ],
+"48|Allgood, Elgood, Elegood|Richard|Algood|1570. Richard Algood and Sence Dunn: Marriage Lic. (London), i. 46.": [
+0.1425,
+0.1646,
+1
+],
+"48|Allgood, Elgood, Elegood|Sence|Dunn|1570. Richard Algood and Sence Dunn: Marriage Lic. (London), i. 46.": [
+0.1425,
+0.1646,
+1
+],
 "48|Allgood, Elgood, Elegood|Jane|Algood|1575. James Morton and Jane Algood: Marriage Lic. (London), i. 66.": [
 0.1597,
 0.1843,
@@ -2588,11 +3133,6 @@
 0.1597,
 0.1843,
 1
-],
-"48|Allgood, Elgood, Elegood|Bartholomew|Algood|Bartholomew Algood, vicar of Wyken, co. Norf., 1679: FF. viii. 339.": [
-0.1826,
-0.1966,
-0
 ],
 "48|Allgood, Elgood, Elegood|John|Allgoode|John Allgoode or Algode, adm. B.A., June 30, 1449: Reg. Univ. Oxf., vol. i. p. 4.": [
 0.2039,
@@ -2699,16 +3239,6 @@
 0.131,
 1
 ],
-"49|Allington|Medcalf|Allington|1575. Bapt.—Medcalf, s. Mr. Allington: St. Thomas the Apostle (London), p. 27.": [
-0.1384,
-0.1515,
-0
-],
-"49|Allington||Allington|1575. Bapt.—Medcalf, s. Mr. Allington: St. Thomas the Apostle (London), p. 27.": [
-0.1384,
-0.1515,
-0
-],
 "49|Allington|Giles|Allington|1687. Married—Giles Allington and Mary Lunn: St. Mary Aldermary, p. 33.": [
 0.1507,
 0.1728,
@@ -2741,17 +3271,17 @@
 ],
 "49|Allis, Alliss|Agnes|Alles|1571. George Haynes and Agnes Alles: Marriage Lic. (London), i. 50.": [
 0.2375,
-0.2506,
-0
+0.2604,
+1
 ],
 "49|Allis, Alliss|George|Haynes|1571. George Haynes and Agnes Alles: Marriage Lic. (London), i. 50.": [
-0.2482,
+0.2375,
 0.2604,
-0
+1
 ],
 "49|Allis, Alliss|Mary|Allis|1675. Bapt.—Mary, d. William Allis: St. Jas. Clerkenwell, i. 269.": [
-0.2563,
-0.2711,
+0.2662,
+0.2817,
 0
 ],
 "49|Allis, Alliss|William|Allis|1675. Bapt.—Mary, d. William Allis: St. Jas. Clerkenwell, i. 269.": [
@@ -2762,6 +3292,11 @@
 "49|Allis, Alliss|Antonii|Allys|'Exuvias Antonii Allys, armigeri . . . obiit vicesimo, nono die Octobris anno salutis, 1709, aetatis suae, 76': St. Nicholas, Yarmouth, see FF. xi. 304.": [
 0.2801,
 0.3227,
+1
+],
+"49|Allison||Allison|": [
+0.5078,
+0.5201,
 1
 ],
 "49|Allkins, Allchin, Alchin, Allkin, Alkins|John|Alkyn|John Alkyn, 1306. M.": [
@@ -2789,6 +3324,16 @@
 0.6798,
 1
 ],
+"49|Allman, Almond, Allmond, Allmen|John|Alaman|John Alaman, or Aleman, 1216: GGG. p. 247.": [
+0.2219,
+0.2326,
+1
+],
+"49|Allman, Almond, Allmond, Allmen|John|Aleman|John Alaman, or Aleman, 1216: GGG. p. 247.": [
+0.2219,
+0.2326,
+1
+],
 "49|Allman, Almond, Allmond, Allmen|Robert|Almene|Robert Almene, co. Camb., 1273. A.": [
 0.2326,
 0.2449,
@@ -2798,16 +3343,6 @@
 0.2424,
 0.2645,
 1
-],
-"49|Allman, Almond, Allmond, Allmen|Hanekin|Almond|Hanekin Almond, John de Almann, varlets of Countess of Surrey, Household Book of Queen Isabella, 1358 (Cott. MS. Galba, E. xiv.).": [
-0.2695,
-0.2858,
-0
-],
-"49|Allman, Almond, Allmond, Allmen|John|de Almann|Hanekin Almond, John de Almann, varlets of Countess of Surrey, Household Book of Queen Isabella, 1358 (Cott. MS. Galba, E. xiv.).": [
-0.2842,
-0.2957,
-0
 ],
 "49|Allman, Almond, Allmond, Allmen|Libertus|Alman|Libertus Alman, rector of North Reppe, co. Norf., 1583: FF. viii. 154.": [
 0.3055,
@@ -2885,18 +3420,18 @@
 1
 ],
 "49|Allnutt|William|Alnath|William Alnath, co. Wilts, 1273. A.": [
-0.5913,
-0.6011,
+0.5962,
+0.611,
 0
 ],
 "49|Allnutt|Cecil|Aylnet|Cecil Aylnet, co. Oxf., ibid.": [
-0.5913,
-0.6011,
+0.5962,
+0.611,
 0
 ],
 "49|Allnutt|Alnot|Red|Alnot Red, co. Salop, ibid.": [
-0.5913,
-0.6011,
+0.5962,
+0.611,
 0
 ],
 "49|Allnutt|William|Alinot|William Alinot, co. Bucks, ibid.": [
@@ -2938,26 +3473,6 @@
 0.1712,
 0.1966,
 1
-],
-"49|Allott, Allett, Alletson, Allot|Alet|fil. Boydini|Alet fil. Boydini, Essex, Hen. III-Edw. I. K.": [
-0.1966,
-0.2086,
-0
-],
-"49|Allott, Allett, Alletson, Allot|Boydini|(unknown)|Alet fil. Boydini, Essex, Hen. III-Edw. I. K.": [
-0.2057,
-0.2177,
-0
-],
-"49|Allott, Allett, Alletson, Allot|Alota|fil. Robert le Archer|Alota fil. Robert le Archer, co. Derby, 1273. A.": [
-0.2149,
-0.2269,
-0
-],
-"49|Allott, Allett, Alletson, Allot|Robert|le Archer|Alota fil. Robert le Archer, co. Derby, 1273. A.": [
-0.2241,
-0.2361,
-0
 ],
 "49|Allott, Allett, Alletson, Allot|Phillip|Allote|Phillip Allote, co. Hunts, ibid.": [
 0.2424,
@@ -3004,6 +3519,16 @@
 0.3702,
 1
 ],
+"49|Alloway, Allaway|Eliz[abeth]|Allewaye|1616. Edward Hewlinge and Eliz. Allewaye: Marriage Lic. (London), ii. 43.": [
+0.3997,
+0.4267,
+1
+],
+"49|Alloway, Allaway|Edward|Hewlinge|1616. Edward Hewlinge and Eliz. Allewaye: Marriage Lic. (London), ii. 43.": [
+0.3997,
+0.4267,
+1
+],
 "49|Alloway, Allaway|Mary|Allaway|1780. Married—William Maslen and Mary Allaway: St. Geo. Han. Sq. i. 311.": [
 0.5708,
 0.5962,
@@ -3046,13 +3571,13 @@
 ],
 "50|Allsop, Allsopp, Allsup, Alsop|Magdalen|Alsop|1612. John Francis and Magdalen Alsop: Marriage Lic. (London), ii. 17.": [
 0.3063,
-0.3178,
-0
+0.3284,
+1
 ],
 "50|Allsop, Allsopp, Allsup, Alsop|John|Francis|1612. John Francis and Magdalen Alsop: Marriage Lic. (London), ii. 17.": [
-0.317,
+0.3063,
 0.3284,
-0
+1
 ],
 "50|Allsop, Allsopp, Allsup, Alsop|Edward|Alsopp|1622-3. Edward Alsopp and Anne Barker: ibid. p. 120.": [
 0.3276,
@@ -3184,6 +3709,16 @@
 0.3088,
 1
 ],
+"50|Allwright, Alright|William|Allwright|1765. Married—William Allwright and Mary Clarkson: St. Geo. Han. Sq. i. 146.": [
+0.317,
+0.3399,
+1
+],
+"50|Allwright, Alright|Mary|Clarkson|1765. Married—William Allwright and Mary Clarkson: St. Geo. Han. Sq. i. 146.": [
+0.317,
+0.3399,
+1
+],
 "50|Almond, Almonds||Almond|": [
 0.3636,
 0.3767,
@@ -3192,6 +3727,11 @@
 "50|Almsdeed|Agnes|Almesdeed|Agnes Almesdeed, 1563: Reg. Broad Chalke, co. Wilts, p. 8.": [
 0.4095,
 0.4316,
+1
+],
+"50|Alpe|Thomas|le Alpe|Thomas le Alpe, C. R., 8 Edw. III.": [
+0.4341,
+0.4472,
 1
 ],
 "50|Alpe|Matilda|Alpe|Matilda Alpe, co. Norf., 1273. A.": [
@@ -3218,21 +3758,6 @@
 0.6061,
 0.6282,
 1
-],
-"50|Alpe|Edward|Alp|1698-9. Edward Alp and Dorothy Wilson: Marriage Lic. (Faculty Office), p. 232.": [
-0.6274,
-0.6388,
-0
-],
-"50|Alpe|Dorothy|Wilson|1698-9. Edward Alp and Dorothy Wilson: Marriage Lic. (Faculty Office), p. 232.": [
-0.6454,
-0.6593,
-0
-],
-"50|Alstead|Henry|de Alsted|Henry de Alsted, co. Essex, 1273. A.": [
-0.6749,
-0.688,
-0
 ],
 "50|Alstead|Roger|de Alsted|Roger de Alsted, co. Linc., ibid.": [
 0.7133,
@@ -3279,6 +3804,16 @@
 0.2858,
 1
 ],
+"50|Ambler|Thomas|le Amblur|Thomas le Amblur, co. York, 1273. A.": [
+0.3456,
+0.3595,
+1
+],
+"50|Ambler|William|Ambler|William Ambler, co. York. W. 9.": [
+0.4472,
+0.4603,
+1
+],
 "50|Ambler|Martha|Ambler|1656-7. Married—John Keys and Martha Ambler: St. Dionis Backchurch, p. 32.": [
 0.5733,
 0.5946,
@@ -3288,11 +3823,6 @@
 0.5733,
 0.5946,
 1
-],
-"50|Ambrey, Amberson|Richard|Amberson|Richard Amberson: Barrett, History of Bristol, index.": [
-0.6036,
-0.6159,
-0
 ],
 "50|Ambrey, Amberson|Robert|Amberson|Robert Amberson: ibid.": [
 0.6298,

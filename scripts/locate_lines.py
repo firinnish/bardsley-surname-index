@@ -27,8 +27,11 @@ def fetch_hocr(leaves):
             start, end = idx[leaf - 1][2], idx[leaf - 1][3]
             req = urllib.request.Request(ITEM + "adictionaryengl00goog_hocr.html",
                                          headers={"Range": f"bytes={start}-{end - 1}", "User-Agent": "Mozilla/5.0"})
+            data = urllib.request.urlopen(req).read()
+            if len(data) > end - start:  # the server sometimes ignores Range and sends the whole file
+                data = data[start:end]
             with open(cache, "wb") as f:
-                f.write(urllib.request.urlopen(req).read())
+                f.write(data)
         out[leaf] = open(cache, encoding="utf-8", errors="replace").read()
     return out
 
@@ -55,6 +58,32 @@ def score(target, text):
     if not a or not b:
         return 0
     return SequenceMatcher(None, a[: len(b) + 8], b).ratio()
+
+
+def name_score(r, text):
+    """How well the row's surname (or headword) appears anywhere in an OCR line, 0..1."""
+    name = norm(re.sub(r"\(unknown\)|\[[^\]]*\]|\?", "", r["last_name"] or r["headword"].split(",")[0]))
+    name = max(name.split(), key=len, default="")
+    line = norm(text)
+    if len(name) < 4 or not line:
+        return 0
+    # Share of the name's letters found in the line, in order, in runs of 2+ (scattered single letters don't count).
+    blocks = SequenceMatcher(None, line, name, autojunk=False).get_matching_blocks()
+    return sum(b.size for b in blocks if b.size >= 2) / len(name)
+
+
+def cover(in_col, line, r):
+    """Top and bottom of the line boxes a record occupies, starting at `line`.
+    A column line holds about 46 characters; cover as many boxes as the record needs."""
+    target = r["record_text"] or r["headword"]
+    first = in_col.index(line)
+    n_lines = max(1, -(-len(target) // 46)) if r["record_text"] else 1
+    run = [in_col[first]]
+    for l in in_col[first + 1:first + n_lines]:
+        if l[1] - run[-1][3] > 0.006:
+            break
+        run.append(l)
+    return (run[0][1], run[-1][3])
 
 
 def key(r):
@@ -93,16 +122,30 @@ def main(first, last):
                         best, best_i = s, i
                 if best_i is not None and best >= 0.55:
                     found += 1
-                    # A column line holds about 46 characters; cover as many line boxes as the record needs.
-                    first = in_col.index(col[best_i])
-                    n_lines = max(1, -(-len(target) // 46)) if r["record_text"] else 1
-                    run = [in_col[first]]
-                    for l in in_col[first + 1:first + n_lines]:
-                        if l[1] - run[-1][3] > 0.006:
-                            break
-                        run.append(l)
-                    spans[k] = (run[0][1], run[-1][3])
+                    spans[k] = cover(in_col, col[best_i], r)
                     pos = best_i + 1
+            # Second pass: an unmatched row must lie between its matched neighbours, so search only
+            # there, with a looser match and a surname-based score for badly garbled OCR lines.
+            for k, r in enumerate(col_rows):
+                if spans[k]:
+                    continue
+                prev = next((spans[j] for j in range(k - 1, -1, -1) if spans[j]), None)
+                nxt = next((spans[j] for j in range(k + 1, len(col_rows)) if spans[j]), None)
+                lo, hi = (prev[1] - 0.002) if prev else 0, (nxt[0] + 0.002) if nxt else 1
+                target = r["record_text"] or r["headword"]
+                cands = [l for l in col if lo <= l[1] and l[3] <= hi]
+                scored = [(max(score(target, l[4]) + 0.1, name_score(r, l[4])), l) for l in cands]
+                if scored:
+                    s, line = max(scored, key=lambda t: t[0])
+                    if s >= 0.6:
+                        found += 1
+                        spans[k] = cover(in_col, line, r)
+                        # later rows sharing this citation line share the span
+                        j = k + 1
+                        while j < len(col_rows) and r["record_text"] and col_rows[j]["record_text"] == r["record_text"]:
+                            spans[j] = spans[k]
+                            found += 1
+                            j += 1
             # The OCR lost the text of many small-print lines (their boxes survive, empty). Place an
             # unmatched row between its matched neighbours, snapped to one of those line boxes, but only
             # across short gaps: a long gap usually hides a headword paragraph and the guess would be poor.
@@ -121,12 +164,13 @@ def main(first, last):
                 if b - a > 6 or not 0.006 <= step <= 0.04:
                     continue
                 guess = y0 + step * (k - a - 1)
-                boxes = [l for l in in_col if y0 - 0.004 <= l[1] < y1]
-                if boxes:
-                    near = min(boxes, key=lambda l: abs(l[1] - guess))
-                    guess, bottom = near[1], near[3]
-                else:
-                    bottom = guess + 0.012
+                # Only snap to boxes whose text the OCR lost: lines it read well are commentary or
+                # other citations, which the matching passes would already have claimed.
+                boxes = [l for l in in_col if y0 - 0.004 <= l[1] < y1 and not l[4].strip()]
+                if not boxes:
+                    continue
+                near = min(boxes, key=lambda l: abs(l[1] - guess))
+                guess, bottom = near[1], near[3]
                 positions[key(r)] = [round(guess, 4), round(bottom, 4), 0]
                 approx += 1
     with open(os.path.join(ROOT, "data", "line_positions.json"), "w", encoding="utf-8") as f:
