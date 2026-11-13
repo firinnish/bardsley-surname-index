@@ -1,0 +1,1757 @@
+[
+{
+"column": 1,
+"x0": 0.18857,
+"x1": 0.27404,
+"y0": 0.07364,
+"y1": 0.08693,
+"text": "BATTEN",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.10721,
+"x1": 0.35539,
+"y0": 0.10091,
+"y1": 0.11557,
+"text": "Household Exp., Bishop Swinfeld (Cam.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10762,
+"x1": 0.18528,
+"y0": 0.11216,
+"y1": 0.1258,
+"text": "Soc.), p. I51.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.11995,
+"x1": 0.35621,
+"y0": 0.1217,
+"y1": 0.13534,
+"text": "1656. Bapt.-- John, son of John Battell :",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10721,
+"x1": 0.27445,
+"y0": 0.13261,
+"y1": 0.14557,
+"text": "St. Jas. Clerkenwell, i. 195.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11748,
+"x1": 0.35704,
+"y0": 0.14148,
+"y1": 0.1575,
+"text": "London, I.3: Crockiord, 0, I ; New",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.1068,
+"x1": 0.28883,
+"y0": 0.15307,
+"y1": 0.16773,
+"text": "York, 3, 6'; Philadelphia, I, 1.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12324,
+"x1": 0.35416,
+"y0": 0.16943,
+"y1": 0.18205,
+"text": "Batten, Battenson, Batte-",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.10721,
+"x1": 0.35457,
+"y0": 0.18307,
+"y1": 0.19602,
+"text": "Son, Battinson, Battison, Bat-",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10721,
+"x1": 0.35539,
+"y0": 0.19636,
+"y1": 0.21034,
+"text": "tin.--Bapt. 'the son of Barthulo.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.10639,
+"x1": 0.35498,
+"y0": 0.2083,
+"y1": 0.22432,
+"text": "mew,' from the nick. Bat or Bate,",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10639,
+"x1": 0.35621,
+"y0": 0.22261,
+"y1": 0.23761,
+"text": "dim. 'Batt-in; cf. viol-in, a little",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.10639,
+"x1": 0.13967,
+"y0": 0.23591,
+"y1": 0.25057,
+"text": "viol.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11913,
+"x1": 0.31513,
+"y0": 0.25125,
+"y1": 0.26625,
+"text": "Joel Batin, co. Devon, 1273. _A.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11995,
+"x1": 0.35704,
+"y0": 0.2625,
+"y1": 0.27511,
+"text": "Thomas Batyn, co. Soms., 1 Edw. Il1 :",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.10639,
+"x1": 0.23295,
+"y0": 0.27341,
+"y1": 0.28739,
+"text": "Kirby's Quest, p. 91.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.11831,
+"x1": 0.35663,
+"y0": 0.2825,
+"y1": 0.29682,
+"text": "Batin atte Yete, co. Soms, 1 Edw. III :",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10598,
+"x1": 0.17131,
+"y0": 0.29341,
+"y1": 0.30739,
+"text": "ibid. p. 92.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11831,
+"x1": 0.3558,
+"y0": 0.30239,
+"y1": 0.31466,
+"text": "Batin Power, co. Soms., I Edw. III :",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.10639,
+"x1": 0.17789,
+"y0": 0.31489,
+"y1": 0.3275,
+"text": "jbid. p. 103:",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.11748,
+"x1": 0.3558,
+"y0": 0.32375,
+"y1": 0.33841,
+"text": "Batin Walkelayn, co. Soms., I Edw.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.1068,
+"x1": 0.20788,
+"y0": 0.335,
+"y1": 0.34795,
+"text": "IlI: ibid. p. 121.",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.11913,
+"x1": 0.3558,
+"y0": 0.34523,
+"y1": 0.35886,
+"text": "Bathon Mayster, co. Soms., I Edw. 111 :",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.1068,
+"x1": 0.17665,
+"y0": 0.35682,
+"y1": 0.36875,
+"text": "jbid. p. 150.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.11913,
+"x1": 0.35539,
+"y0": 0.36739,
+"y1": 0.3783,
+"text": "Andrew Batensonnc, co. Durham,1561 :",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10598,
+"x1": 0.18117,
+"y0": 0.37659,
+"y1": 0.38989,
+"text": "QQQ. P. 26.",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.11831,
+"x1": 0.31471,
+"y0": 0.38545,
+"y1": 0.40114,
+"text": "John' Battenson, temp. 158o._ Z.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.11748,
+"x1": 0.35457,
+"y0": 0.39705,
+"y1": 0.40966,
+"text": "Daniel Battin,of London, haberdasher :",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.10639,
+"x1": 0.35046,
+"y0": 0.40693,
+"y1": 0.42091,
+"text": "1633 : Visitation of London (1633), i. 52.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.11831,
+"x1": 0.35252,
+"y0": 0.41648,
+"y1": 0.43182,
+"text": "1774. Married-- Joseph Battin and Eliz.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.10557,
+"x1": 0.30691,
+"y0": 0.42875,
+"y1": 0.44068,
+"text": "Purvis : St. Gco. Han.'Sq. i. 240.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.11831,
+"x1": 0.35416,
+"y0": 0.4383,
+"y1": 0.45193,
+"text": "1784. -- William Baugham and Martha",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10516,
+"x1": 0.23582,
+"y0": 0.44886,
+"y1": 0.4625,
+"text": "Battison : ibid. i. 357.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11543,
+"x1": 0.35621,
+"y0": 0.45807,
+"y1": 0.47477,
+"text": "London, 22, 0, i, 0, 0, O; West Riding",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10434,
+"x1": 0.35416,
+"y0": 0.46898,
+"y1": 0.48466,
+"text": "Court Dir., O, O. 0, 2, 1. '0; New York. 5",
+"conf": 0.883
+},
+{
+"column": 1,
+"x0": 0.10434,
+"x1": 0.35416,
+"y0": 0.48023,
+"y1": 0.49523,
+"text": "0, 0, 0, 1, i ; Philadelphia, 3, 0, 0, 0, 5, 0.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11913,
+"x1": 0.35375,
+"y0": 0.4975,
+"y1": 0.51216,
+"text": "Battersby.-- Local,'of Batters-",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.10516,
+"x1": 0.35539,
+"y0": 0.51114,
+"y1": 0.5258,
+"text": "by,' a township in the parish of",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.10557,
+"x1": 0.35334,
+"y0": 0.52477,
+"y1": 0.53909,
+"text": "Ingleby Greenhow, in the North",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10598,
+"x1": 0.35457,
+"y0": 0.53875,
+"y1": 0.55136,
+"text": "Rid. Yorks. This family name has",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.10516,
+"x1": 0.35375,
+"y0": 0.55239,
+"y1": 0.565,
+"text": "ramifed strongly, being now best",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10475,
+"x1": 0.35375,
+"y0": 0.56364,
+"y1": 0.58034,
+"text": "represented in the Lancashire di-",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10557,
+"x1": 0.17254,
+"y0": 0.58034,
+"y1": 0.59159,
+"text": "rectories.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11748,
+"x1": 0.35334,
+"y0": 0.5933,
+"y1": 0.60795,
+"text": "Rogerus de Bathersby, 1379: P. T.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.10516,
+"x1": 0.19186,
+"y0": 0.60489,
+"y1": 0.61818,
+"text": "Yorks. p. 284.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11748,
+"x1": 0.35334,
+"y0": 0.61477,
+"y1": 0.62773,
+"text": "1591. Henry Battersby, of Bold : Wills",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10392,
+"x1": 0.20418,
+"y0": 0.625,
+"y1": 0.63864,
+"text": "at Chester, i. 15.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11748,
+"x1": 0.35252,
+"y0": 0.63591,
+"y1": 0.64818,
+"text": "1613. Nicholas Battersby : Reg. Univ.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10475,
+"x1": 0.24979,
+"y0": 0.6458,
+"y1": 0.65943,
+"text": "Oxf. vol. i. pt. ii. p. 331.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.1179,
+"x1": 0.35334,
+"y0": 0.65568,
+"y1": 0.66898,
+"text": "1616. John Battersbie,  of Shakerley :",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10557,
+"x1": 0.24157,
+"y0": 0.66659,
+"y1": 0.67955,
+"text": "Wills at Chester. i. 15.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.11666,
+"x1": 0.35252,
+"y0": 0.67614,
+"y1": 0.68977,
+"text": "London, 6; West\"Riding Court Dir.,",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.10434,
+"x1": 0.32868,
+"y0": 0.68739,
+"y1": 0.70136,
+"text": "3 ; Manchester, 11 ; Philadelphia, 23:",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12159,
+"x1": 0.34841,
+"y0": 0.70568,
+"y1": 0.71557,
+"text": "Battershall Battershell,",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10392,
+"x1": 0.35128,
+"y0": 0.71591,
+"y1": 0.72989,
+"text": "Battishill, Battershill.---Local,",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10475,
+"x1": 0.35169,
+"y0": 0.72966,
+"y1": 0.74364,
+"text": " of Battishill' or ‘Battishall,' pro-",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10351,
+"x1": 0.35252,
+"y0": 0.74352,
+"y1": 0.7575,
+"text": "bably a manor or small locality in",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10351,
+"x1": 0.18117,
+"y0": 0.75784,
+"y1": 0.7708,
+"text": "co. Devon.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11625,
+"x1": 0.35169,
+"y0": 0.77148,
+"y1": 0.78511,
+"text": "William de Batteshol, co. Devon,",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10434,
+"x1": 0.16227,
+"y0": 0.78341,
+"y1": 0.79739,
+"text": "1273. A.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.11543,
+"x1": 0.35293,
+"y0": 0.79227,
+"y1": 0.80591,
+"text": "Antony Luther claims lease of Manor",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.1031,
+"x1": 0.35293,
+"y0": 0.80318,
+"y1": 0.81648,
+"text": "of Battylshall, 1582 : Rec. Office, Cal.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10434,
+"x1": 0.29212,
+"y0": 0.81409,
+"y1": 0.8267,
+"text": "State Papers (Domestic), ii. 83.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.1179,
+"x1": 0.35211,
+"y0": 0.82466,
+"y1": 0.83693,
+"text": "1691. Peter Battishill and Ann Howkey:",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10475,
+"x1": 0.33197,
+"y0": 0.83489,
+"y1": 0.84784,
+"text": "Marriage Alleg. (Canterbury), p. 194.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.11502,
+"x1": 0.35252,
+"y0": 0.84614,
+"y1": 0.85807,
+"text": " Jonathan Battishill, 1738-18o1, musica!",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.10351,
+"x1": 0.31965,
+"y0": 0.85602,
+"y1": 0.86898,
+"text": "compoeer : Dict. Nat. Biog. iv. 421.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.48215,
+"x1": 0.50352,
+"y0": 0.07193,
+"y1": 0.08727,
+"text": "85",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.3782,
+"x1": 0.61405,
+"y0": 0.09955,
+"y1": 0.11352,
+"text": "1746. Buried-- Jonathan Battishill : St.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36628,
+"x1": 0.50393,
+"y0": 0.11148,
+"y1": 0.12375,
+"text": "Peter, Cornhill, ii. 140.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.37737,
+"x1": 0.61651,
+"y0": 0.12102,
+"y1": 0.13602,
+"text": "London, 1, 2, 0, 0; Plymouth, 0,0 0, 1 ;",
+"conf": 0.901
+},
+{
+"column": 2,
+"x0": 0.36546,
+"x1": 0.6161,
+"y0": 0.13159,
+"y1": 0.14455,
+"text": "List of Boot and Shoe' Makers' (Devon",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.36505,
+"x1": 0.6161,
+"y0": 0.14182,
+"y1": 0.15682,
+"text": "Trades Dir.), 0, 0, 1, 3; New York, 1,",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36587,
+"x1": 0.40983,
+"y0": 0.15511,
+"y1": 0.16636,
+"text": "0, 0, 0.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.38272,
+"x1": 0.61651,
+"y0": 0.16773,
+"y1": 0.18,
+"text": "Batterson.-Bapt. ‘the son of",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.36628,
+"x1": 0.61487,
+"y0": 0.18034,
+"y1": 0.19432,
+"text": "Bartholomew,' nick. Bat, dim. Bat-",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36546,
+"x1": 0.61446,
+"y0": 0.19534,
+"y1": 0.20727,
+"text": "ten or Battin, patr. Battinson, cor-",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.36669,
+"x1": 0.61487,
+"y0": 0.2083,
+"y1": 0.22159,
+"text": "rupted to Batterson ; cf. Paterson,",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36669,
+"x1": 0.61405,
+"y0": 0.22125,
+"y1": 0.23557,
+"text": "Caterson, Custerson, Matterson,",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.36628,
+"x1": 0.47722,
+"y0": 0.23489,
+"y1": 0.24716,
+"text": "and Dickerson.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.53434,
+"y0": 0.24989,
+"y1": 0.26284,
+"text": "London, I ; New York, 6.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38107,
+"x1": 0.61446,
+"y0": 0.26523,
+"y1": 0.28057,
+"text": "Batting.--Bapt. ‘the son of",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.36669,
+"x1": 0.6161,
+"y0": 0.27682,
+"y1": 0.29523,
+"text": "Bartholomew'; v. Batten. . 'rhe g",
+"conf": 0.893
+},
+{
+"column": 2,
+"x0": 0.36587,
+"x1": 0.46366,
+"y0": 0.29386,
+"y1": 0.30614,
+"text": "is excrescent.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.3782,
+"x1": 0.61323,
+"y0": 0.30841,
+"y1": 0.32102,
+"text": "1565. W'illiam Battyn and Amy Rogers :",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36546,
+"x1": 0.54831,
+"y0": 0.31864,
+"y1": 0.33125,
+"text": "Marriage Lic. (London), i. 30.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.3782,
+"x1": 0.54543,
+"y0": 0.3292,
+"y1": 0.3425,
+"text": "London, I ; Philadelphia, 2.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38107,
+"x1": 0.61117,
+"y0": 0.3442,
+"y1": 0.3592,
+"text": "Battinson, Battison.--Bapt.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36628,
+"x1": 0.61117,
+"y0": 0.35818,
+"y1": 0.37216,
+"text": "‘the son of Bartholomew'; V.",
+"conf": 0.683
+},
+{
+"column": 2,
+"x0": 0.36464,
+"x1": 0.61323,
+"y0": 0.37114,
+"y1": 0.3858,
+"text": "Batten. With Battison, cf. Patti-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36422,
+"x1": 0.49736,
+"y0": 0.38614,
+"y1": 0.39807,
+"text": "son and Pattinson.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37655,
+"x1": 0.61364,
+"y0": 0.40011,
+"y1": 0.41375,
+"text": "1702. Married -- Thomas Batison and",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.36505,
+"x1": 0.61241,
+"y0": 0.41136,
+"y1": 0.42398,
+"text": "Eliz. Paradine : St. Peter, Cornhill, ii. 64.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37943,
+"x1": 0.61487,
+"y0": 0.42773,
+"y1": 0.44102,
+"text": "Battle.--(1 Bapt. ‘the son of",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.36587,
+"x1": 0.61323,
+"y0": 0.44034,
+"y1": 0.45466,
+"text": "Bartholomew, from nick. Bartle;",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36628,
+"x1": 0.61364,
+"y0": 0.45568,
+"y1": 0.46693,
+"text": "Bartle modifed to Battle to meet",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36546,
+"x1": 0.61282,
+"y0": 0.46864,
+"y1": 0.48057,
+"text": "Bat. In the instance below, Batel-",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.36381,
+"x1": 0.61446,
+"y0": 0.48193,
+"y1": 0.49489,
+"text": "man means the' man' or servant of",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.36422,
+"x1": 0.40901,
+"y0": 0.49511,
+"y1": 0.50807,
+"text": "Batel.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37491,
+"x1": 0.61158,
+"y0": 0.50943,
+"y1": 0.52409,
+"text": "Thomas Batell', 1379: P. T. Yorks.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.36299,
+"x1": 0.4049,
+"y0": 0.52136,
+"y1": 0.53534,
+"text": "P. 196.",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.37614,
+"x1": 0.5331,
+"y0": 0.53057,
+"y1": 0.5442,
+"text": "Auam Batell', 1379 : ibid.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.37491,
+"x1": 0.55817,
+"y0": 0.54011,
+"y1": 0.55682,
+"text": "Simon Batel.man, 1379 : ibid.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.38025,
+"x1": 0.53064,
+"y0": 0.55682,
+"y1": 0.57216,
+"text": "() Local ; v. Battell.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.37655,
+"x1": 0.61282,
+"y0": 0.5725,
+"y1": 0.5858,
+"text": "1625. Buried - Hannah, d. Thomasin",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36422,
+"x1": 0.58775,
+"y0": 0.58409,
+"y1": 0.59602,
+"text": "Battle : St. Jas. Cler kenwell, iv. 170.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.37696,
+"x1": 0.61282,
+"y0": 0.59466,
+"y1": 0.60625,
+"text": "1648. Thomas Fiddes and Mary Battle:",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.3634,
+"x1": 0.59145,
+"y0": 0.60284,
+"y1": 0.62023,
+"text": "Marriage Lic. (Faculty Office),.P. 39.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.37614,
+"x1": 0.59638,
+"y0": 0.61511,
+"y1": 0.62841,
+"text": "London, 3 ; Leeds, i ; New'York, 6.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37902,
+"x1": 0.61035,
+"y0": 0.6308,
+"y1": 0.64614,
+"text": "Batty, Battye, Battey, Bat.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.3634,
+"x1": 0.61241,
+"y0": 0.64477,
+"y1": 0.65875,
+"text": "tie, Battes, Batts.--Bapt. ‘the",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.36422,
+"x1": 0.61405,
+"y0": 0.65602,
+"y1": 0.67205,
+"text": "son  of Bartholomew, from the",
+"conf": 0.901
+},
+{
+"column": 2,
+"x0": 0.36258,
+"x1": 0.61323,
+"y0": 0.67034,
+"y1": 0.68739,
+"text": "nick. Batt, popularly Batty. With",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.36299,
+"x1": 0.61076,
+"y0": 0.685,
+"y1": 0.70034,
+"text": "the patronymic s appended, Batty",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.36258,
+"x1": 0.60994,
+"y0": 0.6983,
+"y1": 0.7133,
+"text": "became Battys and Battes; cf.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36217,
+"x1": 0.61241,
+"y0": 0.71045,
+"y1": 0.7275,
+"text": "Jones, Williams, &c. Batt and",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36299,
+"x1": 0.61076,
+"y0": 0.72489,
+"y1": 0.74057,
+"text": "Batty Yorkshire",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.36217,
+"x1": 0.61158,
+"y0": 0.73807,
+"y1": 0.75409,
+"text": "forms, and they have left their",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.36258,
+"x1": 0.61199,
+"y0": 0.75205,
+"y1": 0.7667,
+"text": "mark on its present nomenclature ;",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.36299,
+"x1": 0.5294,
+"y0": 0.7667,
+"y1": 0.77898,
+"text": "v. Batson and Battison.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.3745,
+"x1": 0.61076,
+"y0": 0.78,
+"y1": 0.79568,
+"text": "Dyota Batty, 1379: P. T. Yorks. p.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36422,
+"x1": 0.38682,
+"y0": 0.79432,
+"y1": 0.80352,
+"text": "181.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37491,
+"x1": 0.57995,
+"y0": 0.80114,
+"y1": 0.81614,
+"text": "Thomas Batty, 1379 : ibid. p. 181.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.37737,
+"x1": 0.58488,
+"y0": 0.81307,
+"y1": 0.82534,
+"text": "Johannes Batty, 1379 : ibid. p. 251.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37491,
+"x1": 0.61076,
+"y0": 0.82159,
+"y1": 0.83727,
+"text": "1570. Peter Pynder and Agnes Battye :",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36258,
+"x1": 0.54872,
+"y0": 0.83318,
+"y1": 0.8475,
+"text": "Marriage Lic. (London).P. 46.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.37532,
+"x1": 0.60912,
+"y0": 0.84375,
+"y1": 0.85739,
+"text": "1603. John Battye, co. York : Reg. Univ.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36258,
+"x1": 0.50598,
+"y0": 0.85534,
+"y1": 0.86761,
+"text": "Oxf. vol. ii. pt. ii. p. 264.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.70544,
+"x1": 0.80073,
+"y0": 0.07227,
+"y1": 0.08693,
+"text": "BAWDEN",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.63725,
+"x1": 0.87631,
+"y0": 0.10023,
+"y1": 0.1142,
+"text": "1603. James Battye, co. Middlesex : ibid.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62534,
+"x1": 0.66724,
+"y0": 0.11114,
+"y1": 0.12409,
+"text": "p. 266.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63766,
+"x1": 0.87795,
+"y0": 0.12034,
+"y1": 0.135,
+"text": "1772. Married - Richard Battey and",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.62616,
+"x1": 0.87672,
+"y0": 0.13159,
+"y1": 0.14557,
+"text": "Betty Gerrard : St. Geo. Han. Sq.'i. 217.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.63684,
+"x1": 0.87754,
+"y0": 0.14148,
+"y1": 0.15716,
+"text": "London, 10, 3, 0. 0, 3, 2; West 'Riding",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.62575,
+"x1": 0.87754,
+"y0": 0.1517,
+"y1": 0.16807,
+"text": "Court Dir., 6,'6, 1, 4,' 0, 0 ; MDB. (West",
+"conf": 0.911
+},
+{
+"column": 3,
+"x0": 0.62575,
+"x1": 0.87713,
+"y0": 0.16261,
+"y1": 0.17727,
+"text": "Riding, Yorks), 17, 20,0, 1, 9. 0 ; New",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.62575,
+"x1": 0.87631,
+"y0": 0.1725,
+"y1": 0.1892,
+"text": "York, 2, 0, 2, 2, 0, 0; Philadelphia, 16, 1,",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.62575,
+"x1": 0.68449,
+"y0": 0.1858,
+"y1": 0.19739,
+"text": "0, 0, 1, 4.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64177,
+"x1": 0.87507,
+"y0": 0.19943,
+"y1": 0.21375,
+"text": "Baud, Baude.-Nick. \"le baud';",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.62575,
+"x1": 0.87507,
+"y0": 0.21239,
+"y1": 0.22909,
+"text": "O.F. baud, joyous, gay; cf. Merry,",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62616,
+"x1": 0.70749,
+"y0": 0.2267,
+"y1": 0.24136,
+"text": "Gay, Jolly.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63807,
+"x1": 0.87507,
+"y0": 0.24136,
+"y1": 0.25602,
+"text": "Alan le Baud, co. Middlesex, Hen. I1I--",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62616,
+"x1": 0.70256,
+"y0": 0.25227,
+"y1": 0.2642,
+"text": "Edw. I.  K.",
+"conf": 0.917
+},
+{
+"column": 3,
+"x0": 0.63807,
+"x1": 0.87302,
+"y0": 0.2625,
+"y1": 0.27682,
+"text": "Geoffrey le Baud, co. Northampt.,",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.62452,
+"x1": 0.68326,
+"y0": 0.27307,
+"y1": 0.28636,
+"text": "1273.. A.",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.79909,
+"x1": 0.83318,
+"y0": 0.28466,
+"y1": 0.29523,
+"text": ", ibid.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63684,
+"x1": 0.87343,
+"y0": 0.29273,
+"y1": 0.30773,
+"text": "Johannes Baud, 1379 : F: T. Yorks.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.6237,
+"x1": 0.65943,
+"y0": 0.30364,
+"y1": 0.31659,
+"text": "p. 86.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63766,
+"x1": 0.87425,
+"y0": 0.31352,
+"y1": 0.32852,
+"text": "Richard le Baud, co. Northampt., 20",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62616,
+"x1": 0.70092,
+"y0": 0.32443,
+"y1": 0.33636,
+"text": "Edw. I. R.",
+"conf": 0.913
+},
+{
+"column": 3,
+"x0": 0.63684,
+"x1": 0.85988,
+"y0": 0.33534,
+"y1": 0.34727,
+"text": "Simon le Band, co. Northampt., ibid.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.63643,
+"x1": 0.87343,
+"y0": 0.34352,
+"y1": 0.36091,
+"text": "Dominick Baudc, co. Norf., temp.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.62452,
+"x1": 0.76787,
+"y0": 0.35443,
+"y1": 0.37011,
+"text": "Hen. IV : FF. viii. 505.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.63561,
+"x1": 0.87466,
+"y0": 0.365,
+"y1": 0.38102,
+"text": "* In 1543, the first cannon of cast iron",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62411,
+"x1": 0.87425,
+"y0": 0.37625,
+"y1": 0.39023,
+"text": "that ever was made in England was cast",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62247,
+"x1": 0.87425,
+"y0": 0.38477,
+"y1": 0.40216,
+"text": "at Buckstead, in Sussex, by Ralf Hogk",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.62329,
+"x1": 0.81839,
+"y0": 0.39636,
+"y1": 0.41068,
+"text": "and Peter Bawd ': ibid. i. 214.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63602,
+"x1": 0.87343,
+"y0": 0.40761,
+"y1": 0.42091,
+"text": "1626. Bapt.--Elline, d. Janc Band : St.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.62411,
+"x1": 0.77198,
+"y0": 0.41716,
+"y1": 0.43182,
+"text": "Jas. Cler kenwell, i. 104.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63602,
+"x1": 0.84468,
+"y0": 0.42739,
+"y1": 0.44341,
+"text": "London, 2, o ; ' Boston (U.S.), 0, 5.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.63931,
+"x1": 0.87302,
+"y0": 0.44409,
+"y1": 0.45841,
+"text": "Baudet, Baudett.--Bapt. ‘the",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.6237,
+"x1": 0.87261,
+"y0": 0.45773,
+"y1": 0.47205,
+"text": "son of Baldwin,' from nick. Baud,",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.62411,
+"x1": 0.87138,
+"y0": 0.47,
+"y1": 0.4867,
+"text": "whence the dim, Baud-et; v. Body.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63561,
+"x1": 0.85166,
+"y0": 0.48602,
+"y1": 0.50136,
+"text": "Roger Baudet, co. Wilts, 1373. A.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.63602,
+"x1": 0.87056,
+"y0": 0.49693,
+"y1": 0.51091,
+"text": "Baudet Ie Messager, co. Glouc., 1289-",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.62123,
+"x1": 0.87384,
+"y0": 0.50636,
+"y1": 0.52307,
+"text": "90: Houschold Exp.,' Bishop Swinfield",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.62411,
+"x1": 0.74364,
+"y0": 0.51693,
+"y1": 0.53227,
+"text": "(Cam. Soc.), p. 144.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.63479,
+"x1": 0.85043,
+"y0": 0.5275,
+"y1": 0.54352,
+"text": "New York, i, O'; Philadelphia, 0, 2.",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.63848,
+"x1": 0.87384,
+"y0": 0.54352,
+"y1": 0.55852,
+"text": "Bavent, Bavin.--Local, ‘of",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.62247,
+"x1": 0.87179,
+"y0": 0.55716,
+"y1": 0.57284,
+"text": "Bavent,'a place 'four leaguesnorth-",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.62205,
+"x1": 0.87056,
+"y0": 0.57114,
+"y1": 0.58614,
+"text": "east of Caen'(Lower). The family",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62247,
+"x1": 0.8722,
+"y0": 0.58545,
+"y1": 0.59943,
+"text": "gave name to Eston-Bavent, co.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.62329,
+"x1": 0.87302,
+"y0": 0.59739,
+"y1": 0.61273,
+"text": "Suffolk. Bavin and Baven are",
+"conf": 0.916
+},
+{
+"column": 3,
+"x0": 0.6237,
+"x1": 0.75185,
+"y0": 0.61307,
+"y1": 0.625,
+"text": "palpably variants.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.63438,
+"x1": 0.87056,
+"y0": 0.62568,
+"y1": 0.64102,
+"text": "Walter de Bavent, co. Linc., Hen. IlI-",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.62329,
+"x1": 0.69804,
+"y0": 0.63727,
+"y1": 0.64886,
+"text": "Edw. I. K.",
+"conf": 0.902
+},
+{
+"column": 3,
+"x0": 0.6352,
+"x1": 0.87179,
+"y0": 0.6475,
+"y1": 0.66148,
+"text": "Richard de Bavant, co. Norf.,1273. A.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63561,
+"x1": 0.83195,
+"y0": 0.65807,
+"y1": 0.67136,
+"text": "Hugh de Bavent, co. Norf., ibid.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.6352,
+"x1": 0.83359,
+"y0": 0.66795,
+"y1": 0.68227,
+"text": "Jolfan de Bavent, co. Linc., ibid.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63479,
+"x1": 0.87097,
+"y0": 0.67784,
+"y1": 0.69352,
+"text": "Elizabet de Bavent, co. Norf., 2o Edw.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64465,
+"x1": 0.65984,
+"y0": 0.69045,
+"y1": 0.69966,
+"text": "R.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63397,
+"x1": 0.87097,
+"y0": 0.69898,
+"y1": 0.71432,
+"text": "1614.. Thomas Bavand: Reg. Univ.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62164,
+"x1": 0.76992,
+"y0": 0.70875,
+"y1": 0.72443,
+"text": "Oxt. vol. ii. pt. ii. p. 333.",
+"conf": 0.931
+},
+{
+"column": 3,
+"x0": 0.6352,
+"x1": 0.87097,
+"y0": 0.72,
+"y1": 0.7333,
+"text": "1619. William Baven and Jane Millett :",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.7843,
+"x1": 0.80977,
+"y0": 0.7333,
+"y1": 0.74386,
+"text": ": 79.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63479,
+"x1": 0.87056,
+"y0": 0.74182,
+"y1": 0.75409,
+"text": "1626. Jonathan Head and Mary Bavin :",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62164,
+"x1": 0.69188,
+"y0": 0.7517,
+"y1": 0.76432,
+"text": "ibid. p. 168.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63356,
+"x1": 0.71694,
+"y0": 0.76193,
+"y1": 0.77659,
+"text": "London, O, 5.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.63684,
+"x1": 0.84057,
+"y0": 0.77795,
+"y1": 0.79364,
+"text": "Bavir gton ; v. Bevington.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.63643,
+"x1": 0.86727,
+"y0": 0.79602,
+"y1": 0.81136,
+"text": "Bawden, Bawdon.---Bapt.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.61959,
+"x1": 0.86973,
+"y0": 0.80864,
+"y1": 0.82739,
+"text": "'the son of Baldwin,' popularly",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.62164,
+"x1": 0.8685,
+"y0": 0.82364,
+"y1": 0.83864,
+"text": "Baudwin. This was gradually",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.62,
+"x1": 0.86932,
+"y0": 0.83727,
+"y1": 0.85125,
+"text": "toned down to Baudin; v. Boden",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.61918,
+"x1": 0.70092,
+"y0": 0.85091,
+"y1": 0.86489,
+"text": "and Godin.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.6964,
+"x1": 0.87507,
+"y0": 0.91602,
+"y1": 0.94841,
+"text": "Digitized by Goog",
+"conf": 0.978
+}
+]

@@ -1388,16 +1388,17 @@
   "author_comment": "Cf. A'Becket, A'Wood, &c.",
   "modern_distribution": "London, 1",
   "first_name": "Mary",
-  "last_name": "Aburne?",
+  "last_name": "Aburne",
   "date": "1641",
   "event": "Marriage licence",
   "place": "London",
   "county": "London",
-  "notes": "[Unclear: surname print broken (reads 'Ab.rne', probably Aburne); last digit of page number damaged, probably 255] Licence to marry Francis Edmonds",
+  "notes": "Licence to marry Francis Edmonds. Last digit of the page number is damaged (probably 255)",
   "source_abbrev": "Marriage Lic. (London), ii. 25[5?]",
   "source": "Allegations for Marriage Licences issued by the Bishop of London, 1520-1828 (Harleian Society), vol. ii, p. 25[5?]",
   "record_text": "1641. Francis Edmonds and Mary Aburne: Marriage Lic. (London), ii. 25[5?].",
-  "confidence": "low"
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 38,
@@ -1413,11 +1414,12 @@
   "event": "Marriage licence",
   "place": "London",
   "county": "London",
-  "notes": "[Unclear: bride's surname print broken (reads 'Ab.rne', probably Aburne); last digit of page number damaged, probably 255] Licence to marry Mary Aburne",
+  "notes": "Licence to marry Mary Aburne. Last digit of the page number is damaged (probably 255)",
   "source_abbrev": "Marriage Lic. (London), ii. 25[5?]",
   "source": "Allegations for Marriage Licences issued by the Bishop of London, 1520-1828 (Harleian Society), vol. ii, p. 25[5?]",
   "record_text": "1641. Francis Edmonds and Mary Aburne: Marriage Lic. (London), ii. 25[5?].",
-  "confidence": "low"
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 38,

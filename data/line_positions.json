@@ -599,7 +599,7 @@
 0.4622,
 1
 ],
-"38|Aburn|Mary|Aburne?|1641. Francis Edmonds and Mary Aburne: Marriage Lic. (London), ii. 25[5?].": [
+"38|Aburn|Mary|Aburne|1641. Francis Edmonds and Mary Aburne: Marriage Lic. (London), ii. 25[5?].": [
 0.4584,
 0.4829,
 1
@@ -839,7 +839,7 @@
 0.5353,
 1
 ],
-"39|Acomb, Acome|Elena?|Acom|Elena Acom, 1379: ibid.": [
+"39|Acomb, Acome|Elena|Acom|Elena Acom, 1379: ibid.": [
 0.5418,
 0.5572,
 1
@@ -3374,7 +3374,7 @@
 0.5797,
 1
 ],
-"46|Alfrey, Allfrey, Allfree, Alfree|Elferus?|Tannator|Elferus Tannator, co. Sussex, 1273. A.": [
+"46|Alfrey, Allfrey, Allfree, Alfree|Elferus|Tannator|Elferus Tannator, co. Sussex, 1273. A.": [
 0.6751,
 0.6911,
 1
@@ -12422,6 +12422,7341 @@
 "70|Ayres, Ayars, Ayers, Ayris, Ayrs|Alice|Moyle|1582. John Ayer and Alice Moyle: Marriage Lic. (London), i. 111.": [
 0.8553,
 0.8806,
+1
+],
+"71|Ayres, Ayars, Ayers, Ayris, Ayrs|Eliz[abeth]|Ayres|1610. Hugh Jones and Eliz. Ayres: Marriage Lic. (London), p. 325.": [
+0.0886,
+0.1145,
+1
+],
+"71|Ayres, Ayars, Ayers, Ayris, Ayrs|Hugh|Jones|1610. Hugh Jones and Eliz. Ayres: Marriage Lic. (London), p. 325.": [
+0.0886,
+0.1145,
+1
+],
+"71|Ayres, Ayars, Ayers, Ayris, Ayrs|Richard|Ayars|1724. Married—Richard Ayars of St. Alpage: St. Antholin (London), p. 139.": [
+0.1101,
+0.1357,
+1
+],
+"71|Baalham, Balam|Edward|Ballam|1577. Edward Ballam, co. Bucks: Reg. Univ. Oxf. vol. ii. pt. ii. p. 78.": [
+0.3964,
+0.4213,
+1
+],
+"71|Baalham, Balam|Richard|Balam|1613. Richard Balam: ibid. p. 329.": [
+0.4168,
+0.4318,
+1
+],
+"71|Baalham, Balam|Robert|Balam|Robert Balam, rector of Walsoken, co. Norf., 1635: FF. ix. 129.": [
+0.4284,
+0.4523,
+1
+],
+"71|Baalham, Balam|Gulielmi|Balam|'Juxta deponuntur Anna, uxor prima Jacobi Verdon, A.M., filia Gulielmi Balam, armigeri, 13 die Februarii, 1684.' East Dereham, co. Norf.: ibid. x. 214.": [
+0.4472,
+0.4925,
+1
+],
+"71|Baalham, Balam|Anna|(unknown)|'Juxta deponuntur Anna, uxor prima Jacobi Verdon, A.M., filia Gulielmi Balam, armigeri, 13 die Februarii, 1684.' East Dereham, co. Norf.: ibid. x. 214.": [
+0.4472,
+0.4925,
+1
+],
+"71|Baalham, Balam|Jacobi|Verdon|'Juxta deponuntur Anna, uxor prima Jacobi Verdon, A.M., filia Gulielmi Balam, armigeri, 13 die Februarii, 1684.' East Dereham, co. Norf.: ibid. x. 214.": [
+0.4472,
+0.4925,
+1
+],
+"71|Baalham, Balam|Alexander|Balam|Alexander Balam, co. Norf., 21 Eliz.: ibid. ix. 131.": [
+0.4898,
+0.5132,
+1
+],
+"71|Baalham, Balam|Anthony|Balaam|1684. Anthony Balaam and Matilda Vernon: Marriage Alleg. (Canterbury), p. 175.": [
+0.5104,
+0.5371,
+1
+],
+"71|Baalham, Balam|Matilda|Vernon|1684. Anthony Balaam and Matilda Vernon: Marriage Alleg. (Canterbury), p. 175.": [
+0.5104,
+0.5371,
+1
+],
+"71|Baalham, Balam|Mary|Balam|1731. William Tuffnell and Mary Balam: Marriage Lic. (Faculty Office), p. 252.": [
+0.5401,
+0.5677,
+1
+],
+"71|Baalham, Balam|William|Tuffnell|1731. William Tuffnell and Mary Balam: Marriage Lic. (Faculty Office), p. 252.": [
+0.5401,
+0.5677,
+1
+],
+"71|Babb, Babbs|Walter|Babbe|Walter Babbe, co. Soms., 1 Edw. III: Kirby's Quest, p. 147.": [
+0.6584,
+0.6843,
+1
+],
+"71|Babb, Babbs|Nicholas|Bab|1259. Nicholas Bab: Cal. of Wills in Court of Husting.": [
+0.6782,
+0.7037,
+1
+],
+"71|Babb, Babbs|Berthol|Babbe|Berthol Babbe, co. Hunts, 1273. A.": [
+0.699,
+0.7153,
+1
+],
+"71|Babb, Babbs|John|Babbe|John Babbe, co. Wilts, ibid.": [
+0.7105,
+0.7234,
+1
+],
+"71|Babb, Babbs|William|Babbe|William Babbe, co. Oxf., ibid.": [
+0.7214,
+0.7326,
+1
+],
+"71|Babb, Babbs|Richard|Babb|1553. Married—Richard Babb and Eliz. Tomson: Kensington Church, p. 59.": [
+0.7307,
+0.744,
+1
+],
+"71|Babb, Babbs|Eliz[abeth]|Tomson|1553. Married—Richard Babb and Eliz. Tomson: Kensington Church, p. 59.": [
+0.7307,
+0.744,
+1
+],
+"71|Babb, Babbs|John|Babb|1596. John Babb, co. Linc.: Reg. Univ. Oxf., vol. ii. pt. ii. p. 216.": [
+0.7732,
+0.7964,
+1
+],
+"71|Babb, Babbs|Catherine|Babb|1757. Married—Walter Shropshire and Catherine Babb: St. Geo. Han. Sq. i. 73.": [
+0.7902,
+0.8097,
+1
+],
+"71|Babb, Babbs|Walter|Shropshire|1757. Married—Walter Shropshire and Catherine Babb: St. Geo. Han. Sq. i. 73.": [
+0.7902,
+0.8097,
+1
+],
+"71|Babb, Babbs|Elizabeth|Babbs|1765. — George Solden and Elizabeth Babbs: ibid. p. 143.": [
+0.8233,
+0.8499,
+1
+],
+"71|Babb, Babbs|George|Solden|1765. — George Solden and Elizabeth Babbs: ibid. p. 143.": [
+0.8233,
+0.8499,
+1
+],
+"71|Ayrton|Nicholaus|de Ayrton|Nicholaus de Ayrton, 1379: P. T. Yorks. p. 206.": [
+0.1456,
+0.1698,
+1
+],
+"71|Ayrton|Willelmus|de Ayreton|Willelmus de Ayreton: ibid. p. 271.": [
+0.1664,
+0.18,
+1
+],
+"71|Ayrton|Margery|Ayrton|1662. John Bond and Margery Ayrton: Marriage Alleg. (Canterbury), p. 50.": [
+0.1773,
+0.2015,
+1
+],
+"71|Ayrton|John|Bond|1662. John Bond and Margery Ayrton: Marriage Alleg. (Canterbury), p. 50.": [
+0.1773,
+0.2015,
+1
+],
+"71|Ayrton|Charlotte|Ayrton|1797. Married—John Barlow and Charlotte Ayrton: St. Geo. Han. Sq. ii. 172.": [
+0.1977,
+0.2216,
+1
+],
+"71|Ayrton|John|Barlow|1797. Married—John Barlow and Charlotte Ayrton: St. Geo. Han. Sq. ii. 172.": [
+0.1977,
+0.2216,
+1
+],
+"71|Ayrton|Ellen|Ayreton|1805. — William Garrott and Ellen Ayreton: ibid. p. 336.": [
+0.2298,
+0.2543,
+1
+],
+"71|Ayrton|William|Garrott|1805. — William Garrott and Ellen Ayreton: ibid. p. 336.": [
+0.2298,
+0.2543,
+1
+],
+"71|Babbage, Babbidge, Babidge|Edmund|Babbige|1754. Buried — Edmund Babbige: St. Mary Aldermary, p. 229.": [
+0.4121,
+0.4366,
+1
+],
+"71|Babbage, Babbidge, Babidge|Benjamin|Babbage|1792. Married—Benjamin Babbage and Betty Plumleigh Teape: St. Geo. Han. Sq. i. 84.": [
+0.4318,
+0.4574,
+1
+],
+"71|Babbage, Babbidge, Babidge|Betty Plumleigh|Teape|1792. Married—Benjamin Babbage and Betty Plumleigh Teape: St. Geo. Han. Sq. i. 84.": [
+0.4318,
+0.4574,
+1
+],
+"71|Babbage, Babbidge, Babidge|Charles|Babbage|'Charles Babbage (1792-1871), the inventor of calculating machines, was born near Teignmouth, in co. Devon': Dict. Nat. Biog. ii. 304.": [
+0.4639,
+0.4973,
+1
+],
+"71|Babelot||Babelot|": [
+0.5432,
+0.5578,
+1
+],
+"71|Baber|Henry|Babre|Henry Babre, co. Camb., 1273. A.": [
+0.6891,
+0.7027,
+1
+],
+"71|Baber|Alice|Baber|1570. Bapt. — Alice, d. of Edward Baber: St. Jas. Clerkenwell, i. 6.": [
+0.6997,
+0.7231,
+1
+],
+"71|Baber|Edward|Baber|1570. Bapt. — Alice, d. of Edward Baber: St. Jas. Clerkenwell, i. 6.": [
+0.6997,
+0.7231,
+1
+],
+"71|Baber|Francis|Baber|1582. Francis Baber, London: Reg. Univ. Oxf. vol. ii. pt. ii. p. 118.": [
+0.7186,
+0.7439,
+1
+],
+"71|Baber|John|Baber|1601. Married—John Baber and Jane Whitlocke: St. Michael, Cornhill, p. 17.": [
+0.7398,
+0.765,
+1
+],
+"71|Baber|Jane|Whitlocke|1601. Married—John Baber and Jane Whitlocke: St. Michael, Cornhill, p. 17.": [
+0.7398,
+0.765,
+1
+],
+"71|Baber|John|Baber|1608. John Baber, co. Soms.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 300.": [
+0.7595,
+0.7861,
+1
+],
+"71|Baber|Edward|Baber|1621. Edward Baber, co. Soms.: ibid. p. 392.": [
+0.7831,
+0.7953,
+1
+],
+"71|Baber|Noah|Baber|1757. Married—Noah Baber and Susan Monk: St. Geo. Han. Sq. i. 73.": [
+0.8008,
+0.8301,
+1
+],
+"71|Baber|Susan|Monk|1757. Married—Noah Baber and Susan Monk: St. Geo. Han. Sq. i. 73.": [
+0.8008,
+0.8301,
+1
+],
+"71|Aysh, Ayshford|Ric[hard]|de Ayswell|cf. Ric. de Ayswell (Ashwell) or Philip de Ayston (Ashton), 1273. A (index).": [
+0.1316,
+0.1609,
+1
+],
+"71|Aysh, Ayshford|Philip|de Ayston|cf. Ric. de Ayswell (Ashwell) or Philip de Ayston (Ashton), 1273. A (index).": [
+0.1316,
+0.1609,
+1
+],
+"71|Aysh, Ayshford|Thomas|Aysshe|1627. Thomas Aysshe and Katherine Sheppard: Marriage Lic. (London), ii. 194.": [
+0.1677,
+0.1916,
+1
+],
+"71|Aysh, Ayshford|Katherine|Sheppard|1627. Thomas Aysshe and Katherine Sheppard: Marriage Lic. (London), ii. 194.": [
+0.1677,
+0.1916,
+1
+],
+"71|Aysh, Ayshford|Thomas|Aysshe?|1663. Thomas Sayward and Mary Gold. Alleged by Thomas Aysshe: Marriage Alleg. (Canterbury), p. 89.": [
+0.1991,
+0.2332,
+1
+],
+"71|Aysh, Ayshford|Thomas|Sayward|1663. Thomas Sayward and Mary Gold. Alleged by Thomas Aysshe: Marriage Alleg. (Canterbury), p. 89.": [
+0.1991,
+0.2332,
+1
+],
+"71|Aysh, Ayshford|Mary|Gold|1663. Thomas Sayward and Mary Gold. Alleged by Thomas Aysshe: Marriage Alleg. (Canterbury), p. 89.": [
+0.1991,
+0.2332,
+1
+],
+"71|Aysh, Ayshford|Eliz[abeth]|Aishe|1704. Robert Barker and Eliz. Aishe: Marriage Lic. (London), ii. 332.": [
+0.2294,
+0.254,
+1
+],
+"71|Aysh, Ayshford|Robert|Barker|1704. Robert Barker and Eliz. Aishe: Marriage Lic. (London), ii. 332.": [
+0.2294,
+0.254,
+1
+],
+"71|Babington|Hugh|de Babintone|Hugh de Babintone, co. Derby, 1273. A.": [
+0.3967,
+0.4103,
+1
+],
+"71|Babington|Robert|de Babington|Robert de Babington, co. Linc., ibid.": [
+0.4069,
+0.4209,
+1
+],
+"71|Babington|Richard|de Babington Magna|Richard de Babington Magna, co. Northumb., ibid.": [
+0.4165,
+0.4403,
+1
+],
+"71|Babington|William|de Babynton|William de Babynton, co. Northumb., 1340: KKK. vol. vi. p. xxxviii.": [
+0.4386,
+0.4625,
+1
+],
+"71|Babington|Henricus|de Babbyngton|Henricus de Babbyngton, 1379: P. T. Yorks. p. 33.": [
+0.4581,
+0.4843,
+1
+],
+"71|Babington|John|Babington|1576. John Babington, co. Notts: Reg. Univ. Oxf. vol. ii. pt. ii. p. 71.": [
+0.4782,
+0.5044,
+1
+],
+"71|Babington|Henry|Babington|1597. Henry Babington, co. Oxf.: ibid. p. 220.": [
+0.5009,
+0.5149,
+1
+],
+"71|Babington|Anthony|Babington|'Anthony Babington (1561-86), leader of a Catholic conspiracy against Queen Elizabeth, ... descended from John de Babington ... owner of the district round Mickle and Little Babington, or Bavington, co. Northumberland': Dict. Nat. Biog. ii. 308.": [
+0.521,
+0.5861,
+1
+],
+"71|Babington|John|de Babington|'Anthony Babington (1561-86), leader of a Catholic conspiracy against Queen Elizabeth, ... descended from John de Babington ... owner of the district round Mickle and Little Babington, or Bavington, co. Northumberland': Dict. Nat. Biog. ii. 308.": [
+0.521,
+0.5861,
+1
+],
+"71|Bacheller, Bachelder|Jordan|le Bachiler|Jordan le Bachiler, co. Oxf., 1273. A.": [
+0.7129,
+0.7331,
+1
+],
+"71|Bacheller, Bachelder|Robert|Bachelere|Robert Bachelere, co. Wilts, ibid.": [
+0.7273,
+0.7392,
+1
+],
+"71|Bacheller, Bachelder|Edmund|Bachelor|1583. Edmund Bachelor and Eliz. Swinson: Marriage Lic. (London), i. 126.": [
+0.7364,
+0.7602,
+1
+],
+"71|Bacheller, Bachelder|Eliz[abeth]|Swinson|1583. Edmund Bachelor and Eliz. Swinson: Marriage Lic. (London), i. 126.": [
+0.7364,
+0.7602,
+1
+],
+"71|Bacheller, Bachelder|William|Bachiler|1600. William Bachiler, co. Worc.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 243.": [
+0.7585,
+0.7817,
+1
+],
+"71|Bacheller, Bachelder|Stephen|Bachiler|1610. Stephen Bachiler, co. Hants: ibid. p. 317.": [
+0.7786,
+0.8045,
+1
+],
+"72|Back, Backe|John|atte Back|John atte Back, co. Soms., 1 Edw. III: Kirby's Quest, p. 173.": [
+0.1466,
+0.1701,
+1
+],
+"72|Back, Backe|Beatrice|Backe|1562-3. Richard Mothe and Beatrice Backe: Marriage Lic. (London), i. 25.": [
+0.1657,
+0.1913,
+1
+],
+"72|Back, Backe|Richard|Mothe|1562-3. Richard Mothe and Beatrice Backe: Marriage Lic. (London), i. 25.": [
+0.1657,
+0.1913,
+1
+],
+"72|Back, Backe|Robert|Bache|'Robert Bache, of Diss, co. Norf., husbandman,' Dec. 23, 1594: Cal. State Papers (Domestic), iii. 569.": [
+0.1865,
+0.2216,
+1
+],
+"72|Back, Backe|Edward|Back|1754. Married — Edward Back and Alice Fowler: St. Geo. Chap. Mayfair, p. 277.": [
+0.2168,
+0.2424,
+1
+],
+"72|Back, Backe|Alice|Fowler|1754. Married — Edward Back and Alice Fowler: St. Geo. Chap. Mayfair, p. 277.": [
+0.2168,
+0.2424,
+1
+],
+"72|Backer|James|Bacar|1547. James Bacar and Hungerford (sic): Marriage Lic. (Faculty Office), p. 11.": [
+0.3292,
+0.3534,
+1
+],
+"72|Backer|(unknown)|Hungerford|1547. James Bacar and Hungerford (sic): Marriage Lic. (Faculty Office), p. 11.": [
+0.3292,
+0.3534,
+1
+],
+"72|Backer|Edward|Baccar|Edward Baccar, Aug. 20, 1591: Cal. State Papers (Domestic), iii. 95.": [
+0.3503,
+0.3762,
+1
+],
+"72|Backhouse, Bacchus, Backus|Willian|atte Bakehous|Willian atte Bakehous, co. Soms., 1 Edw. III: Kirby's Quest, p. 208.": [
+0.5067,
+0.5323,
+1
+],
+"72|Backhouse, Bacchus, Backus|Nicholas|atte Bakhouse|Nicholas atte Bakhouse, co. Soms., ibid. p. 89.": [
+0.5272,
+0.5418,
+1
+],
+"72|Backhouse, Bacchus, Backus|Thomas|Bacchus|Thomas Bacchus. ZZ.": [
+0.5602,
+0.5705,
+1
+],
+"72|Backhouse, Bacchus, Backus|Thomas|del Bakhouse|Thomas del Bakhouse, 1379: P. T. Yorks. p. 203.": [
+0.6298,
+0.6553,
+1
+],
+"72|Backhouse, Bacchus, Backus|William|del Bakeus|William del Bakeus, 1379: ibid. p. 78.": [
+0.6512,
+0.6652,
+1
+],
+"72|Backhouse, Bacchus, Backus|William|Backhowse|William Backhowse or Bacchus, secular chaplain, 1538: Reg. Univ. Oxf. i. 192.": [
+0.6615,
+0.686,
+1
+],
+"72|Backhouse, Bacchus, Backus|William|Bacchus|William Backhowse or Bacchus, secular chaplain, 1538: Reg. Univ. Oxf. i. 192.": [
+0.6615,
+0.686,
+1
+],
+"72|Backhouse, Bacchus, Backus|George|Backhouse|1571. George Backhouse and Ann Meryton: Marriage Lic. (London), i. 51.": [
+0.6826,
+0.7065,
+1
+],
+"72|Backhouse, Bacchus, Backus|Ann|Meryton|1571. George Backhouse and Ann Meryton: Marriage Lic. (London), i. 51.": [
+0.6826,
+0.7065,
+1
+],
+"72|Backhouse, Bacchus, Backus|John|Baccus|1753. Bapt. — John Baccus, an adult: St. Geo. Chap. Mayfair, p. 11.": [
+0.705,
+0.7276,
+1
+],
+"72|Backler|Nicholas|le Bakelere|Nicholas le Bakelere, C. R., 13 Edw. II.": [
+0.794,
+0.8076,
+1
+],
+"72|Backler|William|Backler|1641. Bapt. — William, s. of George Backler: St. Thomas the Apostle (London), p. 54.": [
+0.8049,
+0.8277,
+1
+],
+"72|Backler|George|Backler|1641. Bapt. — William, s. of George Backler: St. Thomas the Apostle (London), p. 54.": [
+0.8049,
+0.8277,
+1
+],
+"72|Backler|Eliz[abeth]|Backler|1808. Married — William Chitty and Eliz. Backler: St. Geo. Han. Sq. ii. 394.": [
+0.8363,
+0.8615,
+1
+],
+"72|Backler|William|Chitty|1808. Married — William Chitty and Eliz. Backler: St. Geo. Han. Sq. ii. 394.": [
+0.8363,
+0.8615,
+1
+],
+"72|Backster, Bagster, Baxter|Johannes|Austyn|The ordinances of the Guild of the Purification (Bishop's Lynn, 1367), are signed by 'Johannes Austyn, baxter' (English Guilds, p. 90).": [
+0.2512,
+0.2925,
+1
+],
+"72|Backster, Bagster, Baxter|Giliana|le Bacster|Giliana le Bacster, co. Hunts, 1273. A.": [
+0.4018,
+0.4151,
+1
+],
+"72|Backster, Bagster, Baxter|John|le Bakestere|John le Bakestere, co. Norf., ibid.": [
+0.4131,
+0.4253,
+1
+],
+"72|Backster, Bagster, Baxter|Elias|le Baxtere|Elias le Baxtere, 1302. M.": [
+0.4229,
+0.4359,
+1
+],
+"72|Backster, Bagster, Baxter|Bartholomew|le Bakestere|Bartholomew le Bakestere. B.": [
+0.4332,
+0.4455,
+1
+],
+"72|Backster, Bagster, Baxter|Andrew|le Bakester|Andrew le Bakester. G.": [
+0.4441,
+0.4553,
+1
+],
+"72|Backster, Bagster, Baxter|Agnes|Bakester|Agnes Bakester, 1379: P. T. Yorks. p. 197.": [
+0.4536,
+0.4683,
+1
+],
+"72|Backster, Bagster, Baxter|Cecilia|Bakester|Cecilia Bakester, vidua, ibid. p. 42.": [
+0.4741,
+0.4881,
+1
+],
+"72|Backster, Bagster, Baxter|William|Mytton|William Mytton, backester, co. York, 1430: W. 11.": [
+0.4853,
+0.5074,
+1
+],
+"72|Backster, Bagster, Baxter|Patrick|Adamson|Patrick Adamson (1537-92), a Scotch prelate. 'His enemies taunted him with being a bakers son, \"ane baxter's sone\"': Dict. Nat. Biog. i. 111.": [
+0.5057,
+0.5483,
+1
+],
+"72|Backster, Bagster, Baxter|Thomas|Smith|Thomas Smith, backster, 1622: Preston Guild Rolls, p. 73.": [
+0.5483,
+0.5715,
+1
+],
+"72|Bacon|John|le Bacon|John le Bacon. T.": [
+0.6942,
+0.7061,
+1
+],
+"72|Bacon|Cecilia|Bacun|Cecilia Bacun, co. Norf., 1273. A.": [
+0.7017,
+0.7205,
+1
+],
+"72|Bacon|Wymer|Bacon|Wymer Bacon, co. Suff., ibid.": [
+0.7149,
+0.7282,
+1
+],
+"72|Bacon|Simon|Bacon|Simon Bacon, co. Oxf., ibid.": [
+0.7248,
+0.7391,
+1
+],
+"72|Bacon|Walterus|Bacun|Walterus Bacun, 1379: P. T. Yorks. p. 101.": [
+0.7357,
+0.7497,
+1
+],
+"72|Bacon|Thomas|Bacon|Thomas Bacon, 1379: ibid. p. 34.": [
+0.7548,
+0.7711,
+1
+],
+"72|Bacon|Ann|Bacon|1546. Humphrey Luce and Ann Bacon: Marriage Lic. (London), i. 9.": [
+0.7671,
+0.7902,
+1
+],
+"72|Bacon|Humphrey|Luce|1546. Humphrey Luce and Ann Bacon: Marriage Lic. (London), i. 9.": [
+0.7671,
+0.7902,
+1
+],
+"72|Bacon|Matthias|Bacon|1576. Matthias Bacon, London: Reg. Univ. Oxf. vol. ii. pt. ii. p. 70.": [
+0.7858,
+0.8124,
+1
+],
+"72|Badams|Thomas|Apadam|Thomas Apadam, co. Soms., 1 Edw. III: Kirby's Quest, p. 94.": [
+0.1313,
+0.1568,
+1
+],
+"72|Badams|John|Abbadam|John Abbadam, Bristol, 27 Edw. I. BBB.": [
+0.1524,
+0.1664,
+1
+],
+"72|Badams|John|ap Adam|John ap Adam, 24 Edw. I, ibid.": [
+0.1728,
+0.1858,
+1
+],
+"72|Badams|Mary|Baddam|1597. Married—John Hunter and Mary Baddam: Kensington Ch., p. 64.": [
+0.1834,
+0.2086,
+1
+],
+"72|Badams|John|Hunter|1597. Married—John Hunter and Mary Baddam: Kensington Ch., p. 64.": [
+0.1834,
+0.2086,
+1
+],
+"72|Badams|Mary|Baddam|1623. Thomas Batt and Mary Baddam: Marriage Lic. (London), ii. 129.": [
+0.2032,
+0.2274,
+1
+],
+"72|Badams|Thomas|Batt|1623. Thomas Batt and Mary Baddam: Marriage Lic. (London), ii. 129.": [
+0.2032,
+0.2274,
+1
+],
+"72|Badams|Phillip|Baddams|1630. Bapt. — Phillip, s. William Baddams: St. Jas. Clerkenwell, i. 116.": [
+0.223,
+0.2482,
+1
+],
+"72|Badams|William|Baddams|1630. Bapt. — Phillip, s. William Baddams: St. Jas. Clerkenwell, i. 116.": [
+0.223,
+0.2482,
+1
+],
+"72|Badcock, Batcock|Geoffrey|Batecok|Geoffrey Batecok, London, 1273. A.": [
+0.3316,
+0.3435,
+1
+],
+"72|Badcock, Batcock|William|Badecok|William Badecok, co. Camb., ibid.": [
+0.3415,
+0.3534,
+1
+],
+"72|Badcock, Batcock|Robert|Batecoc|Robert Batecoc, co. Oxf., ibid.": [
+0.3517,
+0.3647,
+1
+],
+"72|Badcock, Batcock|Roger|Badecok|Roger Badecok, 1306. M.": [
+0.3616,
+0.3759,
+1
+],
+"72|Badcock, Batcock|Stephen|Badcok|Stephen Badcok, co. Soms., 1 Edw. III: Kirby's Quest, p. 88.": [
+0.3728,
+0.3957,
+1
+],
+"72|Badcock, Batcock|Badokok|Jerveys|Badokok Jerveys, co. Soms., ibid.": [
+0.3933,
+0.4062,
+1
+],
+"72|Badcock, Batcock|Vincent|Badcooke|1563. Buried — Vincent Badcooke: St. Peter, Cornhill, i. 117.": [
+0.4025,
+0.4274,
+1
+],
+"72|Badcock, Batcock|Briget|Bedcocke|1609. Married—John Forwood to Briget Bedcocke: St. Thomas the Apostle (London), p. 11.": [
+0.424,
+0.4478,
+1
+],
+"72|Badcock, Batcock|John|Forwood|1609. Married—John Forwood to Briget Bedcocke: St. Thomas the Apostle (London), p. 11.": [
+0.424,
+0.4478,
+1
+],
+"72|Badcock, Batcock|Margerie|Badcock|1611. — John Fell and Margerie Badcock: St. Peter, Cornhill, i. 247.": [
+0.4553,
+0.4806,
+1
+],
+"72|Badcock, Batcock|John|Fell|1611. — John Fell and Margerie Badcock: St. Peter, Cornhill, i. 247.": [
+0.4553,
+0.4806,
+1
+],
+"72|Baddeley, Baddiley|William|de Badeleye|William de Badeleye, co. Essex, 1273. A.": [
+0.5469,
+0.5633,
+1
+],
+"72|Baddeley, Baddiley|Geoffrey|de Badele|Geoffrey de Badele, co. Suff., ibid.": [
+0.5595,
+0.5715,
+1
+],
+"72|Baddeley, Baddiley|Robert|de Badele|Robert de Badele, co. Norf., Hen. III-Edw. I. K.": [
+0.5687,
+0.5916,
+1
+],
+"72|Baddeley, Baddiley|William|Badeley|1608-9. William Badeley and Sarah Rathbone: Marriage Lic. (London), i. 310.": [
+0.5896,
+0.6138,
+1
+],
+"72|Baddeley, Baddiley|Sarah|Rathbone|1608-9. William Badeley and Sarah Rathbone: Marriage Lic. (London), i. 310.": [
+0.5896,
+0.6138,
+1
+],
+"72|Baddeley, Baddiley|Jane|Badly|1702. Married—James Page and Jane Badly: St. Antholin (London), p. 116.": [
+0.6598,
+0.6833,
+1
+],
+"72|Baddeley, Baddiley|James|Page|1702. Married—James Page and Jane Badly: St. Antholin (London), p. 116.": [
+0.6598,
+0.6833,
+1
+],
+"72|Badger, Bagger|Thomas|le Baggere|Thomas le Baggere, co. Oxf., 1273. A.": [
+0.7514,
+0.7671,
+1
+],
+"72|Badger, Bagger|Robert|le Bagger|Robert le Bagger, co. Lanc., 1332: Lay Subsidy (Rylands).": [
+0.7623,
+0.7854,
+1
+],
+"72|Badger, Bagger|Willelmus|Bagger|Willelmus Bagger, 1379: P. T. Yorks. p. 109.": [
+0.7821,
+0.7984,
+1
+],
+"72|Badger, Bagger|Ricardus|Badger|Ricardus Badger, 1379: ibid. p. 128.": [
+0.8035,
+0.8185,
+1
+],
+"72|Badger, Bagger|John|le Baggere|John le Baggere, C. R., 27 Edw. I.": [
+0.8134,
+0.8277,
+1
+],
+"72|Badger, Bagger|Roland|Badger|1573. Roland Badger, co. Worc.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 55.": [
+0.8236,
+0.8499,
+1
+],
+"72|Badger, Bagger|William|Bagger|1605. Bapt.—William, s. John Bagger: St. Thomas the Apostle (London), p. 38.": [
+0.8451,
+0.8703,
+1
+],
+"72|Badger, Bagger|John|Bagger|1605. Bapt.—William, s. John Bagger: St. Thomas the Apostle (London), p. 38.": [
+0.8451,
+0.8703,
+1
+],
+"73|Badkin|Batekyn|Clericus|Batekyn Clericus, co. Essex, 1273. A.": [
+0.2056,
+0.2206,
+1
+],
+"73|Badkin|Batekin|Lahan|Batekin Lahan, co. Essex, ibid.": [
+0.2161,
+0.2311,
+1
+],
+"73|Badkin|Hannah|Battkin|1779. Married—William Allen and Hannah Battkin: St. Geo. Han. Sq. i. 298.": [
+0.2247,
+0.2519,
+1
+],
+"73|Badkin|William|Allen|1779. Married—William Allen and Hannah Battkin: St. Geo. Han. Sq. i. 298.": [
+0.2247,
+0.2519,
+1
+],
+"73|Badnall||Badnall|": [
+0.2639,
+0.2802,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|William|Bage|William Bage, co. Camb., 1273. A.": [
+0.4332,
+0.4458,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Henry|Bagekoc|Henry Bagekoc, co. Camb., ibid.": [
+0.4417,
+0.4591,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Cattle|Bagge|Cattle (i. e. Ketel) Bagge, co. Camb., ibid.": [
+0.4523,
+0.469,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Robert|Bagge|Robert Bagge, co. Bucks, ibid.": [
+0.4724,
+0.4901,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Helias|Bag'|Helias Bag', 1379: P. T. Yorks. p. 158.": [
+0.4819,
+0.5024,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Robertus|Bag'|Robertus Bag', 1379: ibid.": [
+0.4935,
+0.5126,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Willelmus|Bag'|Willelmus Bag', 1379: ibid": [
+0.5041,
+0.5222,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Walter|Bagg|Walter Bagg, co. Soms., 1 Edw. III: Kirby's Quest, p. 125.": [
+0.5139,
+0.5408,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|William|Bagelyn|William Bagelyn, co. Soms., ibid. p. 167.": [
+0.5353,
+0.5524,
+1
+],
+"73|Bagg, Bagge, Baggs, Back, Backe|Walter|Baggesheyghe|Walter Baggesheyghe, ibid. p. 169.": [
+0.594,
+0.609,
+1
+],
+"73|Bagger||Bagger|": [
+0.7081,
+0.7224,
+1
+],
+"73|Bagley|Tholomeo|de Baggeleyhe|Tholomeo de Baggeleyhe, co. Soms., 1 Edw. III: Kirby's Quest, p. 277.": [
+0.7217,
+0.7486,
+1
+],
+"73|Bagley|Thomas|Bagley|1576. Thomas Bagley and Eliz. Hadwyn: Marriage Lic. (London), i. 72.": [
+0.7408,
+0.7684,
+1
+],
+"73|Bagley|Eliz[abeth]|Hadwyn|1576. Thomas Bagley and Eliz. Hadwyn: Marriage Lic. (London), i. 72.": [
+0.7408,
+0.7684,
+1
+],
+"73|Bagley|Nicholas|Bagley|1581. Buried—Agnes, wife of Nicholas Bagley: St. Jas. Clerkenwell, iv. 85.": [
+0.763,
+0.7892,
+1
+],
+"73|Bagley|Agnes|(unknown)|1581. Buried—Agnes, wife of Nicholas Bagley: St. Jas. Clerkenwell, iv. 85.": [
+0.763,
+0.7892,
+1
+],
+"73|Bagley|Humfry|Bagly|1642. — Humfry Bagly: ibid. p. 253.": [
+0.7841,
+0.7987,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Humfrey|Bagnoll|1578. Humfrey Bagnoll and Alice Hudson: Marriage Lic. (London), i. 80.": [
+0.1268,
+0.1534,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Alice|Hudson|1578. Humfrey Bagnoll and Alice Hudson: Marriage Lic. (London), i. 80.": [
+0.1268,
+0.1534,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Robert|Bagnald|1584. Robert Bagnald, co. Staff.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 139.": [
+0.1476,
+0.1739,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Nicholas|Bagenall|1597. Nicholas Bagenall, co. Carn.: ibid. p. 222.": [
+0.1681,
+0.2066,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Ralph|Bagnall|1599. Ralph Bagnall, co. Worc.: ibid. p. 234.": [
+0.1892,
+0.2066,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Ellen|Bagnall|1604. Married—Richard Morer and Ellen Bagnall: St. Michael, Cornhill, p. 17.": [
+0.2107,
+0.2362,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Richard|Morer|1604. Married—Richard Morer and Ellen Bagnall: St. Michael, Cornhill, p. 17.": [
+0.2107,
+0.2362,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Francis|Bagnell|1753. — Francis Bagnell and Eliz. Dickerson: St. Geo. Chap. Mayfair, p. 237.": [
+0.2298,
+0.2567,
+1
+],
+"73|Bagnall, Badnall, Bagnell|Eliz[abeth]|Dickerson|1753. — Francis Bagnell and Eliz. Dickerson: St. Geo. Chap. Mayfair, p. 237.": [
+0.2298,
+0.2567,
+1
+],
+"73|Bagridge|Walter|de Baggerigg|Walter de Baggerigg, co. Dorset, 1273. A.": [
+0.3575,
+0.3725,
+1
+],
+"73|Bagridge|Cristian|Baggerig|Cristian Baggerig, co. Dorset, ibid.": [
+0.3776,
+0.3953,
+1
+],
+"73|Bagridge|Amice|Baggerig|Amice Baggerig, co. Dorset, ibid.": [
+0.3882,
+0.4066,
+1
+],
+"73|Bagshaw, Bagshawe|Oliver|de Bogeschaghe|Oliver de Bogeschaghe, co. Soms., 1 Edw. III: Kirby's Quest, p. 216.": [
+0.4707,
+0.4969,
+1
+],
+"73|Bagshaw, Bagshawe|Richard|de Boggeschaghe|Richard de Boggeschaghe, co. Soms., ibid.": [
+0.4918,
+0.5089,
+1
+],
+"73|Bagshaw, Bagshawe|Nicholaus|de Bagschaghe|Nicholaus de Bagschaghe, 1379: P. T. Yorks. p. 42.": [
+0.5118,
+0.5384,
+1
+],
+"73|Bagshaw, Bagshawe|Nicholas|Bagshawe|Nicholas Bagshawe, temp. Eliz. Z.": [
+0.5326,
+0.55,
+1
+],
+"73|Bagshaw, Bagshawe|Humphry|Bagshawe|Humphry Bagshawe, temp. Eliz. ZZ.": [
+0.5425,
+0.5599,
+1
+],
+"73|Bagshaw, Bagshawe|Elenor|Bagshawe|1563. Married—Richard Warren and Elenor Bagshawe: St. Thomas the Apostle (London), p. 3.": [
+0.5534,
+0.579,
+1
+],
+"73|Bagshaw, Bagshawe|Richard|Warren|1563. Married—Richard Warren and Elenor Bagshawe: St. Thomas the Apostle (London), p. 3.": [
+0.5534,
+0.579,
+1
+],
+"73|Bagshaw, Bagshawe|Edward|Bageshaw|1604. Edward Bageshaw, London: Reg. Univ. Oxf. vol. ii. pt. ii. p. 278.": [
+0.5865,
+0.612,
+1
+],
+"73|Bagster||Bagster|": [
+0.6509,
+0.6615,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Henry|de Bageleg'|Henry de Bageleg', cos. Salop and Staff., Hen. III-Edw. I. K.": [
+0.7473,
+0.7732,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|William|de Baggilegh|William de Baggilegh, 1318: Earwaker's, East Ches. ii. 156.": [
+0.7681,
+0.7936,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Hamo|de Baggelegh|Hamo de Baggelegh, 1352: ibid. ii. 234.": [
+0.7885,
+0.8056,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Johannes|de Bagley|Johannes de Bagley, 1379: P. T. Yorks. p. 63": [
+0.7994,
+0.8161,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|William|de Baggiley|William de Baggiley, mayor of Stockport, 1382: Earwaker's East Ches. i. 346.": [
+0.8189,
+0.8468,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Thomas|Baguley|1589-0. Thomas Baguley and Katherine Aufen: Marriage Lic. (London), i. 185.": [
+0.8414,
+0.8679,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Katherine|Aufen?|1589-0. Thomas Baguley and Katherine Aufen: Marriage Lic. (London), i. 185.": [
+0.8414,
+0.8679,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Johane|Baggalea|1597. William Denby and Johane Baggalea: ibid. i. 242.": [
+0.0941,
+0.1197,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|William|Denby|1597. William Denby and Johane Baggalea: ibid. i. 242.": [
+0.0941,
+0.1197,
+1
+],
+"73|Baguley, Bagley, Baggallay, Baggaley, Baggerley|Thomas|Baguley|Thomas Baguley, 1622, Heaton Norris: Lanc. and Ches. Rec. Soc. xii. 152.": [
+0.1145,
+0.1394,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Roger|le Baillif|Roger le Baillif, co. Soms., 1 Edw. III: Kirby's Quest, p. 248.": [
+0.3592,
+0.3861,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Richard|le Bailiff|Richard le Bailiff, C. R., 7 Edw. I.": [
+0.38,
+0.3953,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Alverd|Ballivus|Alverd Ballivus, co. Linc., 1273. A.": [
+0.3892,
+0.4079,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Henry|Baily|Henry Baily, co. Oxf., ibid.": [
+0.4015,
+0.4161,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|William|Bailif|William Bailif, co. Oxf., ibid.": [
+0.4117,
+0.4264,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Seman|le Baylif|Seman le Baylif. J.": [
+0.4229,
+0.4363,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Henry|le Baillie|Henry le Baillie, 1307. M.": [
+0.4311,
+0.4496,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Richard|le Baylif|Richard le Baylif, co. Heref., Hen. III-Edw. I. K.": [
+0.4414,
+0.4669,
+1
+],
+"73|Bailey, Baillie, Bailly, Baily, Bayley, Baylie, Bayly, Baylis, Bayliss, Bayles, Bayless|Adam|Ballef|Adam Ballef, 1379: P. T. Yorks. p. 197.": [
+0.4632,
+0.4789,
+1
+],
+"73|Bainbridge, Bambridge, Bainbrigge|Rogerus|de Baynbryg|Rogerus de Baynbryg, 1379: P. T. Yorks. p. 288.": [
+0.597,
+0.6253,
+1
+],
+"73|Bainbridge, Bambridge, Bainbrigge|Christopher|Bainbridge|'Christopher Bainbridge (1464?-1514), archbishop of York, born at Hilton, near Appleby, co. Westm.': Dict. Nat. Biog. ii. 433.": [
+0.6189,
+0.6571,
+1
+],
+"73|Bainbridge, Bambridge, Bainbrigge|Thomas|Bainbrigg|'Thomas Bainbrigg, master of Christ's College, Camb. (1620-1646), \"descended out of the North\"': ibid. p. 445.": [
+0.6601,
+0.7089,
+1
+],
+"73|Bainbridge, Bambridge, Bainbrigge|Reginald|Baynbridge|'Reginald Baynbridge or Bainbrigg (1545-1606), schoolmaster and antiquary, born probably in Westmoreland': ibid. p. 434.": [
+0.6908,
+0.73,
+1
+],
+"73|Bainbridge, Bambridge, Bainbrigge|Reginald|Bainbrigg|'Reginald Baynbridge or Bainbrigg (1545-1606), schoolmaster and antiquary, born probably in Westmoreland': ibid. p. 434.": [
+0.6908,
+0.73,
+1
+],
+"73|Baines, Baynes, Bains|Henry|de Bayns|Henry de Bayns, co. Linc., 1273. A.": [
+0.8325,
+0.854,
+1
+],
+"73|Baines, Baynes, Bains|John|de Bayns|John de Bayns, co. Linc., ibid.": [
+0.8434,
+0.8642,
+1
+],
+"74|Baines, Baynes, Bains|John|de Bayns|John de Bayns, co. Staff., Hen. III-Edw. I. K.": [
+0.1111,
+0.1244,
+1
+],
+"74|Baines, Baynes, Bains|Suspirius|de Bayons|Suspirius de Bayons, C.R., 20 Edw. I.": [
+0.1323,
+0.1439,
+1
+],
+"74|Baines, Baynes, Bains|Thomas|de Baines|Thomas de Baines, 1379: P. T. Yorks. p. 48.": [
+0.1415,
+0.1572,
+1
+],
+"74|Baines, Baynes, Bains|Franunces|Baines|1577. Bapt.—Franunces, d. Richard Baines: St. Peter's, Cornhill, i. 18.": [
+0.1609,
+0.1861,
+1
+],
+"74|Baines, Baynes, Bains|Richard|Baines|1577. Bapt.—Franunces, d. Richard Baines: St. Peter's, Cornhill, i. 18.": [
+0.1609,
+0.1861,
+1
+],
+"74|Baker|Walter|le Baker|Walter le Baker, co. Devon, 1273. A.": [
+0.2468,
+0.2608,
+1
+],
+"74|Baker|William|le Bakere|William le Bakere, co. Oxf., ibid.": [
+0.2577,
+0.2707,
+1
+],
+"74|Baker|Alan|le Baker|Alan le Baker, co. Sussex, ibid.": [
+0.2676,
+0.2823,
+1
+],
+"74|Baker|John|le Baker|John le Baker, co. Soms., 1 Edw. III: Kirby's Quest, p. 219.": [
+0.2787,
+0.304,
+1
+],
+"74|Baker|Roger|le Baker|Roger le Baker, co. Soms., ibid. p. 220.": [
+0.299,
+0.313,
+1
+],
+"74|Baker|Jane|Baker|1555. Bapt.—Jane Baker: St. Peter, Cornhill, i. 7.": [
+0.3091,
+0.3336,
+1
+],
+"74|Balancer|Ralph|le Balancer|Ralph le Balancer, Liberate Roll, 15 Edw. II. He was sheriff of London in 1316.": [
+0.4826,
+0.5067,
+1
+],
+"74|Balancer|Rauf|le Balancer|Rauf le Balancer. M.": [
+0.5139,
+0.5254,
+1
+],
+"74|Balancer|Radulf|le Balauncer|Radulf le Balauncer. N.": [
+0.5244,
+0.5367,
+1
+],
+"74|Balancer|John|Balauncer|John Balauncer. G.": [
+0.5353,
+0.5466,
+1
+],
+"74|Balancer|Ralph|le Balauncer|Ralph le Balauncer, London, 20 Edw. I. R.": [
+0.5445,
+0.5589,
+1
+],
+"74|Balch|Robert|Balch|Robert Balch, co. Soms., 1 Edw. III: Kirby's Quest, p. 252.": [
+0.6424,
+0.6659,
+1
+],
+"74|Balch|John|Balche|1604. John Balche: Reg. Univ. Oxf. i. 400.": [
+0.6611,
+0.6768,
+1
+],
+"74|Balch|Mary|Balch|1659. Buried—Mary, d. John Balch: St. Jas. Clerkenwell, i. 328.": [
+0.6829,
+0.7068,
+1
+],
+"74|Balch|John|Balch|1659. Buried—Mary, d. John Balch: St. Jas. Clerkenwell, i. 328.": [
+0.6829,
+0.7068,
+1
+],
+"74|Balchin|Mary|Baulchin|1721. Bapt.—Mary, d. Richard Baulchin: St. Mary Aldermary, p. 122.": [
+0.8526,
+0.8785,
+1
+],
+"74|Balchin|Richard|Baulchin|1721. Bapt.—Mary, d. Richard Baulchin: St. Mary Aldermary, p. 122.": [
+0.8526,
+0.8785,
+1
+],
+"74|Balchin|Mary|Balchin|1753. Married—William Dean and Mary Balchin: St. Geo. Chap. Mayfair, p. 236.": [
+0.1087,
+0.136,
+1
+],
+"74|Balchin|William|Dean|1753. Married—William Dean and Mary Balchin: St. Geo. Chap. Mayfair, p. 236.": [
+0.1087,
+0.136,
+1
+],
+"74|Balcock|Alan|Balkok|Alan Balkok, co. Hunts, 1273. A.": [
+0.2437,
+0.256,
+1
+],
+"74|Balcock|Geoffrey|Balcok|Geoffrey Balcok, co. York, ibid.": [
+0.2547,
+0.2669,
+1
+],
+"74|Balcock|Johannes|Balkok|Johannes Balkok, 1379: P. T. Yorks. p. 43.": [
+0.2642,
+0.2789,
+1
+],
+"74|Balcock|Robertus|Balcok|Robertus Balcok, 1379: ibid. p. 138.": [
+0.2948,
+0.3101,
+1
+],
+"74|Balcock|Sara|Bawcoke|1627. Married—Richard Foge and Sara Bawcoke: St. Mary Aldermary (London), p. 16.": [
+0.307,
+0.3306,
+1
+],
+"74|Balcock|Richard|Foge|1627. Married—Richard Foge and Sara Bawcoke: St. Mary Aldermary (London), p. 16.": [
+0.307,
+0.3306,
+1
+],
+"74|Baldbody|Johanna|Baldbody|Johanna Baldbody, 1379: P. T. Howdenshire, p. 5.": [
+0.4141,
+0.4403,
+1
+],
+"74|Balderson, Bolderson||Balderson|": [
+0.4417,
+0.454,
+1
+],
+"74|Balderston|Richard|de Baldreston|Richard de Baldreston, co. Lanc., 1332: Lay Subsidy (Rylands).": [
+0.5773,
+0.6025,
+1
+],
+"74|Balderston|Johannes|de Baldreston|Johannes de Baldreston, 1379: P. T. Yorks. p. 289.": [
+0.6005,
+0.6233,
+1
+],
+"74|Balderston|Robertus|de Baldreston|Robertus de Baldreston, 1379: ibid.": [
+0.6196,
+0.6356,
+1
+],
+"74|Balderston|Ric[hard]|de Baldirston|Ric. de Baldirston, 1397: Preston Guild Roll, p. 11.": [
+0.6304,
+0.6547,
+1
+],
+"74|Balderston|William|Balderston|William Balderston, 1459: ibid. p. 12.": [
+0.6516,
+0.6663,
+1
+],
+"74|Balderston|James|Balderstone|1591. James Balderstone and Constance Spackman: Marriage Lic. (London), i. 194.": [
+0.6635,
+0.6864,
+1
+],
+"74|Balderston|Constance|Spackman|1591. James Balderstone and Constance Spackman: Marriage Lic. (London), i. 194.": [
+0.6635,
+0.6864,
+1
+],
+"74|Baldock|Robert|de Baldok|Robert de Baldok, co. Northampt., 20 Edw. I. R.": [
+0.75,
+0.7725,
+1
+],
+"74|Baldock|William|de Baldak|William de Baldak, co. Camb., ibid.": [
+0.7715,
+0.7834,
+1
+],
+"74|Baldock|Elyas|Baldek|Elyas Baldek, co. Wilts, ibid.": [
+0.7814,
+0.7943,
+1
+],
+"74|Baldock|George|Baldock|1537. George Baldock and Agnes Hatton: Marriage Lic. (London), p. 9.": [
+0.7913,
+0.8161,
+1
+],
+"74|Baldock|Agnes|Hatton|1537. George Baldock and Agnes Hatton: Marriage Lic. (London), p. 9.": [
+0.7913,
+0.8161,
+1
+],
+"74|Baldock|Nathan|Baldocke|1648. Married—Nathan Baldocke and Ann Gibbons: St. Thomas the Apostle (London), p. 18.": [
+0.8137,
+0.8363,
+1
+],
+"74|Baldock|Ann|Gibbons|1648. Married—Nathan Baldocke and Ann Gibbons: St. Thomas the Apostle (London), p. 18.": [
+0.8137,
+0.8363,
+1
+],
+"74|Baldock|George|Baldocke|1676. Bapt.—George, s. Samuel Baldocke: St. Mary Aldermary, p. 103.": [
+0.8434,
+0.8693,
+1
+],
+"74|Baldock|Samuel|Baldocke|1676. Bapt.—George, s. Samuel Baldocke: St. Mary Aldermary, p. 103.": [
+0.8434,
+0.8693,
+1
+],
+"74|Baldrey, Baldry|Hugo|fil. Baldrici|Hugo fil. Baldrici: Domesday.": [
+0.1524,
+0.166,
+1
+],
+"74|Baldrey, Baldry|Baldrici|(unknown)|Hugo fil. Baldrici: Domesday.": [
+0.1524,
+0.166,
+1
+],
+"74|Baldrey, Baldry|Baldricus|de Noneton|Baldricus de Noneton, Hen. III-Edw. I. K.": [
+0.1633,
+0.1759,
+1
+],
+"74|Baldrey, Baldry|Edward|Baldri|Edward Baldri, co. Hunts, 1273. A.": [
+0.1837,
+0.1988,
+1
+],
+"74|Baldrey, Baldry|Matilda|Baldri|Matilda Baldri, ibid.": [
+0.1953,
+0.2066,
+1
+],
+"74|Baldrey, Baldry|Alicia|Balrich|Alicia Balrich, co. Soms., 1 Edw. III: Kirby's Quest, p. 130.": [
+0.2049,
+0.2291,
+1
+],
+"74|Baldrey, Baldry|Matylda|Baldry|Matylda Baldry, ibid. p. 260.": [
+0.2247,
+0.241,
+1
+],
+"74|Baldrey, Baldry|William|Baldrye|1595. William Baldrye and Alice Binckes: Marriage Lic. (London), i. 223.": [
+0.2352,
+0.2601,
+1
+],
+"74|Baldrey, Baldry|Alice|Binckes|1595. William Baldrye and Alice Binckes: Marriage Lic. (London), i. 223.": [
+0.2352,
+0.2601,
+1
+],
+"74|Baldrey, Baldry|John|Baldrey|1665. Married—John Baldrey and Em Smith: St. Jas. Clerkenwell, iii. 125.": [
+0.2571,
+0.2796,
+1
+],
+"74|Baldrey, Baldry|Em|Smith|1665. Married—John Baldrey and Em Smith: St. Jas. Clerkenwell, iii. 125.": [
+0.2571,
+0.2796,
+1
+],
+"74|Baldwin|Stephen|fil. Baldewyn|Stephen fil. Baldewyn, co. Camb., 1273. A.": [
+0.4924,
+0.5057,
+1
+],
+"74|Baldwin|Baldewyn|(unknown)|Stephen fil. Baldewyn, co. Camb., 1273. A.": [
+0.4924,
+0.5057,
+1
+],
+"74|Baldwin|Thomas|Baldwyn|Thomas Baldwyn, co. Oxf., ibid.": [
+0.5111,
+0.5275,
+1
+],
+"74|Baldwin|Robert|Baldewyne|Robert Baldewyne, co. Camb., ibid.": [
+0.5221,
+0.5377,
+1
+],
+"74|Baldwin|Johannes|Bawdwyn|Johannes Bawdwyn, 1379: P. T. Yorks. p. 175.": [
+0.5333,
+0.5486,
+1
+],
+"74|Baldwin|Thomas|Baldwyn|1580. Thomas Baldwyn or Bauldwyn, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 180.": [
+0.5537,
+0.579,
+1
+],
+"74|Baldwin|Thomas|Bauldwyn|1580. Thomas Baldwyn or Bauldwyn, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 180.": [
+0.5537,
+0.579,
+1
+],
+"74|Baldwin|Edward|Baldwyn|1597-8. Edward Baldwyn and Margery Draper: Marriage Lic. (London), i. 246.": [
+0.5844,
+0.6093,
+1
+],
+"74|Baldwin|Margery|Draper|1597-8. Edward Baldwyn and Margery Draper: Marriage Lic. (London), i. 246.": [
+0.5844,
+0.6093,
+1
+],
+"74|Balestier, Ballister|Simon|Bellyster|Simon Bellyster, or Bellystre, B.A., June, 1539: Reg. Univ. Oxf. i. 194.": [
+0.6785,
+0.7031,
+1
+],
+"74|Balestier, Ballister|Simon|Bellystre|Simon Bellyster, or Bellystre, B.A., June, 1539: Reg. Univ. Oxf. i. 194.": [
+0.6785,
+0.7031,
+1
+],
+"74|Balestier, Ballister|Henry|Balistarius|Henry Balistarius, co. Berks, Hen. III-Edw. I. K.": [
+0.6986,
+0.7203,
+1
+],
+"74|Balestier, Ballister|Ann|Balisster|1674. Bapt.—Ann, d. Thomas Balisster: St. Jas. Clerkenwell, i. 265.": [
+0.7183,
+0.7435,
+1
+],
+"74|Balestier, Ballister|Thomas|Balisster|1674. Bapt.—Ann, d. Thomas Balisster: St. Jas. Clerkenwell, i. 265.": [
+0.7183,
+0.7435,
+1
+],
+"74|Balguy|Hugh|li Baylgy|Hugh li (sic) Baylgy, co. Norf., 1273. A.": [
+0.8103,
+0.8287,
+1
+],
+"74|Balguy|Hugh|le Balgy|Hugh le Balgy, ibid.": [
+0.824,
+0.8356,
+1
+],
+"74|Balguy|Magota|Balgy|Magota Balgy, 1379: P. T. Yorks. p. 83.": [
+0.8301,
+0.8496,
+1
+],
+"74|Balguy|Matilda|Balgy|Matilda Balgy, 1379: ibid.": [
+0.842,
+0.8594,
+1
+],
+"74|Balguy|Dionicia|Balgy|Dionicia Balgy, 1379: ibid.": [
+0.8523,
+0.869,
+1
+],
+"74|Balguy|Geoffrey|Balky|Cf. Geoffrey Balky, co. Linc., 1273. A.": [
+0.8642,
+0.8782,
+1
+],
+"75|Balguy|Nicholas|Balgie|Nicholas Balgie, or Balgee, sup. for B.A., 1566: Reg. Univ. Oxf. i. 242.": [
+0.0914,
+0.1169,
+1
+],
+"75|Balguy|Nicholas|Balgee|Nicholas Balgie, or Balgee, sup. for B.A., 1566: Reg. Univ. Oxf. i. 242.": [
+0.0914,
+0.1169,
+1
+],
+"75|Balguy|Richard|Balgay|1593. Bapt.—Richard, son of John Balgay: St. Thomas the Apostle (London), p. 34.": [
+0.1122,
+0.1374,
+1
+],
+"75|Balguy|John|Balgay|1593. Bapt.—Richard, son of John Balgay: St. Thomas the Apostle (London), p. 34.": [
+0.1122,
+0.1374,
+1
+],
+"75|Balguy|Jane|Balgay|1602. Married—John Ellis and Jane Balgay: ibid. p. 9.": [
+0.1439,
+0.1688,
+1
+],
+"75|Balguy|John|Ellis|1602. Married—John Ellis and Jane Balgay: ibid. p. 9.": [
+0.1439,
+0.1688,
+1
+],
+"75|Balkwill|William|Rector de Baukwel|William (Rector de Baukwel), co. Linc., 20 Edw. I. R.": [
+0.2103,
+0.2339,
+1
+],
+"75|Balkwill|John|de Bauquelle|John de Bauquelle, co. Kent, ibid.": [
+0.2328,
+0.2437,
+1
+],
+"75|Balkwill|Cecilia|de Baukwell|Cecilia de Baukwell, London, ibid.": [
+0.2427,
+0.2547,
+1
+],
+"75|Balkwill|Roger|de Bauquell|Roger de Bauquell, co. Derby, ibid.": [
+0.2526,
+0.2656,
+1
+],
+"75|Balkwill|William Edward|Balkwill|1892. Died—William Edward Balkwill: Daily Telegraph, July 14.": [
+0.2635,
+0.2871,
+1
+],
+"75|Ball|Custance|Balde|Custance Balde, co. Camb., 1273. A.": [
+0.5711,
+0.5885,
+1
+],
+"75|Ball|Richard|Bald|Richard Bald, co. Oxf., ibid.": [
+0.5824,
+0.596,
+1
+],
+"75|Ball|John|Balle|John Balle, co. Norf., ibid.": [
+0.5936,
+0.6059,
+1
+],
+"75|Ball|Albred|Balle|Albred Balle, co. Hunts, ibid.": [
+0.6035,
+0.6168,
+1
+],
+"75|Ball|John|Balde|John Balde, co. Soms., 1 Edw. III: Kirby's Quest, p. 115.": [
+0.6134,
+0.6397,
+1
+],
+"75|Ball|Isabella|Balle|Isabella Balle, 1379: P. T. Yorks. p. 212.": [
+0.6335,
+0.6506,
+1
+],
+"75|Ball|Johannes|Balde-man|Johannes Balde-man, i.e. John, the servant of Balde: ibid. p. 217.": [
+0.6448,
+0.6703,
+1
+],
+"75|Ball|John|atte Balle|John atte Balle, co. Soms., 1 Edw. III: Kirby's Quest, p. 149.": [
+0.1214,
+0.1452,
+1
+],
+"75|Ball|Henry|atte Balle|Henry atte Balle, co. Soms., 1 Edw. III: ibid. p. 258.": [
+0.1422,
+0.166,
+1
+],
+"75|Ballard|Richard|Ballehered|Richard Ballehered, co. Soms., 1 Edw. III: Kirby's Quest, p. 206.": [
+0.3452,
+0.3684,
+1
+],
+"75|Ballard|Peter|Ballard|Peter Ballard, co. Soms., 1 Edw. III: ibid. p. 252.": [
+0.3653,
+0.3892,
+1
+],
+"75|Ballard|Alured|Balard?|Alured Balard, co. Essex, 1273. A.": [
+0.3855,
+0.4011,
+1
+],
+"75|Ballard|Dreu|Ballard|Dreu Ballard, co. Hunts, ibid.": [
+0.3971,
+0.4086,
+1
+],
+"75|Ballard|Thomas|Ballard|Thomas Ballard, co. Suff., ibid.": [
+0.4069,
+0.4195,
+1
+],
+"75|Ballard|Henry|Ballard|Henry Ballard, co. Lanc., 20 Edw. I. R.": [
+0.4172,
+0.4298,
+1
+],
+"75|Ballard|Ralph|Ballard|1615. Ralph Ballard, co. Oxf.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 339.": [
+0.426,
+0.4519,
+1
+],
+"75|Ballard|Mary|Ballerde|1634. Married—William Mayle and Mary Ballerde: St. Mary Aldermary, p. 19.": [
+0.4478,
+0.4734,
+1
+],
+"75|Ballard|William|Mayle|1634. Married—William Mayle and Mary Ballerde: St. Mary Aldermary, p. 19.": [
+0.4478,
+0.4734,
+1
+],
+"75|Balleine, Ballin|Baloun|(unknown)|Baloun (without surname), co. Leic., 1273. A.": [
+0.5156,
+0.5289,
+1
+],
+"75|Balleine, Ballin|Balun|(unknown)|Balun, ibid.": [
+0.5353,
+0.5493,
+1
+],
+"75|Balleine, Ballin|John|le Balun|John le Balun, co. Heref., ibid.": [
+0.5466,
+0.5599,
+1
+],
+"75|Balleine, Ballin|Alan|Balun|Alan Balun, co. Northampt., ibid.": [
+0.5565,
+0.5715,
+1
+],
+"75|Balleine, Ballin|John|le Balun|John le Balun. L.": [
+0.5677,
+0.58,
+1
+],
+"75|Ballinger, Ballenger|Audrey|Ballinger|1670. Edmund Burt and Audrey Ballinger: Marriage Lic. (Westminster), p. 45.": [
+0.6315,
+0.6557,
+1
+],
+"75|Ballinger, Ballenger|Edmund|Burt|1670. Edmund Burt and Audrey Ballinger: Marriage Lic. (Westminster), p. 45.": [
+0.6315,
+0.6557,
+1
+],
+"75|Ballinger, Ballenger|Patience|Ballinger|1701. Married—Henry Kirby and Patience Ballinger: St. Peter, Cornhill, ii. 63.": [
+0.6625,
+0.6874,
+1
+],
+"75|Ballinger, Ballenger|Henry|Kirby|1701. Married—Henry Kirby and Patience Ballinger: St. Peter, Cornhill, ii. 63.": [
+0.6625,
+0.6874,
+1
+],
+"75|Balm, Balme|Johannes|Balne|Johannes Balne, 1379: P. T. Yorks. p. 76.": [
+0.7936,
+0.8076,
+1
+],
+"75|Balm, Balme|Johannes|Balm|Johannes Balm, 1379: ibid.": [
+0.8131,
+0.8294,
+1
+],
+"75|Balm, Balme|Willelmus|de Balne|Willelmus de Balne, 1379: ibid. p. 50.": [
+0.824,
+0.84,
+1
+],
+"75|Balm, Balme|Emma|de Balne|Emma de Balne, 1379: ibid. p. 46.": [
+0.8346,
+0.8502,
+1
+],
+"75|Balm, Balme|Thomas|de Balme|Thomas de Balme, 1379: ibid. p. 39.": [
+0.8448,
+0.8608,
+1
+],
+"75|Balm, Balme|John|Balm|1745. Married—John Balm and Sarah Brewerton: St. Geo. Chap. Mayfair, p. 50.": [
+0.0917,
+0.1156,
+1
+],
+"75|Balm, Balme|Sarah|Brewerton|1745. Married—John Balm and Sarah Brewerton: St. Geo. Chap. Mayfair, p. 50.": [
+0.0917,
+0.1156,
+1
+],
+"75|Balshaw|Adam|de Balshagh|Adam de Balshagh, co. Lanc., 1332: Lay Subsidy (Rylands), p. 120.": [
+0.1824,
+0.2083,
+1
+],
+"75|Balshaw|John|de Balshagh|John de Balshagh, co. Lanc., 1332: ibid.": [
+0.2025,
+0.2195,
+1
+],
+"75|Balshaw|John|Balshaw|1608. John Balshaw, of Snape within Scarisbrick: Wills at Chester, i. 10.": [
+0.2148,
+0.2376,
+1
+],
+"75|Balshaw|William|Balshaw|1622. William Balshaw, of Walton-le-Dale, ibid.": [
+0.2346,
+0.2567,
+1
+],
+"75|Balshaw|Margaret|Balshaw|1628. Margaret Balshaw, of Mawdsley, spinster: ibid. ii. 11.": [
+0.255,
+0.2796,
+1
+],
+"75|Bamber|Robert|Bamber|1619. Robert Bamber, of Dukinfield: Wills at Chester, i. 10.": [
+0.3609,
+0.3841,
+1
+],
+"75|Bamber|Robert|Bamber|1642. Robert Bamber: Preston Guild Rolls, p. 95.": [
+0.3803,
+0.3947,
+1
+],
+"75|Bamber|John|Bamber|— John Bamber: ibid.": [
+0.4008,
+0.4138,
+1
+],
+"75|Bamber|Katharine|Bomber|1664. Bapt.—Katharine, d. John Bomber, of Farrington: Reg. Leyland (co. Lanc.), p. 44.": [
+0.4114,
+0.439,
+1
+],
+"75|Bamber|John|Bomber|1664. Bapt.—Katharine, d. John Bomber, of Farrington: Reg. Leyland (co. Lanc.), p. 44.": [
+0.4114,
+0.439,
+1
+],
+"75|Bamber|William|Bomber|1683. — William, s. Thomas Bomber, of Euxton: ibid. p. 73.": [
+0.5207,
+0.5493,
+1
+],
+"75|Bamber|Thomas|Bomber|1683. — William, s. Thomas Bomber, of Euxton: ibid. p. 73.": [
+0.5207,
+0.5493,
+1
+],
+"75|Bambrough, Bambury|Beatrix|de Bamburg|Beatrix de Bamburg, co. Northumb., Hen. III-Edw. I. K.": [
+0.533,
+0.5568,
+1
+],
+"75|Bambrough, Bambury|William|de Bamburgh|William de Bamburgh, co. Northumb., ibid.": [
+0.5544,
+0.5691,
+1
+],
+"75|Bambrough, Bambury|Anselm|de Bamburg'|Anselm de Bamburg', co. Norf., 1273. A.": [
+0.5752,
+0.5896,
+1
+],
+"75|Bambrough, Bambury|Robertus|Janitor Castri de Bamburg|Robertus Janitor Castri de Bamburg, co. Northumb., ibid.": [
+0.5851,
+0.6086,
+1
+],
+"75|Bambrough, Bambury|William|de Bamburgh|William de Bamburgh, prior of Coldingham, 1355: QQQ. p. 380.": [
+0.6076,
+0.6322,
+1
+],
+"75|Bambrough, Bambury|Alice|Bamborow|1524. John Fairfax and Alice Bamborow: Marriage Lic. (London), i. 4.": [
+0.627,
+0.6509,
+1
+],
+"75|Bambrough, Bambury|John|Fairfax|1524. John Fairfax and Alice Bamborow: Marriage Lic. (London), i. 4.": [
+0.627,
+0.6509,
+1
+],
+"75|Bambrough, Bambury|William|Bambary|1775. Married—William Bambary and Ann Goodin: St. Geo. Han. Sq. i. 252.": [
+0.6468,
+0.6717,
+1
+],
+"75|Bambrough, Bambury|Ann|Goodin|1775. Married—William Bambary and Ann Goodin: St. Geo. Han. Sq. i. 252.": [
+0.6468,
+0.6717,
+1
+],
+"75|Bamfield, Bampfield, Banfield, Banfill|Ames|Banfilde|1575. Ames (Amias) Banfilde, co. Devon: Reg. Univ. Oxf. vol. ii. pt. ii. p. 63.": [
+0.7814,
+0.8066,
+1
+],
+"75|Bamfield, Bampfield, Banfield, Banfill|Richard|Bampfild|1581. Richard Bampfild, or Bamfield, co. Devon: ibid. p. 100.": [
+0.8032,
+0.827,
+1
+],
+"75|Bamfield, Bampfield, Banfield, Banfill|Richard|Bamfield|1581. Richard Bampfild, or Bamfield, co. Devon: ibid. p. 100.": [
+0.8032,
+0.827,
+1
+],
+"75|Bamfield, Bampfield, Banfield, Banfill|Giles|Bampfild|1582. Giles Bampfild, co. Devon: ibid. p. 121.": [
+0.8233,
+0.839,
+1
+],
+"75|Bamfield, Bampfield, Banfield, Banfill|Hannah|Bamfeild|1752. Married—William Smith and Hannah Bamfeild: St. Geo. Han. Sq. i. p. 47.": [
+0.8427,
+0.8601,
+1
+],
+"75|Bamfield, Bampfield, Banfield, Banfill|William|Smith|1752. Married—William Smith and Hannah Bamfeild: St. Geo. Han. Sq. i. p. 47.": [
+0.8427,
+0.8601,
+1
+],
+"76|Bamfield, Bampfield, Banfield, Banfill|Copp Warre|Bampfylde|1766. Married—Sir John Saunders Sebright and Sarah Knight. Witness, Copp Warre Bampfylde: ibid. p. 154.": [
+0.1316,
+0.1671,
+1
+],
+"76|Bamfield, Bampfield, Banfield, Banfill|John Saunders|Sebright|1766. Married—Sir John Saunders Sebright and Sarah Knight. Witness, Copp Warre Bampfylde: ibid. p. 154.": [
+0.1316,
+0.1671,
+1
+],
+"76|Bamfield, Bampfield, Banfield, Banfill|Sarah|Knight|1766. Married—Sir John Saunders Sebright and Sarah Knight. Witness, Copp Warre Bampfylde: ibid. p. 154.": [
+0.1316,
+0.1671,
+1
+],
+"76|Bamfield, Bampfield, Banfield, Banfill|John|Banfield|— — John Banfield and Betty Nunns: ibid. p. 156.": [
+0.1647,
+0.1875,
+1
+],
+"76|Bamfield, Bampfield, Banfield, Banfill|Betty|Nunns|— — John Banfield and Betty Nunns: ibid. p. 156.": [
+0.1647,
+0.1875,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Thomas|de Bamford|'The estate of Bamford was granted to Thomas de Bamford by Sir Adam de Bury, temp. Henry III, for his homage and services,' &c.: Baines' Lanc. i. 525.": [
+0.2877,
+0.3333,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Adam|de Bury|'The estate of Bamford was granted to Thomas de Bamford by Sir Adam de Bury, temp. Henry III, for his homage and services,' &c.: Baines' Lanc. i. 525.": [
+0.2877,
+0.3333,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Richard|de Bamford|Richard de Bamford, co. York, 1273. A.": [
+0.3299,
+0.3435,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Adam|Bamforth|Adam Bamforth, 1379: P. T. Yorks. p. 89.": [
+0.3398,
+0.3554,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Adam|de Baumford|Adam de Baumford, 1379: ibid. p. 123.": [
+0.3613,
+0.3749,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|William|Bamford|1602. William Bamford, of Bamford, parish of Bury: Wills at Chester, i. 10.": [
+0.3718,
+0.3947,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|James|Bamford|1613. James Bamford, of Hurdsfield: ibid.": [
+0.3936,
+0.4056,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Henry|Bamford|1738. Henry Bamford and Eliz. Becket: St. Geo. Han. Sq. i. 22.": [
+0.4141,
+0.4369,
+1
+],
+"76|Bamford, Balmforth, Bamforth, Bamfard|Eliz[abeth]|Becket|1738. Henry Bamford and Eliz. Becket: St. Geo. Han. Sq. i. 22.": [
+0.4141,
+0.4369,
+1
+],
+"76|Bampton|Philip|de Bamptone|Philip de Bamptone, co. Soms., 1 Edw. III: Kirby's Quest, p. 148.": [
+0.5238,
+0.5497,
+1
+],
+"76|Bampton|Brian|de Bampton|Brian de Bampton, co. Oxf., Hen. III-Edw. I. K.": [
+0.5442,
+0.5681,
+1
+],
+"76|Bampton|John|de Bamton|John dc Bamton, co. Wilts, ibid.": [
+0.566,
+0.5797,
+1
+],
+"76|Bampton|Thomas|de Bampton|Thomas de Bampton, co. Cumb., 20 Edw. I. R.": [
+0.5756,
+0.5923,
+1
+],
+"76|Bampton|Joshua|Bampton|1785. Married—Joshua Bampton and Rebbecca Stiles: St. Geo. Han. Sq. i. 371.": [
+0.5977,
+0.6226,
+1
+],
+"76|Bampton|Rebbecca|Stiles|1785. Married—Joshua Bampton and Rebbecca Stiles: St. Geo. Han. Sq. i. 371.": [
+0.5977,
+0.6226,
+1
+],
+"76|Banbury, Bambury, Bambery|Thomas|de Banneburi|Thomas de Banneburi, co. Hunts, 1273. A.": [
+0.6734,
+0.6898,
+1
+],
+"76|Banbury, Bambury, Bambery|Edmunde|de Bannebur'|Edmunde de Bannebur', co. Oxf., ibid.": [
+0.6939,
+0.7096,
+1
+],
+"76|Banbury, Bambury, Bambery|William|de Bannebir'|William de Bannebir', co. Oxf., ibid.": [
+0.7048,
+0.7198,
+1
+],
+"76|Banbury, Bambury, Bambery|Edward|Banberye|1591. Edward Banberye, co. Middlesex: Reg. Univ. Oxf. vol. ii. pt. ii. p. 184.": [
+0.7152,
+0.7415,
+1
+],
+"76|Banbury, Bambury, Bambery|Thomas|Bunburie|1619. Thomas Bunburie, or Banbury, co. Kent: ibid. p. 376. But see Bunbury.": [
+0.7353,
+0.7619,
+1
+],
+"76|Banbury, Bambury, Bambery|Thomas|Banbury|1619. Thomas Bunburie, or Banbury, co. Kent: ibid. p. 376. But see Bunbury.": [
+0.7353,
+0.7619,
+1
+],
+"76|Banbury, Bambury, Bambery|Mary|Banbury|1765. Married—Joseph Powell and Mary Banbury: St. Geo. Han. Sq. i. 146.": [
+0.7572,
+0.7821,
+1
+],
+"76|Banbury, Bambury, Bambery|Joseph|Powell|1765. Married—Joseph Powell and Mary Banbury: St. Geo. Han. Sq. i. 146.": [
+0.7572,
+0.7821,
+1
+],
+"76|Bancroft|Jone|Bancrofte|1570. Buried—Jone Bancrofte, of Butley: Prestbury Ch. (co. Chester), p. 32.": [
+0.1111,
+0.1357,
+1
+],
+"76|Bancroft|William|Bancroft|1603. William Bancroft, of Wilmslow: ibid.": [
+0.164,
+0.1759,
+1
+],
+"76|Bancroft|Henery|Banckcroft|1669. Henery Banckcroft, sone of Henery Banckcroft, of Maple, bapt. April 14: Reg. Disley Church (East Cheshire), ii. 100.": [
+0.1837,
+0.2189,
+1
+],
+"76|Bancroft|John|Bancroft|1764. Married—John Bancroft and Mary Barbon Glover: St. Geo. Han. Sq. i. 136.": [
+0.226,
+0.2499,
+1
+],
+"76|Bancroft|Mary Barbon|Glover|1764. Married—John Bancroft and Mary Barbon Glover: St. Geo. Han. Sq. i. 136.": [
+0.226,
+0.2499,
+1
+],
+"76|Banfather||Banfather|": [
+0.299,
+0.3133,
+1
+],
+"76|Banfield||Banfield|": [
+0.3176,
+0.3319,
+1
+],
+"76|Banister, Bannister|John|Corker|1557. Buried—John Corker, bailister, Ulverston (Ulverston Church).": [
+0.5623,
+0.5861,
+1
+],
+"76|Banister, Bannister|Adam|de Banistre|Adam de Banistre, temp. 1320: Baines' Lanc. i. 83.": [
+0.7048,
+0.7282,
+1
+],
+"76|Banister, Bannister|John|Balistar'|John Balistar', co. Norf., 1273. A.": [
+0.8431,
+0.8588,
+1
+],
+"76|Banister, Bannister|Wyot|Balistarius|Wyot Balistarius. E.": [
+0.8536,
+0.8676,
+1
+],
+"76|Banister, Bannister|Renaud|Balistarius|Renaud Balistarius. C.": [
+0.8656,
+0.8768,
+1
+],
+"76|Banister, Bannister|Henry|Balistar'|Henry Balistar', co. Oxf., Hen. III-Edw I. K.": [
+0.1101,
+0.1248,
+1
+],
+"76|Banister, Bannister|Robert|Balistarius|Robert Balistarius, co. York, ibid.": [
+0.1313,
+0.1446,
+1
+],
+"76|Banister, Bannister|Agnes|Banastre|Agnes Banastre, co. Salop, 1273. A.": [
+0.1411,
+0.1575,
+1
+],
+"76|Banister, Bannister|Henry|Banastre|Henry Banastre, co. Camb., ibid.": [
+0.1514,
+0.1671,
+1
+],
+"76|Banister, Bannister|Thomas|Banastre?|Thomas Banastre, co. Lanc., 20 Edw. I. R.": [
+0.1623,
+0.1769,
+1
+],
+"76|Banister, Bannister|John|Banastre|John Banastre, co. Berks, Hen. III-Edw. I. K.": [
+0.1827,
+0.1977,
+1
+],
+"76|Banister, Bannister|Johannes|Banastre|Johannes Banastre, 1379: P. T. Yorks. p. 292.": [
+0.2042,
+0.2189,
+1
+],
+"76|Banister, Bannister|Anne|Balisster|1674. Bapt.—Anne, d. Thomas Balisster: St. Jas. Clerkenwell, i. 265.": [
+0.224,
+0.2495,
+1
+],
+"76|Banister, Bannister|Thomas|Balisster|1674. Bapt.—Anne, d. Thomas Balisster: St. Jas. Clerkenwell, i. 265.": [
+0.224,
+0.2495,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Nicholaus|del Bancke|Nicholaus del Bancke, 1379: P. T. Yorks. p. 16.": [
+0.4359,
+0.4601,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Adam|del Bank|Adam del Bank, 1379: ibid. p. 48.": [
+0.4574,
+0.4703,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Magota|del Bancke|Magota del Bancke, 1379: ibid. p. 202.": [
+0.4676,
+0.4829,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Richard|del Bank|Richard del Bank, co. Lanc., 20 Edw. I. R.": [
+0.4775,
+0.4922,
+1
+],
+"76|Bank, Banks, Bankes, Banke|William|del Bank|William del Bank, co. Lanc., ibid.": [
+0.4992,
+0.5101,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Simon|Bancke|1596. Simon Bancke, co. Cumb.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 218.": [
+0.5081,
+0.5323,
+1
+],
+"76|Bank, Banks, Bankes, Banke|William|Banks|1597. William Banks, co. Devon: ibid. p. 224.": [
+0.5285,
+0.5439,
+1
+],
+"76|Bank, Banks, Bankes, Banke|John|Bankes|1760. Married—John Bankes and Ann Killmister: St. Geo. Han. Sq. i. 91.": [
+0.551,
+0.5739,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Ann|Killmister|1760. Married—John Bankes and Ann Killmister: St. Geo. Han. Sq. i. 91.": [
+0.551,
+0.5739,
+1
+],
+"76|Bank, Banks, Bankes, Banke|John|Banks|1767. — John Banks and Mary Odwell: ibid. p. 181.": [
+0.5718,
+0.5953,
+1
+],
+"76|Bank, Banks, Bankes, Banke|Mary|Odwell|1767. — John Banks and Mary Odwell: ibid. p. 181.": [
+0.5718,
+0.5953,
+1
+],
+"76|Banker||Banker|": [
+0.6209,
+0.6345,
+1
+],
+"76|Banknott|Robert|Banknott|Robert Banknott, 30 Hen. VI: Cal. Inquis. Post Mortem.": [
+0.737,
+0.7602,
+1
+],
+"76|Banknott|John|Banknotte|John Banknotte, C. R., 7 Edw. IV.": [
+0.7578,
+0.7722,
+1
+],
+"76|Banton||Banton|1656. Married—Banton and Elenor Morice: Kensington Ch., p. 75.": [
+0.8045,
+0.8294,
+1
+],
+"76|Banton|Elenor|Morice|1656. Married—Banton and Elenor Morice: Kensington Ch., p. 75.": [
+0.8045,
+0.8294,
+1
+],
+"77|Banwell|William|de Banewell|William de Banewell, co. Soms., 1 Edw. III: Kirby's Quest, p. 84.": [
+0.1241,
+0.1486,
+1
+],
+"77|Banwell|Walter|Banewell|Walter Banewell, co. Soms., 1 Edw. III: ibid.": [
+0.1456,
+0.1582,
+1
+],
+"77|Banwell|John|Bannwell|John Bannwell, co. Soms., 1 Edw. III: ibid. p. 125.": [
+0.1667,
+0.1895,
+1
+],
+"77|Banwell|Clement|Baniwell|1658. Bapt.—Clement, s. Job Baniwell: St. Jas. Clerkenwell, i. 200.": [
+0.1878,
+0.2107,
+1
+],
+"77|Banwell|Job|Baniwell|1658. Bapt.—Clement, s. Job Baniwell: St. Jas. Clerkenwell, i. 200.": [
+0.1878,
+0.2107,
+1
+],
+"77|Banwell|Margaret|Banwell|1694. Thomas Jepson and Margaret Banwell: Marriage Alleg. (Canterbury), p. 291.": [
+0.209,
+0.2325,
+1
+],
+"77|Banwell|Thomas|Jepson|1694. Thomas Jepson and Margaret Banwell: Marriage Alleg. (Canterbury), p. 291.": [
+0.209,
+0.2325,
+1
+],
+"77|Baptist|Sara|Baptysse|1551. Bapt.—Sara, d. of John Baptysse: St. Dionis Backchurch (London), p. 75.": [
+0.3527,
+0.3769,
+1
+],
+"77|Baptist|John|Baptysse|1551. Bapt.—Sara, d. of John Baptysse: St. Dionis Backchurch (London), p. 75.": [
+0.3527,
+0.3769,
+1
+],
+"77|Baptist|Gresell|Baptyste|1552. — Gresell, d. of John Baptyste: ibid.": [
+0.3725,
+0.3872,
+1
+],
+"77|Baptist|John|Baptyste|1552. — Gresell, d. of John Baptyste: ibid.": [
+0.3725,
+0.3872,
+1
+],
+"77|Baptist|John|Baptist|1716. Buried—John Baptist: St. John the Baptist, Walbrook, p. 200.": [
+0.3844,
+0.4066,
+1
+],
+"77|Baptist|John|Baptist|1772. Married—John Baptist and Abigail Fielder: St. Geo. Han. Sq. i. 226.": [
+0.4059,
+0.4281,
+1
+],
+"77|Baptist|Abigail|Fielder|1772. Married—John Baptist and Abigail Fielder: St. Geo. Han. Sq. i. 226.": [
+0.4059,
+0.4281,
+1
+],
+"77|Baptist|Joseph|Baptis|1804. — Joseph Baptis and Sarah Evan: ibid. ii. 302.": [
+0.425,
+0.4496,
+1
+],
+"77|Baptist|Sarah|Evan|1804. — Joseph Baptis and Sarah Evan: ibid. ii. 302.": [
+0.425,
+0.4496,
+1
+],
+"77|Barbe|Richard|Barbe|Richard Barbe, co. Soms., 1 Edw. III: Kirby's Quest, p. 249.": [
+0.5171,
+0.5418,
+1
+],
+"77|Barbe|Peter|Barb|1795. Married—Peter Barb and Sarah Chandler: St. Geo. Han. Sq. ii. 138.": [
+0.5371,
+0.5623,
+1
+],
+"77|Barbe|Sarah|Chandler|1795. Married—Peter Barb and Sarah Chandler: St. Geo. Han. Sq. ii. 138.": [
+0.5371,
+0.5623,
+1
+],
+"77|Barber|Thomas|le Barbitonsor|Thomas le Barbitonsor. J.": [
+0.6212,
+0.6318,
+1
+],
+"77|Barber|William|le Barbitonsor|William le Barbitonsor. H.": [
+0.6311,
+0.6431,
+1
+],
+"77|Barber|Henry|le Barbur|Henry le Barbur, co. Soms., 1 Edw. III: Kirby's Quest, p. 220.": [
+0.641,
+0.6649,
+1
+],
+"77|Barber|Alexander|le Barbur|Alexander le Barbur, London, 1273. A.": [
+0.6618,
+0.6761,
+1
+],
+"77|Barber|Henry|le Barber|Henry le Barber, co. Oxf., ibid.": [
+0.6731,
+0.685,
+1
+],
+"77|Barber|Richard|Barbitonsor|Richard Barbitonsor, co. Oxf., ibid.": [
+0.6836,
+0.6949,
+1
+],
+"77|Barber|John|le Barber|John le Barber, co. Camb., ibid.": [
+0.6939,
+0.7048,
+1
+],
+"77|Barber|Geoffrey|le Barbir|Geoffrey le Barbir, co. Hunts, ibid.": [
+0.7037,
+0.7164,
+1
+],
+"77|Barber|Agnes|Barbor|1543. John Sturley and Agnes Barbor: Marriage Lic. (Faculty Office), p. 1.": [
+0.7122,
+0.7375,
+1
+],
+"77|Barber|John|Sturley|1543. John Sturley and Agnes Barbor: Marriage Lic. (Faculty Office), p. 1.": [
+0.7122,
+0.7375,
+1
+],
+"77|Barberess|Matilda|la Barbaresse|Matilda la Barbaresse, co. Camb., 1273. A.": [
+0.8066,
+0.8189,
+1
+],
+"77|Barberry, Barberie|Barbery?|Marbeck|1581. Married—William Grosse and Barbery Marbeck: St. Antholin (London), p. 28.": [
+0.1374,
+0.1609,
+1
+],
+"77|Barberry, Barberie|William|Grosse|1581. Married—William Grosse and Barbery Marbeck: St. Antholin (London), p. 28.": [
+0.1374,
+0.1609,
+1
+],
+"77|Barberry, Barberie|Helline|Barbery|1609. Buried—Helline, d. Henrie Barbery: St. Jas. Clerkenwell, iv. 109.": [
+0.1691,
+0.1916,
+1
+],
+"77|Barberry, Barberie|Henrie|Barbery|1609. Buried—Helline, d. Henrie Barbery: St. Jas. Clerkenwell, iv. 109.": [
+0.1691,
+0.1916,
+1
+],
+"77|Barberry, Barberie|Barberry|(unknown)|1692. — Barberry, an old maid: Cheshunt Church Reg.": [
+0.1899,
+0.2144,
+1
+],
+"77|Barberry, Barberie|Barbery|Bird|1696. — Barbery, d. Jeremiah and Barbery Bird: St. Mary Aldermary, p. 204.": [
+0.2103,
+0.2346,
+1
+],
+"77|Barberry, Barberie|Jeremiah|Bird|1696. — Barbery, d. Jeremiah and Barbery Bird: St. Mary Aldermary, p. 204.": [
+0.2103,
+0.2346,
+1
+],
+"77|Barberry, Barberie|Catherine|Barberry|1715. Married—Francis Lee and Catherine Barberry: St. Jas. Clerkenwell, iii. 238.": [
+0.2304,
+0.2553,
+1
+],
+"77|Barberry, Barberie|Francis|Lee|1715. Married—Francis Lee and Catherine Barberry: St. Jas. Clerkenwell, iii. 238.": [
+0.2304,
+0.2553,
+1
+],
+"77|Barbican|William|Barbican|William Barbican, co. Soms., 1 Edw. III: Kirby's Quest, p. 247.": [
+0.3214,
+0.3469,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|John|Barbon|John Barbon, or Barbone, 1569: Reg. Univ. Oxf. i. 277.": [
+0.3493,
+0.3766,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|John|Barbone|John Barbon, or Barbone, 1569: Reg. Univ. Oxf. i. 277.": [
+0.3493,
+0.3766,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|John|Barebone|John Barebone, B.A., Oxon, 1574: ibid. vol. ii. pt. i. p. 39.": [
+0.5109,
+0.5371,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|Thomas|Barbon|1589. Bapt.—Thomas, son of John Barbon, merchant taylor: St. Mary Aldermary, p. 63.": [
+0.5653,
+0.5916,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|John|Barbon|1589. Bapt.—Thomas, son of John Barbon, merchant taylor: St. Mary Aldermary, p. 63.": [
+0.5653,
+0.5916,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|Henry|Barbon|1690. Buried—Henry Barbon, or Barebone: St. Dionis Backchurch, p. 258.": [
+0.7548,
+0.7786,
+1
+],
+"77|Barbon, Barebone, Barebones, Barbone|Henry|Barebone|1690. Buried—Henry Barbon, or Barebone: St. Dionis Backchurch, p. 258.": [
+0.7548,
+0.7786,
+1
+],
+"77|Barbot, Babelot|Barbata|fil. Willelmi Garwey|Barbata, or Barbota, fil. Willelmi Garwey, temp. Hen. III. BBB. p. 166.": [
+0.1926,
+0.2151,
+1
+],
+"77|Barbot, Babelot|Barbota?|fil. Willelmi Garwey|Barbata, or Barbota, fil. Willelmi Garwey, temp. Hen. III. BBB. p. 166.": [
+0.1926,
+0.2151,
+1
+],
+"77|Barbot, Babelot|Willelmi|Garwey|Barbata, or Barbota, fil. Willelmi Garwey, temp. Hen. III. BBB. p. 166.": [
+0.1926,
+0.2151,
+1
+],
+"77|Barbot, Babelot|John|Barbot|John Barbot, co. Camb., 1273. A.": [
+0.2127,
+0.2288,
+1
+],
+"77|Barbot, Babelot|Adam|Barbot|Adam Barbot, co. York, ibid.": [
+0.2236,
+0.2359,
+1
+],
+"77|Barbot, Babelot|Nicholas|Babelot|Nicholas Babelot, co. Camb., ibid.": [
+0.2342,
+0.2468,
+1
+],
+"77|Barbot, Babelot|Cecilia|Berbotte|Cecilia Berbotte, 1379: P. T. Yorks. p. 15.": [
+0.2427,
+0.2601,
+1
+],
+"77|Barbot, Babelot|Betrix|Barbot|Betrix Barbot, 1379: ibid. p. 27.": [
+0.2543,
+0.2697,
+1
+],
+"77|Barbot, Babelot|Barbota|(unknown)|Barbota uxor Martini, C. R., 44 Hen. III, pt. 2.": [
+0.2646,
+0.2888,
+1
+],
+"77|Barbot, Babelot|Martini|(unknown)|Barbota uxor Martini, C. R., 44 Hen. III, pt. 2.": [
+0.2646,
+0.2888,
+1
+],
+"77|Barbot, Babelot|Jeffery|Barbet|1656. Married—Jeffery Barbet to Margaret Coife: Canterbury Cath.": [
+0.2866,
+0.3094,
+1
+],
+"77|Barbot, Babelot|Margaret|Coife|1656. Married—Jeffery Barbet to Margaret Coife: Canterbury Cath.": [
+0.2866,
+0.3094,
+1
+],
+"77|Barbot, Babelot|John|Barbot|1784. — John Barbot and Maria Gwynn: St. Geo. Han. Sq. i. 358.": [
+0.307,
+0.3309,
+1
+],
+"77|Barbot, Babelot|Maria|Gwynn|1784. — John Barbot and Maria Gwynn: St. Geo. Han. Sq. i. 358.": [
+0.307,
+0.3309,
+1
+],
+"77|Barbour|Alice|le Barbour|Alice le Barbour, co. Hunts, 1273. A.": [
+0.4465,
+0.4625,
+1
+],
+"77|Barbour|Richard|le Barbour|Richard le Barbour, 1302. M.": [
+0.4577,
+0.4714,
+1
+],
+"77|Barbour|Robert|le Barbour|Robert le Barbour, 1307. M.": [
+0.4676,
+0.4829,
+1
+],
+"77|Barbour|Johannes|de Catton|Johannes de Catton, barbour, 1379: P. T. Yorks. p. 251.": [
+0.4775,
+0.502,
+1
+],
+"77|Barbour|Edmundus|Barbour|Edmundus Barbour, 1379: ibid.": [
+0.499,
+0.513,
+1
+],
+"77|Barbour|Ann|Barbour|1754. Married—Joseph Trambley and Ann Barbour: St. Geo. Chap. Mayfair, p. 271.": [
+0.5101,
+0.534,
+1
+],
+"77|Barbour|Joseph|Trambley|1754. Married—Joseph Trambley and Ann Barbour: St. Geo. Chap. Mayfair, p. 271.": [
+0.5101,
+0.534,
+1
+],
+"77|Barchard||Barchard|": [
+0.5698,
+0.5837,
+1
+],
+"77|Barclay, Berkeley, Berkley|Egidius|de Berkeleye|Egidius de Berkeleye, co. Oxf., 1273. A.": [
+0.6758,
+0.6887,
+1
+],
+"77|Barclay, Berkeley, Berkley|Maurice|de Berkelay|Maurice de Berkelay, co. Soms., ibid.": [
+0.6867,
+0.699,
+1
+],
+"77|Barclay, Berkeley, Berkley|Robert|de Berclay|Robert de Berclay, co. Northumb., 1195: KKK. vi. 53.": [
+0.6959,
+0.7203,
+1
+],
+"77|Barclay, Berkeley, Berkley|Gyles|de Berclay|Gyles de Berclay, co. Derby, Hen. III-Edw. I. K.": [
+0.7166,
+0.7392,
+1
+],
+"77|Barclay, Berkeley, Berkley|Seman|de Berclawe|Seman de Berclawe, co. Camb., 1273. A.": [
+0.7374,
+0.7514,
+1
+],
+"77|Barclay, Berkeley, Berkley|William|Bercley|William Bercley, co. Soms., 1 Edw. III: Kirby's Quest, p. 238.": [
+0.7483,
+0.7718,
+1
+],
+"77|Barclay, Berkeley, Berkley|Henry|Barclay|1704. Married—Henry Barclay and Thomazine Bloome: St. Peter, Cornhill, ii. 65.": [
+0.7684,
+0.7923,
+1
+],
+"77|Barclay, Berkeley, Berkley|Thomazine|Bloome|1704. Married—Henry Barclay and Thomazine Bloome: St. Peter, Cornhill, ii. 65.": [
+0.7684,
+0.7923,
+1
+],
+"78|Barcroft|Thomas|Barcroft|Thomas Barcroft, of Burnley (co. Lanc.), 1571: Wills at Chester (1545-1620), p. 11.": [
+0.1831,
+0.2079,
+1
+],
+"78|Barcroft|Henry|Barcroft|Henry Barcroft, of Lancashire, 1576: ibid.": [
+0.2141,
+0.2267,
+1
+],
+"78|Barcroft|Thomas|Barcrofte|1592-3. Thomas Barcrofte, co. Worc.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 125.": [
+0.2335,
+0.2587,
+1
+],
+"78|Barcroft|Charles|Barcroft|1632-3. Charles Barcroft and Dorothie Crosby: Marriage Lic. (Faculty Office), p. 27.": [
+0.255,
+0.2789,
+1
+],
+"78|Barcroft|Dorothie|Crosby|1632-3. Charles Barcroft and Dorothie Crosby: Marriage Lic. (Faculty Office), p. 27.": [
+0.255,
+0.2789,
+1
+],
+"78|Barcroft|John|Barcroft|1657. Bapt.—John, s. John Barcroft, gent.: St. Jas. Clerkenwell, i. 196.": [
+0.286,
+0.3126,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Osbertus|Bardolf|Osbertus Bardolf, alias Bardol, 45 Hen. III. BBB. p. 94.": [
+0.4079,
+0.4322,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Osbertus|Bardol|Osbertus Bardolf, alias Bardol, 45 Hen. III. BBB. p. 94.": [
+0.4079,
+0.4322,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Dodo|Barduf|Dodo Barduf, co. Notts, Hen. III-Edw. I. K.": [
+0.4649,
+0.4782,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Barduphus|de Cest'ton|Barduphus de Cest'ton, ibid.": [
+0.4853,
+0.4986,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|William'|Bardoulf|Uxor William' Bardoulf, co. Norf., 1273. A.": [
+0.4961,
+0.5088,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Roger|Bardolf|Roger Bardolf, co. Salop, ibid.": [
+0.5156,
+0.5312,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Henry|Bardolph|Henry Bardolph, co. Soms., 1 Edw. III: Kirby's Quest, p. 167.": [
+0.5265,
+0.5507,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Hugh|Bardulphe|Hugh Bardulphe, 8 Ric. I, sheriff of Westmorland: Hist. West. and Cumb. i. 27.": [
+0.5473,
+0.5708,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Edmond|Bardolfe|Edmond Bardolfe, 1572: Visitation of Hertfordshire (Harl. Soc.), p. 26.": [
+0.579,
+0.6022,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Edward|Bardolph|Edward Bardolph, 1634: ibid. p. 2.": [
+0.6001,
+0.6131,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Robert|Bardell|1668. Bapt.—Robert, s. John Bardell: St. Jas. Clerkenwell, i. 237.": [
+0.6097,
+0.6352,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|John|Bardell|1668. Bapt.—Robert, s. John Bardell: St. Jas. Clerkenwell, i. 237.": [
+0.6097,
+0.6352,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Joseph|Bardell|1781. Married—Joseph Bardell and Mary Willioghby: St. Geo. Han. Sq. i. 326.": [
+0.6308,
+0.655,
+1
+],
+"78|Bardolph, Bardell, Bardol, Bardel|Mary|Willioghby|1781. Married—Joseph Bardell and Mary Willioghby: St. Geo. Han. Sq. i. 326.": [
+0.6308,
+0.655,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|William|de Bardsley|Uxor William de Bardsley, de Ha, 1422: Custom Roll and Rental of the lordship of Ashton-under-Lyne (Cheth. Soc.).": [
+0.8461,
+0.8799,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|Samuel|Bardsley|1667. Samuel Bardsley, clerk, minister of Disley and Marple: Earwaker's East Cheshire, ii. 57, 98.": [
+0.1565,
+0.1906,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|Robert|de Berdesleghe|Robert de Berdesleghe, co. Soms., 1 Edw. III: Kirby's Quest, p. 191.": [
+0.1875,
+0.2107,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|Roger|de Berdesleghe|Roger de Berdesleghe: ibid.": [
+0.2073,
+0.2206,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|Robert|de Bardesle|Robert de Bardesle, co. Oxf., 1273. A.": [
+0.2172,
+0.2318,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|William|de Bardesley|William de Bardesley. H.": [
+0.2284,
+0.2403,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|John|Bardsley|John Bardsley, of Staley, 1599: Wills at Chester (1545-1620), p. 11.": [
+0.2376,
+0.2622,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|William|Bardsley|William Bardsley, of Ashton, 1609: ibid.": [
+0.2594,
+0.2717,
+1
+],
+"78|Bardsley, Beardsley, Beardslee|Ann|Bardsley|Ann Bardsley, of Greenacres, Oldham, 1617: ibid.": [
+0.2693,
+0.292,
+1
+],
+"78|Bardwell|Nicholas|Berdwell|Nicholas Berdwell, co. Soms., 1 Edw. III: Kirby's Quest, p. 280.": [
+0.3698,
+0.394,
+1
+],
+"78|Bardwell|Margaret|Bardwell|1637. Married—Thomas Bagall and Margaret Bardwell: St. Jas. Clerkenwell, iii. 68.": [
+0.3902,
+0.4131,
+1
+],
+"78|Bardwell|Thomas|Bagall|1637. Married—Thomas Bagall and Margaret Bardwell: St. Jas. Clerkenwell, iii. 68.": [
+0.3902,
+0.4131,
+1
+],
+"78|Barebone||Barebone|": [
+0.4359,
+0.4492,
+1
+],
+"78|Barefoot, Barfoot|Norman|Barfot|Norman Barfot, co. Linc., 1273. A.": [
+0.5848,
+0.5977,
+1
+],
+"78|Barefoot, Barfoot|Roger|Barefot|Roger Barefot, co. Oxf., ibid.": [
+0.5947,
+0.6076,
+1
+],
+"78|Barefoot, Barfoot|Alan|Barefot|Alan Barefot, co. Camb., ibid.": [
+0.6056,
+0.6175,
+1
+],
+"78|Barefoot, Barfoot|John|Barfoote|John Barfoote, 1568: Reg. Uniw.Oxf. i. 272.": [
+0.6151,
+0.6294,
+1
+],
+"78|Barefoot, Barfoot|Roger|Barefoot|Roger Barefoot, temp. 1580. Z.": [
+0.6267,
+0.639,
+1
+],
+"78|Barefoot, Barfoot|Edward|Barefoote|1581-2. Edward Barefoote and Winifred Hildersham: Marriage Lic. (London), i. 105.": [
+0.6373,
+0.6615,
+1
+],
+"78|Barefoot, Barfoot|Winifred|Hildersham|1581-2. Edward Barefoote and Winifred Hildersham: Marriage Lic. (London), i. 105.": [
+0.6373,
+0.6615,
+1
+],
+"78|Barefoot, Barfoot|Thomas|Barfoote|1625. Buried—Thomas Barfoote, a stranger: St. Michael, Cornhill, p. 225.": [
+0.6574,
+0.6823,
+1
+],
+"78|Barefoot, Barfoot|Francis|Barefoot|1715. Francis Barefoot: St. Peter, Cornhill, p. 71.": [
+0.6768,
+0.6997,
+1
+],
+"78|Barefoot, Barfoot|Mary|Bearfoot|1717. Married—John Light and Mary Bearfoot: St. Michael, Cornhill, p. 59.": [
+0.6976,
+0.7256,
+1
+],
+"78|Barefoot, Barfoot|John|Light|1717. Married—John Light and Mary Bearfoot: St. Michael, Cornhill, p. 59.": [
+0.6976,
+0.7256,
+1
+],
+"78|Barefoot, Barfoot|Eliz[abeth]|Barfoot|1748. — William King and Eliz. Barfoot: St. Geo. Chap. Mayfair, p. 103.": [
+0.7188,
+0.7446,
+1
+],
+"78|Barefoot, Barfoot|William|King|1748. — William King and Eliz. Barfoot: St. Geo. Chap. Mayfair, p. 103.": [
+0.7188,
+0.7446,
+1
+],
+"78|Bargate|Jordan|atte-bargate|Jordan atte-bargate. J.": [
+0.8148,
+0.8267,
+1
+],
+"78|Bargate|William|atte Barezete|William atte Barezete, co. Soms., 1 Edw. III: Kirby's Quest, p. 199.": [
+0.824,
+0.8502,
+1
+],
+"78|Bargate|Jordan|de la Barregate|Jordan de la Barregate: Fines Roll, 11 Edw. I.": [
+0.8458,
+0.8591,
+1
+],
+"78|Bargate|Agnes|Bargett|1607. Married—Abraham Hill and Agnes Bargett: St. Mary Aldermary, p. 11.": [
+0.1435,
+0.1681,
+1
+],
+"78|Bargate|Abraham|Hill|1607. Married—Abraham Hill and Agnes Bargett: St. Mary Aldermary, p. 11.": [
+0.1435,
+0.1681,
+1
+],
+"78|Barge, Bargeman, Bargman|Petrus|del Barge|Petrus del Barge, mariner, 33 Edw. III: Freemen of York, i. 53.": [
+0.2472,
+0.2731,
+1
+],
+"78|Barge, Bargeman, Bargman|John|Bargeman|John Bargeman, John Amyson, John Book, bargemen: Wardrobe Account, 48 Edw. III-1 Ric. II, 41/10.": [
+0.2686,
+0.3023,
+1
+],
+"78|Barge, Bargeman, Bargman|John|Amyson|John Bargeman, John Amyson, John Book, bargemen: Wardrobe Account, 48 Edw. III-1 Ric. II, 41/10.": [
+0.2686,
+0.3023,
+1
+],
+"78|Barge, Bargeman, Bargman|John|Book|John Bargeman, John Amyson, John Book, bargemen: Wardrobe Account, 48 Edw. III-1 Ric. II, 41/10.": [
+0.2686,
+0.3023,
+1
+],
+"78|Barge, Bargeman, Bargman|Patricius|Bargeman|Patricius Bargeman, 1379: P. T. Yorks. p. 206.": [
+0.2995,
+0.3149,
+1
+],
+"78|Barge, Bargeman, Bargman|George|Bargeman|George Bargeman, 1579: Cal. State Papers (Domestic), i. 642.": [
+0.3203,
+0.3442,
+1
+],
+"78|Barge, Bargeman, Bargman|John|Bargeman|1666. John Bargeman and Eliz. Dickins: Marriage Lic. (Faculty Office), p. 91.": [
+0.3422,
+0.3653,
+1
+],
+"78|Barge, Bargeman, Bargman|Eliz[abeth]|Dickins|1666. John Bargeman and Eliz. Dickins: Marriage Lic. (Faculty Office), p. 91.": [
+0.3422,
+0.3653,
+1
+],
+"78|Barge, Bargeman, Bargman|Jonas|Bargman|1749. Married—Jonas Bargman and Eliz. Biggs: St. Geo. Chap. Mayfair, p. 153.": [
+0.3629,
+0.3868,
+1
+],
+"78|Barge, Bargeman, Bargman|Eliz[abeth]|Biggs|1749. Married—Jonas Bargman and Eliz. Biggs: St. Geo. Chap. Mayfair, p. 153.": [
+0.3629,
+0.3868,
+1
+],
+"78|Barham|Henry|de Berham|Henry de Berham, co. Kent, 20 Edw. I. R.": [
+0.4932,
+0.5051,
+1
+],
+"78|Barham|Andrew|de Bereham|Andrew de Bereham, co. Linc., 1273. A.": [
+0.5026,
+0.5176,
+1
+],
+"78|Barham|Margaret|Barham|1564. Peter Nott and Margaret Barham: Marriage Lic. (London), i. 29.": [
+0.5142,
+0.5374,
+1
+],
+"78|Barham|Peter|Nott|1564. Peter Nott and Margaret Barham: Marriage Lic. (London), i. 29.": [
+0.5142,
+0.5374,
+1
+],
+"78|Barham|Robert|Barham|1615. Robert Barham, co. Kent: Reg. Univ. Oxf. vol. ii. pt. ii. p. 338.": [
+0.533,
+0.5592,
+1
+],
+"78|Barham|John|Barham|1654. Buried—John, s. John Barham: St. Jas. Clerkenwell, iv. 301.": [
+0.5551,
+0.5779,
+1
+],
+"78|Baring|John|Bering|John Bering, co. Soms., 1 Edw. III: Kirby's Quest, p. 205.": [
+0.7688,
+0.7947,
+1
+],
+"78|Baring|Joseph|Baring|Joseph Baring, Ram and Magpie, 1 Fleet Street, Bethnal Green: London Dir. 1872.": [
+0.7885,
+0.8127,
+1
+],
+"79|Barkas, Barkus|George|Barkas|1774. Married—George Barkas and Hannah Barnes: St. Geo. Han. Sq. i. 241.": [
+0.1428,
+0.1674,
+1
+],
+"79|Barkas, Barkus|Hannah|Barnes|1774. Married—George Barkas and Hannah Barnes: St. Geo. Han. Sq. i. 241.": [
+0.1428,
+0.1674,
+1
+],
+"79|Barker, Barkmaker, Barkman|Ricardi|Skyrtynbek|1402. 'Lego uxori Ricardi Skyrtynbek, barkar, i togam': Test. Ebor. i. 289.": [
+0.4015,
+0.4257,
+1
+],
+"79|Barker, Barkmaker, Barkman|Robert|Barcarius|Robert Barcarius, co. Linc., 1273. A.": [
+0.4199,
+0.4373,
+1
+],
+"79|Barker, Barkmaker, Barkman|Alan|le Barkere|Alan le Barkere, co. Camb., ibid.": [
+0.4322,
+0.4455,
+1
+],
+"79|Barker, Barkmaker, Barkman|Osbert|le Barker|Osbert le Barker, 1306. M.": [
+0.4434,
+0.455,
+1
+],
+"79|Barker, Barkmaker, Barkman|William|de York|William de York, barker, 1379: P. T. Yorks. p. 251.": [
+0.4526,
+0.4782,
+1
+],
+"79|Barker, Barkmaker, Barkman|Edmund|Barkmaker|Edmund Barkmaker, temp. Eliz. ZZ.": [
+0.4734,
+0.4881,
+1
+],
+"79|Barker, Barkmaker, Barkman|John|Barkman|John Barkman. W. 18.": [
+0.485,
+0.4966,
+1
+],
+"79|Barleggs|Hellen|Bareleggs|1627-7. John Dawston and Hellen Bareleggs: Marriage Lic.(London), ii. 182.": [
+0.5902,
+0.6161,
+1
+],
+"79|Barleggs|John|Dawston|1627-7. John Dawston and Hellen Bareleggs: Marriage Lic.(London), ii. 182.": [
+0.5902,
+0.6161,
+1
+],
+"79|Barleggs|John|Bareleggs|1667. Married—John Bareleggs and Eliz. Doulin: St. Jas. Clerkenwell, iii. 131.": [
+0.6124,
+0.6356,
+1
+],
+"79|Barleggs|Eliz[abeth]|Doulin|1667. Married—John Bareleggs and Eliz. Doulin: St. Jas. Clerkenwell, iii. 131.": [
+0.6124,
+0.6356,
+1
+],
+"79|Barleggs|Thomas|Bearleggs|1747. — Thomas Bearleggs and Ann Addison: St. Geo. Chap. Mayfair, p. 85.": [
+0.6328,
+0.6567,
+1
+],
+"79|Barleggs|Ann|Addison|1747. — Thomas Bearleggs and Ann Addison: St. Geo. Chap. Mayfair, p. 85.": [
+0.6328,
+0.6567,
+1
+],
+"79|Barley|William|de Berele|William de Berele, co. Camb., 1273. A.": [
+0.7517,
+0.765,
+1
+],
+"79|Barley|Alice|Barley|1565. Thomas Felde and Alice Barley: Marriage Lic. (London), i. 31.": [
+0.7616,
+0.7865,
+1
+],
+"79|Barley|Thomas|Felde|1565. Thomas Felde and Alice Barley: Marriage Lic. (London), i. 31.": [
+0.7616,
+0.7865,
+1
+],
+"79|Barley|George|Barley|1573. George Barley, of Overton: Wills at Chester, i. 12.": [
+0.7831,
+0.8066,
+1
+],
+"79|Barley|Richard|Barley|1596. Richard Barley, co. Herts: Reg. Univ. Oxf. vol. ii. pt. ii. p. 215.": [
+0.8032,
+0.8284,
+1
+],
+"79|Barley|James|Barley|1603. Married—James Barley and Eliz. Miller: St. Dionis Backchurch, p. 14.": [
+0.8257,
+0.8499,
+1
+],
+"79|Barley|Eliz[abeth]|Miller|1603. Married—James Barley and Eliz. Miller: St. Dionis Backchurch, p. 14.": [
+0.8257,
+0.8499,
+1
+],
+"79|Barlow|William|Barlow|William Barlow, bishop of Lincoln, born about 1550": [
+0.2356,
+0.2646,
+1
+],
+"79|Barlow|Johannes|de Berlowe|Johannes de Berlowe, 1379: P. T. Yorks. p. 33.": [
+0.3316,
+0.3459,
+1
+],
+"79|Barlow|Henry|Barlow|1584. Henry Barlow, co. Derby: Reg. Univ. Oxf. vol. ii. pt. ii. p. 139.": [
+0.3517,
+0.3766,
+1
+],
+"79|Barlow|John|Barlow|1600. John Barlow, co. Chester: ibid. p. 244.": [
+0.3735,
+0.3865,
+1
+],
+"79|Barlow|George|Barlow|1583. George Barlow, of Manchester, baker: Wills at Chester, i. 12.": [
+0.394,
+0.4168,
+1
+],
+"79|Barlow|Ottiwell|Barlow|1594. Ottiwell Barlow, of Heaton Norris: ibid.": [
+0.4158,
+0.4274,
+1
+],
+"79|Barlow|Sir Alex[ander]|Barlow|1620. Sir Alex. Barlow, of Barlow: ibid.": [
+0.4356,
+0.4472,
+1
+],
+"79|Barlow|John|Barlow|1656. Married—John Barlow and Mary Tolley: St. Dionis Backchurch, p. 32.": [
+0.4451,
+0.4697,
+1
+],
+"79|Barlow|Mary|Tolley|1656. Married—John Barlow and Mary Tolley: St. Dionis Backchurch, p. 32.": [
+0.4451,
+0.4697,
+1
+],
+"79|Barnaby, Barnabee|Thomas|Barnaby|1524. Thomas Barnaby and Margaret Wallop: Marriage Lic. (London), i. 49.": [
+0.5896,
+0.6141,
+1
+],
+"79|Barnaby, Barnabee|Margaret|Wallop|1524. Thomas Barnaby and Margaret Wallop: Marriage Lic. (London), i. 49.": [
+0.5896,
+0.6141,
+1
+],
+"79|Barnaby, Barnabee|John|Barnabe|1534. John Barnabe and Catherine Bonham: ibid.": [
+0.6097,
+0.625,
+1
+],
+"79|Barnaby, Barnabee|Catherine|Bonham|1534. John Barnabe and Catherine Bonham: ibid.": [
+0.6097,
+0.625,
+1
+],
+"79|Barnaby, Barnabee|Eustace|Barneby|1621. Eustace Barneby, or Barnaby: Reg. Univ. Oxf. vol. ii. pt. ii. p. 402.": [
+0.6311,
+0.655,
+1
+],
+"79|Barnaby, Barnabee|Eustace|Barnaby|1621. Eustace Barneby, or Barnaby: Reg. Univ. Oxf. vol. ii. pt. ii. p. 402.": [
+0.6311,
+0.655,
+1
+],
+"79|Barnaby, Barnabee|John|Barnabee|1665. Buried—John Barnabee: St. Jas. Clerkenwell, iv. 368.": [
+0.6519,
+0.6741,
+1
+],
+"79|Barnaby, Barnabee|John|Barnaby|1756. Married—John Barnaby and Eliz. Tree: St. Geo. Han. Sq. i. 66.": [
+0.6714,
+0.6949,
+1
+],
+"79|Barnaby, Barnabee|Eliz[abeth]|Tree|1756. Married—John Barnaby and Eliz. Tree: St. Geo. Han. Sq. i. 66.": [
+0.6714,
+0.6949,
+1
+],
+"79|Barnacle|Custance|de Barnaucle|Custance de Barnaucle, co. Suff., 1273. A.": [
+0.7626,
+0.7759,
+1
+],
+"79|Barnacle|Richard|Barnikel|Richard Barnikel: Close Roll, 18 Edw. III, pt. i.": [
+0.7732,
+0.7964,
+1
+],
+"79|Barnacle|Richard|Barnakyll|Richard Barnakyll, 1514: Reg. Univ. Oxf. i. 91.": [
+0.7933,
+0.8182,
+1
+],
+"79|Barnacle|John|Barnacle|1545. Married—John Barnacle and Annes Chapman: St. Dionis Backchurch, p. 2.": [
+0.8131,
+0.8386,
+1
+],
+"79|Barnacle|Annes|Chapman|1545. Married—John Barnacle and Annes Chapman: St. Dionis Backchurch, p. 2.": [
+0.8131,
+0.8386,
+1
+],
+"79|Barnard, Barnett, Barnet|Barronet|Coll|'Of Barronet Coll, for his child's layreston, 1s. 8d.': Churchwardens' Accounts, Gateshead, 1643.": [
+0.3865,
+0.4219,
+1
+],
+"79|Barnby, Barmby|Richard|de Barneby|Richard de Barneby, co. York, 1273. A.": [
+0.5466,
+0.5606,
+1
+],
+"79|Barnby, Barmby|Henry|de Barneby|Henry de Barneby, co. Linc., 20 Edw. I. R.": [
+0.5565,
+0.5718,
+1
+],
+"79|Barnby, Barmby|Thomas|de Barmby|Thomas de Barmby, 1379: P. T. Yorks. p. 65.": [
+0.5776,
+0.5919,
+1
+],
+"79|Barnby, Barmby|Thomas|de Barnby|Thomas de Barnby, 1379: ibid. p. 241.": [
+0.5977,
+0.6131,
+1
+],
+"79|Barnby, Barmby|Charles|Barnbye|1584-5. Charles Barnbye, or Barneby, co. York: Reg. Univ. Oxf. vol. ii. pt. ii. p. 140.": [
+0.6086,
+0.6322,
+1
+],
+"79|Barnby, Barmby|Charles|Barneby|1584-5. Charles Barnbye, or Barneby, co. York: Reg. Univ. Oxf. vol. ii. pt. ii. p. 140.": [
+0.6086,
+0.6322,
+1
+],
+"79|Barnby, Barmby|Francis|Barnbye|1585. Francis Barnbye, co. York: ibid. p. 142.": [
+0.6403,
+0.6533,
+1
+],
+"79|Barnby, Barmby|Ann|Barnby|1684. Martin Bellamy and Ann Barnby: Marriage Lic. (Faculty Office), p. 170.": [
+0.6594,
+0.685,
+1
+],
+"79|Barnby, Barmby|Martin|Bellamy|1684. Martin Bellamy and Ann Barnby: Marriage Lic. (Faculty Office), p. 170.": [
+0.6594,
+0.685,
+1
+],
+"79|Barne, Barnes, Barns|Henry|de le Berne|Henry de le Berne, co. Norf., 1273. A.": [
+0.8155,
+0.8281,
+1
+],
+"79|Barne, Barnes, Barns|Richard|de la Berne|Richard de la Berne, co. Kent, ibid.": [
+0.826,
+0.839,
+1
+],
+"79|Barne, Barnes, Barns|William|de la Berne|William de la Berne, co. Dorset, ibid.": [
+0.8356,
+0.8492,
+1
+],
+"79|Barne, Barnes, Barns|John|atte Bern|John atte Bern, co. Soms., 1 Edw. III: Kirby's Quest, p. 119.": [
+0.8458,
+0.8717,
+1
+],
+"80|Barne, Barnes, Barns|Henry|atte Bern|Henry atte Bern, co. Soms., 1 Edw. III: Kirby's Quest, p. 119.": [
+0.1067,
+0.1316,
+1
+],
+"80|Barne, Barnes, Barns|William|le Barne|William le Barne, co. York, 1273. A.": [
+0.1261,
+0.1418,
+1
+],
+"80|Barne, Barnes, Barns|Walter|le Barne|Walter le Barne, co. Linc., ibid.": [
+0.1377,
+0.1517,
+1
+],
+"80|Barne, Barnes, Barns|Ricardus|le Barne|Ricardus le Barne et uxor, 1379: P. T. Yorks. p. 144.": [
+0.1479,
+0.1722,
+1
+],
+"80|Barne, Barnes, Barns|Thomas|le Barne|Thomas le Barne. T.": [
+0.1691,
+0.1824,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Robertus|Thom-barne|Robertus Thom-barne (i.e. Tom's child), 1379: P. T. Yorks. p. 155.": [
+0.3043,
+0.3289,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Willelmus|Barnefadir|Willelmus Barnefadir, 1379: P. T. Yorks. p. 209.": [
+0.3449,
+0.3701,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Johannes|Barnefader|Johannes Barnefader, 1379: ibid. p. 162.": [
+0.3653,
+0.38,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Johanna|Barnefadir|Johanna Barnefadir, 1379: ibid. p. 198.": [
+0.3762,
+0.3909,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Mary|Barnfather|Mary Barnfather, co. Cumb., temp. 1620: VVV. p. 491.": [
+0.3868,
+0.41,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Joseph|Barnfather|1745. Married—Joseph Barnfather and Jane Grove: St. Geo. Chap. Mayfair, p. 51.": [
+0.4066,
+0.4322,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Jane|Grove|1745. Married—Joseph Barnfather and Jane Grove: St. Geo. Chap. Mayfair, p. 51.": [
+0.4066,
+0.4322,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|William|Barnfather|1770. — William Barnfather and Eliz. Carthrel: St. Geo. Han. Sq. i. 200.": [
+0.425,
+0.4506,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Eliz[abeth]|Carthrel|1770. — William Barnfather and Eliz. Carthrel: St. Geo. Han. Sq. i. 200.": [
+0.425,
+0.4506,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|James|Banfather|1777. — James Banfather and Eliz. Pellett: ibid. p. 273.": [
+0.4499,
+0.4734,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|Eliz[abeth]|Pellett|1777. — James Banfather and Eliz. Pellett: ibid. p. 273.": [
+0.4499,
+0.4734,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|(unknown)|Bairnsfather|'Mr. Bairnsfather's election to the Directorate was confirmed, and Mr. John Petch was re-elected auditor': The Yorkshire Post, Feb. 28, 1887.": [
+0.4703,
+0.5132,
+1
+],
+"80|Barnfather, Bairnfather, Bairnsfather, Banfather|John|Petch|'Mr. Bairnsfather's election to the Directorate was confirmed, and Mr. John Petch was re-elected auditor': The Yorkshire Post, Feb. 28, 1887.": [
+0.4703,
+0.5132,
+1
+],
+"80|Barnmaw|William|le Barnemawe|William le Barnemawe, co. York, 1273. A.": [
+0.623,
+0.6352,
+1
+],
+"80|Barnsley|Walter|Barnsley?|1578. Walter Barnsley, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 80.": [
+0.7459,
+0.7704,
+1
+],
+"80|Barnsley|Thomas|Barnesley|1584. Thomas Barnesley, co. Oxf.: ibid. p. 137.": [
+0.7671,
+0.7919,
+1
+],
+"80|Barnsley|Walter|Barnsley|1669. Buried—Walter Barnsley: St. Mary Aldermary, p. 187.": [
+0.7885,
+0.8127,
+1
+],
+"80|Barnsley|Henry|Barnsley|1690. Henry Barnsley and Frances Moody: Marriage Alleg. (Canterbury), p. 156.": [
+0.8079,
+0.8335,
+1
+],
+"80|Barnsley|Frances|Moody|1690. Henry Barnsley and Frances Moody: Marriage Alleg. (Canterbury), p. 156.": [
+0.8079,
+0.8335,
+1
+],
+"80|Barnsley|William|Barnsley|1767. Married—William Barnsley and Mary Johnson: St. Geo. Han. Sq. i. 171.": [
+0.8386,
+0.8649,
+1
+],
+"80|Barnsley|Mary|Johnson|1767. Married—William Barnsley and Mary Johnson: St. Geo. Han. Sq. i. 171.": [
+0.8386,
+0.8649,
+1
+],
+"80|Barnstable||Barnstable|": [
+0.1074,
+0.1193,
+1
+],
+"80|Barnum|Willelmus|Barnom|Willelmus Barnom, 1379: P. T. Yorks. p. 152.": [
+0.2731,
+0.2867,
+1
+],
+"80|Barnum|Simon|de Bernham|Simon de Bernham, co. Norf., 1273. A.": [
+0.2922,
+0.3085,
+1
+],
+"80|Barnum|Walter|de Bernham|Walter de Bernham, co. Suff., ibid.": [
+0.304,
+0.3173,
+1
+],
+"80|Barnum|John|de Bernham|John de Bernham, co. Kent, 20 Edw. I. R.": [
+0.3152,
+0.3278,
+1
+],
+"80|Barnum|Thomas|de Bernham|Thomas de Bernham, co. Suff., ibid.": [
+0.3357,
+0.3473,
+1
+],
+"80|Barnum|Benedict|Barnham|1572. Benedict Barnham, St. Alban Hall: Reg. Univ. Oxf. vol. ii. pt. ii. p. 41.": [
+0.3463,
+0.3701,
+1
+],
+"80|Barnum|Stephen|Barneham|1592. Stephen Barneham and Ann Dawkes: Marriage Lic. (London), i. 199.": [
+0.367,
+0.3909,
+1
+],
+"80|Barnum|Ann|Dawkes|1592. Stephen Barneham and Ann Dawkes: Marriage Lic. (London), i. 199.": [
+0.367,
+0.3909,
+1
+],
+"80|Barnum|Dorothy|Barnam|1598. Sir John Packington and Dorothy Barnam: ibid. p. 256.": [
+0.3977,
+0.4209,
+1
+],
+"80|Barnum|Sir John|Packington|1598. Sir John Packington and Dorothy Barnam: ibid. p. 256.": [
+0.3977,
+0.4209,
+1
+],
+"80|Barnwell, Barnwall|William|de Bernwell|William de Bernwell, vicar of Frethorp, co. Norf., 1307: FF. vii. 232.": [
+0.487,
+0.5128,
+1
+],
+"80|Barnwell, Barnwall|John|Bernevyle|John Bernevyle, co. Soms., 1 Edw. III: Kirby's Quest, p. 200.": [
+0.5094,
+0.534,
+1
+],
+"80|Barnwell, Barnwall|Robert|de Barnevile|Robert de Barnevile, co. Soms., 1273. A.": [
+0.5312,
+0.5432,
+1
+],
+"80|Barnwell, Barnwall|Robert|Barnwell|1593-4. Robert Barnwell, St. Mary Hall: Reg. Univ. Oxf. vol. ii. pt. ii. p. 200.": [
+0.5408,
+0.565,
+1
+],
+"80|Barnwell, Barnwall|Richard|Barnewell|1598. Tristram Slader and Eliz. Sparrowe. Attested by Richard Barnewell: Marriage Lic. (London), i. 251.": [
+0.5626,
+0.5953,
+1
+],
+"80|Barnwell, Barnwall|Tristram|Slader|1598. Tristram Slader and Eliz. Sparrowe. Attested by Richard Barnewell: Marriage Lic. (London), i. 251.": [
+0.5626,
+0.5953,
+1
+],
+"80|Barnwell, Barnwall|Eliz[abeth]|Sparrowe|1598. Tristram Slader and Eliz. Sparrowe. Attested by Richard Barnewell: Marriage Lic. (London), i. 251.": [
+0.5626,
+0.5953,
+1
+],
+"80|Barnwell, Barnwall|Robert|Barnewall|1778. Married—Robert Barnewall and Ann Hervev: St. Geo. Han. Sq. i. 289.": [
+0.5923,
+0.6161,
+1
+],
+"80|Barnwell, Barnwall|Ann|Hervev?|1778. Married—Robert Barnewall and Ann Hervev: St. Geo. Han. Sq. i. 289.": [
+0.5923,
+0.6161,
+1
+],
+"80|Baron, Barron|Osbert|le Barun|Osbert le Barun, Close Roll, 2 Edw. I.": [
+0.7203,
+0.7319,
+1
+],
+"80|Baron, Barron|Richard|le Baron|Richard le Baron, co. Devon, 1273. A.": [
+0.731,
+0.7436,
+1
+],
+"80|Baron, Barron|Geoffrey|le Barun|Geoffrey le Barun, co. Oxf., ibid.": [
+0.7401,
+0.7548,
+1
+],
+"80|Baron, Barron|John|Barun|John Barun, co. Linc., 20 Edw. I. R.": [
+0.75,
+0.7647,
+1
+],
+"80|Baron, Barron|John|Baron|1545. John Baron and Eliz. Mathew: Marriage Lic. (Faculty Office), p. 4.": [
+0.7599,
+0.7865,
+1
+],
+"80|Baron, Barron|Eliz[abeth]|Mathew|1545. John Baron and Eliz. Mathew: Marriage Lic. (Faculty Office), p. 4.": [
+0.7599,
+0.7865,
+1
+],
+"80|Baron, Barron|Susan|Barron|1632. Nicholas Boemond and Susan Barron: ibid. p. 17.": [
+0.7821,
+0.8059,
+1
+],
+"80|Baron, Barron|Nicholas|Boemond|1632. Nicholas Boemond and Susan Barron: ibid. p. 17.": [
+0.7821,
+0.8059,
+1
+],
+"80|Barr, Barre|Maurice|de la Barre|Maurice de la Barre, co. Devon, Hen. III-Edw. I. K.": [
+0.1067,
+0.1289,
+1
+],
+"80|Barr, Barre|John|de la Barre|John de la Barre, co. Staff., 20 Edw. I. A.": [
+0.1282,
+0.1404,
+1
+],
+"80|Barr, Barre|William|atte Barre|William atte Barre, co. Derby, ibid.": [
+0.1374,
+0.1524,
+1
+],
+"80|Barr, Barre|Gunilda|de la Barre|Gunilda de la Barre, co. Herts., 1273. A.": [
+0.1483,
+0.1633,
+1
+],
+"80|Barr, Barre|Philip|de le Barre|Philip de le Barre, co. Hunts, ibid.": [
+0.1589,
+0.1728,
+1
+],
+"80|Barr, Barre|Thomas|atte Barr|Thomas atte Barr, co. Soms., 1 Edw. III: Kirby's Quest, p. 150.": [
+0.1694,
+0.1943,
+1
+],
+"80|Barr, Barre|Henry|Barr|1765. Married—Henry Barr and Eliz. Richardson: St. Geo. Han. Sq. i. 143.": [
+0.1909,
+0.2141,
+1
+],
+"80|Barr, Barre|Eliz[abeth]|Richardson|1765. Married—Henry Barr and Eliz. Richardson: St. Geo. Han. Sq. i. 143.": [
+0.1909,
+0.2141,
+1
+],
+"80|Barrable|Emma|Boribal|Emma Boribal, co. Oxf., 1273. A.": [
+0.2536,
+0.27,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Stephanus|fil. Beroldi|Stephanus fil. Beroldi, Pipe Roll, 5 Hen. II.": [
+0.3633,
+0.3786,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Beroldi|(unknown)|Stephanus fil. Beroldi, Pipe Roll, 5 Hen. II.": [
+0.3633,
+0.3786,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Berard|de Wattlesfeld|Berard de Wattlesfeld, co. Suff., 1273. A.": [
+0.3851,
+0.3984,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Robert|Berard|Robert Berard, co. Bedf., ibid.": [
+0.396,
+0.4079,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Agnes|Barat|Agnes Barat, co. Camb., ibid.": [
+0.4062,
+0.4192,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Harvey|Baret|Harvey Baret, co. Norf., ibid.": [
+0.4172,
+0.4291,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|John|Baret|John Baret, co. Linc., ibid.": [
+0.4281,
+0.439,
+1
+],
+"80|Barrat, Barratt, Barret, Barrett, Berrett, Berret|Edward|Barret|1575. Edward Barret, co. Devon, Reg. Univ. Oxf. vol. ii. pt. ii. p. 63.": [
+0.4369,
+0.4608,
+1
+],
+"80|Barrell|Giles|Barrell|1688. Bapt.—Giles, son of John and Susan Barrell: St. Jas. Clerkenwell, i. 328.": [
+0.5558,
+0.5783,
+1
+],
+"80|Barrell|John|Barrell|1688. Bapt.—Giles, son of John and Susan Barrell: St. Jas. Clerkenwell, i. 328.": [
+0.5558,
+0.5783,
+1
+],
+"80|Barrell|Susan|Barrell|1688. Bapt.—Giles, son of John and Susan Barrell: St. Jas. Clerkenwell, i. 328.": [
+0.5558,
+0.5783,
+1
+],
+"80|Barrell|Thomas|Barwell|1691. — Thomas, son of John and Susanna Barwell: ibid. p. 339.": [
+0.5766,
+0.6011,
+1
+],
+"80|Barrell|John|Barwell|1691. — Thomas, son of John and Susanna Barwell: ibid. p. 339.": [
+0.5766,
+0.6011,
+1
+],
+"80|Barrell|Susanna|Barwell|1691. — Thomas, son of John and Susanna Barwell: ibid. p. 339.": [
+0.5766,
+0.6011,
+1
+],
+"80|Barrell|John|Barel|John Barel, co. Salop, 1273. A.": [
+0.6587,
+0.671,
+1
+],
+"80|Barrell|Ralph|Barel|Ralph Barel, co. Suff., ibid.": [
+0.67,
+0.6809,
+1
+],
+"80|Barrell|William|Barel|William Barel, co. Soms., 1 Edw. III: Kirby's Quest, p. 193.": [
+0.6792,
+0.7037,
+1
+],
+"80|Barrell|Robert|Barrell|1600. Robert Barrell, co. Soms.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 242.": [
+0.699,
+0.7238,
+1
+],
+"80|Barringer||Barringer|": [
+0.7524,
+0.7674,
+1
+],
+"80|Barrington|Warin|de Barenton|Warin de Barenton, co. Camb., 1273. A.": [
+0.8264,
+0.8438,
+1
+],
+"80|Barrington|Gilbert|de Barenton|Gilbert de Barenton, co. Camb., ibid.": [
+0.8393,
+0.8512,
+1
+],
+"80|Barrington|Drogo|de Barentin|Drogo de Barentin, co. Oxf., ibid.": [
+0.8496,
+0.8618,
+1
+],
+"80|Barrington|William|de Barentin|William de Barentin, co. Oxf., ibid.": [
+0.8601,
+0.8731,
+1
+],
+"81|Barrington|Thomas|Berington|1575. Thomas Berington, co. Berks: Reg. Univ. Oxf. vol. ii. pt. ii. p. 63.": [
+0.0985,
+0.1244,
+1
+],
+"81|Barrington|Phillis|Barrington|1767. Married—Thomas Stephen Nocus and Phillis Barrington: St. Geo. Han. Sq. i. 170.": [
+0.12,
+0.1435,
+1
+],
+"81|Barrington|Thomas Stephen|Nocus|1767. Married—Thomas Stephen Nocus and Phillis Barrington: St. Geo. Han. Sq. i. 170.": [
+0.12,
+0.1435,
+1
+],
+"81|Barrow, Barrows|Walter|de la Barowe|Walter de la Barowe, C. R., 14 Edw. III, pt. ii.": [
+0.2192,
+0.242,
+1
+],
+"81|Barrow, Barrows|Robert|de la Barwe|Robert de la Barwe, C. R., 3 Edw. I.": [
+0.24,
+0.2523,
+1
+],
+"81|Barrow, Barrows|John|de la Berewe|John de la Berewe, co. Worc., Hen. III-Edw. I. K.": [
+0.2499,
+0.2714,
+1
+],
+"81|Barrow, Barrows|Richard|de Barewe|Richard de Barewe, co. Suff., 1273. A.": [
+0.27,
+0.285,
+1
+],
+"81|Barrow, Barrows|William|de la Barewe|William de la Barewe, co. Essex, ibid.": [
+0.2815,
+0.2934,
+1
+],
+"81|Barrow, Barrows|John|atte Barwe|John atte Barwe, co. Soms., 1 Edw. III: Kirby's Quest, p. 100.": [
+0.2917,
+0.3166,
+1
+],
+"81|Barrow, Barrows|John|atte Berwe|John atte Berwe, co. Soms., 1 Edw. III: ibid. p. 227.": [
+0.3128,
+0.3371,
+1
+],
+"81|Barrow, Barrows|Thomas|Barrows|1759. Married—Thomas Barrows and Mary Jones: St. Geo. Han. Sq. i. 83.": [
+0.3309,
+0.3568,
+1
+],
+"81|Barrow, Barrows|Mary|Jones|1759. Married—Thomas Barrows and Mary Jones: St. Geo. Han. Sq. i. 83.": [
+0.3309,
+0.3568,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|Johannes|de Barowchag'|Cf. Johannes de Barowchag' (i.e. Barrowshaw), 1379: P. T. Yorks. p. 187.": [
+0.4369,
+0.4659,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|Eliz[abeth]|Barraclue|1626-7. John Champ and Eliz. Barraclue: Marriage Lic. (London), ii. 183.": [
+0.4768,
+0.5,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|John|Champ|1626-7. John Champ and Eliz. Barraclue: Marriage Lic. (London), ii. 183.": [
+0.4768,
+0.5,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|Rebecca|Baroclough|1690. William Heasey and Rebecca Baroclough: Marriage Alleg. (Canterbury), p. 144.": [
+0.4976,
+0.5214,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|William|Heasey?|1690. William Heasey and Rebecca Baroclough: Marriage Alleg. (Canterbury), p. 144.": [
+0.4976,
+0.5214,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|Ann|Barraclough|— William Smith and Ann Barraclough: ibid. p. 138.": [
+0.5268,
+0.5521,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|William|Smith|— William Smith and Ann Barraclough: ibid. p. 138.": [
+0.5268,
+0.5521,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|Edward|Barracliff|1765. Married—Edward Barracliff and Martha Whittaker: St. Geo. Han. Sq. i. 141.": [
+0.5476,
+0.5732,
+1
+],
+"81|Barrowclough, Barrowcliff, Barraclough|Martha|Whittaker|1765. Married—Edward Barracliff and Martha Whittaker: St. Geo. Han. Sq. i. 141.": [
+0.5476,
+0.5732,
+1
+],
+"81|Barry|John|de Barry|John de Barry, co. Soms., 1 Edw. III: Kirby's Quest, p. 211.": [
+0.7153,
+0.7384,
+1
+],
+"81|Barry|Isabella|Barri|Isabella Barri, co. Soms., 1 Edw. III: ibid.": [
+0.735,
+0.7493,
+1
+],
+"81|Barry|Robert|Barry|Robert Barry, co. Notts, Hen. III-Edw. I. K.": [
+0.7568,
+0.7691,
+1
+],
+"81|Barry|William|Barry|William Barry, co. Notts, ibid.": [
+0.7766,
+0.7895,
+1
+],
+"81|Barry|Hugh|Barry|Hugh Barry, co. Bucks, 1273. A.": [
+0.7865,
+0.8015,
+1
+],
+"81|Barry|Geoffrey|Barri|Geoffrey Barri, co. Linc., ibid.": [
+0.7974,
+0.8107,
+1
+],
+"81|Barter|Hugh|le Bartur|Hugh le Bartur, co. Oxf., 1273. A.": [
+0.0968,
+0.1128,
+1
+],
+"81|Barter|Adam|Barter|1578. Adam Barter, co. Cumb.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 82.": [
+0.1091,
+0.1313,
+1
+],
+"81|Barter|Eliz[abeth]|Bartor|1657. Married—Robert Porch and Eliz. Bartor: St. Mary Aldermary, p. 27.": [
+0.1289,
+0.1527,
+1
+],
+"81|Barter|Robert|Porch|1657. Married—Robert Porch and Eliz. Bartor: St. Mary Aldermary, p. 27.": [
+0.1289,
+0.1527,
+1
+],
+"81|Barter|Betty|Bartar|1747. — Richard Verrier and Betty Bartar: St. Geo. Chap. Mayfair, p. 88.": [
+0.1493,
+0.1735,
+1
+],
+"81|Barter|Richard|Verrier|1747. — Richard Verrier and Betty Bartar: St. Geo. Chap. Mayfair, p. 88.": [
+0.1493,
+0.1735,
+1
+],
+"81|Barth||Barth|": [
+0.1837,
+0.1977,
+1
+],
+"81|Bartholomew|Robert|Bartelmeu|Robert Bartelmeu, co. Hunts, 1273. A.": [
+0.3088,
+0.3248,
+1
+],
+"81|Bartholomew|William|Bartolomeus|William Bartolomeus, co. Suff., ibid.": [
+0.3203,
+0.3343,
+1
+],
+"81|Bartholomew|Gilbert|fil. Bartholomew|Gilbert fil. Bartholomew, co. Camb., ibid.": [
+0.3309,
+0.3446,
+1
+],
+"81|Bartholomew|Bartholomew|(unknown)|Gilbert fil. Bartholomew, co. Camb., ibid.": [
+0.3309,
+0.3446,
+1
+],
+"81|Bartholomew|Matilda|fil. Bartholomei|Matilda fil. Bartholomei, co. Camb., ibid.": [
+0.3514,
+0.3657,
+1
+],
+"81|Bartholomew|Bartholomei|(unknown)|Matilda fil. Bartholomei, co. Camb., ibid.": [
+0.3514,
+0.3657,
+1
+],
+"81|Bartholomew|Frances|Bartilmewe|1579. John Curtys and Frances Bartilmewe: Marriage Lic. (Westminster), p. 7.": [
+0.3715,
+0.3971,
+1
+],
+"81|Bartholomew|John|Curtys|1579. John Curtys and Frances Bartilmewe: Marriage Lic. (Westminster), p. 7.": [
+0.3715,
+0.3971,
+1
+],
+"81|Bartholomew|William|Dycke|1616. Married—William Dycke, of St. Bartlemew Exchange, and Maria Wallis: St. Michael, Cornhill, p. 21.": [
+0.4035,
+0.4386,
+1
+],
+"81|Bartholomew|Maria|Wallis|1616. Married—William Dycke, of St. Bartlemew Exchange, and Maria Wallis: St. Michael, Cornhill, p. 21.": [
+0.4035,
+0.4386,
+1
+],
+"81|Bartholomew|Suzan|Bartlemew|1617. — Robert Turner and Suzan Bartlemew: ibid.": [
+0.4352,
+0.4574,
+1
+],
+"81|Bartholomew|Robert|Turner|1617. — Robert Turner and Suzan Bartlemew: ibid.": [
+0.4352,
+0.4574,
+1
+],
+"81|Barthrop, Barthropp, Bartheropp, Bartropp, Bartrop, Bartrap|Hester|Bartrap|1687. John Hole and Hester Bartrap: Marriage Alleg. (Canterbury), p. 11.": [
+0.5527,
+0.5769,
+1
+],
+"81|Barthrop, Barthropp, Bartheropp, Bartropp, Bartrop, Bartrap|John|Hole|1687. John Hole and Hester Bartrap: Marriage Alleg. (Canterbury), p. 11.": [
+0.5527,
+0.5769,
+1
+],
+"81|Barthrop, Barthropp, Bartheropp, Bartropp, Bartrop, Bartrap|Christopher|Barthorp|1766. Married—Christopher Barthorp and Mary Hughes: St. Geo. Han. Sq. i. 50.": [
+0.5735,
+0.597,
+1
+],
+"81|Barthrop, Barthropp, Bartheropp, Bartropp, Bartrop, Bartrap|Mary|Hughes|1766. Married—Christopher Barthorp and Mary Hughes: St. Geo. Han. Sq. i. 50.": [
+0.5735,
+0.597,
+1
+],
+"81|Bartle|John|fil. Bertol|John fil. Bertol, co. Camb., 1273. A.": [
+0.6754,
+0.6928,
+1
+],
+"81|Bartle|Bertol|(unknown)|John fil. Bertol, co. Camb., 1273. A.": [
+0.6754,
+0.6928,
+1
+],
+"81|Bartle|Bartel|Frobisher|Bartel Frobisher, co. York. W. 9.": [
+0.6881,
+0.6997,
+1
+],
+"81|Bartle|Bartly|Bradforth|Bartly Bradforth, co. York. ibid.": [
+0.6979,
+0.7109,
+1
+],
+"81|Bartle|Bartell|Story|Bartell Story, co. Northumb., 1528: TTT. p. xxviii.": [
+0.7074,
+0.7319,
+1
+],
+"81|Bartle|Sarah|Bartle|1752. Married—Samuel Spencer and Sarah Bartle: St. Geo. Chap. Mayfair, p. 226.": [
+0.7275,
+0.7538,
+1
+],
+"81|Bartle|Samuel|Spencer|1752. Married—Samuel Spencer and Sarah Bartle: St. Geo. Chap. Mayfair, p. 226.": [
+0.7275,
+0.7538,
+1
+],
+"81|Bartle|Ann|Bartle|1762. —William Baxter and Ann Bartle: St. Geo. Han. Sq. i. 116.": [
+0.7602,
+0.7831,
+1
+],
+"81|Bartle|William|Baxter|1762. —William Baxter and Ann Bartle: St. Geo. Han. Sq. i. 116.": [
+0.7602,
+0.7831,
+1
+],
+"81|Bartleet||Bartleet|": [
+0.8056,
+0.8202,
+1
+],
+"81|Bartleman|Adam|Batel|Adam Batel, 1379: P. T. Yorks. p. 196.": [
+0.1674,
+0.181,
+1
+],
+"81|Bartleman|Simon|Batelman|Simon Batelman, 1379: ibid.": [
+0.1776,
+0.193,
+1
+],
+"81|Bartleman|Janne|Bartleman|1750. Married—Thomas Scott and Janne Bartleman: St. Geo. Chap. Mayfair, p. 183.": [
+0.1878,
+0.212,
+1
+],
+"81|Bartleman|Thomas|Scott|1750. Married—Thomas Scott and Janne Bartleman: St. Geo. Chap. Mayfair, p. 183.": [
+0.1878,
+0.212,
+1
+],
+"81|Bartleman|David|Bartleman|1780. — David Bartleman and Mary Brown: St. Geo. Han. Sq. i. 310.": [
+0.2195,
+0.2427,
+1
+],
+"81|Bartleman|Mary|Brown|1780. — David Bartleman and Mary Brown: St. Geo. Han. Sq. i. 310.": [
+0.2195,
+0.2427,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Bartelot|(unknown)|Bartelot (without surname), co. Bedf., 1273. A.": [
+0.4202,
+0.4472,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Thomas|Bartholot|Thomas Bartholot, co. Camb., ibid.": [
+0.4403,
+0.4553,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|William|Bartolot|William Bartolot, co. Oxf., ibid.": [
+0.4512,
+0.4649,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Bartelot|Govi|Bartelot Govi, co. Hunts, ibid.": [
+0.4615,
+0.4758,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Alan|Bartelet|Alan Bartelet, co. Camb., ibid.": [
+0.4721,
+0.4857,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Richard|Bartelot|Richard Bartelot, co. Oxf., ibid.": [
+0.4823,
+0.4963,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Thomas|Bartlot|Thomas Bartlot, 1379: P. T Yorks. p. 196.": [
+0.4917,
+0.5077,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Robertus|Bertlot|Robertus Bertlot, 1379: ibid. p. 142.": [
+0.5136,
+0.5286,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Thomas|Barthelette|1524. Thomas Barthelette and Agnes Langwyth: Marriage Lic. (London), i. 4.": [
+0.5241,
+0.5476,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Agnes|Langwyth|1524. Thomas Barthelette and Agnes Langwyth: Marriage Lic. (London), i. 4.": [
+0.5241,
+0.5476,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|Robert|Bartlet|1578. Robert Bartlet, co. Dorset: Reg. Univ. Oxf. vol. ii. pt. ii. p. 84.": [
+0.5445,
+0.5677,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|William|Bartlett|1673. Buried—William, s. John Bartlett: St. Dionis Backchurch (London), p. 240.": [
+0.5653,
+0.5889,
+1
+],
+"81|Bartlett, Bartlot, Bartlott, Bartolet, Bartolett|John|Bartlett|1673. Buried—William, s. John Bartlett: St. Dionis Backchurch (London), p. 240.": [
+0.5653,
+0.5889,
+1
+],
+"81|Bartley|Bartly|Bradforth|Bartly Bradforth, co. York. W. 9.": [
+0.7235,
+0.7382,
+1
+],
+"81|Bartley|Francis|Bartcleye?|1571. Francis Bartcleye, co. Soms., 1 Edw. III: Reg. Univ. Oxf. vol. ii. pt. ii. p. 50.": [
+0.7538,
+0.7824,
+1
+],
+"81|Bartley|Richard|Barkeley|1591-2. Richard Barkeley, or Bartley, co. Glouc.: ibid. p. 188.": [
+0.8397,
+0.8646,
+1
+],
+"81|Bartley|Richard|Bartley|1591-2. Richard Barkeley, or Bartley, co. Glouc.: ibid. p. 188.": [
+0.8397,
+0.8646,
+1
+],
+"82|Bartley|William|Bartley|1691-2. Married—William Bartley and Eliz. Newbery: St. Dionis Backchurch, p. 43.": [
+0.1643,
+0.1872,
+1
+],
+"82|Bartley|Eliz[abeth]|Newbery|1691-2. Married—William Bartley and Eliz. Newbery: St. Dionis Backchurch, p. 43.": [
+0.1643,
+0.1872,
+1
+],
+"82|Barton|William|de la Berton|William de la Berton, co. Wilts, 1273. A.": [
+0.2927,
+0.307,
+1
+],
+"82|Barton|John|de la Berton|John de la Berton, co. Kent, ibid.": [
+0.3036,
+0.3162,
+1
+],
+"82|Barton|Reginald|de la Berton|Reginald de la Berton, co. Glouc., ibid.": [
+0.3139,
+0.3272,
+1
+],
+"82|Barton|Adam|de Berton|Adam de Berton, co. Cumb., 20 Edw. I. R.": [
+0.425,
+0.4414,
+1
+],
+"82|Barton|John|de Berton|John de Berton, co. Kent, ibid.": [
+0.4465,
+0.4598,
+1
+],
+"82|Barton|Richard|de Bertone|Richard de Bertone, co. Hunts, ibid.": [
+0.4577,
+0.4707,
+1
+],
+"82|Bartram, Bartrum|Robert|Bartram|Robert Bartram, co. Norf., 1273. A.": [
+0.5248,
+0.5374,
+1
+],
+"82|Bartram, Bartrum|Thomas|Bartram|Thomas Bartram, co. Bucks, ibid.": [
+0.5353,
+0.5476,
+1
+],
+"82|Bartram, Bartrum|Frauncis|Bartram|1563. Bapt.—Frauncis and Amy Bartram: St. Jas. Clerkenwell, i. 2.": [
+0.5459,
+0.5677,
+1
+],
+"82|Bartram, Bartrum|Amy|Bartram|1563. Bapt.—Frauncis and Amy Bartram: St. Jas. Clerkenwell, i. 2.": [
+0.5459,
+0.5677,
+1
+],
+"82|Bartram, Bartrum|Bridgett|Bartrom|1578. Elias Martin and Bridgett Bartrom: Marriage Lic. (London), i. 81.": [
+0.5657,
+0.5902,
+1
+],
+"82|Bartram, Bartrum|Elias|Martin|1578. Elias Martin and Bridgett Bartrom: Marriage Lic. (London), i. 81.": [
+0.5657,
+0.5902,
+1
+],
+"82|Bartram, Bartrum|George|Bartrame|1585. George Bartrame, co. York: Reg. Univ. Oxf. vol. ii. pt. ii. p. 148.": [
+0.5865,
+0.611,
+1
+],
+"82|Barwell|Ralph|de Barewell|Ralph de Barewell, co. Wilts, 1273. A.": [
+0.6506,
+0.6645,
+1
+],
+"82|Barwell|Adam|Barwell|1603. Adam Barwell, co. Warwick: Reg. Univ. Oxf. vol. ii. pt. ii. p. 264.": [
+0.6618,
+0.6853,
+1
+],
+"82|Barwell|Edward|Barwell|1664-5. Edward Barwell and Mary Holman: Marriage Lic. (Faculty Office), p. 85.": [
+0.6826,
+0.7061,
+1
+],
+"82|Barwell|Mary|Holman|1664-5. Edward Barwell and Mary Holman: Marriage Lic. (Faculty Office), p. 85.": [
+0.6826,
+0.7061,
+1
+],
+"82|Barwick|Sampson?|de Berwyk|Sampson de Berwyk, co. Wilts, 1273. A.": [
+0.8502,
+0.8652,
+1
+],
+"82|Barwick|Philip|de Berwyke|Philip de Berwyke, co. Wilts, ibid.": [
+0.8618,
+0.8751,
+1
+],
+"82|Barwick|Eliz[abeth]|Barwyke|1567. Robert Debanke and Eliz. Barwyke: Marriage Lic. (Faculty Office), p. 14.": [
+0.1074,
+0.1309,
+1
+],
+"82|Barwick|Robert|Debanke|1567. Robert Debanke and Eliz. Barwyke: Marriage Lic. (Faculty Office), p. 14.": [
+0.1074,
+0.1309,
+1
+],
+"82|Barwick|George|Barwycke|1573. George Barwycke and Ellen Parkyns: Marriage Lic. (London), i. 56.": [
+0.1381,
+0.1613,
+1
+],
+"82|Barwick|Ellen|Parkyns|1573. George Barwycke and Ellen Parkyns: Marriage Lic. (London), i. 56.": [
+0.1381,
+0.1613,
+1
+],
+"82|Barwick|Thomas|Barwicke|1610. Thomas Barwicke and Eliz. Pett: Marriage Lic. (London), p. 321.": [
+0.1606,
+0.1855,
+1
+],
+"82|Barwick|Eliz[abeth]|Pett|1610. Thomas Barwicke and Eliz. Pett: Marriage Lic. (London), p. 321.": [
+0.1606,
+0.1855,
+1
+],
+"82|Barwise, Barwis|Henry|de Barweis|Henry de Barweis, co. Derby, 20 Edw. I. R.": [
+0.3064,
+0.319,
+1
+],
+"82|Barwise, Barwis|Joseph|Barwis|1742. Married—Joseph Barwis and Mary Fisher: St. Geo. Chap. Mayfair, p. 16.": [
+0.3268,
+0.3517,
+1
+],
+"82|Barwise, Barwis|Mary|Fisher|1742. Married—Joseph Barwis and Mary Fisher: St. Geo. Chap. Mayfair, p. 16.": [
+0.3268,
+0.3517,
+1
+],
+"82|Barwise, Barwis|John Adolphus|Barwise|1894. Died—John Adolphus Barwise: Daily Telegraph, Jan. 6.": [
+0.3582,
+0.3824,
+1
+],
+"82|Base|Geoffrey|Base|Geoffrey Base, co. Linc., 1273. A.": [
+0.4345,
+0.4499,
+1
+],
+"82|Base|Isabella|Base|Isabella Base, 1379: P. T. Yorks. p. 193.": [
+0.4434,
+0.4611,
+1
+],
+"82|Base|Thomas|Base|Thomas Base, 1379: ibid. p. 42.": [
+0.455,
+0.471,
+1
+],
+"82|Base|Antony|Base|1579. Antony Base and Eliz. Awdeley: Marriage Lic. (London), i. 88.": [
+0.4659,
+0.4904,
+1
+],
+"82|Base|Eliz[abeth]|Awdeley|1579. Antony Base and Eliz. Awdeley: Marriage Lic. (London), i. 88.": [
+0.4659,
+0.4904,
+1
+],
+"82|Basford, Bashford|(unknown)|de Baseford|(Chaplain) de Baseford, co. Notts, 1273. A.": [
+0.5694,
+0.5831,
+1
+],
+"82|Basford, Bashford|Henry|Basford|1565. Henry Basford and Joanna Newington: Marriage Lic. (London), i. 30.": [
+0.5899,
+0.6155,
+1
+],
+"82|Basford, Bashford|Joanna|Newington|1565. Henry Basford and Joanna Newington: Marriage Lic. (London), i. 30.": [
+0.5899,
+0.6155,
+1
+],
+"82|Basford, Bashford|Samuel|Basforde|1621. Samuel Basforde, co. York: Reg. Univ. Oxf. vol. ii. pt. ii. p. 398.": [
+0.6097,
+0.6352,
+1
+],
+"82|Basford, Bashford|Edmond|Bashford|1695. Buried—'A child still-born to Edmond Bashford': St. Jas. Clerkenwell, iv. 56.": [
+0.6308,
+0.6553,
+1
+],
+"82|Baskervill, Baskwill|Roger|de Bascrevill|Roger de Bascrevill, co. Salop, Hen. III-Edw. I. K.": [
+0.7462,
+0.7677,
+1
+],
+"82|Baskervill, Baskwill|Nesta|de Baskervill|Nesta de Baskervill, co. Salop, ibid.": [
+0.7674,
+0.7793,
+1
+],
+"82|Baskervill, Baskwill|Thomas|de Baschevill|Thomas de Baschevill, alias Baskervill, cos. Norf. and Suff., ibid.": [
+0.7783,
+0.8004,
+1
+],
+"82|Baskervill, Baskwill|Thomas|Baskervill|Thomas de Baschevill, alias Baskervill, cos. Norf. and Suff., ibid.": [
+0.7783,
+0.8004,
+1
+],
+"82|Baskervill, Baskwill|Hugh|de Baskerville|Hugh de Baskerville, co. Salop, 1273. A.": [
+0.7971,
+0.8127,
+1
+],
+"82|Baskervill, Baskwill|Richard|de Bascarville|Richard de Bascarville, 1297. M.": [
+0.8175,
+0.8335,
+1
+],
+"82|Baskervill, Baskwill|James|Baskervile|1590. James Baskervile, co. Glouc.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 176.": [
+0.8308,
+0.855,
+1
+],
+"82|Baskervill, Baskwill|Humphrey|Baskerville|1601. Humphrey Baskerville, co. Heref.: ibid. p. 249.": [
+0.8512,
+0.8758,
+1
+],
+"82|Baskervill, Baskwill|Jarret|Baskeuill|1623-4. Buried—Jarret Baskeuill: St. Dionis Backchurch, p. 216.": [
+0.106,
+0.1306,
+1
+],
+"82|Baskett|William|Pasket|William Pasket, co. Berks, 1273. A.": [
+0.2917,
+0.3088,
+1
+],
+"82|Baskett|Adam|Basket|Adam Basket, co. Soms., 1 Edw. III: Kirby's Quest, p. 217.": [
+0.3029,
+0.3285,
+1
+],
+"82|Baskett|Thomas|Basket|1612. Thomas Basket, co. Hants: Reg. Univ. Oxf. vol. ii. pt. ii. p. 326.": [
+0.3224,
+0.3486,
+1
+],
+"82|Baskett|Robert|Baskett|1621. Robert Baskett, co. Dorset: ibid. p. 391.": [
+0.3463,
+0.3684,
+1
+],
+"82|Baskett|Margaret|Baskett|1670. Richard Peesly and Margaret Baskett: Marriage Lic. (Faculty Office), p. 113.": [
+0.3667,
+0.3906,
+1
+],
+"82|Baskett|Richard|Peesly|1670. Richard Peesly and Margaret Baskett: Marriage Lic. (Faculty Office), p. 113.": [
+0.3667,
+0.3906,
+1
+],
+"82|Baskett|Mary|Baskett|1677. Bapt.—Mary Baskett, a foundling: St. Mary Aldermary, p. 104.": [
+0.3967,
+0.4229,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Hugh|fil. Basilie|Hugh fil. Basilie, co. Notts, 1273. A.": [
+0.5687,
+0.5834,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Basilie|(unknown)|Hugh fil. Basilie, co. Notts, 1273. A.": [
+0.5687,
+0.5834,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Alan|Baseli|Alan Baseli, co. Camb., ibid.": [
+0.611,
+0.6226,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Richard|Baseli|Richard Baseli, co. Oxf., ibid.": [
+0.6216,
+0.6335,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|John|Basely|John Basely, co. Camb., ibid.": [
+0.6315,
+0.6444,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Michael|Basely|Michael Basely, co. Bucks, ibid.": [
+0.6414,
+0.6557,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|John|Baseley|John Baseley, co. Hertf., 20 Edw. I. R.": [
+0.6536,
+0.6645,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Edward|Baseley|1655. Married—Edward Baseley to Alice Barton: St. Thomas the Apostle (London), p. 20.": [
+0.6625,
+0.6867,
+1
+],
+"82|Basley, Bazley, Baseley, Basely|Alice|Barton|1655. Married—Edward Baseley to Alice Barton: St. Thomas the Apostle (London), p. 20.": [
+0.6625,
+0.6867,
+1
+],
+"82|Bason|Willelmus|Baseson|Willelmus Baseson, 1379: P. T. Yorks. p. 16.": [
+0.7984,
+0.8103,
+1
+],
+"82|Bason|Robert|Bason|1583. Robert Bason, Queen's Coll.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 109.": [
+0.8172,
+0.8427,
+1
+],
+"82|Bason|William|Bason|1800. Married—William Bason and Mary Haines: St. Geo. Han. Sq. ii. 213.": [
+0.8393,
+0.8646,
+1
+],
+"82|Bason|Mary|Haines|1800. Married—William Bason and Mary Haines: St. Geo. Han. Sq. ii. 213.": [
+0.8393,
+0.8646,
+1
+],
+"83|Bass|Nicholas|Basse|Nicholas Basse, co. Soms., 1 Edw. III: Kirby's Quest, p. 271.": [
+0.1442,
+0.1701,
+1
+],
+"83|Bass|Hugh|Basse|Hugh Basse, co. Bucks, 1273. A.": [
+0.1647,
+0.1803,
+1
+],
+"83|Bass|John|Basse|John Basse, co. Oxf., ibid.": [
+0.1766,
+0.1889,
+1
+],
+"83|Bass|Alicia|la Bassé|Alicia la Bassé, co. Oxf., ibid.": [
+0.1858,
+0.1998,
+1
+],
+"83|Bass|Nicholas|Basse|1616. Married—Nicholas Basse and Hester Gore: St. Mary Aldermary, p. 13.": [
+0.1971,
+0.2192,
+1
+],
+"83|Bass|Hester|Gore|1616. Married—Nicholas Basse and Hester Gore: St. Mary Aldermary, p. 13.": [
+0.1971,
+0.2192,
+1
+],
+"83|Bass|Edward|Basse|1646. Buried—Edward Basse, tallow chandler: St. Michael, Cornhill, p. 241.": [
+0.2178,
+0.2407,
+1
+],
+"83|Bassett, Basset|Golda|Bassat|Golda Bassat, co. Camb., 1273. A.": [
+0.3497,
+0.3653,
+1
+],
+"83|Bassett, Basset|Ela|Bassett|Ela Bassett, co. Southampt., ibid.": [
+0.3606,
+0.3752,
+1
+],
+"83|Bassett, Basset|Fulco|Basset|Fulco Basset, co. Oxf., ibid.": [
+0.3715,
+0.3858,
+1
+],
+"83|Bassett, Basset|Ralph|de Basset|Ralph de Basset, co. Linc. Hen. III-Edw. I. K.": [
+0.38,
+0.3974,
+1
+],
+"83|Bassett, Basset|Gilbert|de Basset|Gilbert de Basset, co. Bedf., ibid.": [
+0.4028,
+0.4161,
+1
+],
+"83|Bassett, Basset|Hugo|de Basset|Hugo de Basset, co. Devon, ibid.": [
+0.4127,
+0.4281,
+1
+],
+"83|Bassett, Basset|Simon|Basset|Simon Basset, co. Soms., 1 Edw. III: Kirby's Quest, p. 92.": [
+0.4223,
+0.4502,
+1
+],
+"83|Bassett, Basset|Edward|Basset|1575. Edward Basset, co. Glamorgan: Reg. Univ. Oxf. vol. ii. pt. ii. p. 62.": [
+0.4431,
+0.4707,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Basilia|Reyngud|Basilia Reyngud, C. R., 23 Edw. I.": [
+0.5503,
+0.5643,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Basilia|de Otteley|Basilia de Otteley, Hen. III-Edw. I. K.": [
+0.5595,
+0.5759,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|William|Basille|William Basille, co. Norf., 1273. A.": [
+0.5715,
+0.5848,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Hugh|fil. Basilie|Hugh fil. Basilie, co. Notts, ibid.": [
+0.5824,
+0.595,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Basilie|(unknown)|Hugh fil. Basilie, co. Notts, ibid.": [
+0.5824,
+0.595,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Robert|Basil|Robert Basil, co. York, ibid.": [
+0.5926,
+0.6052,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Basil|de Borendys?|Basil de Borendys, co. Suff., ibid.": [
+0.6022,
+0.6165,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Bassilly|W----|1665. Married—Richard Beard and Bassilly W----: St. Jas. Clerkenwell, iii. 122.": [
+0.6124,
+0.6373,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Richard|Beard|1665. Married—Richard Beard and Bassilly W----: St. Jas. Clerkenwell, iii. 122.": [
+0.6124,
+0.6373,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|Eliz[abeth]|Basill|1675. John Basnett and Eliz. Basill: Marriage Lic. (Westminster), p. 46.": [
+0.6318,
+0.6594,
+1
+],
+"83|Bassil, Bassill, Bazell, Bazelle|John|Basnett|1675. John Basnett and Eliz. Basill: Marriage Lic. (Westminster), p. 46.": [
+0.6318,
+0.6594,
+1
+],
+"83|Bastable|Ralph|Barstaple|Ralph Barstaple, co. Soms., 1 Edw. III: Kirbv's Quest, p. 215.": [
+0.7343,
+0.7585,
+1
+],
+"83|Bastable|(unknown)|de Barnestapole|(Prior) de Barnestapole, co. Devon, Hen. III-Edw. I. K.": [
+0.7561,
+0.779,
+1
+],
+"83|Bastable|William|Barstable|1617. William Barstable, co. Devon. Subsc. April 11 as Barstable, and on May 30 as Bastable: Reg. Univ. Oxf. vol. ii. pt. ii. p. 362.": [
+0.824,
+0.8608,
+1
+],
+"83|Bastable|William|Bastable|1617. William Barstable, co. Devon. Subsc. April 11 as Barstable, and on May 30 as Bastable: Reg. Univ. Oxf. vol. ii. pt. ii. p. 362.": [
+0.824,
+0.8608,
+1
+],
+"83|Bastard|Nicholas|le Bastard|Nicholas le Bastard, co. Devon, Hen. III-Edw. I. K.": [
+0.2073,
+0.2304,
+1
+],
+"83|Bastard|William|le Bastard|William le Bastard, co. Notts, 1273. A.": [
+0.2294,
+0.2417,
+1
+],
+"83|Bastard|Jordan|Bastard|Jordan Bastard, co. Bucks, ibid.": [
+0.2393,
+0.2533,
+1
+],
+"83|Bastard|Roger|Bastard|Roger Bastard, co. Northampt., 20 Edw. I. R.": [
+0.2495,
+0.2639,
+1
+],
+"83|Bastard|Elias|Bastard|Elias Bastard, 1379: P. T. Yorks. p. 292.": [
+0.2703,
+0.2843,
+1
+],
+"83|Bastard|Thomas|Bastard|Thomas Bastard or Basterd, 1539: Reg. Univ. Oxf. i. 193.": [
+0.2804,
+0.305,
+1
+],
+"83|Bastard|Thomas|Basterd|Thomas Bastard or Basterd, 1539: Reg. Univ. Oxf. i. 193.": [
+0.2804,
+0.305,
+1
+],
+"83|Bastard|Thomas|Bastard|1586. Thomas Bastard, co. Dorset: ibid. vol. ii. pt. ii. p. 156.": [
+0.3002,
+0.3261,
+1
+],
+"83|Baster|John|le Bestere|John le Bestere, co. Hunts, 1273. A.": [
+0.4468,
+0.4639,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|William|Trevethan|William, son of Sebastian Trevethan, buried 1607: Reg. St. Columb Major, p. 203.": [
+0.5988,
+0.625,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Sebastian|Trevethan|William, son of Sebastian Trevethan, buried 1607: Reg. St. Columb Major, p. 203.": [
+0.5988,
+0.625,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|William|Trevithan|William, son of Bastian Trevithan, bapt. 1599: ibid. p. 19.": [
+0.6311,
+0.6571,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Bastian|Trevithan|William, son of Bastian Trevithan, bapt. 1599: ibid. p. 19.": [
+0.6311,
+0.6571,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Bastian|Bumfoy|1565-6. Bastian Bumfoy and Juliana Francke: Marriage Lic. (London), i. 32.": [
+0.6506,
+0.6761,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Juliana|Francke|1565-6. Bastian Bumfoy and Juliana Francke: Marriage Lic. (London), i. 32.": [
+0.6506,
+0.6761,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Richard|Bastian|1603. Buried—Richard Bastian: St. Dionis Backchurch, p. 207.": [
+0.6724,
+0.6966,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|William|Bastian|1611. William Bastian or Bastin: Reg. Univ. Oxf. iii. 311.": [
+0.6925,
+0.7173,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|William|Bastin|1611. William Bastian or Bastin: Reg. Univ. Oxf. iii. 311.": [
+0.6925,
+0.7173,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Bastien|Chevrey|1796. Married—Bastien Chevrey and Joanna Gale: St. Geo. Han. Sq. ii. 145.": [
+0.7122,
+0.7394,
+1
+],
+"83|Bastian, Basten, Bastin, Bastien, Bastion|Joanna|Gale|1796. Married—Bastien Chevrey and Joanna Gale: St. Geo. Han. Sq. ii. 145.": [
+0.7122,
+0.7394,
+1
+],
+"83|Bastimer|Hugh|le Bastimer|Hugh le Bastimer, co. Hunts, 1273. A.": [
+0.1258,
+0.1411,
+1
+],
+"83|Bastimer|Hugh|le Bastimer|Hugh le Bastimer, co. York. W. 9.": [
+0.1367,
+0.1503,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|John|le Bachiler|John le Bachiler, co. Oxf., 1273. A.": [
+0.2346,
+0.2465,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Nicholas|le Bacheler|Nicholas le Bacheler, co. Oxf., ibid.": [
+0.2441,
+0.2574,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|William|le Bacheler|William le Bacheler, co. Camb., ibid.": [
+0.2547,
+0.268,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Magg' (Margaret)|Bacheler|Magg' (Margaret) Bacheler, co. Hunts, ibid.": [
+0.2649,
+0.2792,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Jordan|le Bacheler|Jordan le Bacheler. L.": [
+0.2859,
+0.2978,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Gilbert|le Bacholer|Gilbert le Bacholer. E.": [
+0.2976,
+0.3078,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|William|Batcheler|1621. William Batcheler, co. Oxf.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 390.": [
+0.3053,
+0.3302,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Cassandria|Batchler|1651. Thomas Funston to Cassandria Batchler: St. Mary Aldermary, p. 22.": [
+0.3272,
+0.3507,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Thomas|Funston|1651. Thomas Funston to Cassandria Batchler: St. Mary Aldermary, p. 22.": [
+0.3272,
+0.3507,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Abraham|Ridder|— Abraham Ridder, batchler, to Jane Parsons, vergin: ibid.": [
+0.3486,
+0.3722,
+1
+],
+"83|Batchelar, Batcheler, Batcheller, Batchelor, Batchelour, Batchler, Bacheller, Bachelder|Jane|Parsons|— Abraham Ridder, batchler, to Jane Parsons, vergin: ibid.": [
+0.3486,
+0.3722,
+1
+],
+"83|Batchelder, Batcheldor|Elizabeth|Batchildar|1677. Walter Butler and Elizabeth Batchildar, of Chesham, Bucks: Marriage Lic. (Canterbury), p. 271.": [
+0.4294,
+0.4679,
+1
+],
+"83|Batchelder, Batcheldor|Walter|Butler|1677. Walter Butler and Elizabeth Batchildar, of Chesham, Bucks: Marriage Lic. (Canterbury), p. 271.": [
+0.4294,
+0.4679,
+1
+],
+"83|Batchelder, Batcheldor|William|Batchelder|1746. Married—William Batchelder and Ann Marshall: St. Geo. Chap. Mayfair, p. 75.": [
+0.4622,
+0.487,
+1
+],
+"83|Batchelder, Batcheldor|Ann|Marshall|1746. Married—William Batchelder and Ann Marshall: St. Geo. Chap. Mayfair, p. 75.": [
+0.4622,
+0.487,
+1
+],
+"83|Bate, Bates, Bateson|Bate|de Butwick|Bate de Butwick, co. Linc., 1273. A.": [
+0.5837,
+0.6005,
+1
+],
+"83|Bate, Bates, Bateson|Bate|le Tackman|Bate le Tackman, co. Linc., ibid.": [
+0.5947,
+0.6107,
+1
+],
+"83|Bate, Bates, Bateson|Bathe|fil. Robert|Bathe fil. Robert, co. Linc., ibid.": [
+0.6059,
+0.6206,
+1
+],
+"83|Bate, Bates, Bateson|Robert|(unknown)|Bathe fil. Robert, co. Linc., ibid.": [
+0.6059,
+0.6206,
+1
+],
+"83|Bate, Bates, Bateson|Thomas|Bateson|Thomas Bateson, 1379: P. T. Yorks. p. 66.": [
+0.6155,
+0.6322,
+1
+],
+"83|Bate, Bates, Bateson|Alicia|Bate|Alicia Bate, wyf, 1379: ibid. p. 124.": [
+0.6366,
+0.6519,
+1
+],
+"83|Bate, Bates, Bateson|Johannes|Bateson|Johannes Bateson, 1379: ibid. p. 19.": [
+0.6475,
+0.6635,
+1
+],
+"83|Bate, Bates, Bateson|Adam|Bate|Adam Bate, 1379: ibid. p. 4.": [
+0.6601,
+0.6724,
+1
+],
+"83|Bate, Bates, Bateson|Christopher|Bateson|Christopher Bateson, of Caton, co. Lanc., 1587: Lanc. Wills at Richmond, p. 23.": [
+0.6683,
+0.6935,
+1
+],
+"83|Bate, Bates, Bateson|Humphrey|Bates|1615. Humphrey Bates and Joane Empson: Marriage Lic. (London), ii. 32.": [
+0.6932,
+0.7136,
+1
+],
+"83|Bate, Bates, Bateson|Joane|Empson|1615. Humphrey Bates and Joane Empson: Marriage Lic. (London), ii. 32.": [
+0.6932,
+0.7136,
+1
+],
+"83|Bate, Bates, Bateson|William|Bate|1621. William Bate and Ann Hill: ibid. p. 106.": [
+0.719,
+0.7347,
+1
+],
+"83|Bate, Bates, Bateson|Ann|Hill|1621. William Bate and Ann Hill: ibid. p. 106.": [
+0.719,
+0.7347,
+1
+],
+"84|Bateman, Batemanson, Batman|Bateman|de Capele|Bateman de Capele, co. Suff., 1273. A.": [
+0.1098,
+0.1255,
+1
+],
+"84|Bateman, Batemanson, Batman|Bateman|Taye|Bateman Taye, co. Kent, ibid.": [
+0.1217,
+0.1336,
+1
+],
+"84|Bateman, Batemanson, Batman|Bateman|de Apletrewyk|Bateman de Apletrewyk, co. York, ibid.": [
+0.1313,
+0.1449,
+1
+],
+"84|Bateman, Batemanson, Batman|Cecilia|Bateman|Cecilia Bateman, co. Hunts, ibid.": [
+0.1418,
+0.1548,
+1
+],
+"84|Bateman, Batemanson, Batman|Bateman|fil. Cressaunt|Bateman fil. Cressaunt, Close Roll, 51 Hen. III.": [
+0.1517,
+0.1749,
+1
+],
+"84|Bateman, Batemanson, Batman|Cressaunt|(unknown)|Bateman fil. Cressaunt, Close Roll, 51 Hen. III.": [
+0.1517,
+0.1749,
+1
+],
+"84|Bateman, Batemanson, Batman|Willelmus|Batemanson|Willelmus Batemanson, 1379: P. T. Yorks. p. 263.": [
+0.1715,
+0.196,
+1
+],
+"84|Bateman, Batemanson, Batman|William|Batmanson|William Batmanson, 1423: DDD. ii. 370.": [
+0.1933,
+0.2066,
+1
+],
+"84|Bateman, Batemanson, Batman|Raffe|Battman|1577. Married—Raffe Battman and Audrian Beane: St. Dionis Backchurch, p. 8.": [
+0.2025,
+0.2271,
+1
+],
+"84|Bateman, Batemanson, Batman|Audrian|Beane|1577. Married—Raffe Battman and Audrian Beane: St. Dionis Backchurch, p. 8.": [
+0.2025,
+0.2271,
+1
+],
+"84|Bateman, Batemanson, Batman|George|Bateman|1611-2. George Bateman and Mary Goodcole: Marriage Lic. (London), ii. 8.": [
+0.2346,
+0.2577,
+1
+],
+"84|Bateman, Batemanson, Batman|Mary|Goodcole|1611-2. George Bateman and Mary Goodcole: Marriage Lic. (London), ii. 8.": [
+0.2346,
+0.2577,
+1
+],
+"84|Bateman, Batemanson, Batman|John|Bateman|1685. Married—John Bateman and Harmon Kynvin: St. Mary Aldermary, p. 33.": [
+0.2567,
+0.2802,
+1
+],
+"84|Bateman, Batemanson, Batman|Harmon|Kynvin|1685. Married—John Bateman and Harmon Kynvin: St. Mary Aldermary, p. 33.": [
+0.2567,
+0.2802,
+1
+],
+"84|Bath, Bathe|Job|de Bath|Job de Bath, co. Sussex, 1273. A.": [
+0.335,
+0.35,
+1
+],
+"84|Bath, Bathe|John|de Bathe|John de Bathe, co. Soms., 1 Edw. III: Kirby's Quest, p. 158.": [
+0.3466,
+0.3701,
+1
+],
+"84|Bath, Bathe|John|atte Bathe|John atte Bathe, co. Soms., 1 Edw. III: ibid. p. 253.": [
+0.3677,
+0.3912,
+1
+],
+"84|Bath, Bathe|Richard|Bath|1595. Richard Bath, co. Hants: Reg. Univ. Oxf. vol. ii. pt. ii. p. 211.": [
+0.3861,
+0.411,
+1
+],
+"84|Bath, Bathe|Doras|Bath|1611-2. Roger Bird and Doras Bath: Marriage Lic. (London), ii. 9.": [
+0.4093,
+0.4318,
+1
+],
+"84|Bath, Bathe|Roger|Bird|1611-2. Roger Bird and Doras Bath: Marriage Lic. (London), ii. 9.": [
+0.4093,
+0.4318,
+1
+],
+"84|Bath, Bathe|William|Bath|1674. Bapt.—William, s. Joscph Bath: St. Jas. Clerkenwell, i. 263.": [
+0.4298,
+0.4533,
+1
+],
+"84|Bath, Bathe|Joscph?|Bath|1674. Bapt.—William, s. Joscph Bath: St. Jas. Clerkenwell, i. 263.": [
+0.4298,
+0.4533,
+1
+],
+"84|Bather|Elizabcth?|Bather|1683. Married—Michaell Chapman and Elizabcth Bather: St. Michael, Cornhill, p. 43.": [
+0.5371,
+0.5589,
+1
+],
+"84|Bather|Michaell|Chapman|1683. Married—Michaell Chapman and Elizabcth Bather: St. Michael, Cornhill, p. 43.": [
+0.5371,
+0.5589,
+1
+],
+"84|Bather|Hannah|Bather|1752. — William Whennell and Hannah Bather: St. Geo. Chap. Mayfair, p. 216.": [
+0.5653,
+0.5919,
+1
+],
+"84|Bather|William|Whennell|1752. — William Whennell and Hannah Bather: St. Geo. Chap. Mayfair, p. 216.": [
+0.5653,
+0.5919,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Richard|Bathaw|Richard Bathaw, of Kyddyngton, 1574: Wills at Chester, i. 15.": [
+0.811,
+0.8359,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Aaron|Bathall|Aaron Bathall, of Over Alderley, 1603: ibid.": [
+0.8332,
+0.8465,
+1
+],
+"84|Batho, Batthew, Bather, Batha|William|Batha|William Batha, of Dokington, in Malpas, 1610: ibid.": [
+0.8536,
+0.8768,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Adam|Batho|Adam Batho, of Cuddington, in Malpas, 1613: ibid.": [
+0.1098,
+0.1323,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Thomas|Bathoe|Thomas Bathoe, of Larton, 1616: ibid.": [
+0.1313,
+0.1432,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Richard|Batho|1586-7. Richard Batho, Wales: Reg. Univ. Oxf. vol. ii. pt. ii. p. 157.": [
+0.1401,
+0.1657,
+1
+],
+"84|Batho, Batthew, Bather, Batha|William|Batho|William Batho, rector of St. John th Baptist, Norwich, 1598: FF. iv. 288.": [
+0.1626,
+0.1855,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Ralph|Bathoe|Ralph Bathoe, of Cuddington, gent., 1622: Earwaker's East Cheshire, i. 177.": [
+0.1831,
+0.2073,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Ann|Bathoe|1767. Married—Charles Brandoin and Ann Bathoe: St. Geo. Han. Sq. i. 166.": [
+0.2035,
+0.2257,
+1
+],
+"84|Batho, Batthew, Bather, Batha|Charles|Brandoin|1767. Married—Charles Brandoin and Ann Bathoe: St. Geo. Han. Sq. i. 166.": [
+0.2035,
+0.2257,
+1
+],
+"84|Bathurst|George|Bathurst|1604-5. George Bathurst, of London: Reg. Univ. Oxf. vol. ii. pt. ii. p. 281.": [
+0.3435,
+0.3667,
+1
+],
+"84|Bathurst|Robert|Bathurst|1610. Robert Bathurst, of London: ibid. p. 316.": [
+0.364,
+0.3878,
+1
+],
+"84|Bathurst|Eliz[abeth]|Bathurst|1660. Richard Blake and Eliz. Bathurst: Marriage Lic. (Faculty Office), p. 47.": [
+0.3841,
+0.4097,
+1
+],
+"84|Bathurst|Richard|Blake|1660. Richard Blake and Eliz. Bathurst: Marriage Lic. (Faculty Office), p. 47.": [
+0.3841,
+0.4097,
+1
+],
+"84|Batkin, Batken|Batekin|(unknown)|Batekin (without surname), co. Essex, 1273. A.": [
+0.5278,
+0.5422,
+1
+],
+"84|Batkin, Batken|Hannah|Battkin|1779. Married—William Allen and Hannah Battkin: St. Geo. Han. Sq. i. 208.": [
+0.548,
+0.5739,
+1
+],
+"84|Batkin, Batken|William|Allen|1779. Married—William Allen and Hannah Battkin: St. Geo. Han. Sq. i. 208.": [
+0.548,
+0.5739,
+1
+],
+"84|Batley|John|de Bateley|John de Bateley, co. York, 1273. A.": [
+0.6495,
+0.6628,
+1
+],
+"84|Batley|Isabella|de Batelay|Isabella de Batelay, 1372: P. T. Yorks. p. 183.": [
+0.6598,
+0.6836,
+1
+],
+"84|Batley|Ellen|Batlee|1625-6. William Hampe and Ellen Batlee: Marriage Lic. (London), ii. 161.": [
+0.6809,
+0.7034,
+1
+],
+"84|Batley|William|Hampe|1625-6. William Hampe and Ellen Batlee: Marriage Lic. (London), ii. 161.": [
+0.6809,
+0.7034,
+1
+],
+"84|Batley|John|Battley|1772. Married—John Battley and Susannah Parks: St. Geo. Han. Sq. i. 222.": [
+0.706,
+0.7242,
+1
+],
+"84|Batley|Susannah|Parks|1772. Married—John Battley and Susannah Parks: St. Geo. Han. Sq. i. 222.": [
+0.706,
+0.7242,
+1
+],
+"84|Batling|Thomas|Batlyng|Thomas Batlyng, 1379: P. T. Yorks. p. 245.": [
+0.8325,
+0.8475,
+1
+],
+"84|Batling|Robertus|Batelyng|Robertus Batelyng, 1379: ibid.": [
+0.8529,
+0.8679,
+1
+],
+"84|Batling|Johannes|Battelyn|Johannes Battelyn, 1379: ibid. p. 21.": [
+0.8642,
+0.8796,
+1
+],
+"84|Batling|Sarah|Batlins|1705. Bapt.—Sarah, d. William Batlins: St. Jas. Clerkenwell, ii. 22.": [
+0.1098,
+0.133,
+1
+],
+"84|Batling|William|Batlins|1705. Bapt.—Sarah, d. William Batlins: St. Jas. Clerkenwell, ii. 22.": [
+0.1098,
+0.133,
+1
+],
+"84|Batling|John|Batlings|1711. — John, s. William Batlings: ibid. 60.": [
+0.1309,
+0.1452,
+1
+],
+"84|Batling|William|Batlings|1711. — John, s. William Batlings: ibid. 60.": [
+0.1309,
+0.1452,
+1
+],
+"84|Batsford|William|de Batesford|William de Batesford, co. Suff., 1273. A.": [
+0.2304,
+0.2451,
+1
+],
+"84|Batsford|Samson|de Batesforde|Samson de Batesforde, co. Bedf., ibid.": [
+0.2424,
+0.254,
+1
+],
+"84|Batsford|John|de Batesford|John de Batesford, rector of Basingham, co. Norf., 1326: FF. viii. 84.": [
+0.2509,
+0.2751,
+1
+],
+"84|Batsford|Maud|de Batisford|Maud de Batisford, co. Norf., 1335: ibid. ix. 480.": [
+0.2721,
+0.2954,
+1
+],
+"84|Batsford|John|Batsford|1766. Married—John Batsford and Ann Crook: St. Geo. Han. Sq. i. 151.": [
+0.2941,
+0.3183,
+1
+],
+"84|Batsford|Ann|Crook|1766. Married—John Batsford and Ann Crook: St. Geo. Han. Sq. i. 151.": [
+0.2941,
+0.3183,
+1
+],
+"84|Batson|Henry|Batson|1574-3. Henry Batson, co. Lanc.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 61.": [
+0.3776,
+0.4018,
+1
+],
+"84|Batson|Henry|Batson|1593-4. Henry Batson, co. Wilts: ibid. p. 200.": [
+0.3984,
+0.4127,
+1
+],
+"84|Batson|Peter|Batson|1754. Married—Peter Batson and Jane Hobs: St. Geo. Chap. Mayfair, p. 270.": [
+0.4172,
+0.4444,
+1
+],
+"84|Batson|Jane|Hobs|1754. Married—Peter Batson and Jane Hobs: St. Geo. Chap. Mayfair, p. 270.": [
+0.4172,
+0.4444,
+1
+],
+"84|Batt, Batts|Gilbert|Batte|Gilbert Batte, co. Rutland, 1273. A.": [
+0.5415,
+0.5602,
+1
+],
+"84|Batt, Batts|Matilda|Battes|Matilda Battes, co. Camb., ibid.": [
+0.5551,
+0.5681,
+1
+],
+"84|Batt, Batts|Stephen|Bat|Stephen Bat, co. Wilts, 20 Edw. I. R.": [
+0.5653,
+0.5779,
+1
+],
+"84|Batt, Batts|Clarice|Batte|Clarice Batte, co. Soms., 1 Edw. III: Kirby's Quest, p. 149.": [
+0.5759,
+0.6005,
+1
+],
+"84|Batt, Batts|John|Bate|John Bate or Batt, 1570: Reg. Univ. Oxf. vol. i. p. 280.": [
+0.5964,
+0.6196,
+1
+],
+"84|Batt, Batts|John|Batt|John Bate or Batt, 1570: Reg. Univ. Oxf. vol. i. p. 280.": [
+0.5964,
+0.6196,
+1
+],
+"84|Batt, Batts|Osbert|le Bat|Osbert le Bat, co. Devon, Hen. III-Edw. I. K.": [
+0.6383,
+0.6509,
+1
+],
+"84|Batt, Batts|Reginald|le Bat|Reginald le Bat, co. Essex, 1273. A.": [
+0.6587,
+0.6727,
+1
+],
+"84|Batt, Batts|William|Batt|1730. Married—William Batt and Grace Wormell: St. Geo. Han. Sq. i. 7.": [
+0.668,
+0.6942,
+1
+],
+"84|Batt, Batts|Grace|Wormell|1730. Married—William Batt and Grace Wormell: St. Geo. Han. Sq. i. 7.": [
+0.668,
+0.6942,
+1
+],
+"84|Batt, Batts|Sarah|Batte|1786. — John Rae and Sarah Batte: ibid. i. 384.": [
+0.6908,
+0.715,
+1
+],
+"84|Batt, Batts|John|Rae|1786. — John Rae and Sarah Batte: ibid. i. 384.": [
+0.6908,
+0.715,
+1
+],
+"84|Battell, Battle|Richard|de la Batayle|Richard de la Batayle, co. Berks, 1273. A.": [
+0.8117,
+0.8257,
+1
+],
+"84|Battell, Battle|Adam|de la Batayle|Adam de la Batayle, co. Norf., ibid.": [
+0.8325,
+0.8451,
+1
+],
+"84|Battell, Battle|Saer|Batayle|Saer Batayle, co. Essex, ibid.": [
+0.8427,
+0.855,
+1
+],
+"84|Battell, Battle|Philip|de la Batayle|Philip de la Batayle, co. Oxf., ibid.": [
+0.8529,
+0.8659,
+1
+],
+"84|Battell, Battle|Richard|de la Batayl|Richard de la Batayl, co. Glouc., 1289: Household Exp., Bishop Swinfield (Cam. Soc.), p. 151.": [
+0.8625,
+0.8778,
+1
+],
+"85|Battell, Battle|John|Battell|1656. Bapt.—John, son of John Battell: St. Jas. Clerkenwell, i. 195.": [
+0.1217,
+0.1456,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Joel|Batin|Joel Batin, co. Devon, 1273. A.": [
+0.2512,
+0.2662,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Thomas|Batyn|Thomas Batyn, co. Soms., 1 Edw. III: Kirby's Quest, p. 91.": [
+0.2625,
+0.2874,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Batin|atte Yete|Batin atte Yete, co. Soms., 1 Edw. III: ibid. p. 92.": [
+0.2825,
+0.3074,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Batin|Power|Batin Power, co. Soms., 1 Edw. III: ibid. p. 103.": [
+0.3024,
+0.3275,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Batin|Walkelayn|Batin Walkelayn, co. Soms., 1 Edw. III: ibid. p. 121.": [
+0.3237,
+0.3479,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Bathon|Mayster|Bathon Mayster, co. Soms., 1 Edw. III: ibid. p. 150.": [
+0.3452,
+0.3688,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Andrew|Batensonne|Andrew Batensonne, co. Durham, 1561: QQQ. p. 26.": [
+0.3674,
+0.3899,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|John|Battenson|John Battenson, temp. 1580. Z.": [
+0.3855,
+0.4011,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Daniel|Battin|Daniel Battin, of London, haberdasher: 1633: Visitation of London (1633), i. 52.": [
+0.3971,
+0.4209,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Joseph|Battin|1774. Married—Joseph Battin and Eliz. Purvis: St. Geo. Han. Sq. i. 240.": [
+0.4165,
+0.4407,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Eliz[abeth]|Purvis|1774. Married—Joseph Battin and Eliz. Purvis: St. Geo. Han. Sq. i. 240.": [
+0.4165,
+0.4407,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|Martha|Battison|1784. — William Baugham and Martha Battison: ibid. i. 357.": [
+0.4383,
+0.4625,
+1
+],
+"85|Batten, Battenson, Batteson, Battinson, Battison, Battin|William|Baugham|1784. — William Baugham and Martha Battison: ibid. i. 357.": [
+0.4383,
+0.4625,
+1
+],
+"85|Battersby|Rogerus|de Bathersby|Rogerus de Bathersby, 1379: P. T. Yorks. p. 284.": [
+0.5933,
+0.6182,
+1
+],
+"85|Battersby|Henry|Battersby|1591. Henry Battersby, of Bold: Wills at Chester, i. 15.": [
+0.6148,
+0.6386,
+1
+],
+"85|Battersby|Nicholas|Battersby|1613. Nicholas Battersby: Reg. Univ. Oxf. vol. ii. pt. ii. p. 331.": [
+0.6359,
+0.6594,
+1
+],
+"85|Battersby|John|Battersbie|1616. John Battersbie, of Shakerley: Wills at Chester, i. 15.": [
+0.6557,
+0.6795,
+1
+],
+"85|Battershall, Battershell, Battishill, Battershill|William|de Batteshol|William de Batteshol, co. Devon, 1273. A.": [
+0.7715,
+0.7851,
+1
+],
+"85|Battershall, Battershell, Battishill, Battershill|Antony|Luther|Antony Luther claims lease of Manor of Battylshall, 1582: Rec. Office, Cal. State Papers (Domestic), ii. 83.": [
+0.7923,
+0.8267,
+1
+],
+"85|Battershall, Battershell, Battishill, Battershill|Peter|Battishill|1691. Peter Battishill and Ann Howkey: Marriage Alleg. (Canterbury), p. 194.": [
+0.8247,
+0.8478,
+1
+],
+"85|Battershall, Battershell, Battishill, Battershill|Ann|Howkey|1691. Peter Battishill and Ann Howkey: Marriage Alleg. (Canterbury), p. 194.": [
+0.8247,
+0.8478,
+1
+],
+"85|Battershall, Battershell, Battishill, Battershill|Jonathan|Battishill|Jonathan Battishill, 1738-1801, musical composer: Dict. Nat. Biog. iv. 421.": [
+0.8461,
+0.869,
+1
+],
+"85|Battershall, Battershell, Battishill, Battershill|Jonathan|Battishill|1746. Buried—Jonathan Battishill: St. Peter, Cornhill, ii. 140.": [
+0.0995,
+0.1237,
+1
+],
+"85|Batterson||Batterson|": [
+0.1677,
+0.18,
+1
+],
+"85|Batting|William|Battyn|1565. William Battyn and Amy Rogers: Marriage Lic. (London), i. 30.": [
+0.3084,
+0.3312,
+1
+],
+"85|Batting|Amy|Rogers|1565. William Battyn and Amy Rogers: Marriage Lic. (London), i. 30.": [
+0.3084,
+0.3312,
+1
+],
+"85|Battinson, Battison|Thomas|Batison|1702. Married—Thomas Batison and Eliz. Paradine: St. Peter, Cornhill, ii. 64.": [
+0.4001,
+0.424,
+1
+],
+"85|Battinson, Battison|Eliz[abeth]|Paradine|1702. Married—Thomas Batison and Eliz. Paradine: St. Peter, Cornhill, ii. 64.": [
+0.4001,
+0.424,
+1
+],
+"85|Battle|Thomas|Batell'|Thomas Batell', 1379: P. T. Yorks. p. 196.": [
+0.5094,
+0.5241,
+1
+],
+"85|Battle|Adam|Batell'|Adam Batell', 1379: ibid.": [
+0.5306,
+0.5442,
+1
+],
+"85|Battle|Simon|Batel-man|Simon Batel-man, 1379: ibid.": [
+0.5401,
+0.5568,
+1
+],
+"85|Battle|Hannah|Battle|1625. Buried — Hannah, d. Thomasin Battle: St. Jas. Clerkenwell, iv. 170.": [
+0.5725,
+0.596,
+1
+],
+"85|Battle|Thomasin|Battle|1625. Buried — Hannah, d. Thomasin Battle: St. Jas. Clerkenwell, iv. 170.": [
+0.5725,
+0.596,
+1
+],
+"85|Battle|Mary|Battle|1648. Thomas Fiddes and Mary Battle: Marriage Lic. (Faculty Office), p. 39.": [
+0.5947,
+0.6202,
+1
+],
+"85|Battle|Thomas|Fiddes|1648. Thomas Fiddes and Mary Battle: Marriage Lic. (Faculty Office), p. 39.": [
+0.5947,
+0.6202,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Dyota|Batty|Dyota Batty, 1379: P. T. Yorks. p. 181.": [
+0.78,
+0.7957,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Thomas|Batty|Thomas Batty, 1379: ibid. p. 181.": [
+0.8011,
+0.8161,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Johannes|Batty|Johannes Batty, 1379: ibid. p. 251.": [
+0.8131,
+0.8253,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Agnes|Battye|1570. Peter Pynder and Agnes Battye: Marriage Lic. (London), p. 46.": [
+0.8216,
+0.8475,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Peter|Pynder|1570. Peter Pynder and Agnes Battye: Marriage Lic. (London), p. 46.": [
+0.8216,
+0.8475,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|John|Battye|1603. John Battye, co. York: Reg. Univ. Oxf. vol. ii. pt. ii. p. 264.": [
+0.8438,
+0.8676,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|James|Battye|1603. James Battye, co. Middlesex: ibid. p. 266.": [
+0.1002,
+0.1241,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Richard|Battey|1772. Married — Richard Battey and Betty Gerrard: St. Geo. Han. Sq. i. 217.": [
+0.1203,
+0.1456,
+1
+],
+"85|Batty, Battye, Battey, Battie, Battes, Batts|Betty|Gerrard|1772. Married — Richard Battey and Betty Gerrard: St. Geo. Han. Sq. i. 217.": [
+0.1203,
+0.1456,
+1
+],
+"85|Baud, Baude|Alan|le Baud|Alan le Baud, co. Middlesex, Hen. III-Edw. I. K.": [
+0.2414,
+0.2642,
+1
+],
+"85|Baud, Baude|Geoffrey|le Baud|Geoffrey le Baud, co. Northampt., 1273. A.": [
+0.2625,
+0.2768,
+1
+],
+"85|Baud, Baude|Robert|le Baud|Robert le Baud, co. Derby, ibid.": [
+0.3353,
+0.3473,
+1
+],
+"85|Baud, Baude|Johannes|Baud|Johannes Baud, 1379: P. T. Yorks. p. 86.": [
+0.4441,
+0.4584,
+1
+],
+"85|Baud, Baude|Richard|le Baud|Richard le Baud, co. Northampt., 20 Edw. I. R.": [
+0.6475,
+0.6615,
+1
+],
+"85|Baud, Baude|Simon|le Baud|Simon le Baud, co. Northampt., ibid.": [
+0.6581,
+0.6714,
+1
+],
+"85|Bavent, Bavin|Walter|de Bavent|Walter de Bavent, co. Linc., Hen. III-Edw. I. K.": [
+0.668,
+0.6935,
+1
+],
+"85|Bavent, Bavin|Richard|de Bavant|Richard de Bavant, co. Norf., 1273. A.": [
+0.6778,
+0.6935,
+1
+],
+"85|Bavent, Bavin|Thomas|Bavand|1614. Thomas Bavand: Reg. Univ. Oxf. vol. ii. pt. ii. p. 333.": [
+0.699,
+0.7244,
+1
+],
+"85|Bavent, Bavin|William|Baven|1619. William Baven and Jane Millett: Marriage Lic. (London), ii. 79.": [
+0.72,
+0.7439,
+1
+],
+"85|Bavent, Bavin|Jane|Millett|1619. William Baven and Jane Millett: Marriage Lic. (London), ii. 79.": [
+0.72,
+0.7439,
+1
+],
+"85|Bavent, Bavin|Mary|Bavin|1626. Jonathan Head and Mary Bavin: ibid. p. 168.": [
+0.7418,
+0.7643,
+1
+],
+"85|Bavent, Bavin|Jonathan|Head|1626. Jonathan Head and Mary Bavin: ibid. p. 168.": [
+0.7418,
+0.7643,
+1
+],
+"85|Bavirgton?||Bavirgton?|": [
+0.778,
+0.7936,
+1
+],
+"86|Bawden, Bawdon|Baldwin|de Rumeny|Baldwin or Baudwin de Rumeny, co. Worc., Hen. III-Edw. I. K.": [
+0.1009,
+0.1255,
+1
+],
+"86|Bawden, Bawdon|Baudwin|de Rumeny|Baldwin or Baudwin de Rumeny, co. Worc., Hen. III-Edw. I. K.": [
+0.1009,
+0.1255,
+1
+],
+"86|Bawden, Bawdon|Johanna|Baudewyn|Johanna Baudewyn, co. Camb., 1273. A.": [
+0.1234,
+0.1371,
+1
+],
+"86|Bawden, Bawdon|Bawden|Jane|Bawden, son of John Jane, 1544: Reg. St. Columb Major, p. 3.": [
+0.1336,
+0.1592,
+1
+],
+"86|Bawden, Bawdon|John|Jane|Bawden, son of John Jane, 1544: Reg. St. Columb Major, p. 3.": [
+0.1336,
+0.1592,
+1
+],
+"86|Bawden, Bawdon|Augustin|Bawdwyn|1547. Augustin Bawdwyn and Eliz. Wilson: Marriage Lic. (London), i. 11.": [
+0.1551,
+0.1779,
+1
+],
+"86|Bawden, Bawdon|Eliz[abeth]|Wilson|1547. Augustin Bawdwyn and Eliz. Wilson: Marriage Lic. (London), i. 11.": [
+0.1551,
+0.1779,
+1
+],
+"86|Bawden, Bawdon|Bawden|Moyle|Bawden, d. of John Moyle, 1550: Reg. St. Columb Major, p. 5.": [
+0.1746,
+0.2001,
+1
+],
+"86|Bawden, Bawdon|John|Moyle|Bawden, d. of John Moyle, 1550: Reg. St. Columb Major, p. 5.": [
+0.1746,
+0.2001,
+1
+],
+"86|Bawden, Bawdon|Johane|Bawden|Johane Bawden, buried, 1589: ibid. p. 193.": [
+0.196,
+0.2103,
+1
+],
+"86|Bawden, Bawdon|Nicholas|Bawden|1575. Nicholas Bawden, co. Cornwall: Reg. Univ. Oxf. vol. ii. pt. ii. p. 63.": [
+0.2161,
+0.241,
+1
+],
+"86|Bawden, Bawdon|William|Bawden|1577. William Bawden, co. Cornwall: ibid. p. 74.": [
+0.2379,
+0.2618,
+1
+],
+"86|Bawden, Bawdon|Thomas|Apps|Thomas, son of Bodwine and Hanah Apps, 1694: St. Jas. Clerkenwell, i. 357.": [
+0.2584,
+0.2707,
+1
+],
+"86|Bawden, Bawdon|Bodwine|Apps|Thomas, son of Bodwine and Hanah Apps, 1694: St. Jas. Clerkenwell, i. 357.": [
+0.2584,
+0.2707,
+1
+],
+"86|Bawden, Bawdon|Hanah|Apps|Thomas, son of Bodwine and Hanah Apps, 1694: St. Jas. Clerkenwell, i. 357.": [
+0.2584,
+0.2707,
+1
+],
+"86|Bawden, Bawdon|Bawden|Maynard|Bawden Maynard, English Guilds, p. 320.": [
+0.2802,
+0.2922,
+1
+],
+"86|Bawtree|Coning|de Bautre|Coning de Bautre, co. York, 1273. A.": [
+0.5425,
+0.5585,
+1
+],
+"86|Bawtree|Edward|Bawtrey|— Edward Bawtrey and Judith Langton: Marriage Lic. (London), i. 292.": [
+0.5841,
+0.6086,
+1
+],
+"86|Bawtree|Judith|Langton|— Edward Bawtrey and Judith Langton: Marriage Lic. (London), i. 292.": [
+0.5841,
+0.6086,
+1
+],
+"86|Bawtree|Richard|Bawtrey|1623-4. Richard Bawtrey and Wilmott Buffome: ibid. ii. 133.": [
+0.6052,
+0.6315,
+1
+],
+"86|Bawtree|Wilmott|Buffome|1623-4. Richard Bawtrey and Wilmott Buffome: ibid. ii. 133.": [
+0.6052,
+0.6315,
+1
+],
+"86|Baxendale, Baxendell, Baxenden, Baxendine|William|de Bakestonden|William de Bakestonden, co. Lanc., 1332: Lay Subsidy (Rylands), p. 79.": [
+0.7619,
+0.7899,
+1
+],
+"86|Baxendale, Baxendell, Baxenden, Baxendine|John|Baxenden|John Baxenden, of Accrington, 1614: Wills at Chester, i. 15.": [
+0.7837,
+0.809,
+1
+],
+"86|Baxendale, Baxendell, Baxenden, Baxendine|William|Baxtenden|William Baxtenden, of Cro?ton, 1672: ibid. iii. 23.": [
+0.8032,
+0.8291,
+1
+],
+"86|Baxendale, Baxendell, Baxenden, Baxendine|Thomas|Baxtendine|Thomas Baxtendine, of Bretherton, 1700: ibid. iv. 21.": [
+0.8253,
+0.8489,
+1
+],
+"86|Baxendale, Baxendell, Baxenden, Baxendine|Thomas|Backstendean?|Thomas Backstendean?, of Croston, 1681: ibid. iv. 12.": [
+0.8465,
+0.87,
+1
+],
+"86|Baxter||Baxter|": [
+0.1507,
+0.166,
+1
+],
+"86|Bay|John?|ate Bey|John ate Bey, co. Camb., 1273. A.": [
+0.223,
+0.2373,
+1
+],
+"86|Bay|Walter|le Bay|Walter le Bay, co. Camb., 1273. A.": [
+0.2804,
+0.2951,
+1
+],
+"86|Bay|Nicholas|le Bay|Nicholas le Bay, co. Bedf., ibid.": [
+0.2918,
+0.3044,
+1
+],
+"86|Bay|Mary|Bay|1595. Richard Cole and Mary Bay: Marriage Lic. (London), i. 227.": [
+0.3023,
+0.3268,
+1
+],
+"86|Bay|Richard|Cole|1595. Richard Cole and Mary Bay: Marriage Lic. (London), i. 227.": [
+0.3023,
+0.3268,
+1
+],
+"86|Bayard, Byard, Byatt|Robert|Bahard|Robert Bahard, or Baiard, co. Camb., 1273. A.": [
+0.5156,
+0.5292,
+1
+],
+"86|Bayard, Byard, Byatt|Robert|Baiard|Robert Bahard, or Baiard, co. Camb., 1273. A.": [
+0.5156,
+0.5292,
+1
+],
+"86|Bayard, Byard, Byatt|Roger|Bayard|Roger Bayard, co. Norf., ibid.": [
+0.5364,
+0.5493,
+1
+],
+"86|Bayard, Byard, Byatt|Thebald|le Bayard|Thebald le Bayard, co. Linc., ibid.": [
+0.5476,
+0.5599,
+1
+],
+"86|Bayard, Byard, Byatt|Thomas|Bayard|Thomas Bayard, co. Oxf., ibid.": [
+0.5575,
+0.5708,
+1
+],
+"86|Bayard, Byard, Byatt|Ricardus|Bayard|Ricardus Bayard, 1379: P. T. Yorks. p. 90.": [
+0.5671,
+0.5827,
+1
+],
+"86|Bayard, Byard, Byatt|Thomas|Bayard|Thomas Bayard, 1379: ibid. p. 111.": [
+0.5865,
+0.6039,
+1
+],
+"86|Bayard, Byard, Byatt|Margaret|Buard|Margaret Buard, co. Camb., 1273. A.": [
+0.5984,
+0.6131,
+1
+],
+"86|Bayard, Byard, Byatt|Ralph|Baird|Ralph Baird, co. Northumb., 1175: KKK. vi. 22.": [
+0.6093,
+0.6243,
+1
+],
+"86|Bayard, Byard, Byatt|Jeames|Bayarde|1665. Married—Jeames Bayarde and Elizabeth Weekes: St. Michael, Cornhill, p. 39.": [
+0.6301,
+0.6543,
+1
+],
+"86|Bayard, Byard, Byatt|Elizabeth|Weekes|1665. Married—Jeames Bayarde and Elizabeth Weekes: St. Michael, Cornhill, p. 39.": [
+0.6301,
+0.6543,
+1
+],
+"86|Bayard, Byard, Byatt|Peter|Beyard|1726. Bapt. — Peter Beyard: St. Antholin (London), p. 158.": [
+0.6604,
+0.6864,
+1
+],
+"86|Bayldon, Bayldone|Matilda|de Bayldon|Matilda de Bayldon, 1379: P. T. Yorks. p. 199.": [
+0.7428,
+0.7578,
+1
+],
+"86|Bayldon, Bayldone|Ricardus|Bayldon|Ricardus Bayldon, 1379: ibid. p. 204.": [
+0.764,
+0.7783,
+1
+],
+"86|Baylis, Bayliss|Willi[elmi]|Balys|'Orate pro anima Willi. Balys': Blickling Church, co. Norf.: FF. vi. 407": [
+0.1602,
+0.1872,
+1
+],
+"86|Baylis, Bayliss|Thomas|Baylis|1767. Married — Thomas Baylis and Rachel Nereway: St. Geo. Han. Sq. i. 161.": [
+0.1817,
+0.2069,
+1
+],
+"86|Baylis, Bayliss|Rachel|Nereway|1767. Married — Thomas Baylis and Rachel Nereway: St. Geo. Han. Sq. i. 161.": [
+0.1817,
+0.2069,
+1
+],
+"86|Baylis, Bayliss|Eliz[abeth]|Bayless|1778. — John Parry and Eliz. Bayless: ibid. i. 284.": [
+0.2131,
+0.2359,
+1
+],
+"86|Baylis, Bayliss|John|Parry|1778. — John Parry and Eliz. Bayless: ibid. i. 284.": [
+0.2131,
+0.2359,
+1
+],
+"86|Bayman|Richard|Bayman|1658. Married — Richard Bayman to Hannah Curlinge: Canterbury Cath., p. 59.": [
+0.3626,
+0.3875,
+1
+],
+"86|Bayman|Hannah|Curlinge|1658. Married — Richard Bayman to Hannah Curlinge: Canterbury Cath., p. 59.": [
+0.3626,
+0.3875,
+1
+],
+"86|Baynard|Margery|Baynerd|1550. William Curteys and Margery Baynerd: Marriage Lic. (London), i. 12.": [
+0.469,
+0.4925,
+1
+],
+"86|Baynard|William|Curteys|1550. William Curteys and Margery Baynerd: Marriage Lic. (London), i. 12.": [
+0.469,
+0.4925,
+1
+],
+"86|Baynard|John|Baynard|1616. John Baynard, New Inn Hall: Reg. Univ. Oxf. vol. ii. pt. ii. p. 350.": [
+0.4904,
+0.5147,
+1
+],
+"86|Baynard|Adriel|Baynard|1625. Adriel Baynard, Ball. Coll. and Magd. Hall: ibid. p. 439.": [
+0.5104,
+0.5353,
+1
+],
+"86|Baynard|Ithamar|Baynard|1645. John Mills and Ithamar Baynard: Marriage Lic. (London), ii. 276.": [
+0.5323,
+0.5561,
+1
+],
+"86|Baynard|John|Mills|1645. John Mills and Ithamar Baynard: Marriage Lic. (London), ii. 276.": [
+0.5323,
+0.5561,
+1
+],
+"86|Baynham|Thomas|ap Eignon|Thomas ap Eignon, 7 Edw. III: Visitation of Glouc., 1623, p. 13.": [
+0.7619,
+0.7885,
+1
+],
+"86|Baynham|Eignon|(unknown)|Thomas ap Eignon, 7 Edw. III: Visitation of Glouc., 1623, p. 13.": [
+0.7619,
+0.7885,
+1
+],
+"86|Baynham|Richard|ap Eignon|Richard ap Eignon, 6 Ric. II: ibid.": [
+0.7821,
+0.7998,
+1
+],
+"86|Baynham|Eignon|(unknown)|Richard ap Eignon, 6 Ric. II: ibid.": [
+0.7821,
+0.7998,
+1
+],
+"86|Baynham|Thomas|Baynam|Thomas Baynam, High Sheriff of Gloucestershire, 1476: Atkyn's Hist. Glouc., p. 40.": [
+0.7943,
+0.8199,
+1
+],
+"86|Baynham|Alex[ander]|Baynham|Alex. Baynham, High Sheriff of Gloucestershire, 1501: ibid.": [
+0.8247,
+0.8509,
+1
+],
+"86|Baynham|Richard|Baynham|1738. Married—Richard Baynham and Frances Griffith: St. Geo. Han. Sq. i. 21.": [
+0.8455,
+0.8697,
+1
+],
+"86|Baynham|Frances|Griffith|1738. Married—Richard Baynham and Frances Griffith: St. Geo. Han. Sq. i. 21.": [
+0.8455,
+0.8697,
+1
+],
+"87|Baynham|John|Baynom|1760. Married—John Baynom and Ann Yeates: St. Geo. Han. Sq. i. 94.": [
+0.0968,
+0.1227,
+1
+],
+"87|Baynham|Ann|Yeates|1760. Married—John Baynom and Ann Yeates: St. Geo. Han. Sq. i. 94.": [
+0.0968,
+0.1227,
+1
+],
+"87|Baynton|John|de Bayntun|John de Bayntun, faber, 20 Edw. II: Freemen of York, i. 23.": [
+0.2042,
+0.2274,
+1
+],
+"87|Baynton|Edward|Bayntun|1661. Sir Edward Bayntun of Bremhill, Wilts, and Stuart Thynne: Marriage Alleg. (Westminster), p. 59.": [
+0.2243,
+0.2594,
+1
+],
+"87|Baynton|Stuart|Thynne|1661. Sir Edward Bayntun of Bremhill, Wilts, and Stuart Thynne: Marriage Alleg. (Westminster), p. 59.": [
+0.2243,
+0.2594,
+1
+],
+"87|Baynton|Edward|Bainton|1754. Married—Edward Bainton and Ann Hart: St. Geo. Chap. Mayfair, p. 275.": [
+0.2533,
+0.2799,
+1
+],
+"87|Baynton|Ann|Hart|1754. Married—Edward Bainton and Ann Hart: St. Geo. Chap. Mayfair, p. 275.": [
+0.2533,
+0.2799,
+1
+],
+"87|Bazin, Bason|Salomon|de Basinge|Salomon de Basinge, sheriff of London, 1214: WWW. pp. 187-190.": [
+0.3302,
+0.3548,
+1
+],
+"87|Bazin, Bason|Adam|de Basinge|Adam de Basinge or Basinges, London, 1273. A.": [
+0.3514,
+0.3667,
+1
+],
+"87|Bazin, Bason|Adam|de Basinges|Adam de Basinge or Basinges, London, 1273. A.": [
+0.3514,
+0.3667,
+1
+],
+"87|Bazin, Bason|Robert|de Basinges|Robert de Basinges or Basinge, London: ibid.": [
+0.3715,
+0.3875,
+1
+],
+"87|Bazin, Bason|Robert|de Basinge|Robert de Basinges or Basinge, London: ibid.": [
+0.3715,
+0.3875,
+1
+],
+"87|Bazin, Bason|Robert|Bason|1583. Robert Bason, Queen's Coll.: Reg. Univ. Oxf. iii. 109.": [
+0.3943,
+0.4178,
+1
+],
+"87|Bazin, Bason|John|Bazen|1688. Bapt.—John Bazen, a foundline: St. Mary Aldermary, p. 109.": [
+0.4138,
+0.4393,
+1
+],
+"87|Bazley||Bazley|": [
+0.4509,
+0.4662,
+1
+],
+"87|Beaby||Beaby|": [
+0.4676,
+0.4833,
+1
+],
+"87|Beach||Beach|": [
+0.4985,
+0.5125,
+1
+],
+"87|Beacham||Beacham|": [
+0.5162,
+0.5316,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|John|le Bedal|John le Bedal, co. Soms., 1 Edw. III: Kirby's Quest, p. 188.": [
+0.6315,
+0.6564,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Alan|Bedellus|Alan Bedellus, co. Kent, Hen. III-Edw. I. K.": [
+0.6523,
+0.6663,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Geoffrey|le Bedel|Geoffrey le Bedel, co. Kent, 1273. A.": [
+0.6731,
+0.6867,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Martin|le Bedel|Martin le Bedel, co. Norf., ibid.": [
+0.6829,
+0.6969,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Walter|Bidellus|Walter Bidellus, co. Linc., ibid.": [
+0.6939,
+0.7065,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|William|le Bedel|William le Bedel, co. Linc., 20 Edw. I. R.": [
+0.7034,
+0.7184,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Richard|Bedal|1578-9. Richard Bedal, co. Stafford: Reg. Univ. Oxf. vol. ii. pt. ii. p. 86.": [
+0.7242,
+0.7486,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Richard|Beedle|1580-1. Richard Beedle, co. Worc.: ibid. p. 96.": [
+0.7456,
+0.7698,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|John|Biddall|1632. Bapt.—John, son of John Biddall: St. Michael, Cornhill, p. 122. The same person is entered as Beddell, p. 124, Beddelle, p. 126.": [
+0.7671,
+0.8015,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|John|Beddell|1632. Bapt.—John, son of John Biddall: St. Michael, Cornhill, p. 122. The same person is entered as Beddell, p. 124, Beddelle, p. 126.": [
+0.7671,
+0.8015,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|John|Beddelle|1632. Bapt.—John, son of John Biddall: St. Michael, Cornhill, p. 122. The same person is entered as Beddell, p. 124, Beddelle, p. 126.": [
+0.7671,
+0.8015,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Mary|Biddle|1660. Married—Marke White and Mary Biddle: St. Dionis Backchurch, p. 36.": [
+0.8076,
+0.8315,
+1
+],
+"87|Beadle, Beaddall, Beadell, Biddle, Beadel, Biddell|Marke|White|1660. Married—Marke White and Mary Biddle: St. Dionis Backchurch, p. 36.": [
+0.8076,
+0.8315,
+1
+],
+"87|Beadman|William|Bedman|William Bedman, co. Soms., 1 Edw. III: Kirby's Quest, p. 271.": [
+0.1851,
+0.21,
+1
+],
+"87|Beadman|Eliza|Bedman|1659. Buried—Eliza, d. John Bedman: St. Jas. Clerkenwell, iv. 328.": [
+0.2049,
+0.2288,
+1
+],
+"87|Beadman|John|Bedman|1659. Buried—Eliza, d. John Bedman: St. Jas. Clerkenwell, iv. 328.": [
+0.2049,
+0.2288,
+1
+],
+"87|Beadman|Catherine|Beadman|1793. Married—William Cullen and Catherine Beadman: St. Geo. Han. Sq. ii. 88.": [
+0.2247,
+0.2492,
+1
+],
+"87|Beadman|William|Cullen|1793. Married—William Cullen and Catherine Beadman: St. Geo. Han. Sq. ii. 88.": [
+0.2247,
+0.2492,
+1
+],
+"87|Beake, Beak|Emma|la Beke|Emma la Beke, co. Hunts, 1273. A.": [
+0.3152,
+0.3316,
+1
+],
+"87|Beake, Beak|William|le Beke|William le Beke, co. Hunts, ibid.": [
+0.3278,
+0.3404,
+1
+],
+"87|Beake, Beak|Alde|Beke|Alde Beke, co. Hunts, ibid.": [
+0.3374,
+0.3503,
+1
+],
+"87|Beake, Beak|William|le Byk|William le Byk, co. Oxf., ibid.": [
+0.3479,
+0.3619,
+1
+],
+"87|Beake, Beak|Simon|Beake|1589-90. Simon Beake, co. Kent: Reg. Univ. Oxf. ii. 175.": [
+0.3589,
+0.3827,
+1
+],
+"87|Beake, Beak|Joan|Beake|1609. Nicholas Wilson and Joan Beake: Marriage Lic. (London), i. 312.": [
+0.38,
+0.4032,
+1
+],
+"87|Beake, Beak|Nicholas|Wilson|1609. Nicholas Wilson and Joan Beake: Marriage Lic. (London), i. 312.": [
+0.38,
+0.4032,
+1
+],
+"87|Beake, Beak|Eliz[abeth]|Beake|1657. Bapt.—Eliz., d. Frederic Beake: St. Jas. Clerkenwell, i. 199.": [
+0.3998,
+0.426,
+1
+],
+"87|Beake, Beak|Frederic|Beake|1657. Bapt.—Eliz., d. Frederic Beake: St. Jas. Clerkenwell, i. 199.": [
+0.3998,
+0.426,
+1
+],
+"87|Beal, Beale, Beall|William|Selbv?|William Selbv, de Bcall, 1631: QQQ. Appendix, p. 156.": [
+0.5554,
+0.5803,
+1
+],
+"87|Beal, Beale, Beall|Thomas|de Behil|Thomas de Behil, 1382: ibid. p. 203.": [
+0.5749,
+0.5909,
+1
+],
+"87|Beal, Beale, Beall|Laurence|Beil|Laurence Beil, 1517: ibid. p. 221.": [
+0.5861,
+0.6018,
+1
+],
+"87|Beal, Beale, Beall|John|Bele|John Bele, 1561: ibid. p. xxxii.": [
+0.5974,
+0.611,
+1
+],
+"87|Beal, Beale, Beall|Willelmus|Beall'|Willelmus Beall', 1379: P. T. Yorks. p. 301.": [
+0.6059,
+0.623,
+1
+],
+"87|Beal, Beale, Beall|Thomas|Beale|1583. Thomas Beale or Bele, co. Heref.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 128.": [
+0.6274,
+0.6526,
+1
+],
+"87|Beal, Beale, Beall|Thomas|Bele|1583. Thomas Beale or Bele, co. Heref.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 128.": [
+0.6274,
+0.6526,
+1
+],
+"87|Beal, Beale, Beall|Ann|Beale|1697. Married—John Deane and Ann Beale: St. Mary Aldermary, p. 35.": [
+0.6492,
+0.6741,
+1
+],
+"87|Beal, Beale, Beall|John|Deane|1697. Married—John Deane and Ann Beale: St. Mary Aldermary, p. 35.": [
+0.6492,
+0.6741,
+1
+],
+"87|Beam, Beams, Beames|Osbarn|Atebeame|Osbarn Atebeame, co. Essex, 1273. A.": [
+0.7449,
+0.7582,
+1
+],
+"87|Beam, Beams, Beames|Robert|atte Byme|Robert atte Byme, co. Soms., 1 Edw. III: Kirby's Quest, p. 250.": [
+0.7551,
+0.7803,
+1
+],
+"87|Beam, Beams, Beames|Eliz[abeth]|Beams|1750. Married—Aaron Hargrave and Eliz. Beams: St. Geo. Chap. Mayfair, p. 182.": [
+0.7759,
+0.8001,
+1
+],
+"87|Beam, Beams, Beames|Aaron|Hargrave|1750. Married—Aaron Hargrave and Eliz. Beams: St. Geo. Chap. Mayfair, p. 182.": [
+0.7759,
+0.8001,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Agnes|Beyman|1583. Thomas Hawarde and Agnes Beyman: Marriage Lic. (London), i. 126.": [
+0.193,
+0.2178,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Thomas|Hawarde|1583. Thomas Hawarde and Agnes Beyman: Marriage Lic. (London), i. 126.": [
+0.193,
+0.2178,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Richard|Beamond|1614. Richard Beamond and Eliz. Bannister: ibid. ii. 30.": [
+0.2151,
+0.2383,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Eliz[abeth]|Bannister|1614. Richard Beamond and Eliz. Bannister: ibid. ii. 30.": [
+0.2151,
+0.2383,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Grace|Beamont|1748. Married—Thomas Wright and Grace Beamont: St. Geo. Chap. Mayfair, p. 115.": [
+0.2352,
+0.2594,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Thomas|Wright|1748. Married—Thomas Wright and Grace Beamont: St. Geo. Chap. Mayfair, p. 115.": [
+0.2352,
+0.2594,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Margaret|Beaman|1749. — Richard Daniel and Margaret Beaman: ibid. p. 142.": [
+0.2656,
+0.2901,
+1
+],
+"87|Beaman, Beament, Beamont, Beeman|Richard|Daniel|1749. — Richard Daniel and Margaret Beaman: ibid. p. 142.": [
+0.2656,
+0.2901,
+1
+],
+"87|Beamish|Robert|de Beaumeis|Robert de Beaumeis, alias Beameis, co. Camb., 1273. A.": [
+0.3936,
+0.4172,
+1
+],
+"87|Beamish|Robert|Beameis|Robert de Beaumeis, alias Beameis, co. Camb., 1273. A.": [
+0.3936,
+0.4172,
+1
+],
+"87|Beamish|Roger|de Beaumes?|Roger de Beaumes, co. Salop, ibid.": [
+0.4141,
+0.4281,
+1
+],
+"87|Beamish|Agnes|de Beaumeys|Agnes de Beaumeys, co. Hunts, ibid.": [
+0.4247,
+0.4383,
+1
+],
+"87|Beamish|Ann|Beamis|1748. Married—John Hughes and Ann Beamis: St. Geo. Chap. Mayfair, p. 102.": [
+0.4352,
+0.4591,
+1
+],
+"87|Beamish|John|Hughes|1748. Married—John Hughes and Ann Beamis: St. Geo. Chap. Mayfair, p. 102.": [
+0.4352,
+0.4591,
+1
+],
+"87|Bean, Beane|Maurice|de la Bene|Maurice de la Bene, co. Salop, 20 Edw. I. R.": [
+0.5248,
+0.5381,
+1
+],
+"87|Bean, Beane|Ediva|Bene|Ediva Bene, co. Kent, 1273. A.": [
+0.5456,
+0.5589,
+1
+],
+"87|Bean, Beane|Johannes|Bene|Johannes Bene, 1379: P.T. Yorks. p. 16.": [
+0.5558,
+0.5705,
+1
+],
+"87|Bean, Beane|Willelmus|Bene|Willelmus Bene, 1379: ibid. p. 261.": [
+0.5657,
+0.5817,
+1
+],
+"87|Bean, Beane|Willelmus|Benne|On the same page as the preceding, in the same village, occurs Willelmus Benne.": [
+0.5824,
+0.6117,
+1
+],
+"87|Bean, Beane|Willelmus|Bene|Willelmus Bene, 1379: P.T. Yorks. p. 257.": [
+0.638,
+0.6543,
+1
+],
+"87|Bean, Beane|Thomas|Been|Thomas Been, 1379: ibid. p. 244.": [
+0.6499,
+0.6649,
+1
+],
+"87|Bean, Beane|Isack|Beanne|1656. Married—Isack Beanne and Rebecke Jenner: St. Mary Aldermary, p. 26.": [
+0.6604,
+0.684,
+1
+],
+"87|Bean, Beane|Rebecke|Jenner|1656. Married—Isack Beanne and Rebecke Jenner: St. Mary Aldermary, p. 26.": [
+0.6604,
+0.684,
+1
+],
+"87|Bear|Robert|le Ber|Robert le Ber, co. Kent, 1273. A.": [
+0.7623,
+0.7803,
+1
+],
+"87|Bear|Adam|le Bere|Adam le Bere, co. Camb., ibid.": [
+0.7742,
+0.7878,
+1
+],
+"87|Bear|Clement|le Bere|Clement le Bere, co. Oxf., ibid.": [
+0.7848,
+0.7981,
+1
+],
+"87|Bear|Walter|le Bere|Walter le Bere, co. Oxf., ibid.": [
+0.795,
+0.8083,
+1
+],
+"87|Bear|Fauor?|Beare|1614. Married—Fauor Beare and Catherine Powell: St. Mary Aldermary, p. 13.": [
+0.8052,
+0.8305,
+1
+],
+"87|Bear|Catherine|Powell|1614. Married—Fauor Beare and Catherine Powell: St. Mary Aldermary, p. 13.": [
+0.8052,
+0.8305,
+1
+],
+"87|Bear|Hugh|Beare|1628. Hugh Beare and Dorothy Skeares: Marriage Lic. (Westminster), p. 32.": [
+0.826,
+0.8516,
+1
+],
+"87|Bear|Dorothy|Skeares|1628. Hugh Beare and Dorothy Skeares: Marriage Lic. (Westminster), p. 32.": [
+0.826,
+0.8516,
+1
+],
+"88|Bearbait, Bearbaste|John|Barbast|John Barbast or Barebaste, co. Glouc., 1273. A.": [
+0.1524,
+0.1779,
+1
+],
+"88|Bearbait, Bearbaste|John|Barebaste|John Barbast or Barebaste, co. Glouc., 1273. A.": [
+0.1524,
+0.1779,
+1
+],
+"88|Bearbait, Bearbaste|Geoffrey|Barebast|Geoffrey Barebast, co. Glouc., ibid.": [
+0.1739,
+0.1861,
+1
+],
+"88|Bearbait, Bearbaste|Alexander|Barebat|Alexander Barebat, co. Bucks, ibid.": [
+0.1837,
+0.1977,
+1
+],
+"88|Bearbait, Bearbaste|Thomas|Barebat|Thomas Barebat, co. Bucks, ibid.": [
+0.195,
+0.2066,
+1
+],
+"88|Bearbait, Bearbaste|John|Barbast|John Barbast, co. Wilts, Hen. III-Edw. I. K.": [
+0.2059,
+0.2182,
+1
+],
+"88|Bearblock|Edward|Bereblocke|1575. Edward Bereblocke, co. Kent: Reg. Univ. Oxf. vol. ii. pt. ii. p. 68.": [
+0.2825,
+0.3077,
+1
+],
+"88|Bearblock|Henry|Bereblocke|1577. Henry Bereblocke, co. Kent: ibid. p. 78.": [
+0.3036,
+0.318,
+1
+],
+"88|Bearblock|William|Bearblocke|'Purchase by William Bearblocke, &c., of the reversion of certain messuages in the city of London, July 12, 1590': Cal. State Papers (Domestic), ii. 679.": [
+0.3241,
+0.3701,
+1
+],
+"88|Bearblock|Susan|Berblock|1610. Antony Ramme and Susan Berblock: Marriage Lic. (London), i. 326.": [
+0.367,
+0.3902,
+1
+],
+"88|Bearblock|Antony|Ramme|1610. Antony Ramme and Susan Berblock: Marriage Lic. (London), i. 326.": [
+0.367,
+0.3902,
+1
+],
+"88|Bearblock|Daniell|Bareblocke|1674. Buried—Daniell Bareblocke: St. Mary Aldermary, p. 189.": [
+0.3875,
+0.4107,
+1
+],
+"88|Bearblock|Charles|Bearblock|Charles Bearblock occurs in the Devonport Directory, co. Devon, 1873.": [
+0.4093,
+0.4383,
+1
+],
+"88|Beard|Geoffrey|Martel|Speaking of Geoffrey Martel's death, A.D. 1060, Freeman says, 'To his namesake Geoffrey, surnamed the Bearded, he left Anjou and Saintogne' (Norm. Conqest, iii. 180)": [
+0.4917,
+0.5469,
+1
+],
+"88|Beard|Geoffrey|the Bearded|Speaking of Geoffrey Martel's death, A.D. 1060, Freeman says, 'To his namesake Geoffrey, surnamed the Bearded, he left Anjou and Saintogne' (Norm. Conqest, iii. 180)": [
+0.4917,
+0.5469,
+1
+],
+"88|Beard|William|Cum-Barba|William Cum-Barba, co. Oxf., 1273. A.": [
+0.5837,
+0.5981,
+1
+],
+"88|Beard|Richard|Cum-Barba|Richard Cum-Barba, co. Oxf., ibid.": [
+0.594,
+0.609,
+1
+],
+"88|Beard|Adam|cum-Barba|Adam cum-Barba, 1379: P. T. Yorks. p. 238.": [
+0.6042,
+0.6206,
+1
+],
+"88|Beard|Susan|Beard|1622-3. Gerrard van Holbrooke and Susan Beard: Marriage Lic. (London), p. 120.": [
+0.6253,
+0.6519,
+1
+],
+"88|Beard|Gerrard|van Holbrooke|1622-3. Gerrard van Holbrooke and Susan Beard: Marriage Lic. (London), p. 120.": [
+0.6253,
+0.6519,
+1
+],
+"88|Beard|Edward|Bearde|1645. Buried—Mr. Edward Bearde, grocer, in Cornhill: St. Michael, Cornhill, p. 240.": [
+0.656,
+0.6819,
+1
+],
+"88|Beard|Richard|Beard|1771. Married—Richard Beard and Ann Ginder: Canterbury Cathedral, p. 96.": [
+0.6874,
+0.714,
+1
+],
+"88|Beard|Ann|Ginder|1771. Married—Richard Beard and Ann Ginder: Canterbury Cathedral, p. 96.": [
+0.6874,
+0.714,
+1
+],
+"88|Beardsall|Henry|Clegg|Henry Clegg, of Buerdsall, parish of Rochdale, 1607: Wills at Chester, i. 41.": [
+0.7612,
+0.7868,
+1
+],
+"88|Beardsall|James|Buerdsall|James Buerdsall, of Blakley, 1610: ibid. 41.": [
+0.7831,
+0.7981,
+1
+],
+"88|Beardsall|Adam|Buerdsall|Adam Buerdsall, of Manchester, 1546: ibid. p. 33.": [
+0.8035,
+0.8281,
+1
+],
+"88|Beardsley, Beardslee||Beardsley|": [
+0.8373,
+0.8547,
+1
+],
+"88|Beare||Beare|": [
+0.1023,
+0.1166,
+1
+],
+"88|Bearward, Bearwood (?)|Michael|le Bereward|Michael le Bereward, co. Hunts, 1273. A.": [
+0.2056,
+0.2189,
+1
+],
+"88|Bearward, Bearwood (?)|Margaret|Barwarde|1594. Buried—Margaret Barwarde: St. Michael, Cornhill, p. 206.": [
+0.2165,
+0.2397,
+1
+],
+"88|Bearward, Bearwood (?)|Robert|Bearewoode|1609. — Robert Bearewoode, who fell doune dead in Popes Head Alley, of the plague: ibid. p. 217.": [
+0.2369,
+0.2714,
+1
+],
+"88|Beater, Bater|Hugh|de Ferlington|Hugh de Ferlington, batur, 28 Edw. I: Freemen of York, i. 8.": [
+0.4475,
+0.4707,
+1
+],
+"88|Beater, Bater|John|le Betere|John le Betere, co. Wilts, 1273. A.": [
+0.469,
+0.4813,
+1
+],
+"88|Beater, Bater|William|le Betere|William le Betere, C. R. 1 Edw. III: Kirby's Quest, p. 126.": [
+0.4778,
+0.5034,
+1
+],
+"88|Beater, Bater|John|Batour|John Batour, co. Soms., 1 Edw. III: ibid.": [
+0.4985,
+0.5128,
+1
+],
+"88|Beater, Bater|Ann|Beater|1777. Married—James Baughan and Ann Beater: St. Geo. Han. Sq. i. 272.": [
+0.5306,
+0.5551,
+1
+],
+"88|Beater, Bater|James|Baughan|1777. Married—James Baughan and Ann Beater: St. Geo. Han. Sq. i. 272.": [
+0.5306,
+0.5551,
+1
+],
+"88|Beaton|Johannes|Beton|Johannes Beton, 1379: P. T. Yorks. p. 87.": [
+0.72,
+0.734,
+1
+],
+"88|Beaton|Beton|de Wath|Beton de Wath: ibid. p. 100.": [
+0.7415,
+0.7534,
+1
+],
+"88|Beaton|Beton|(unknown)|Beton, servant of Robert, fil. Ade, 1379: ibid. p. 88.": [
+0.7503,
+0.7742,
+1
+],
+"88|Beaton|Robert|fil. Ade|Beton, servant of Robert, fil. Ade, 1379: ibid. p. 88.": [
+0.7503,
+0.7742,
+1
+],
+"88|Beaton|Ade|(unknown)|Beton, servant of Robert, fil. Ade, 1379: ibid. p. 88.": [
+0.7503,
+0.7742,
+1
+],
+"88|Beaton|Betin|de Friscobald|Betin de Friscobald. O.": [
+0.7728,
+0.7844,
+1
+],
+"88|Beaton|John|Betyn|John Betyn. HH.": [
+0.7824,
+0.796,
+1
+],
+"88|Beaton|John|Betun|John Betun, co. Oxf., 1273. A.": [
+0.7926,
+0.8066,
+1
+],
+"88|Beaton|Beaten|Hoswell|Beaten, d. of John Hoswell, 1637: Reg. St. Columb Major, p. 215.": [
+0.8022,
+0.8281,
+1
+],
+"88|Beaton|John|Hoswell|Beaten, d. of John Hoswell, 1637: Reg. St. Columb Major, p. 215.": [
+0.8022,
+0.8281,
+1
+],
+"88|Beaton|Beaten|Cornishe|Beaten, d. of Richard Cornishe, 1630: ibid. p. 212.": [
+0.8236,
+0.8478,
+1
+],
+"88|Beaton|Richard|Cornishe|Beaten, d. of Richard Cornishe, 1630: ibid. p. 212.": [
+0.8236,
+0.8478,
+1
+],
+"88|Beaton|Beaten|Bayley|Beaten, d. of Thomas Bayley, 1629: ibid.": [
+0.8441,
+0.8591,
+1
+],
+"88|Beaton|Thomas|Bayley|Beaten, d. of Thomas Bayley, 1629: ibid.": [
+0.8441,
+0.8591,
+1
+],
+"88|Beaton|Robert|Beton|1694. Bapt.—Robert, son of William Beton: St. Mary Aldermary, p. 111.": [
+0.1013,
+0.1268,
+1
+],
+"88|Beaton|William|Beton|1694. Bapt.—Robert, son of William Beton: St. Mary Aldermary, p. 111.": [
+0.1013,
+0.1268,
+1
+],
+"88|Beatson, Beetson|Walter|fil. Beatricie|Walter fil. Beatricie, 1273. A.": [
+0.2475,
+0.2662,
+1
+],
+"88|Beatson, Beetson|Beatricie|(unknown)|Walter fil. Beatricie, 1273. A.": [
+0.2475,
+0.2662,
+1
+],
+"88|Beatson, Beetson|Richard|Beatriceson|Richard Beatriceson, C. R., 11 Edw. II.": [
+0.2608,
+0.2727,
+1
+],
+"88|Beatson, Beetson|Iabelle|fil. Willelmi Beteson|Iabelle fil. Willelmi Beteson, 1379: P.T. Yorks. p. 220.": [
+0.2703,
+0.2949,
+1
+],
+"88|Beatson, Beetson|Willelmi|Beteson|Iabelle fil. Willelmi Beteson, 1379: P.T. Yorks. p. 220.": [
+0.2703,
+0.2949,
+1
+],
+"88|Beatson, Beetson|Richard|Beteson|Richard Beteson, 1494, co. York. W. 11.": [
+0.2918,
+0.3054,
+1
+],
+"88|Beatson, Beetson|Elizabeth|Beatson|1718. Married—William Grant and Elizabeth Beatson: St. Mary Aldermary, p. 44.": [
+0.3401,
+0.364,
+1
+],
+"88|Beatson, Beetson|William|Grant|1718. Married—William Grant and Elizabeth Beatson: St. Mary Aldermary, p. 44.": [
+0.3401,
+0.364,
+1
+],
+"88|Beattie, Beattey, Beatty|William|Beaty|1729. Married—William Beaty and Sarah Davis: St. Peter, Cornhill, ii. 78.": [
+0.5578,
+0.581,
+1
+],
+"88|Beattie, Beattey, Beatty|Sarah|Davis|1729. Married—William Beaty and Sarah Davis: St. Peter, Cornhill, ii. 78.": [
+0.5578,
+0.581,
+1
+],
+"88|Beauchamp, Beacham, Beachem, Beecham|John|de Bello Campo|John de Bello Campo, co. Soms., 1 Edw. III: Kirby's Quest, p. 187.": [
+0.8233,
+0.8478,
+1
+],
+"88|Beauchamp, Beacham, Beachem, Beecham|Thomas|de Becham|Thomas de Becham, co. Soms., 1 Edw. III: ibid. p. 195.": [
+0.8458,
+0.87,
+1
+],
+"89|Beauchamp, Beacham, Beachem, Beecham|William|de Bechehom|William de Bechehom, co. Oxf., 1273. A.": [
+0.1023,
+0.1149,
+1
+],
+"89|Beauchamp, Beacham, Beachem, Beecham|Roger|de Bello-Campo|Roger de Bello-Campo, co. Camb., ibid.": [
+0.1128,
+0.1268,
+1
+],
+"89|Beauchamp, Beacham, Beachem, Beecham|Angareta|de Bello-Campo|Angareta de Bello-Campo, co. Oxf., ibid.": [
+0.1227,
+0.1374,
+1
+],
+"89|Beauchamp, Beacham, Beachem, Beecham|William|de Beauchamp|William de Beauchamp, co. Warw., Hen. III-Edw. I. K.": [
+0.1333,
+0.1555,
+1
+],
+"89|Beauchamp, Beacham, Beachem, Beecham|Roger|de Beauchaumpe|Roger de Beauchaumpe, co. Bedf., 20 Edw. I. R.": [
+0.1548,
+0.1677,
+1
+],
+"89|Beauchamp, Beacham, Beachem, Beecham|William|Beauchamp|1600. William Beauchamp, co. Cornw.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 245.": [
+0.1756,
+0.1991,
+1
+],
+"89|Beauclerk, Beauclerc|Henricus|Beauclerk|1367. 'Henricus cognomento Beauclerk': H.E.D.": [
+0.2818,
+0.2978,
+1
+],
+"89|Beauclerk, Beauclerc|Charles|Beauclerke|Charles Beauclerke. PP.": [
+0.3657,
+0.3776,
+1
+],
+"89|Beauclerk, Beauclerc|William|Beauclerk|1722. Lord William Beauclerk and Charlotte Werden: Marriage Lic. (Faculty Office), p. 249.": [
+0.3762,
+0.4011,
+1
+],
+"89|Beauclerk, Beauclerc|Charlotte|Werden|1722. Lord William Beauclerk and Charlotte Werden: Marriage Lic. (Faculty Office), p. 249.": [
+0.3762,
+0.4011,
+1
+],
+"89|Beaufoy, Boffey|Ralph|de Beaufow|Ralph de Beaufow, co. Linc., 20 Edw. I. R.": [
+0.4894,
+0.5027,
+1
+],
+"89|Beaufoy, Boffey|Richard|de Beaufow|Richard de Beaufow, co. Linc., ibid.": [
+0.5101,
+0.5227,
+1
+],
+"89|Beaufoy, Boffey|Richard|de Beaufou|Richard de Beaufou, co. Oxf., 1273. A.": [
+0.5183,
+0.5353,
+1
+],
+"89|Beaufoy, Boffey|Thomas|de Beaufou|Thomas de Beaufou, co. Linc., ibid.": [
+0.5295,
+0.5445,
+1
+],
+"89|Beaufoy, Boffey|Ralph|Beaufey|Ralph Beaufey, co. Linc., ibid.": [
+0.5401,
+0.5558,
+1
+],
+"89|Beaufoy, Boffey|Hercules|Beaufoy|1675-6. Hercules Beaufoy and Mary Rust: Marriage Alleg. (Westminster), p. 250.": [
+0.5521,
+0.5773,
+1
+],
+"89|Beaufoy, Boffey|Mary|Rust|1675-6. Hercules Beaufoy and Mary Rust: Marriage Alleg. (Westminster), p. 250.": [
+0.5521,
+0.5773,
+1
+],
+"89|Beaufrere|Walter|Beaufrere|Walter Beaufrere, co. Northumb., 1278: Hodgson's Hist. Northumberland, Introduction, p. 295.": [
+0.7364,
+0.7609,
+1
+],
+"89|Beaufrere|Roger|Beaufrere|Roger Beaufrere, 1305. M.": [
+0.7674,
+0.7824,
+1
+],
+"89|Beaufrere|Walter|Beaufrere|Walter Beaufrere, 1305. M.": [
+0.7773,
+0.7926,
+1
+],
+"89|Beaufrere|Walter|Baufrere|Walter Baufrere, co. Soms., 1 Edw. III: Kirby's Quest, p. 106.": [
+0.7878,
+0.8127,
+1
+],
+"89|Beaufrere|John|Beaufrere?|John Beaufrere, C. R., 3 Edw. IV.": [
+0.8107,
+0.8229,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Mathaeus|de Bello Monte|Mathaeus de Bello Monte, co. Devon, Hen. III-Edw. I. K.": [
+0.2791,
+0.3017,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Richard|de Beaumund|Richard de Beaumund, co. Devon, 20 Edw. I. R.": [
+0.3002,
+0.3135,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Geoffrey|de Beumund|Geoffrey de Beumund, co. Southampt., 1273. A.": [
+0.32,
+0.335,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|William|Beumunt|William Beumunt, co. Oxf., ibid.": [
+0.3398,
+0.3561,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Godfrey|de Beaumund|Godfrey de Beaumund, co. Northampt., ibid.": [
+0.351,
+0.3667,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Richard|de Bello Monte|Richard de Bello Monte, co. Devon, ibid.": [
+0.3722,
+0.3861,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Willelmus|Beumond|Willelmus Beumond, 1379: P.T. Yorks. p. 301.": [
+0.3933,
+0.4073,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|William|de Bellemonte|William de Bellemonte, Prepositor of Bristol, 1240. YYY. p. 669.": [
+0.4134,
+0.438,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|Francis|Beaument|1596. Francis Beaument, co. Leic.: Reg. Univ. Oxf. vol. ii. pt. ii. p. 218.": [
+0.4345,
+0.4591,
+1
+],
+"89|Beaumont, Beaman, Beament, Beamont, Beman, Bemand, Bement|John|Beaumond|1622. John Beaumond, of Manchester: Wills at Chester, ii. 18.": [
+0.4564,
+0.4785,
+1
+],
+"89|Beaupre|John|de Beaupre|John de Beaupre, co. Devon, 1273. A.": [
+0.6485,
+0.6611,
+1
+],
+"89|Beavan, Beaven, Beavins|Hannah|Beaven|1676. Matthew Denis and Hannah Beaven: Marriage Lic. (Faculty Office), p. 137.": [
+0.6628,
+0.6891,
+1
+],
+"89|Beavan, Beaven, Beavins|Matthew|Denis|1676. Matthew Denis and Hannah Beaven: Marriage Lic. (Faculty Office), p. 137.": [
+0.6628,
+0.6891,
+1
+],
+"89|Beavan, Beaven, Beavins|John|Beavens|1752. Married—John Beavens and Eliz. Roulatt: St. Geo. Chap. Mayfair, p. 233.": [
+0.7606,
+0.7875,
+1
+],
+"89|Beavan, Beaven, Beavins|Eliz[abeth]|Roulatt|1752. Married—John Beavens and Eliz. Roulatt: St. Geo. Chap. Mayfair, p. 233.": [
+0.7606,
+0.7875,
+1
+],
+"89|Beaver, Beever, Bever||de Beuver|(Prior) de Beuver (co. Notts), or Beauver (co. Leic.), 1273. A.": [
+0.1023,
+0.1285,
+1
+],
+"89|Beaver, Beever, Bever||de Beauver|(Prior) de Beuver (co. Notts), or Beauver (co. Leic.), 1273. A.": [
+0.1023,
+0.1285,
+1
+],
+"89|Beaver, Beever, Bever|John|de Beauver|John de Beauver, co. York, ibid.": [
+0.1244,
+0.1364,
+1
+],
+"89|Beaver, Beever, Bever|Thurstan|de Beauver|Thurstan de Beauver, co. York, ibid.": [
+0.1333,
+0.1479,
+1
+],
+"89|Beaver, Beever, Bever|John|de Beauver|John de Beauver, co. York, Hen. III-Edw. I. K.": [
+0.1435,
+0.1589,
+1
+],
+"89|Beaver, Beever, Bever|Bois|Beauvoir|1751. Bapt.—Bois, s. Osmond Beauvoir: Canterbury Cath. p. 29.": [
+0.1653,
+0.1899,
+1
+],
+"89|Beaver, Beever, Bever|Osmond|Beauvoir|1751. Bapt.—Bois, s. Osmond Beauvoir: Canterbury Cath. p. 29.": [
+0.1653,
+0.1899,
+1
+],
+"89|Beaver, Beever, Bever|Adam|Bever|Adam Bever, co. Soms., 1273. A.": [
+0.2195,
+0.2352,
+1
+],
+"89|Beaver, Beever, Bever|John|le Bever|John le Bever. G.": [
+0.2311,
+0.2434,
+1
+],
+"89|Beaver, Beever, Bever|Jno|le Bevere|Jno le Bevere. N.": [
+0.2403,
+0.2547,
+1
+],
+"89|Beaver, Beever, Bever|Edward|Beaver|1675. Edward Beaver and Ellinor Jefferies: Marriage Alleg. (Canterbury), p. 249.": [
+0.2506,
+0.2765,
+1
+],
+"89|Beaver, Beever, Bever|Ellinor|Jefferies|1675. Edward Beaver and Ellinor Jefferies: Marriage Alleg. (Canterbury), p. 249.": [
+0.2506,
+0.2765,
+1
+],
+"89|Beaver, Beever, Bever|Eliz[abeth]|Bever|1729. Bapt.—Eliz., d. William Bever: St. Thomas the Apostle (London), p. 78.": [
+0.2818,
+0.3078,
+1
+],
+"89|Beaver, Beever, Bever|William|Bever|1729. Bapt.—Eliz., d. William Bever: St. Thomas the Apostle (London), p. 78.": [
+0.2818,
+0.3078,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Simon|de Beauveys|Simon de Beauveys, London, 20 Edw. I. R.": [
+0.3994,
+0.4138,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Philip|de Beauveys|Philip de Beauveys, London, ibid.": [
+0.4202,
+0.4342,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Edward|Beavys|1557-8. Edward Beavys and Eliz. Comes: Marriage Lic. (London), i. 18.": [
+0.4304,
+0.455,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Eliz[abeth]|Comes|1557-8. Edward Beavys and Eliz. Comes: Marriage Lic. (London), i. 18.": [
+0.4304,
+0.455,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Jone|Bevys|1601. John Grantham and Jone Bevys: ibid. p. 266.": [
+0.4526,
+0.4751,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|John|Grantham|1601. John Grantham and Jone Bevys: ibid. p. 266.": [
+0.4526,
+0.4751,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Peter|Bevis|1606. Peter Bevis, co. Devon: Reg. Univ. Oxf. vol. ii. pt. ii. p. 292.": [
+0.4703,
+0.498,
+1
+],
+"89|Beavis, Beaves, Beavies, Beauvais|Charles|Beavis|1614. Charles Beavis, ibid. i. 277.": [
+0.4915,
+0.5085,
+1
+],
+"89|Bebb|Roger|Beb|1611. Married—Roger Beb and Alice Bowles: St. Michael, Cornhill, p. 20.": [
+0.5602,
+0.5831,
+1
+],
+"89|Bebb|Alice|Bowles|1611. Married—Roger Beb and Alice Bowles: St. Michael, Cornhill, p. 20.": [
+0.5602,
+0.5831,
+1
+],
+"89|Bebb|John|Bebb|1741. — John Bebb and Sarah Prigg: ibid. p. 69.": [
+0.5797,
+0.6056,
+1
+],
+"89|Bebb|Sarah|Prigg|1741. — John Bebb and Sarah Prigg: ibid. p. 69.": [
+0.5797,
+0.6056,
+1
+],
+"89|Beck, Becke|William|en le Bec|William en le Bec, co. Linc., 1273. A.": [
+0.7118,
+0.7248,
+1
+],
+"89|Beck, Becke|Ricardus|del Bek'|Ricardus del Bek', 1379: P. T. Yorks. p. 247.": [
+0.7207,
+0.7364,
+1
+],
+"89|Beck, Becke|Robert|atte Bek|Robert atte Bek, C. R., 19 Ric. II.": [
+0.7432,
+0.7554,
+1
+],
+"89|Beck, Becke|William|atte Beck|William atte Beck, temp. 1300. M.": [
+0.7524,
+0.7664,
+1
+],
+"89|Beck, Becke|Robert|atte Bek|'Robert atte Bek and Maud his wife held lands here (Beck-Hall) in the 33rd of Edward III': FF. viii. 189.": [
+0.7633,
+0.7967,
+1
+],
+"89|Beck, Becke|Maud|(unknown)|'Robert atte Bek and Maud his wife held lands here (Beck-Hall) in the 33rd of Edward III': FF. viii. 189.": [
+0.7633,
+0.7967,
+1
+],
+"89|Beck, Becke|Catherine|Becke|1624. Alexander Shancke and Catherine Becke: Marriage Lic. (London), ii. 140.": [
+0.7947,
+0.8165,
+1
+],
+"89|Beck, Becke|Alexander|Shancke|1624. Alexander Shancke and Catherine Becke: Marriage Lic. (London), ii. 140.": [
+0.7947,
+0.8165,
+1
+],
+"89|Beck, Becke|Joseph|Beck|1759. Married—Joseph Beck and Catherine Andrews: St. Geo. Han. Sq. i. 88.": [
+0.8134,
+0.8386,
+1
+],
+"89|Beck, Becke|Catherine|Andrews|1759. Married—Joseph Beck and Catherine Andrews: St. Geo. Han. Sq. i. 88.": [
+0.8134,
+0.8386,
+1
+],
+"90|Becker|Alicia|Beckar|Alicia Beckar, 1379: P. T. Yorks. p. 84.": [
+0.1411,
+0.1551,
+1
+],
+"90|Becker|Magota|Beckar|Magota Beckar, 1379: ibid.": [
+0.151,
+0.1664,
+1
+],
+"90|Becker|Roger|Becker|1668. Married—Roger Becker and Ann Nicoles: St. Jas. Clerkenwell, iii. 164.": [
+0.1619,
+0.1851,
+1
+],
+"90|Becker|Ann|Nicoles|1668. Married—Roger Becker and Ann Nicoles: St. Jas. Clerkenwell, iii. 164.": [
+0.1619,
+0.1851,
+1
+],
+"90|Becker|Ludewig|Becker|1761. — Ludewig Becker and Jane Toolken: St. Geo. Han. Sq. i. 101.": [
+0.1834,
+0.2062,
+1
+],
+"90|Becker|Jane|Toolken|1761. — Ludewig Becker and Jane Toolken: St. Geo. Han. Sq. i. 101.": [
+0.1834,
+0.2062,
+1
+],
+"90|Beckett|John|Becket|John Becket, co. Soms., I Edw. III: Kirby's Quest, p. 93.": [
+0.2744,
+0.2992,
+1
+],
+"90|Beckett|Robertus|Becket|Robertus Becket, 1379: P. T. Yorks. p. 287.": [
+0.2941,
+0.3101,
+1
+],
+"90|Beckett|Robert|Bekett|1532. Robert Bekett and Elene Marshall: Marriage Lic. (London), i. 8.": [
+0.3156,
+0.3408,
+1
+],
+"90|Beckett|Elene|Marshall|1532. Robert Bekett and Elene Marshall: Marriage Lic. (London), i. 8.": [
+0.3156,
+0.3408,
+1
+],
+"90|Beckett|Eliz[abeth]|Beckett|1586. Thomas Jennings and Eliz. Beckett: ibid. p. 152.": [
+0.336,
+0.3613,
+1
+],
+"90|Beckett|Thomas|Jennings|1586. Thomas Jennings and Eliz. Beckett: ibid. p. 152.": [
+0.336,
+0.3613,
+1
+],
+"90|Beckett|Richard|Becket|1619. Richard Becket, of Ch. Ch.: Reg. Univ. Oxf. iii. 380.": [
+0.3551,
+0.3817,
+1
+],
+"90|Beckford, Bickford||de Bekeford|(Prior) de Bekeford, co. Glouc., Hen. III-Edw. I. K.": [
+0.4492,
+0.4714,
+1
+],
+"90|Beckford, Bickford||de Bekeford|(Prior) de Bekeford, co. Glouc., 1273. A.": [
+0.47,
+0.484,
+1
+],
+"90|Beckford, Bickford|Adam|de Beckeford|Adam de Beckeford, co. Glouc., ibid.": [
+0.4799,
+0.4942,
+1
+],
+"90|Beckford, Bickford|Henry|de Beckeford|Henry de Beckeford, co. Glouc., ibid.": [
+0.4904,
+0.5044,
+1
+],
+"90|Beckford, Bickford|Alex[ander]|de Bikeford|Alex. de Bikeford, co. Staff., ibid.": [
+0.5009,
+0.5135,
+1
+],
+"90|Beckford, Bickford|William|Beckford|'William Beckford (1709-70), twice Lord Mayor of London. . . . The Beckfords were descended from a family long resident in Gloucestershire': Dict. Nat. Biog. iv. 80.": [
+0.5101,
+0.5554,
+1
+],
+"90|Beckford, Bickford|Francis|Beckford|1743. Married—Francis Beckford and Lady Albinia Bertie: St. Geo. Han. Sq. i. 31.": [
+0.564,
+0.5885,
+1
+],
+"90|Beckford, Bickford|Albinia|Bertie|1743. Married—Francis Beckford and Lady Albinia Bertie: St. Geo. Han. Sq. i. 31.": [
+0.564,
+0.5885,
+1
+],
+"90|Beckles|Daniel|de Beccles|Daniel de Beccles, Norwich, 1256: FF. iii. 488.": [
+0.638,
+0.6604,
+1
+],
+"90|Beckles|Hugh|de Beccles|Hugh de Beccles, co. Suff., 1273. A.": [
+0.6587,
+0.6744,
+1
+],
+"90|Beckley|Thomas|de Beckelegh|Thomas de Beckelegh, co. Oxf., 1273. A.": [
+0.7251,
+0.7408,
+1
+],
+"90|Beckley|Henry|de Beckele|Henry de Beckele, co. Oxf., ibid.": [
+0.7367,
+0.7493,
+1
+],
+"90|Beckley|Simon|Beckley|1622. Simon Beckley, co. Berks, and Mary Winch: Marriage Alleg. (Canterbury), p. 68.": [
+0.7459,
+0.7725,
+1
+],
+"90|Beckley|Mary|Winch|1622. Simon Beckley, co. Berks, and Mary Winch: Marriage Alleg. (Canterbury), p. 68.": [
+0.7459,
+0.7725,
+1
+],
+"90|Beckley|Elinor|Beckley|1689. Edmund Winder and Elinor Beckley: ibid. p. 120.": [
+0.7776,
+0.8011,
+1
+],
+"90|Beckley|Edmund|Winder|1689. Edmund Winder and Elinor Beckley: ibid. p. 120.": [
+0.7776,
+0.8011,
+1
+],
+"90|Beckley|John|Beckley|1753. Married—John Beckley and Eliz. Withers: St. Geo. Chap. Mayfair, p. 258.": [
+0.7991,
+0.8243,
+1
+],
+"90|Beckley|Eliz[abeth]|Withers|1753. Married—John Beckley and Eliz. Withers: St. Geo. Chap. Mayfair, p. 258.": [
+0.7991,
+0.8243,
+1
+],
+"90|Beckman, Beckmann|John|Becman|1667. Married—John Becman and Susanna Wright: St. Jas. Clerkenwell, iii. 140.": [
+0.1292,
+0.1534,
+1
+],
+"90|Beckman, Beckmann|Susanna|Wright|1667. Married—John Becman and Susanna Wright: St. Jas. Clerkenwell, iii. 140.": [
+0.1292,
+0.1534,
+1
+],
+"90|Beckwith|Robert|Beckwith|'Robert Beckwith, aged 21, went out in 1635 in the Transport, bound for Virginia' (v. Hotten's Lists of Emigrants, p. 103)": [
+0.2587,
+0.3013,
+1
+],
+"90|Beckwith|Willelmus|Bekwyt|Willelmus Bekwyt, 1379: P. T. Yorks. p. 100.": [
+0.3265,
+0.3432,
+1
+],
+"90|Beckwith|Willelmus|de Bekwyth|Willelmus de Bekwyth, 1379: ibid.": [
+0.3476,
+0.3626,
+1
+],
+"90|Beckwith|Johannes|de Bekwyth|Johannes de Bekwyth, 1379: ibid.": [
+0.3585,
+0.3735,
+1
+],
+"90|Beckwith|William|Beckewithe|1562. William Beckewithe and Margaret Daye: Marriage Lic. (London), i. 24.": [
+0.3694,
+0.3936,
+1
+],
+"90|Beckwith|Margaret|Daye|1562. William Beckewithe and Margaret Daye: Marriage Lic. (London), i. 24.": [
+0.3694,
+0.3936,
+1
+],
+"90|Beckwith|Roger|Beckwith|1572. Roger Beckwith, St. Alban Hall: Reg. Univ. Oxf. vol. ii. pt. ii. p. 41.": [
+0.3909,
+0.4165,
+1
+],
+"90|Beckwith|Ambrose|Beckwith|1754. Married—Ambrose Beckwith and Martha Smith: St. Geo. Han. Sq. i. 54.": [
+0.4117,
+0.424,
+1
+],
+"90|Beckwith|Martha|Smith|1754. Married—Ambrose Beckwith and Martha Smith: St. Geo. Han. Sq. i. 54.": [
+0.4117,
+0.424,
+1
+],
+"90|Bed|Gilbert|del Bed|Gilbert del Bed. H.": [
+0.5006,
+0.5125,
+1
+],
+"90|Bed|Gilbert|del Bed|Gilbert del Bed, Close Roll, 30 Edw. I.": [
+0.5104,
+0.5244,
+1
+],
+"90|Bed|Lamberte|(unknown)|'To Lamberte yoman of the Bedde, viis. vid.' 1540: Privy Purse Exp., Princess Mary, p. 86.": [
+0.519,
+0.5463,
+1
+],
+"90|Beddall|Simon|le Beddel|Simon le Beddel, C. R., 56 Henry III.": [
+0.5861,
+0.6011,
+1
+],
+"90|Beddall|Alice|Bedall|1586-7. Richard Cottman and Alice Bedall: Marriage Lic. (London), i. 158.": [
+0.5977,
+0.6209,
+1
+],
+"90|Beddall|Richard|Cottman|1586-7. Richard Cottman and Alice Bedall: Marriage Lic. (London), i. 158.": [
+0.5977,
+0.6209,
+1
+],
+"90|Beddall|Mary|Beddall|1746. Married—Thomas Shepherd and Mary Beddall: St. Geo. Chap. Mayfair, p. 68.": [
+0.6185,
+0.6424,
+1
+],
+"90|Beddall|Thomas|Shepherd|1746. Married—Thomas Shepherd and Mary Beddall: St. Geo. Chap. Mayfair, p. 68.": [
+0.6185,
+0.6424,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Richard|Peddowe|1577-8. Richard Peddowe and Johanna Green: Marriage Lic. (London), i. 78.": [
+0.1735,
+0.1974,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Johanna|Green|1577-8. Richard Peddowe and Johanna Green: Marriage Lic. (London), i. 78.": [
+0.1735,
+0.1974,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Johanna|Bedowe|— Richard Love and Johanna Bedowe, widow: ibid.": [
+0.1936,
+0.2165,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Richard|Love|— Richard Love and Johanna Bedowe, widow: ibid.": [
+0.1936,
+0.2165,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Thomas|Bedo|1578-9. Thomas Bedo, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 85.": [
+0.2141,
+0.2383,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Edward|Beddowe|Edward Beddowe, of Tybroughton, co. Flint, yeoman, 1650: Wills at Chester (1621-1650), p. 18.": [
+0.2352,
+0.27,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Margaret|Beddowe|Margaret Beddowe, of Hanmer, 1622: ibid.": [
+0.2673,
+0.2802,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|William|Beddowe|William Beddowe, clerk, vicar of Hanmer, 1574: ibid. (1545-1620), p. 16.": [
+0.2876,
+0.3143,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|David|Eddowe|David Eddowe, of Iscoyd, co. Flint, 1605: ibid. p. 59.": [
+0.3077,
+0.333,
+1
+],
+"90|Beddoe, Beddoes, Beddow, Bedow, Peddowe, Beddows|Thomas|Eddowe|Thomas Eddowe, of Oldcastle, 1615: ibid.": [
+0.3282,
+0.3428,
+1
+],
+"90|Bedford|John|de Bedford|John de Bedford, taillour, 9 Edw. III: Freemen of York, i. 30.": [
+0.4649,
+0.4894,
+1
+],
+"90|Bedford|Jordan|de Bedeford|Jordan de Bedeford, co. Oxf., 1273. A.": [
+0.4847,
+0.5014,
+1
+],
+"90|Bedford|Robert|de Bedeford|Robert de Bedeford, co. Hunts, ibid.": [
+0.4955,
+0.5108,
+1
+],
+"90|Bedford|Johannes|de Bedforth|Johannes de Bedforth, 1379: P. T. Yorks. p. 168.": [
+0.506,
+0.5292,
+1
+],
+"90|Bedford|Antony|Bedford|1578. Antony Bedford, co. Salop: Reg. Univ. Oxf. vol. ii. pt. ii. p. 84.": [
+0.5272,
+0.5517,
+1
+],
+"90|Bedford|Ann|Bedford|1589. John Robynson and Ann Bedford: Marriage Lic. (London), i. 180.": [
+0.5486,
+0.5718,
+1
+],
+"90|Bedford|John|Robynson|1589. John Robynson and Ann Bedford: Marriage Lic. (London), i. 180.": [
+0.5486,
+0.5718,
+1
+],
+"90|Bedford|Eliz[abeth]|Bedford|1707. Bapt.—Eliz., d. William Bedford: St. Jas. Clerkenwell, ii. 37.": [
+0.5681,
+0.594,
+1
+],
+"90|Bedford|William|Bedford|1707. Bapt.—Eliz., d. William Bedford: St. Jas. Clerkenwell, ii. 37.": [
+0.5681,
+0.594,
+1
+],
+"90|Bedingham|Clarice|de Bedyngham|Clarice de Bedyngham, co. Norf., 1273. A.": [
+0.8417,
+0.856,
 1
 ]
 }

@@ -4,8 +4,8 @@ A searchable database of the people cited in C. W. Bardsley, *A Dictionary of En
 Surnames, with Special American Instances* (1901), from the Internet Archive scan
 [adictionaryengl00goog](https://archive.org/details/adictionaryengl00goog).
 
-Transcribed so far: printed pages 37–70 (2,554 names under 355 surname entries). Next batch starts at p. 71,
-which continues "Ayres, Ayars, Ayers, Ayris, Ayrs" from p. 70.
+Transcribed so far: printed pages 37–90 (4,051 names under 584 surname entries). Next batch starts at p. 91;
+check whether "Bedingham" (last entry on p. 90) continues there.
 Each row is one name as printed; people named together in one record each get a row. Surnames not printed
 (wives, parents named in patronymics) are "(unknown)".
 

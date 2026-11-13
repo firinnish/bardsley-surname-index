@@ -1,0 +1,1694 @@
+[
+{
+"column": 1,
+"x0": 0.20951,
+"x1": 0.31511,
+"y0": 0.0842,
+"y1": 0.09648,
+"text": "BAMFORD",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13719,
+"x1": 0.38537,
+"y0": 0.11148,
+"y1": 0.12409,
+"text": "Hannah Bamfeild : St. Geo. Han. Sq. i",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13719,
+"x1": 0.17212,
+"y0": 0.12477,
+"y1": 0.13534,
+"text": "p. 47:",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.14911,
+"x1": 0.38784,
+"y0": 0.13159,
+"y1": 0.14557,
+"text": "1766. Married - Sir John Saunders",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13637,
+"x1": 0.38578,
+"y0": 0.14182,
+"y1": 0.1558,
+"text": "Sebright and Sarah Knight. Witness,",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13719,
+"x1": 0.36852,
+"y0": 0.15273,
+"y1": 0.16705,
+"text": "Copp Warre Bampfylde : ibid. p. 154.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.16636,
+"x1": 0.38701,
+"y0": 0.16466,
+"y1": 0.17591,
+"text": "-- John Banfield and Betty Nunns:",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13678,
+"x1": 0.20786,
+"y0": 0.17318,
+"y1": 0.1875,
+"text": "ibid. p. 156.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.14828,
+"x1": 0.38784,
+"y0": 0.18307,
+"y1": 0.19841,
+"text": "London, I,1, 6, o; Exeter (Banfill), 1 ;",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.13678,
+"x1": 0.3866,
+"y0": 0.19432,
+"y1": 0.20864,
+"text": "MDB. (co. Devon), .0,.1, 2, 0; Boston",
+"conf": 0.892
+},
+{
+"column": 1,
+"x0": 0.13637,
+"x1": 0.38373,
+"y0": 0.20455,
+"y1": 0.22057,
+"text": "(U.S.), 0, 0, 5, 0; Philadelphia, 0, 1, 2, 0.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.15198,
+"x1": 0.38537,
+"y0": 0.2192,
+"y1": 0.23352,
+"text": "Bamford, Balmforth, Bam-",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13596,
+"x1": 0.38866,
+"y0": 0.23216,
+"y1": 0.24682,
+"text": "forth,  Bamfard. Local, ‘of",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.13719,
+"x1": 0.3866,
+"y0": 0.24648,
+"y1": 0.25909,
+"text": "Bamford.' Bircle-cum-Bamford is",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13431,
+"x1": 0.38701,
+"y0": 0.25943,
+"y1": 0.27477,
+"text": "a township in the parish of Mid-",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13719,
+"x1": 0.34141,
+"y0": 0.27375,
+"y1": 0.28773,
+"text": "dleton, near Bury, co. Lanc.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.1487,
+"x1": 0.38701,
+"y0": 0.28773,
+"y1": 0.30273,
+"text": "' The cstate of Bamford was granted to",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13555,
+"x1": 0.38578,
+"y0": 0.2975,
+"y1": 0.31318,
+"text": "Thomas de Bamford by Sir Adam de. Bury,",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13596,
+"x1": 0.38537,
+"y0": 0.31045,
+"y1": 0.3217,
+"text": "temp. Henry Ili, for his homage and ser.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13555,
+"x1": 0.33647,
+"y0": 0.31932,
+"y1": 0.3333,
+"text": "vices,' &c. :'Baines' Lanc. i. 525.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.14787,
+"x1": 0.38496,
+"y0": 0.32989,
+"y1": 0.34352,
+"text": "Richard de Bamford, co. York, 1273. A.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.14787,
+"x1": 0.38537,
+"y0": 0.33977,
+"y1": 0.35545,
+"text": "Adam Bamforth, 1379 : P. T. Yorks.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13472,
+"x1": 0.16924,
+"y0": 0.35239,
+"y1": 0.3633,
+"text": "p. 89.",
+"conf": 0.794
+},
+{
+"column": 1,
+"x0": 0.14787,
+"x1": 0.38414,
+"y0": 0.36125,
+"y1": 0.37489,
+"text": "Adam de Baumford, 1379: ibid. p. 123",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.1487,
+"x1": 0.38373,
+"y0": 0.37182,
+"y1": 0.38443,
+"text": "1602. William Bamford, of Banford,",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.13678,
+"x1": 0.37304,
+"y0": 0.38341,
+"y1": 0.39466,
+"text": "parish of Bury : Wills at Chester, i. 10.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.14787,
+"x1": 0.3866,
+"y0": 0.39364,
+"y1": 0.40557,
+"text": "1613. James Bamford, of Hurdsfield :",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.13514,
+"x1": 0.16267,
+"y0": 0.40386,
+"y1": 0.41375,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14787,
+"x1": 0.38619,
+"y0": 0.41409,
+"y1": 0.42602,
+"text": "1738. Henry Bamford and Eliz. Becket :",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13514,
+"x1": 0.27854,
+"y0": 0.4233,
+"y1": 0.43693,
+"text": "St. 'Geo. Han. Sq. i. 22.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.1339,
+"x1": 0.38701,
+"y0": 0.44341,
+"y1": 0.4608,
+"text": "0, 0; Bury, i,.,'O 0; Philadelphia, 10, 1,",
+"conf": 0.854
+},
+{
+"column": 1,
+"x0": 0.13267,
+"x1": 0.31305,
+"y0": 0.45364,
+"y1": 0.47034,
+"text": "2, 0; Boston (U's.), I, o, 1, 1.",
+"conf": 0.912
+},
+{
+"column": 1,
+"x0": 0.14952,
+"x1": 0.38578,
+"y0": 0.46795,
+"y1": 0.48466,
+"text": "Bampton.-Local, ‘of Bamp-",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.1339,
+"x1": 0.38496,
+"y0": 0.48227,
+"y1": 0.49795,
+"text": "ton, parishes in cos. Devon, Oxford,",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13472,
+"x1": 0.38537,
+"y0": 0.49511,
+"y1": 0.51045,
+"text": "Cumberland, and Westm. A va-",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13431,
+"x1": 0.36935,
+"y0": 0.50875,
+"y1": 0.52477,
+"text": "riant of the name is Banton, q.v.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.14664,
+"x1": 0.38455,
+"y0": 0.52375,
+"y1": 0.53875,
+"text": "Philip de Bamptone, co. Soms., I Edw.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.1339,
+"x1": 0.29949,
+"y0": 0.53364,
+"y1": 0.54966,
+"text": "I1I : Kirby's Quest, p. 148.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.14541,
+"x1": 0.38537,
+"y0": 0.5442,
+"y1": 0.56057,
+"text": "Brian de Bampton, co. Oxf., Hen. I1I-",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.1339,
+"x1": 0.21074,
+"y0": 0.55511,
+"y1": 0.56807,
+"text": "Edw. I.. K.",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.14746,
+"x1": 0.34346,
+"y0": 0.56602,
+"y1": 0.57966,
+"text": "John dc Bamton, co. Wilts, ihid.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.14623,
+"x1": 0.38537,
+"y0": 0.57557,
+"y1": 0.59227,
+"text": "Thomas de Bampton, co. Cumb., 20",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13431,
+"x1": 0.21115,
+"y0": 0.58716,
+"y1": 0.59841,
+"text": "Edw. 1. R",
+"conf": 0.878
+},
+{
+"column": 1,
+"x0": 0.14623,
+"x1": 0.38455,
+"y0": 0.59773,
+"y1": 0.61,
+"text": "1785. Married--Joshua Bampton and",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13349,
+"x1": 0.38414,
+"y0": 0.60625,
+"y1": 0.62261,
+"text": "Rebbecca Stiles : St. Geo. Han. Sq. i. 371.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.14623,
+"x1": 0.21526,
+"y0": 0.61716,
+"y1": 0.63182,
+"text": "London, 2.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14828,
+"x1": 0.38332,
+"y0": 0.63148,
+"y1": 0.64818,
+"text": "Banbury, Bambury, Bam-",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13226,
+"x1": 0.38414,
+"y0": 0.64443,
+"y1": 0.6625,
+"text": "bery.--Local, 'of Banbury,'a well.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.13308,
+"x1": 0.32908,
+"y0": 0.65977,
+"y1": 0.67341,
+"text": "known town in co. Oxford.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14623,
+"x1": 0.38249,
+"y0": 0.67341,
+"y1": 0.68977,
+"text": "Thomas de Banneburi, co. Hunts,",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.13226,
+"x1": 0.19143,
+"y0": 0.68466,
+"y1": 0.69761,
+"text": "1273. A.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.14582,
+"x1": 0.38003,
+"y0": 0.69386,
+"y1": 0.70955,
+"text": "Edmunde de Bannebur', co. Oxf., ibid.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.14541,
+"x1": 0.36852,
+"y0": 0.70477,
+"y1": 0.71977,
+"text": "W'illiam de Bannebir', co. Oxf., ibid.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.145,
+"x1": 0.38414,
+"y0": 0.71523,
+"y1": 0.73125,
+"text": "159!. Edward Banberye, co. Middlesex:",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13267,
+"x1": 0.35168,
+"y0": 0.72511,
+"y1": 0.74148,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 184.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.145,
+"x1": 0.38167,
+"y0": 0.73534,
+"y1": 0.75205,
+"text": "1619. Thomas Bunburic, or Banbury,",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13226,
+"x1": 0.38291,
+"y0": 0.74523,
+"y1": 0.76193,
+"text": "co. Kent : ibid. p. 376. But see Bunbury.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.145,
+"x1": 0.38332,
+"y0": 0.75716,
+"y1": 0.77216,
+"text": "1765. Married-- Joscph Powell and Mary",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.13226,
+"x1": 0.34675,
+"y0": 0.7667,
+"y1": 0.78205,
+"text": "Banbury : St. Geo. Han. Sq. i. 146.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.14459,
+"x1": 0.364,
+"y0": 0.77727,
+"y1": 0.79466,
+"text": "London, 9, I, O; New York, o, o, 2.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.14705,
+"x1": 0.38126,
+"y0": 0.79193,
+"y1": 0.80727,
+"text": "Bancroft.---Local,'of the bank-",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13267,
+"x1": 0.38291,
+"y0": 0.80523,
+"y1": 0.82091,
+"text": "croft,' i.e. the enclosure on the",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13267,
+"x1": 0.38373,
+"y0": 0.81886,
+"y1": 0.83489,
+"text": "slope. An east Cheshire name",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13185,
+"x1": 0.38291,
+"y0": 0.83216,
+"y1": 0.84989,
+"text": "that has many representatives in",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13267,
+"x1": 0.38085,
+"y0": 0.84614,
+"y1": 0.86114,
+"text": "the directories of south-east Lan.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13267,
+"x1": 0.36811,
+"y0": 0.86045,
+"y1": 0.87409,
+"text": "cashire ; v. Bank and Croft. ..",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.51501,
+"x1": 0.53678,
+"y0": 0.0825,
+"y1": 0.0975,
+"text": "76",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.41105,
+"x1": 0.64649,
+"y0": 0.11114,
+"y1": 0.12341,
+"text": "1570. Buried -- Jone I Bancrofte, of",
+"conf": 0.886
+},
+{
+"column": 2,
+"x0": 0.3979,
+"x1": 0.64526,
+"y0": 0.12136,
+"y1": 0.13568,
+"text": "Butley: Prestbury Ch. (co. Chester),",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39667,
+"x1": 0.43283,
+"y0": 0.13364,
+"y1": 0.14557,
+"text": "p. 32.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39749,
+"x1": 0.60869,
+"y0": 0.15273,
+"y1": 0.16568,
+"text": "Wills at Chester (1545-i620), P. 10.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.40982,
+"x1": 0.64773,
+"y0": 0.16398,
+"y1": 0.17591,
+"text": "1603. W'illiam Bancroft, of Wilmslow :",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.42502,
+"y0": 0.17386,
+"y1": 0.18511,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40982,
+"x1": 0.64855,
+"y0": 0.18375,
+"y1": 0.1967,
+"text": "1669. Henery Banckcroft,  sone. of",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.3979,
+"x1": 0.64567,
+"y0": 0.19364,
+"y1": 0.20795,
+"text": "Henery Banckcroft, . of Maplc, bapt.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.39749,
+"x1": 0.6469,
+"y0": 0.2042,
+"y1": 0.21886,
+"text": "April '14: Reg. Disley Church (East",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.50556,
+"y0": 0.21477,
+"y1": 0.22807,
+"text": "Cheshire), ii. 100.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40982,
+"x1": 0.64731,
+"y0": 0.22602,
+"y1": 0.23795,
+"text": "1764. Married  John Bancroft and",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.64649,
+"y0": 0.2342,
+"y1": 0.24989,
+"text": "Mary Barbon Glover : St. Geo. Han. Sq.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.3979,
+"x1": 0.43242,
+"y0": 0.24852,
+"y1": 0.2567,
+"text": "i. 136.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.409,
+"x1": 0.64649,
+"y0": 0.25602,
+"y1": 0.27068,
+"text": "Manchester, 18; London, 3; Phila.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39749,
+"x1": 0.46816,
+"y0": 0.26693,
+"y1": 0.28193,
+"text": "delphia, 30.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.4131,
+"x1": 0.64485,
+"y0": 0.28523,
+"y1": 0.29989,
+"text": "Banfather.--Nick. ; v. Barn-",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.39585,
+"x1": 0.44598,
+"y0": 0.29898,
+"y1": 0.3133,
+"text": "father.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.41187,
+"x1": 0.58609,
+"y0": 0.31761,
+"y1": 0.33193,
+"text": "Banfeld ; v. Bamfield.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.41187,
+"x1": 0.64362,
+"y0": 0.33739,
+"y1": 0.35307,
+"text": "Banister, Bannister.--(1)Oc.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.39667,
+"x1": 0.64526,
+"y0": 0.35136,
+"y1": 0.3667,
+"text": "cup. A balister (l becoming x; cf.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.64567,
+"y0": 0.36568,
+"y1": 0.38,
+"text": "banisters, lit. balusters, staircase,",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.64731,
+"y0": 0.37761,
+"y1": 0.39398,
+"text": "railings), an arbalester, a cross-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39626,
+"x1": 0.64649,
+"y0": 0.39261,
+"y1": 0.40557,
+"text": "bowman. O. F. balestir: ‘trecenti",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39667,
+"x1": 0.64526,
+"y0": 0.40591,
+"y1": 0.4192,
+"text": "loricati,( cum balistariis et artif-",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.64526,
+"y0": 0.41852,
+"y1": 0.43352,
+"text": "cibus machinarum multis' (Giles,",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39502,
+"x1": 0.64608,
+"y0": 0.4325,
+"y1": 0.44818,
+"text": "i. 57, quoted by Freeman, Hist.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39585,
+"x1": 0.64814,
+"y0": 0.44443,
+"y1": 0.46318,
+"text": "Norm. Conq. iv. 583) ; v. Alabaster.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39708,
+"x1": 0.6469,
+"y0": 0.45875,
+"y1": 0.47341,
+"text": "The name in  various forms is",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.39585,
+"x1": 0.64814,
+"y0": 0.47205,
+"y1": 0.48875,
+"text": "found in every early list. It is",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.49241,
+"x1": 0.64444,
+"y0": 0.49102,
+"y1": 0.49852,
+"text": "turn to the London",
+"conf": 0.875
+},
+{
+"column": 2,
+"x0": 0.39749,
+"x1": 0.64855,
+"y0": 0.4992,
+"y1": 0.51489,
+"text": "Directory to see by the number of",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39667,
+"x1": 0.64649,
+"y0": 0.51284,
+"y1": 0.52784,
+"text": "Bannisters the commonness of the",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39749,
+"x1": 0.4772,
+"y0": 0.52784,
+"y1": 0.54011,
+"text": "occupation.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.40941,
+"x1": 0.64485,
+"y0": 0.54182,
+"y1": 0.55511,
+"text": ": Gosners, balesters, _and_ archers':",
+"conf": 0.891
+},
+{
+"column": 2,
+"x0": 0.39544,
+"x1": 0.59842,
+"y0": 0.55205,
+"y1": 0.5667,
+"text": "Caxton, 1489 (guotcd in H.E.D.).",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.40653,
+"x1": 0.64526,
+"y0": 0.56227,
+"y1": 0.57761,
+"text": "1557.' Buried John Corker, bailister,",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.39667,
+"x1": 0.57746,
+"y0": 0.57386,
+"y1": 0.58614,
+"text": "Ulverston (Ulverston Church).",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.41105,
+"x1": 0.64649,
+"y0": 0.59193,
+"y1": 0.60625,
+"text": "Probably  this is an instance of",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.39461,
+"x1": 0.64731,
+"y0": 0.60523,
+"y1": 0.61989,
+"text": "the curious Elizabcthan custom of",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39338,
+"x1": 0.64567,
+"y0": 0.6192,
+"y1": 0.6342,
+"text": "appending the old feminine -sler to",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39379,
+"x1": 0.64238,
+"y0": 0.63386,
+"y1": 0.64682,
+"text": "names of masculine occupation.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.3942,
+"x1": 0.64526,
+"y0": 0.64477,
+"y1": 0.66216,
+"text": "John Corker was, I suspect, the",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39461,
+"x1": 0.64485,
+"y0": 0.65977,
+"y1": 0.67341,
+"text": "bailie or bailiff of the town. But he",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39379,
+"x1": 0.62882,
+"y0": 0.67341,
+"y1": 0.68739,
+"text": "may have been a cross-bowman.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.41105,
+"x1": 0.48008,
+"y0": 0.68602,
+"y1": 0.7017,
+"text": "(2) Local.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.48583,
+"x1": 0.64321,
+"y0": 0.70477,
+"y1": 0.71807,
+"text": " Banistre, . 1320:",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.39461,
+"x1": 0.51336,
+"y0": 0.71489,
+"y1": 0.72818,
+"text": "Baines' Lanc. i. 83.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.50473,
+"x1": 0.64362,
+"y0": 0.73307,
+"y1": 0.74432,
+"text": "only entry with",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39338,
+"x1": 0.64403,
+"y0": 0.7442,
+"y1": 0.75818,
+"text": "de I can find. The Testa de",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.3942,
+"x1": 0.64321,
+"y0": 0.75886,
+"y1": 0.77182,
+"text": "Neville, Hundred Rolls, and Placita",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39338,
+"x1": 0.64238,
+"y0": 0.77148,
+"y1": 0.78648,
+"text": "de Quo Warranto have many in-",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.39338,
+"x1": 0.64403,
+"y0": 0.78545,
+"y1": 0.79909,
+"text": "stances, but all without prefix. It",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39338,
+"x1": 0.64321,
+"y0": 0.79943,
+"y1": 0.81239,
+"text": "is clear however that (1) is not the",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39256,
+"x1": 0.64362,
+"y0": 0.81273,
+"y1": 0.82739,
+"text": "only origin, judging by the char-",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39338,
+"x1": 0.55199,
+"y0": 0.82705,
+"y1": 0.83864,
+"text": "acter of these entries.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.4053,
+"x1": 0.61732,
+"y0": 0.84307,
+"y1": 0.85875,
+"text": "John Balistar', co. Norf., 1273. A.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.40735,
+"x1": 0.54336,
+"y0": 0.85364,
+"y1": 0.86761,
+"text": "Wyot Balistarius. E.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.40612,
+"x1": 0.5524,
+"y0": 0.86557,
+"y1": 0.87682,
+"text": "Rcnaud Balistarius.   C.",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.73011,
+"x1": 0.83941,
+"y0": 0.0842,
+"y1": 0.09648,
+"text": "BANWELL",
+"conf": 0.891
+},
+{
+"column": 3,
+"x0": 0.66888,
+"x1": 0.90761,
+"y0": 0.11011,
+"y1": 0.12477,
+"text": "Henry Balistar', co. Oxf., Hen. 111-",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.6582,
+"x1": 0.73216,
+"y0": 0.12136,
+"y1": 0.13193,
+"text": "Edw I. K.",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.6693,
+"x1": 0.87803,
+"y0": 0.13125,
+"y1": 0.14455,
+"text": "Robert Balistarius, co. York, ibid.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.66971,
+"x1": 0.89282,
+"y0": 0.14114,
+"y1": 0.1575,
+"text": "Agnes Banastre, co. Salop, 1273: A",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.66888,
+"x1": 0.87187,
+"y0": 0.15136,
+"y1": 0.16705,
+"text": "Henry Banastre, co. Camb., ibid.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66888,
+"x1": 0.90803,
+"y0": 0.16227,
+"y1": 0.17693,
+"text": "Thomas Banastic, co. Lanc., 20 Edw.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.67094,
+"x1": 0.69641,
+"y0": 0.1742,
+"y1": 0.18409,
+"text": "R.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66971,
+"x1": 0.90803,
+"y0": 0.18273,
+"y1": 0.19773,
+"text": "John Banastre, co. Berks, Hen. I1I--",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.65738,
+"x1": 0.73175,
+"y0": 0.19432,
+"y1": 0.20557,
+"text": "Edw. I. K.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.6393,
+"x1": 0.90556,
+"y0": 0.2042,
+"y1": 0.21886,
+"text": "t  Johannes Banastre, 1379 : P. T. Yorks.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65656,
+"x1": 0.69806,
+"y0": 0.21716,
+"y1": 0.22841,
+"text": "P. 292.",
+"conf": 0.889
+},
+{
+"column": 3,
+"x0": 0.66724,
+"x1": 0.90761,
+"y0": 0.22398,
+"y1": 0.23864,
+"text": "1674. Bapt.--Anne, d.Thomas Balisster :",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65615,
+"x1": 0.82297,
+"y0": 0.23489,
+"y1": 0.24955,
+"text": "St. Jas. Ckerkenwell, i. 265.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.67258,
+"x1": 0.90803,
+"y0": 0.25295,
+"y1": 0.26693,
+"text": "The surname is found all over",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65697,
+"x1": 0.90761,
+"y0": 0.26693,
+"y1": 0.28057,
+"text": "the kingdom in large numbers. It",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65697,
+"x1": 0.90679,
+"y0": 0.28045,
+"y1": 0.29477,
+"text": "is quite possible that some of these",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65656,
+"x1": 0.90803,
+"y0": 0.2942,
+"y1": 0.30886,
+"text": "entries reprcsent a personal name",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65697,
+"x1": 0.76462,
+"y0": 0.30875,
+"y1": 0.32102,
+"text": "now forgotten.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66806,
+"x1": 0.8883,
+"y0": 0.32205,
+"y1": 0.33705,
+"text": "London, 12, 25; Boston (U.S.), 3, 6.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.67217,
+"x1": 0.90556,
+"y0": 0.33739,
+"y1": 0.35239,
+"text": "Bank, Banks, Bankes,",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65656,
+"x1": 0.90638,
+"y0": 0.3517,
+"y1": 0.36602,
+"text": "Banke.--Local, ' at the bank,'i.c.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65779,
+"x1": 0.90556,
+"y0": 0.3667,
+"y1": 0.37864,
+"text": "the slope or declivity in the land.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65697,
+"x1": 0.90474,
+"y0": 0.37898,
+"y1": 0.39261,
+"text": "Like all other local monosyllables,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65615,
+"x1": 0.90638,
+"y0": 0.39261,
+"y1": 0.40659,
+"text": "it takes a fnal s, perhaps the patro-",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65656,
+"x1": 0.9072,
+"y0": 0.40625,
+"y1": 0.42057,
+"text": "nymic, as in Jones, Simmonds, &c.;",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65738,
+"x1": 0.81968,
+"y0": 0.42023,
+"y1": 0.43352,
+"text": "cf. Brooks, Styles, &c.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.67012,
+"x1": 0.90556,
+"y0": 0.43591,
+"y1": 0.45091,
+"text": "Nicholaus del Bancke, 1379: P. T.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65738,
+"x1": 0.73381,
+"y0": 0.44682,
+"y1": 0.46011,
+"text": "Yorks. p. 16.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.66847,
+"x1": 0.87556,
+"y0": 0.45739,
+"y1": 0.47034,
+"text": "Adam del Bank, 1379: ibid. P. 48.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.63971,
+"x1": 0.90309,
+"y0": 0.46761,
+"y1": 0.48295,
+"text": "： Magota del Bancke, 1379 : ibid. p. 202.",
+"conf": 0.503
+},
+{
+"column": 3,
+"x0": 0.66847,
+"x1": 0.90556,
+"y0": 0.4775,
+"y1": 0.49216,
+"text": "Kichard del Bank, co. Lanc., 20 Edw.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.67957,
+"x1": 0.69477,
+"y0": 0.49045,
+"y1": 0.49898,
+"text": "R.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.67053,
+"x1": 0.88132,
+"y0": 0.4992,
+"y1": 0.51011,
+"text": "William del Bank, co. Lanc., ibid.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66724,
+"x1": 0.90597,
+"y0": 0.50807,
+"y1": 0.52409,
+"text": "1596. Simon Banckc, co. Cumb. : Reg.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65656,
+"x1": 0.839,
+"y0": 0.51932,
+"y1": 0.53227,
+"text": "Univ. Oxf. vol. ii. pt. ii. p. 218.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.66806,
+"x1": 0.90515,
+"y0": 0.52852,
+"y1": 0.54386,
+"text": "1597. W'illiam Banks, co. Devon : ibid.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65574,
+"x1": 0.69683,
+"y0": 0.5425,
+"y1": 0.55307,
+"text": "P. 224.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.66806,
+"x1": 0.90556,
+"y0": 0.55102,
+"y1": 0.56261,
+"text": "176o. Married-—John Bankes and Ann",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65574,
+"x1": 0.8731,
+"y0": 0.56125,
+"y1": 0.57386,
+"text": "Killmister : St. Geo. Han. Sq. i. 9!.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.66683,
+"x1": 0.90556,
+"y0": 0.57182,
+"y1": 0.58511,
+"text": "1767. - John Banks and Mary Odwell :",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65327,
+"x1": 0.72559,
+"y0": 0.58205,
+"y1": 0.59534,
+"text": "ibid. p. 181.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.66601,
+"x1": 0.90597,
+"y0": 0.59159,
+"y1": 0.60693,
+"text": "London, O, ,39. I,0: New York, 5, 57,",
+"conf": 0.906
+},
+{
+"column": 3,
+"x0": 0.65409,
+"x1": 0.83817,
+"y0": 0.6042,
+"y1": 0.61614,
+"text": "0, O; Philadelphia (Banke), 1.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.67012,
+"x1": 0.892,
+"y0": 0.62091,
+"y1": 0.63455,
+"text": "Banker.--Ofic. ; v. Bencher.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.67012,
+"x1": 0.90556,
+"y0": 0.64102,
+"y1": 0.65432,
+"text": "Banknott.--Local, ‘at the",
+"conf": 0.925
+},
+{
+"column": 3,
+"x0": 0.65574,
+"x1": 0.90433,
+"y0": 0.65534,
+"y1": 0.66761,
+"text": "bank-knot,' one who resided  on",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.65532,
+"x1": 0.90556,
+"y0": 0.66795,
+"y1": 0.68261,
+"text": "the knot or small prominence on",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.65409,
+"x1": 0.90597,
+"y0": 0.68125,
+"y1": 0.69523,
+"text": "the side of the bauk. The name",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65327,
+"x1": 0.90556,
+"y0": 0.6942,
+"y1": 0.70989,
+"text": "looks anachronistic, and suggests",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65409,
+"x1": 0.9072,
+"y0": 0.70886,
+"y1": 0.72284,
+"text": "the notes issued by the Bank of",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65574,
+"x1": 0.72107,
+"y0": 0.72182,
+"y1": 0.73614,
+"text": "England.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66313,
+"x1": 0.90515,
+"y0": 0.73705,
+"y1": 0.75034,
+"text": "Robert Banknott, 30 Hen. Vl: Cal.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.6545,
+"x1": 0.78599,
+"y0": 0.74864,
+"y1": 0.76023,
+"text": "Inquis. Post Mortcm.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.6656,
+"x1": 0.87967,
+"y0": 0.75784,
+"y1": 0.77216,
+"text": "John Banknotte, C. R., 7 Edw. IV.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6693,
+"x1": 0.90392,
+"y0": 0.77625,
+"y1": 0.78955,
+"text": "Banton; v. Bampton, and cf.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65368,
+"x1": 0.81886,
+"y0": 0.78989,
+"y1": 0.80284,
+"text": "Banfield for Bamfeld.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.6656,
+"x1": 0.90474,
+"y0": 0.80455,
+"y1": 0.81784,
+"text": "1656. Marmicd --Banton and Elenor",
+"conf": 0.914
+},
+{
+"column": 3,
+"x0": 0.65327,
+"x1": 0.84639,
+"y0": 0.81545,
+"y1": 0.82943,
+"text": "Morice : Kensington Ch., p. 75.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65327,
+"x1": 0.79585,
+"y0": 0.83557,
+"y1": 0.85023,
+"text": "St.'Ceo. Han. Sq. i. 71.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.6656,
+"x1": 0.73586,
+"y0": 0.84784,
+"y1": 0.86045,
+"text": "London, 2.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66971,
+"x1": 0.90433,
+"y0": 0.86182,
+"y1": 0.87852,
+"text": "Banwell.---Local, ‘ of Banwell,'",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.69724,
+"x1": 0.90022,
+"y0": 0.91534,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.996
+}
+]

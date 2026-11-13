@@ -1,0 +1,1748 @@
+[
+{
+"column": 1,
+"x0": 0.18188,
+"x1": 0.2731,
+"y0": 0.07227,
+"y1": 0.08455,
+"text": "BARROW",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.11737,
+"x1": 0.35405,
+"y0": 0.09852,
+"y1": 0.11318,
+"text": "1575.. Thomas Berington, co. Berks:",
+"conf": 0.849
+},
+{
+"column": 1,
+"x0": 0.1034,
+"x1": 0.31378,
+"y0": 0.10977,
+"y1": 0.12443,
+"text": "Reg. U'niy. Oxf. vol. i. pt. i. p. 63.",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.11573,
+"x1": 0.35446,
+"y0": 0.12,
+"y1": 0.1333,
+"text": "1767. Married-- Thomas Stepben Nocus",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.1034,
+"x1": 0.35323,
+"y0": 0.13125,
+"y1": 0.14352,
+"text": "and Phillis Barrington : St. Geo. Han. Sq.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.10299,
+"x1": 0.14038,
+"y0": 0.14216,
+"y1": 0.15443,
+"text": "i. 170.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11614,
+"x1": 0.29242,
+"y0": 0.15102,
+"y1": 0.16534,
+"text": "London, 5 ; Philadelphia, 13.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.11902,
+"x1": 0.35528,
+"y0": 0.16534,
+"y1": 0.17966,
+"text": "Barrow,Barrows.--Local,'of",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.10299,
+"x1": 0.35569,
+"y0": 0.17795,
+"y1": 0.19364,
+"text": "the barrow, a long low hill or",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.10299,
+"x1": 0.35405,
+"y0": 0.19193,
+"y1": 0.20761,
+"text": "mound, gex. barrows; cf. Bor-",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.26735,
+"y0": 0.20625,
+"y1": 0.21989,
+"text": "roughs and Borrough.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.11778,
+"x1": 0.35241,
+"y0": 0.2192,
+"y1": 0.23148,
+"text": "Walter de la Barowe, C. R., 14 Edw.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.16216,
+"y0": 0.22943,
+"y1": 0.24205,
+"text": "IIl, pt. ii.",
+"conf": 0.917
+},
+{
+"column": 1,
+"x0": 0.11696,
+"x1": 0.34378,
+"y0": 0.24,
+"y1": 0.25227,
+"text": "Robert de h Barwe, C. R., 3 Edw. I.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11655,
+"x1": 0.35364,
+"y0": 0.24989,
+"y1": 0.26386,
+"text": "John de la Berewe, co. Worc., Hen. I1I-",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.1786,
+"y0": 0.26148,
+"y1": 0.27136,
+"text": "Edw. I. K.",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.11573,
+"x1": 0.35364,
+"y0": 0.27,
+"y1": 0.285,
+"text": "Richard de Barewe, co. Saff, 1273. . A.",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.11696,
+"x1": 0.34871,
+"y0": 0.28148,
+"y1": 0.29341,
+"text": "William de la Barewe, co. Eeeex, ibid.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11696,
+"x1": 0.35364,
+"y0": 0.2917,
+"y1": 0.30398,
+"text": "John atte Barwe, co. Soms., 1 Edw. 111 :",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.23941,
+"y0": 0.30159,
+"y1": 0.31659,
+"text": "Kirby's Quest, p. 100.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.11737,
+"x1": 0.35446,
+"y0": 0.31284,
+"y1": 0.32511,
+"text": "John atte Berwe, co. Soms., 1 E:!w. I11 :",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.17449,
+"y0": 0.32307,
+"y1": 0.33705,
+"text": "ibid. p. 227.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.11573,
+"x1": 0.35528,
+"y0": 0.33091,
+"y1": 0.34693,
+"text": "1759. Married--Thomas Barrows and",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.32898,
+"y0": 0.34284,
+"y1": 0.35682,
+"text": "Mary Jones : St. Geo. Han. Sq. i. 83.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11655,
+"x1": 0.33515,
+"y0": 0.35307,
+"y1": 0.36909,
+"text": "London, 30, 2 ; Philadelphia, 10, 13.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.12025,
+"x1": 0.35282,
+"y0": 0.36977,
+"y1": 0.38273,
+"text": "Barrowclough, Barrowcliff,",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.35528,
+"y0": 0.38273,
+"y1": 0.39739,
+"text": "Barraclough.--Local, ‘of the",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.35323,
+"y0": 0.39636,
+"y1": 0.41102,
+"text": "Barrowclough'; some spot in 1 co.",
+"conf": 0.834
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.35364,
+"y0": 0.41,
+"y1": 0.42364,
+"text": "York, which I have failed. to-dis-",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.1034,
+"x1": 0.35158,
+"y0": 0.42295,
+"y1": 0.43761,
+"text": "cover ; v. Barrow and Clough.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10546,
+"x1": 0.35241,
+"y0": 0.43693,
+"y1": 0.45057,
+"text": "Cf Johannes de Barowchag' (i.e.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.35364,
+"y0": 0.44955,
+"y1": 0.46591,
+"text": "Barrowshaw), 1379 : P. T. Yorks.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10505,
+"x1": 0.156,
+"y0": 0.4642,
+"y1": 0.47818,
+"text": "p. 187.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11778,
+"x1": 0.35282,
+"y0": 0.47682,
+"y1": 0.48909,
+"text": "1626-7. John Champ and Eliz Barra-",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.33474,
+"y0": 0.48705,
+"y1": 0.5,
+"text": "clue : Marriage Lic. (London), ii. 183.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.11696,
+"x1": 0.35405,
+"y0": 0.49761,
+"y1": 0.51023,
+"text": "1690. Wiliiam Heasey and Rebecca",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.35446,
+"y0": 0.50705,
+"y1": 0.52136,
+"text": "Baroclough : Marriage 'Alleg. (Canter.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10505,
+"x1": 0.18764,
+"y0": 0.51795,
+"y1": 0.53227,
+"text": "bury). P..144.",
+"conf": 0.88
+},
+{
+"column": 1,
+"x0": 0.14121,
+"x1": 0.35323,
+"y0": 0.52682,
+"y1": 0.54045,
+"text": "William Smith and Ann Barra.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.10505,
+"x1": 0.23325,
+"y0": 0.53773,
+"y1": 0.55205,
+"text": "clough: ibid. p. 138.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.11778,
+"x1": 0.35446,
+"y0": 0.54761,
+"y1": 0.56193,
+"text": "1765. Married--Edward Barracliff and",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.35405,
+"y0": 0.55784,
+"y1": 0.57318,
+"text": "Martha Whittaker: St. Geo. Han. Sq.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.10381,
+"x1": 0.14121,
+"y0": 0.57045,
+"y1": 0.5817,
+"text": "i. 141.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.11737,
+"x1": 0.35241,
+"y0": 0.57932,
+"y1": 0.59261,
+"text": "London, O. I, I ; West Rid. Court Dir.,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.10381,
+"x1": 0.28584,
+"y0": 0.58989,
+"y1": 0.60557,
+"text": "1, 0, 20 ; Philadelphia, 2, 0, 3.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.11614,
+"x1": 0.35323,
+"y0": 0.60625,
+"y1": 0.61989,
+"text": "Barry.--Local,'of Barry.' There",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.35446,
+"y0": 0.62023,
+"y1": 0.63284,
+"text": "can be little doubt that this was of",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.10546,
+"x1": 0.35282,
+"y0": 0.63352,
+"y1": 0.64648,
+"text": "Norman extraction ; cf. the French",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.10381,
+"x1": 0.35405,
+"y0": 0.64614,
+"y1": 0.66148,
+"text": "Du Barry. The Irish Barrys have",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10546,
+"x1": 0.35323,
+"y0": 0.66114,
+"y1": 0.67341,
+"text": "made a large inroad in the Ameri.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.10669,
+"x1": 0.35364,
+"y0": 0.67409,
+"y1": 0.68807,
+"text": "can c directories. cannot say",
+"conf": 0.836
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.35487,
+"y0": 0.68705,
+"y1": 0.70102,
+"text": "whether they are of the same",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.10422,
+"x1": 0.23407,
+"y0": 0.7017,
+"y1": 0.71432,
+"text": "parentage or not.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.11737,
+"x1": 0.35323,
+"y0": 0.71534,
+"y1": 0.72693,
+"text": "John de Barry, co. Soma, 1 Edw. III :",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.10587,
+"x1": 0.23653,
+"y0": 0.72511,
+"y1": 0.73841,
+"text": "Kirby's Quest, p. 211.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.11655,
+"x1": 0.35405,
+"y0": 0.735,
+"y1": 0.74932,
+"text": "Iabella Barri, co. Soms, 1 Edw. J11 :",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10546,
+"x1": 0.13217,
+"y0": 0.74659,
+"y1": 0.75682,
+"text": "ibid.",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.11778,
+"x1": 0.35282,
+"y0": 0.75682,
+"y1": 0.76909,
+"text": "Robert Barry、 co. Notts, Hen. I11-",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.10587,
+"x1": 0.18024,
+"y0": 0.7667,
+"y1": 0.77795,
+"text": "Edw. I. K.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.11737,
+"x1": 0.30433,
+"y0": 0.77659,
+"y1": 0.78955,
+"text": "William Barry, co. Notta, ibid.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.11655,
+"x1": 0.322,
+"y0": 0.78648,
+"y1": 0.80148,
+"text": "Hugh Barry, co. Bncks, 1273., A.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.11696,
+"x1": 0.30474,
+"y0": 0.79739,
+"y1": 0.81068,
+"text": "Geoffrey Barri, co. Linc.. ibid.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.11696,
+"x1": 0.31337,
+"y0": 0.80761,
+"y1": 0.82227,
+"text": "London, 36 ; Boston (U.S.), 314.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.11902,
+"x1": 0.35076,
+"y0": 0.82125,
+"y1": 0.8383,
+"text": "Barter.--Occup. ‘the barter,",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10546,
+"x1": 0.35282,
+"y0": 0.83557,
+"y1": 0.85023,
+"text": "a dealer in goods; one who chaf-",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10546,
+"x1": 0.2505,
+"y0": 0.84852,
+"y1": 0.86557,
+"text": "fered, an exchanger.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.47834,
+"x1": 0.49971,
+"y0": 0.06989,
+"y1": 0.08591,
+"text": "81",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.59011,
+"y0": 0.09682,
+"y1": 0.11284,
+"text": "Hugh le Bartur, co. Oxf., I273. A.",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.61188,
+"y0": 0.10909,
+"y1": 0.12239,
+"text": "1578. Adam Barter, co. Cumb.: Reg.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36576,
+"x1": 0.5408,
+"y0": 0.12,
+"y1": 0.13125,
+"text": "Univ. Oxf. vol. ii. pt ii. p. 8a.",
+"conf": 0.939
+},
+{
+"column": 2,
+"x0": 0.37767,
+"x1": 0.61188,
+"y0": 0.12886,
+"y1": 0.14182,
+"text": "1657. Married---Robert Porch and Eliz.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.36411,
+"x1": 0.5823,
+"y0": 0.13977,
+"y1": 0.15273,
+"text": "Bartor : St. Mary Aldermary, p. 27.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.37562,
+"x1": 0.61312,
+"y0": 0.14932,
+"y1": 0.16398,
+"text": "1747. - Richard Verrier and' Betty",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.59874,
+"y0": 0.16125,
+"y1": 0.17352,
+"text": "Bartar: St. Geo. Chap. Mayfair, p. 88.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37562,
+"x1": 0.56011,
+"y0": 0.16977,
+"y1": 0.1858,
+"text": "London, 17; Boston (U.S.), 9.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37973,
+"x1": 0.61394,
+"y0": 0.18375,
+"y1": 0.19773,
+"text": "Barth.--Bapt. ，‘the son of",
+"conf": 0.84
+},
+{
+"column": 2,
+"x0": 0.36535,
+"x1": 0.61353,
+"y0": 0.19807,
+"y1": 0.21136,
+"text": "Barth,' i.e. Bartholomew, from",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36576,
+"x1": 0.51779,
+"y0": 0.21239,
+"y1": 0.22432,
+"text": "nick. Barth ; v. Bate.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.37685,
+"x1": 0.55477,
+"y0": 0.22705,
+"y1": 0.24034,
+"text": "London, 5; Philadelphia, 62.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.37973,
+"x1": 0.61188,
+"y0": 0.24136,
+"y1": 0.25466,
+"text": "Bartholomew.--Bapt. (theson",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.36535,
+"x1": 0.61312,
+"y0": 0.25466,
+"y1": 0.2683,
+"text": "of Bartholomew.' A great favourite",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36411,
+"x1": 0.61188,
+"y0": 0.2683,
+"y1": 0.28261,
+"text": "in the surname period, as its nicks.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36288,
+"x1": 0.61271,
+"y0": 0.27977,
+"y1": 0.29682,
+"text": "and dims. (Bartle and Bartlett, q.v.)",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.40972,
+"y0": 0.29818,
+"y1": 0.30875,
+"text": "prove.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.5938,
+"y0": 0.30875,
+"y1": 0.32477,
+"text": "Rohert Bartelmeu, co. Hunts, 1273:",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.37685,
+"x1": 0.60079,
+"y0": 0.32034,
+"y1": 0.33432,
+"text": "William Bartolomeus, co. Suff., ibid.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.61106,
+"y0": 0.33091,
+"y1": 0.34455,
+"text": "Gilbert fil. Bartholomew, co.'Camb.,",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36411,
+"x1": 0.39247,
+"y0": 0.34182,
+"y1": 0.35273,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.61188,
+"y0": 0.35136,
+"y1": 0.36568,
+"text": "Matilda fl. Bartholomei, co. Camb.,",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.36329,
+"x1": 0.39329,
+"y0": 0.36193,
+"y1": 0.37386,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37685,
+"x1": 0.61435,
+"y0": 0.37148,
+"y1": 0.38648,
+"text": "1579. John Curtys and Frances Bar.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.61353,
+"y0": 0.38273,
+"y1": 0.39705,
+"text": "tilimewe: Marriage Lic. (Westminster),",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.36535,
+"x1": 0.39247,
+"y0": 0.3967,
+"y1": 0.40659,
+"text": "P. 7:",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.37685,
+"x1": 0.61476,
+"y0": 0.40352,
+"y1": 0.41614,
+"text": "1616. Married -- William Dycke, of",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.36329,
+"x1": 0.61599,
+"y0": 0.41273,
+"y1": 0.42909,
+"text": "St. Bartlemcw Exchange,.. and Maria",
+"conf": 0.903
+},
+{
+"column": 2,
+"x0": 0.36576,
+"x1": 0.586,
+"y0": 0.42432,
+"y1": 0.43864,
+"text": "Wallis : St. Michael, Cornhill, p. 21.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.37767,
+"x1": 0.61435,
+"y0": 0.43523,
+"y1": 0.44784,
+"text": "1617. .-- Robert'Turner and Suzan",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.36494,
+"x1": 0.47177,
+"y0": 0.44614,
+"y1": 0.45739,
+"text": "Bartlemew : ibid.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37644,
+"x1": 0.56463,
+"y0": 0.455,
+"y1": 0.47068,
+"text": "London, 14 ; Philadelphia 34.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.37932,
+"x1": 0.61353,
+"y0": 0.46966,
+"y1": 0.48466,
+"text": "Barthrop, Barthropp, Bar.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.61353,
+"y0": 0.48295,
+"y1": 0.49966,
+"text": "theropp, Bartropp, Bartrop,",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36411,
+"x1": 0.61065,
+"y0": 0.49557,
+"y1": 0.5133,
+"text": "Bartrap.-- Local, ‘of Barthorpe,",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.61353,
+"y0": 0.50989,
+"y1": 0.52523,
+"text": "a hamlet in the parish of Acklam,",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.61476,
+"y0": 0.52375,
+"y1": 0.53909,
+"text": "E. Rid. Yorks.: cf. Thrupp for",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.55272,
+"y0": 0.53636,
+"y1": 0.55341,
+"text": "Thorp, and v. Winthorp.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37726,
+"x1": 0.61476,
+"y0": 0.55273,
+"y1": 0.56602,
+"text": "1687. John Hole and Hester Bartrap :",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.58723,
+"y0": 0.56295,
+"y1": 0.57693,
+"text": "Marriage Alleg. (Canterbury), P. 11.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37644,
+"x1": 0.61435,
+"y0": 0.57352,
+"y1": 0.58682,
+"text": "1766.° Married--Christopher Barthorp",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.36329,
+"x1": 0.61353,
+"y0": 0.58443,
+"y1": 0.59705,
+"text": "and Mary Hughes : St. Geo. Han. Sq. i. 50.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.61435,
+"y0": 0.59432,
+"y1": 0.60898,
+"text": "MDB.iSuffolk), 1, 2, I, O, O; London,",
+"conf": 0.916
+},
+{
+"column": 2,
+"x0": 0.36329,
+"x1": 0.61353,
+"y0": 0.60625,
+"y1": 0.6192,
+"text": "0, 0, 0, O, 2, O; Bartrap (MDB. co. Notts), 1.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.37932,
+"x1": 0.61394,
+"y0": 0.62125,
+"y1": 0.63557,
+"text": "Bartle.--Bapt. ' the son of Bar-",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.36452,
+"x1": 0.61435,
+"y0": 0.6342,
+"y1": 0.64955,
+"text": "tholomew,' from the nick. Bartle,",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36329,
+"x1": 0.61435,
+"y0": 0.64886,
+"y1": 0.66284,
+"text": "a form popular in north England.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36494,
+"x1": 0.51286,
+"y0": 0.66182,
+"y1": 0.67511,
+"text": "For dim., v. Bartlett.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.37685,
+"x1": 0.57983,
+"y0": 0.67545,
+"y1": 0.69284,
+"text": "John fl. Bertol, co. Camb., 1273.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.37808,
+"x1": 0.58641,
+"y0": 0.68807,
+"y1": 0.69966,
+"text": "Bartel Frobishcr, co. York. 9",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.37685,
+"x1": 0.5823,
+"y0": 0.69795,
+"y1": 0.71091,
+"text": "Bartly Bradforth, co. York. ibid.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37562,
+"x1": 0.61517,
+"y0": 0.70739,
+"y1": 0.72307,
+"text": "Bartell Story, co. Northumb., 1528 :",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.36494,
+"x1": 0.45533,
+"y0": 0.71864,
+"y1": 0.73193,
+"text": "TTT. p. xxviii.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37521,
+"x1": 0.61517,
+"y0": 0.7275,
+"y1": 0.74318,
+"text": "1752. Married -- Samue! Srencer and",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.36247,
+"x1": 0.61312,
+"y0": 0.73841,
+"y1": 0.75375,
+"text": "Sarah Bartle: St. Gco. Chap. Mayfair,",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.36288,
+"x1": 0.40438,
+"y0": 0.75,
+"y1": 0.76432,
+"text": "p. 226.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37603,
+"x1": 0.61476,
+"y0": 0.76023,
+"y1": 0.77284,
+"text": "1762. --William Baxter and Ann Bartle :",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.3637,
+"x1": 0.50998,
+"y0": 0.77114,
+"y1": 0.78307,
+"text": "St. Geo. Han. Sq. i. 116.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.3748,
+"x1": 0.61353,
+"y0": 0.78,
+"y1": 0.79534,
+"text": "London, I ; West Riding Court Dir., 3 ;",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.36288,
+"x1": 0.46684,
+"y0": 0.79125,
+"y1": 0.80557,
+"text": "Philadelphia, 26.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37932,
+"x1": 0.61312,
+"y0": 0.80557,
+"y1": 0.82023,
+"text": "Bartleet.---Bapt. ‘the son  of",
+"conf": 0.905
+},
+{
+"column": 2,
+"x0": 0.3637,
+"x1": 0.56422,
+"y0": 0.8175,
+"y1": 0.83386,
+"text": "Bartholomew' ; v. Bartlett.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37562,
+"x1": 0.44424,
+"y0": 0.83523,
+"y1": 0.8492,
+"text": "London, 4.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.3785,
+"x1": 0.60942,
+"y0": 0.84955,
+"y1": 0.86455,
+"text": "Bartleman.--Occup.‘the ser",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.48204,
+"x1": 0.4956,
+"y0": 0.87102,
+"y1": 0.88227,
+"text": "G",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.69961,
+"x1": 0.79781,
+"y0": 0.07057,
+"y1": 0.08284,
+"text": "BARTLEY",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62277,
+"x1": 0.87095,
+"y0": 0.09886,
+"y1": 0.11148,
+"text": "vant of Bartle,' i.e. Bartholomew.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87301,
+"y0": 0.11284,
+"y1": 0.12477,
+"text": "A form of surname almost confined",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.62236,
+"x1": 0.87218,
+"y0": 0.12477,
+"y1": 0.13943,
+"text": "to Yorkshire, where Matthewman,",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87342,
+"y0": 0.13875,
+"y1": 0.15273,
+"text": "Addyman, Priestman, and Vicker.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.74645,
+"y0": 0.15477,
+"y1": 0.16602,
+"text": "man (q.v.) arose.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63674,
+"x1": 0.87177,
+"y0": 0.16739,
+"y1": 0.18102,
+"text": "Adam Batel, 1379 : P. T. Yorks. p. 196.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63551,
+"x1": 0.81466,
+"y0": 0.17761,
+"y1": 0.19295,
+"text": "Simon Batelman, 1379 : ibid.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63551,
+"x1": 0.87424,
+"y0": 0.18784,
+"y1": 0.20182,
+"text": "1750. Married -- Thomas Scott and",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87177,
+"y0": 0.19841,
+"y1": 0.21205,
+"text": "Janne Bartleman: St. Geo. Chap. Mayfuir,",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.66386,
+"y0": 0.21034,
+"y1": 0.22227,
+"text": "P. 183.",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.63633,
+"x1": 0.87259,
+"y0": 0.21955,
+"y1": 0.23182,
+"text": "178o. - David Bartleman and Mary",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.82616,
+"y0": 0.22977,
+"y1": 0.24273,
+"text": "Brown : St. Gco. Han. Sq. i. 310.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.63469,
+"x1": 0.87506,
+"y0": 0.23966,
+"y1": 0.25398,
+"text": "London, 2; 1 Newcastle-on-Tyne, I ;",
+"conf": 0.915
+},
+{
+"column": 3,
+"x0": 0.62318,
+"x1": 0.7181,
+"y0": 0.25057,
+"y1": 0.26455,
+"text": "Philadelphia, 2.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63921,
+"x1": 0.87095,
+"y0": 0.26966,
+"y1": 0.28193,
+"text": "Bartlett, Bartlot, Bartlott,",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62318,
+"x1": 0.87342,
+"y0": 0.28193,
+"y1": 0.29625,
+"text": "Bartolet, Bartolett.--Bapt. ‘the",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62318,
+"x1": 0.87136,
+"y0": 0.29545,
+"y1": 0.30909,
+"text": "son of Bartholomew,' from the nick.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87342,
+"y0": 0.30977,
+"y1": 0.32273,
+"text": "Bartle, and dim. Bartl-ot and",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.62318,
+"x1": 0.87588,
+"y0": 0.32205,
+"y1": 0.33705,
+"text": "Bartl-et. I subjoin a few out of",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62277,
+"x1": 0.87383,
+"y0": 0.33534,
+"y1": 0.35034,
+"text": "many instances in the Hundred",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.62441,
+"x1": 0.87506,
+"y0": 0.35034,
+"y1": 0.36227,
+"text": "Rolls. The variants were numer-",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62482,
+"x1": 0.87424,
+"y0": 0.36295,
+"y1": 0.37693,
+"text": "ous.  It is quite evident that Bart-",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87301,
+"y0": 0.37659,
+"y1": 0.39057,
+"text": "let or Bartlot was the popular nick.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.624,
+"x1": 0.87342,
+"y0": 0.39023,
+"y1": 0.40352,
+"text": "for this then favourite Apostolic",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62441,
+"x1": 0.66879,
+"y0": 0.40659,
+"y1": 0.41682,
+"text": "name.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63592,
+"x1": 0.87301,
+"y0": 0.42023,
+"y1": 0.4342,
+"text": "Bartelot (without surmame), co. Bedf.,",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.624,
+"x1": 0.68399,
+"y0": 0.43114,
+"y1": 0.44716,
+"text": "1273:A.",
+"conf": 0.88
+},
+{
+"column": 3,
+"x0": 0.63756,
+"x1": 0.85123,
+"y0": 0.44034,
+"y1": 0.45534,
+"text": "Thomas Bartholot, co. Camh., ibid.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63674,
+"x1": 0.83315,
+"y0": 0.45125,
+"y1": 0.46489,
+"text": "William Bartolot, co. Oxf., ibid.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.63633,
+"x1": 0.82534,
+"y0": 0.46148,
+"y1": 0.4758,
+"text": "Bartelot Govi, co. Hunts, ibid.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63715,
+"x1": 0.82411,
+"y0": 0.47205,
+"y1": 0.48568,
+"text": "Alan Bartelet, co. Camb., ibid.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63551,
+"x1": 0.83027,
+"y0": 0.48227,
+"y1": 0.49625,
+"text": "Richard Bartelot, co. Oxf., ibid.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63551,
+"x1": 0.87424,
+"y0": 0.4917,
+"y1": 0.50773,
+"text": "Thomas Bartlot, 1379: P. T Yorks.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.62277,
+"x1": 0.66468,
+"y0": 0.50432,
+"y1": 0.51727,
+"text": "p. 196.",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.63551,
+"x1": 0.85739,
+"y0": 0.51364,
+"y1": 0.52864,
+"text": "Robertus Bertlot, 1379 : ibid. p. 142.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63592,
+"x1": 0.87506,
+"y0": 0.52409,
+"y1": 0.53773,
+"text": "1524. Thomas Barthelette and Agnes",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.624,
+"x1": 0.87383,
+"y0": 0.53534,
+"y1": 0.54761,
+"text": "Langwyth : Marriage Lic. (London),i. 4.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63633,
+"x1": 0.87465,
+"y0": 0.54455,
+"y1": 0.55955,
+"text": "1578. Robert Bartlet, co. Dorset : Reg.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62482,
+"x1": 0.80069,
+"y0": 0.5558,
+"y1": 0.56773,
+"text": "Lniv. Oxf. vol. ii. pt. ii. p. 84.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.63592,
+"x1": 0.87547,
+"y0": 0.56534,
+"y1": 0.57966,
+"text": "1673. Buried---William, s. John Bartlott :",
+"conf": 0.949
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87136,
+"y0": 0.57625,
+"y1": 0.58886,
+"text": "St. Dionis Backchurch (London), P. 240.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.6351,
+"x1": 0.87259,
+"y0": 0.58614,
+"y1": 0.6008,
+"text": "London, 83, 10, 0, 0, 0; Philadelphia,",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62441,
+"x1": 0.70084,
+"y0": 0.60011,
+"y1": 0.61102,
+"text": "43, 0, 2, 1, 5.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.63838,
+"x1": 0.87301,
+"y0": 0.61409,
+"y1": 0.63045,
+"text": "Bartley.-(1) Bapt. ‘the son",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87383,
+"y0": 0.62568,
+"y1": 0.64273,
+"text": "of Bartholomew, from the nick.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62524,
+"x1": 0.87259,
+"y0": 0.64239,
+"y1": 0.655,
+"text": "Bartle and pet Bartl-ey; cf. Charlie,",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.62482,
+"x1": 0.87342,
+"y0": 0.65466,
+"y1": 0.67,
+"text": "Teddy, Bobbie, &c. Although",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.624,
+"x1": 0.87424,
+"y0": 0.6683,
+"y1": 0.68432,
+"text": "looking strongly local, I find no",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.62606,
+"x1": 0.87383,
+"y0": 0.68227,
+"y1": 0.69523,
+"text": "evidence of this. We have, on the",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.87465,
+"y0": 0.6942,
+"y1": 0.71125,
+"text": "contrary, proof that Bartley owns",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62565,
+"x1": 0.81877,
+"y0": 0.70943,
+"y1": 0.72273,
+"text": "Bartholomew as its parent.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.63674,
+"x1": 0.85123,
+"y0": 0.72352,
+"y1": 0.73818,
+"text": "Bartly Bradforth, co. York. W. 9.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63962,
+"x1": 0.87301,
+"y0": 0.74011,
+"y1": 0.75511,
+"text": "This occurring  in the county",
+"conf": 0.929
+},
+{
+"column": 3,
+"x0": 0.62482,
+"x1": 0.87342,
+"y0": 0.75375,
+"y1": 0.76841,
+"text": "where Bartle  was  so 1 popular",
+"conf": 0.858
+},
+{
+"column": 3,
+"x0": 0.62318,
+"x1": 0.87218,
+"y0": 0.76705,
+"y1": 0.78239,
+"text": "clinches the argument; v. Bartle,",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62359,
+"x1": 0.75713,
+"y0": 0.7817,
+"y1": 0.79466,
+"text": "Bartlett, Bate, &c.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63756,
+"x1": 0.87177,
+"y0": 0.79295,
+"y1": 0.80966,
+"text": "(2) Local, 'of Berkeley,' avariant.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.62318,
+"x1": 0.65646,
+"y0": 0.83352,
+"y1": 0.84409,
+"text": "P. 50.",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.63428,
+"x1": 0.87095,
+"y0": 0.83966,
+"y1": 0.85534,
+"text": "i59!-2. Richard Barkeley, or Bartley,",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62236,
+"x1": 0.76864,
+"y0": 0.85227,
+"y1": 0.86455,
+"text": "co. Glouc. : ibid. p. 188.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.69632,
+"x1": 0.87547,
+"y0": 0.91636,
+"y1": 0.94739,
+"text": "Digitized by Goog",
+"conf": 0.977
+}
+]

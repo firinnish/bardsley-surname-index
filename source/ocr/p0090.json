@@ -1,0 +1,1721 @@
+[
+{
+"column": 1,
+"x0": 0.20411,
+"x1": 0.29941,
+"y0": 0.07295,
+"y1": 0.08523,
+"text": "BECKETT",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.37705,
+"y0": 0.09989,
+"y1": 0.11489,
+"text": "Becker'(1). Some old personal name ;",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.375,
+"y0": 0.1142,
+"y1": 0.1275,
+"text": "cf. Beckert (German) in London",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.12729,
+"x1": 0.20329,
+"y0": 0.12682,
+"y1": 0.14148,
+"text": "Directory.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.37418,
+"y0": 0.14114,
+"y1": 0.15511,
+"text": "Alicia Beckar, 1379 : P. T. Yorks. p. 84.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13879,
+"x1": 0.31009,
+"y0": 0.15102,
+"y1": 0.16636,
+"text": "Magota Beckar, 1379 : ibid.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.37664,
+"y0": 0.16193,
+"y1": 0.17523,
+"text": "1668. Married- Roger Becker and Ann",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12688,
+"x1": 0.35898,
+"y0": 0.17284,
+"y1": 0.18511,
+"text": "Nicoles : St. Jas. Clerkenwell, iii. 164.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14126,
+"x1": 0.37623,
+"y0": 0.18341,
+"y1": 0.19534,
+"text": "1761. - Ludewig Berker and Jane",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.34131,
+"y0": 0.19261,
+"y1": 0.20625,
+"text": "Toolken : St. Geo. Han. Sq. i. 101.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.1392,
+"x1": 0.32406,
+"y0": 0.20386,
+"y1": 0.2175,
+"text": "London, 9: Philadelphia, 104.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14167,
+"x1": 0.37705,
+"y0": 0.2192,
+"y1": 0.23455,
+"text": "Beckett.—-(1) Local, ‘at the",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.37664,
+"y0": 0.2325,
+"y1": 0.24852,
+"text": "beck-hcad'; v.A'Becket. (2) Bapt. ;",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.37664,
+"y0": 0.24614,
+"y1": 0.2625,
+"text": "cf. Birkett.  Probably a personal",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.25792,
+"y0": 0.26114,
+"y1": 0.27307,
+"text": "name; cf. Becker.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.14002,
+"x1": 0.37787,
+"y0": 0.27443,
+"y1": 0.28773,
+"text": "John Becket, co. Soms., I Edw. I1I :",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.12811,
+"x1": 0.25422,
+"y0": 0.28386,
+"y1": 0.2992,
+"text": "Kirby's Quest, p. 93.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.13797,
+"x1": 0.37623,
+"y0": 0.29409,
+"y1": 0.31011,
+"text": "Robertus Becket, 1379: P. T. Yorks.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.16919,
+"y0": 0.30602,
+"y1": 0.31898,
+"text": "p. 287.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.13797,
+"x1": 0.37664,
+"y0": 0.31557,
+"y1": 0.3292,
+"text": "1532. Robert Bekett and Elenc Mar",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.34501,
+"y0": 0.32511,
+"y1": 0.3408,
+"text": "shall : Marriage Lic. (London), i. 8.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13879,
+"x1": 0.37459,
+"y0": 0.33602,
+"y1": 0.35136,
+"text": "1586. Thomas Jennings and Eliz",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.25874,
+"y0": 0.34591,
+"y1": 0.36125,
+"text": "Beckett : ibid. p. 152.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.13797,
+"x1": 0.37787,
+"y0": 0.35511,
+"y1": 0.37114,
+"text": "1619. Richard  Becket, of Ch. Ch.:",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.12688,
+"x1": 0.27353,
+"y0": 0.36739,
+"y1": 0.3817,
+"text": "Reg. Univ. Oxf. ii. 380.",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.32159,
+"y0": 0.37898,
+"y1": 0.39159,
+"text": "London, 22 ; Philadelphia, 20.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.14208,
+"x1": 0.37418,
+"y0": 0.39295,
+"y1": 0.40898,
+"text": "Beckford, Bickford.-- Local,",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.37623,
+"y0": 0.40693,
+"y1": 0.42261,
+"text": "'of Beckford,' a parish in co.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.37705,
+"y0": 0.42023,
+"y1": 0.43693,
+"text": "Gloucester, about six miles from",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12729,
+"x1": 0.22095,
+"y0": 0.43386,
+"y1": 0.44955,
+"text": "Tewkesbury.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14002,
+"x1": 0.375,
+"y0": 0.4492,
+"y1": 0.46284,
+"text": "(Prior) de Bckeford, co. Glouc., Hen.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.12688,
+"x1": 0.22629,
+"y0": 0.45909,
+"y1": 0.47136,
+"text": "HI-Edw. I. K.",
+"conf": 0.912
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.375,
+"y0": 0.47,
+"y1": 0.48398,
+"text": "(Prior) de Bekeford, co. Glouc., 1273. A.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.14084,
+"x1": 0.36514,
+"y0": 0.47989,
+"y1": 0.4942,
+"text": "Adam de Beckeford, co. Glouc., ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14002,
+"x1": 0.36555,
+"y0": 0.49045,
+"y1": 0.50443,
+"text": "Henry de Beckeford, co. Glouc., ibid.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14126,
+"x1": 0.34378,
+"y0": 0.50091,
+"y1": 0.51352,
+"text": "Alex. de Bi keford, co. Staff., ibid.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.37623,
+"y0": 0.51011,
+"y1": 0.5258,
+"text": ":William  Beckford  (1709-Zo), twice",
+"conf": 0.896
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.37705,
+"y0": 0.52068,
+"y1": 0.53602,
+"text": "Lord Mayor of London. . .. The Beck-",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.37664,
+"y0": 0.53023,
+"y1": 0.54693,
+"text": "fords were deacended from a family long",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.12729,
+"x1": 0.37623,
+"y0": 0.54284,
+"y1": 0.55545,
+"text": "resident in Gloucestershire': Dict. Nat.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.1277,
+"x1": 0.20205,
+"y0": 0.55239,
+"y1": 0.56602,
+"text": "Biog. iv. 8o.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.37582,
+"y0": 0.56398,
+"y1": 0.57625,
+"text": "1743. Married-Francis Beckford and",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.37582,
+"y0": 0.5725,
+"y1": 0.58852,
+"text": "Lady Aibinia Bertie : St. Geo. Han. Sq.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.15769,
+"y0": 0.58443,
+"y1": 0.59705,
+"text": "i. 31.",
+"conf": 0.856
+},
+{
+"column": 1,
+"x0": 0.1392,
+"x1": 0.35774,
+"y0": 0.59364,
+"y1": 0.60898,
+"text": "London, 2, I ; Boston (U.S.), 12, 45.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.14249,
+"x1": 0.37212,
+"y0": 0.60932,
+"y1": 0.62568,
+"text": "Beckles.--Local, ‘of Beccles,",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12647,
+"x1": 0.30311,
+"y0": 0.625,
+"y1": 0.63727,
+"text": "a parish in co. Suffolk.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13879,
+"x1": 0.37582,
+"y0": 0.63795,
+"y1": 0.65295,
+"text": "Daniel de Beccles, Norwich, 1256 : FF.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12688,
+"x1": 0.17083,
+"y0": 0.64886,
+"y1": 0.66045,
+"text": "ii. 488.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13838,
+"x1": 0.36432,
+"y0": 0.65875,
+"y1": 0.67443,
+"text": "Hugh de Beccles, co. Suff., 1273.  A.",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.14043,
+"x1": 0.223,
+"y0": 0.66966,
+"y1": 0.68261,
+"text": "Crockford, 2.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.14167,
+"x1": 0.375,
+"y0": 0.68398,
+"y1": 0.70068,
+"text": "Beckley.--Local, ‘ of Beckley.'",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.12688,
+"x1": 0.37787,
+"y0": 0.69727,
+"y1": 0.715,
+"text": "(1) a parish in co. Oxford: (2) a",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.12606,
+"x1": 0.35323,
+"y0": 0.7108,
+"y1": 0.7275,
+"text": "parish in co. Sussex, near Rye.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.1392,
+"x1": 0.37623,
+"y0": 0.72511,
+"y1": 0.7408,
+"text": "Thomas de Bec kelegh, co. Oxf., 1273. A.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.14126,
+"x1": 0.33926,
+"y0": 0.7367,
+"y1": 0.74932,
+"text": "Henry de Beckele, co. Oxf., ibid.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.1392,
+"x1": 0.37746,
+"y0": 0.74591,
+"y1": 0.76159,
+"text": "1622.'Simon Beckley, co. Berks, and",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.12811,
+"x1": 0.37746,
+"y0": 0.75716,
+"y1": 0.7725,
+"text": "Mary Winch : Marriage Alleg. (Canter.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.12811,
+"x1": 0.20287,
+"y0": 0.76773,
+"y1": 0.78136,
+"text": "bury) , p. 68.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.18028,
+"x1": 0.37705,
+"y0": 0.77761,
+"y1": 0.79159,
+"text": "Edmund Winder and Elinor",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.1277,
+"x1": 0.25998,
+"y0": 0.78852,
+"y1": 0.80114,
+"text": "Beckfey: ibid. p. 120.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.37541,
+"y0": 0.79909,
+"y1": 0.81239,
+"text": "1753. Married- John Beckley and Eliz.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12729,
+"x1": 0.37582,
+"y0": 0.8083,
+"y1": 0.82432,
+"text": "Withers : St. Geo. Chap. Mayfair, p. 258.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.13961,
+"x1": 0.3105,
+"y0": 0.81852,
+"y1": 0.83489,
+"text": "London, 6; Philadelphia, 9.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14331,
+"x1": 0.36555,
+"y0": 0.83523,
+"y1": 0.84989,
+"text": "Beckman, Beckmann. -",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.12729,
+"x1": 0.37212,
+"y0": 0.8492,
+"y1": 0.8642,
+"text": "Bapt. ‘the son of Beckmann",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.50218,
+"x1": 0.52437,
+"y0": 0.07091,
+"y1": 0.08591,
+"text": "90",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38876,
+"x1": 0.6345,
+"y0": 0.10057,
+"y1": 0.11489,
+"text": "(German). For an English ex-",
+"conf": 0.939
+},
+{
+"column": 2,
+"x0": 0.38588,
+"x1": 0.53218,
+"y0": 0.11386,
+"y1": 0.12784,
+"text": "ample, v. Bickman.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39862,
+"x1": 0.63656,
+"y0": 0.1292,
+"y1": 0.14182,
+"text": "1667. Married - John Becman and",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.38547,
+"x1": 0.63533,
+"y0": 0.13977,
+"y1": 0.15341,
+"text": "Susanna Wright : St. Jas. Clerkenwell,",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.43109,
+"y0": 0.15068,
+"y1": 0.16193,
+"text": "ii. 140.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.60451,
+"y0": 0.16023,
+"y1": 0.17557,
+"text": "Philadelphia, 29, 5; London, 0, 2.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.40232,
+"x1": 0.63492,
+"y0": 0.17795,
+"y1": 0.19227,
+"text": "Beckwith.--Local, ‘of Beck-",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38835,
+"x1": 0.63779,
+"y0": 0.19159,
+"y1": 0.20625,
+"text": "with,' a hamlet in the parish of",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.38712,
+"x1": 0.63656,
+"y0": 0.2042,
+"y1": 0.22091,
+"text": "Pannall, near Harrogate, co. York",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.38876,
+"x1": 0.63615,
+"y0": 0.2192,
+"y1": 0.23182,
+"text": "(cf. Askwith; no doubt the sufix is",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.63615,
+"y0": 0.23284,
+"y1": 0.24545,
+"text": "a variant of worth ; v. Worth). This",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38547,
+"x1": 0.63656,
+"y0": 0.2458,
+"y1": 0.26045,
+"text": "surname is strongly established in",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38712,
+"x1": 0.63368,
+"y0": 0.25875,
+"y1": 0.27375,
+"text": "Boston (U.S.). *Robert Beckwith,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38712,
+"x1": 0.63697,
+"y0": 0.27205,
+"y1": 0.28841,
+"text": "aged 21, went oul in 1635 in the",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.38794,
+"x1": 0.63574,
+"y0": 0.28455,
+"y1": 0.30125,
+"text": "Transport, bound for Virginia' (v.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38753,
+"x1": 0.63574,
+"y0": 0.29716,
+"y1": 0.31523,
+"text": "Hotten's 'Lists of Emigrants, p.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.38753,
+"x1": 0.42328,
+"y0": 0.31318,
+"y1": 0.32648,
+"text": "103).",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63492,
+"y0": 0.32648,
+"y1": 0.34318,
+"text": "Willelmus Bekwyt, 1379: P. T. Yorks.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38712,
+"x1": 0.42698,
+"y0": 0.33977,
+"y1": 0.35,
+"text": "p. 19o.",
+"conf": 0.834
+},
+{
+"column": 2,
+"x0": 0.39862,
+"x1": 0.61272,
+"y0": 0.34761,
+"y1": 0.36261,
+"text": "Willelmus de Bekwyth,1379:ibid.",
+"conf": 0.92
+},
+{
+"column": 2,
+"x0": 0.39862,
+"x1": 0.6082,
+"y0": 0.35852,
+"y1": 0.37352,
+"text": "Johannes de Bekwyth,1379:ibid.",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63615,
+"y0": 0.36943,
+"y1": 0.38307,
+"text": "156a.William Beckewitheand Margaret",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.38794,
+"x1": 0.61601,
+"y0": 0.37932,
+"y1": 0.39364,
+"text": "Daye:Marriage Lic.(London),i.24.",
+"conf": 0.893
+},
+{
+"column": 2,
+"x0": 0.39862,
+"x1": 0.63533,
+"y0": 0.39091,
+"y1": 0.40318,
+"text": "1572.Roger Beckwith,St.Alban Hall:",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.38588,
+"x1": 0.59834,
+"y0": 0.39977,
+"y1": 0.41648,
+"text": "Reg.Univ.Oxf.vol.ii.pt.ii.p.41",
+"conf": 0.915
+},
+{
+"column": 2,
+"x0": 0.39944,
+"x1": 0.63574,
+"y0": 0.4117,
+"y1": 0.42398,
+"text": "1754.Married-AmbroseBeckwithand",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.39944,
+"x1": 0.61231,
+"y0": 0.43182,
+"y1": 0.44477,
+"text": "London,;West Riding Court",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.38629,
+"x1": 0.51492,
+"y0": 0.44239,
+"y1": 0.45568,
+"text": "5;Boston (U.S.),1o.",
+"conf": 0.9
+},
+{
+"column": 2,
+"x0": 0.40232,
+"x1": 0.63656,
+"y0": 0.45705,
+"y1": 0.47273,
+"text": "Bed.-Local, 'of the bed,' an",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.38629,
+"x1": 0.63656,
+"y0": 0.47102,
+"y1": 0.48705,
+"text": "offcial title: the yeoman of the",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.48204,
+"y0": 0.48534,
+"y1": 0.49795,
+"text": "bed-chamber.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.40027,
+"x1": 0.52684,
+"y0": 0.50057,
+"y1": 0.5125,
+"text": "Gilbert del Bed. H.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39944,
+"x1": 0.63122,
+"y0": 0.51045,
+"y1": 0.52443,
+"text": "Gilbert del Bed, Cloee Roll, 30 Edw. I.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39739,
+"x1": 0.63574,
+"y0": 0.51898,
+"y1": 0.53773,
+"text": "'To Lamberte yoman of the Bedde.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.63656,
+"y0": 0.53125,
+"y1": 0.54625,
+"text": "viis. vid.' 1540: Privy Purse Exp., Princess",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.46396,
+"y0": 0.54148,
+"y1": 0.5558,
+"text": "Mary, p. 86.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.4015,
+"x1": 0.63492,
+"y0": 0.5575,
+"y1": 0.57182,
+"text": "Beddall.--Offic. ‘the beadle';",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.45862,
+"y0": 0.57114,
+"y1": 0.58443,
+"text": "v. Beadle.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.3978,
+"x1": 0.63122,
+"y0": 0.58614,
+"y1": 0.60114,
+"text": "Simon le Beddel, C. R., 56 Henry I!1.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63533,
+"y0": 0.59773,
+"y1": 0.61,
+"text": "1586-7. Richard Cottman and'Alice",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.62834,
+"y0": 0.60761,
+"y1": 0.62091,
+"text": "Bedall : Marriage Lic. (London), i. 158.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39986,
+"x1": 0.63574,
+"y0": 0.61852,
+"y1": 0.63148,
+"text": "1746. Married--Thomas Shepherd and",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38629,
+"x1": 0.63409,
+"y0": 0.62773,
+"y1": 0.64239,
+"text": "Mary Beddall: St. Geo. Chap. Mayfair,",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38547,
+"x1": 0.42122,
+"y0": 0.63761,
+"y1": 0.65227,
+"text": "p. 68.",
+"conf": 0.936
+},
+{
+"column": 2,
+"x0": 0.39862,
+"x1": 0.63574,
+"y0": 0.64886,
+"y1": 0.66386,
+"text": "London, 1; Philadelphia, I; New",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.38753,
+"x1": 0.44013,
+"y0": 0.66011,
+"y1": 0.67239,
+"text": "York, i.",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.40068,
+"x1": 0.63368,
+"y0": 0.67409,
+"y1": 0.6908,
+"text": "Beddoe, Beddoes, Beddow,",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38712,
+"x1": 0.63492,
+"y0": 0.68909,
+"y1": 0.70375,
+"text": "Bedow, Peddowe, Beddows.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38876,
+"x1": 0.63574,
+"y0": 0.70273,
+"y1": 0.71739,
+"text": "-Bapt. ap- or ab-Eddow. A Welsh",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.38629,
+"x1": 0.63574,
+"y0": 0.71568,
+"y1": 0.7317,
+"text": "patronymic, 'the son of Eddow';",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.63492,
+"y0": 0.72932,
+"y1": 0.74364,
+"text": "cf. Bevans, Bethell, Bloyd, Ben.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38629,
+"x1": 0.63533,
+"y0": 0.74318,
+"y1": 0.75716,
+"text": "yon, &c. My view is corroborated",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38835,
+"x1": 0.63574,
+"y0": 0.75614,
+"y1": 0.77045,
+"text": "by the fact that Eddowe existed",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38753,
+"x1": 0.63574,
+"y0": 0.77114,
+"y1": 0.78307,
+"text": "alongside Beddowe; cf. Bithell and",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.38794,
+"x1": 0.63574,
+"y0": 0.78375,
+"y1": 0.79636,
+"text": "Ithell, Ennion and Bennion. Also",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38629,
+"x1": 0.63615,
+"y0": 0.79705,
+"y1": 0.81102,
+"text": "as Eddowe became Eddowes, so",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38753,
+"x1": 0.63533,
+"y0": 0.81034,
+"y1": 0.82466,
+"text": "Beddoe became Beddoes; v. Ed-",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.38794,
+"x1": 0.63574,
+"y0": 0.82466,
+"y1": 0.83761,
+"text": "dowes. Although I may not have",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.63574,
+"y0": 0.83761,
+"y1": 0.85193,
+"text": "got the exact form of the personal",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3867,
+"x1": 0.63779,
+"y0": 0.85193,
+"y1": 0.86489,
+"text": "name, there can be no doubt about",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.70701,
+"x1": 0.83641,
+"y0": 0.07432,
+"y1": 0.08659,
+"text": "BRDINGEAM",
+"conf": 0.909
+},
+{
+"column": 3,
+"x0": 0.64703,
+"x1": 0.89556,
+"y0": 0.10125,
+"y1": 0.11523,
+"text": "the origin as stated above. Bed.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64703,
+"x1": 0.89556,
+"y0": 0.11489,
+"y1": 0.1292,
+"text": "does is a double patronymic, part",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.64703,
+"x1": 0.89515,
+"y0": 0.12818,
+"y1": 0.1425,
+"text": "English, part Welsh : ab-Eddow-s.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64703,
+"x1": 0.89474,
+"y0": 0.14148,
+"y1": 0.1558,
+"text": "This fnal s is the same as the s in",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.88735,
+"y0": 0.15443,
+"y1": 0.17045,
+"text": "Williams or Jennings; v. Bevans.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65853,
+"x1": 0.89474,
+"y0": 0.17352,
+"y1": 0.18682,
+"text": "1577-8. Richard Peddowe and Johanna",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64621,
+"x1": 0.87749,
+"y0": 0.18409,
+"y1": 0.19739,
+"text": "Green : Marriage Lic. (London), i. 78.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65894,
+"x1": 0.89351,
+"y0": 0.19364,
+"y1": 0.20795,
+"text": "- Richard Love and Johanna Bedowe,",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.64703,
+"x1": 0.72385,
+"y0": 0.20591,
+"y1": 0.21648,
+"text": "widow: ibid.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65771,
+"x1": 0.89515,
+"y0": 0.21409,
+"y1": 0.23045,
+"text": "1578-9. Thomas Bedo, co. Salop : Reg.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64785,
+"x1": 0.82203,
+"y0": 0.22534,
+"y1": 0.2383,
+"text": "Univ. Oxf. vol. ii. pt. ii. p. 85.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65894,
+"x1": 0.89556,
+"y0": 0.23523,
+"y1": 0.2492,
+"text": "Edward Beddowe, of Tybroughton, co.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6458,
+"x1": 0.89638,
+"y0": 0.24511,
+"y1": 0.2608,
+"text": "Flint, yeoman, 165o: Wills at Chester",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.75466,
+"y0": 0.2567,
+"y1": 0.27,
+"text": "(1621-1650), P. '18.",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.65936,
+"x1": 0.89515,
+"y0": 0.26727,
+"y1": 0.28023,
+"text": "Margaret Beddowe, of Hanmer, 1622 :",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.6725,
+"y0": 0.27739,
+"y1": 0.28761,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65894,
+"x1": 0.89597,
+"y0": 0.28761,
+"y1": 0.3,
+"text": "William Beddowe, clerk, vicar of",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.88406,
+"y0": 0.29625,
+"y1": 0.31432,
+"text": "Hanmer, ! 1574 : ibid. (1545-1620), P. 16.",
+"conf": 0.926
+},
+{
+"column": 3,
+"x0": 0.65771,
+"x1": 0.89392,
+"y0": 0.30773,
+"y1": 0.32239,
+"text": "David' Eddowe, of Iscoyd, co. Flint,",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.75137,
+"y0": 0.31761,
+"y1": 0.33295,
+"text": "Ito5 : ibid. P..59.",
+"conf": 0.888
+},
+{
+"column": 3,
+"x0": 0.65771,
+"x1": 0.89515,
+"y0": 0.32818,
+"y1": 0.34284,
+"text": "Thomas Eddowe, of Oldcastle, 16i5 :",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.6458,
+"x1": 0.6725,
+"y0": 0.33943,
+"y1": 0.35034,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65689,
+"x1": 0.89515,
+"y0": 0.34898,
+"y1": 0.36466,
+"text": "London, 2, 0. 2, I,0. 0; Manchester. 1,",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.64416,
+"x1": 0.89556,
+"y0": 0.36023,
+"y1": 0.37386,
+"text": "0, 0, 0.0 0 ; Crockford (1879), 0, 1. 0, 0,",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.64416,
+"x1": 0.89515,
+"y0": 0.3708,
+"y1": 0.38375,
+"text": "0. 0; MDB. (co. Radnor), 0. 1, 0, 0. 0, 0;",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.89515,
+"y0": 0.39261,
+"y1": 0.40489,
+"text": "9 0 9. 0; Montgomery), 0. .4 9 .0. 0, 0;",
+"conf": 0.733
+},
+{
+"column": 3,
+"x0": 0.64457,
+"x1": 0.89433,
+"y0": 0.40011,
+"y1": 0.41682,
+"text": "New York (Beddows), i;'Philadelphia, I,",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.64498,
+"x1": 0.71687,
+"y0": 0.41375,
+"y1": 0.42568,
+"text": "0, 3. 0, 0, a",
+"conf": 0.911
+},
+{
+"column": 3,
+"x0": 0.661,
+"x1": 0.89187,
+"y0": 0.43182,
+"y1": 0.44716,
+"text": "Bedford.--Local, ‘ of Bedford,",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.79903,
+"y0": 0.44716,
+"y1": 0.45909,
+"text": "in the co. of Bedford.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65853,
+"x1": 0.89433,
+"y0": 0.46489,
+"y1": 0.47886,
+"text": "John de Bedford, taillour, 9 Edw. I11 :",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.78876,
+"y0": 0.47511,
+"y1": 0.48943,
+"text": "Freemen of York, i. 30.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.65936,
+"x1": 0.89351,
+"y0": 0.48466,
+"y1": 0.50136,
+"text": "Jordan de Bedeford, co. Oxf., 1273: ,A.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65894,
+"x1": 0.88242,
+"y0": 0.49545,
+"y1": 0.5108,
+"text": "Robert de Bedeford, co. Hunts, ibid.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.65689,
+"x1": 0.89515,
+"y0": 0.50602,
+"y1": 0.52205,
+"text": "Johannes de Bedforth, 1379 : P. T.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.73535,
+"y0": 0.51795,
+"y1": 0.5292,
+"text": "Yorks. p. 168.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.6573,
+"x1": 0.89392,
+"y0": 0.52716,
+"y1": 0.54216,
+"text": "1578. Antony Bedford, co. Salop: Reg.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.82285,
+"y0": 0.53739,
+"y1": 0.5517,
+"text": "Univ. Oxf. vol. i. pt. ii. p. 84.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.65977,
+"x1": 0.89474,
+"y0": 0.54864,
+"y1": 0.56125,
+"text": "1589. John Robynson and Ann Bedford :",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64621,
+"x1": 0.83682,
+"y0": 0.55852,
+"y1": 0.57182,
+"text": "Marriage. Lic. (London), i. 180.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.65853,
+"x1": 0.89474,
+"y0": 0.56807,
+"y1": 0.58273,
+"text": "1707. Bapt.-Eliz, d. William Bedford :",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.80888,
+"y0": 0.57795,
+"y1": 0.59398,
+"text": "St. Jas, Clerkenwell, ii. 37.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.6573,
+"x1": 0.89474,
+"y0": 0.58955,
+"y1": 0.6042,
+"text": "London, 33 : Manchester, 4 ; Philadel.",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.69797,
+"y0": 0.60114,
+"y1": 0.61477,
+"text": "phia, 17.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.661,
+"x1": 0.89433,
+"y0": 0.62193,
+"y1": 0.63489,
+"text": "Bedingham.--Local, ' of Bed-",
+"conf": 0.932
+},
+{
+"column": 3,
+"x0": 0.64457,
+"x1": 0.89474,
+"y0": 0.6342,
+"y1": 0.64989,
+"text": "ingham,' parishes in diocs. of Nor.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6458,
+"x1": 0.89474,
+"y0": 0.6492,
+"y1": 0.66182,
+"text": "wich and Chichester. It is possible",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.89515,
+"y0": 0.6625,
+"y1": 0.67511,
+"text": "that in some instances Beadinan is a",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.89515,
+"y0": 0.67443,
+"y1": 0.68943,
+"text": "corrupted form. We have parallel",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64621,
+"x1": 0.89392,
+"y0": 0.68977,
+"y1": 0.7017,
+"text": "instances in Deadman for Deben-",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64621,
+"x1": 0.89351,
+"y0": 0.70341,
+"y1": 0.71534,
+"text": "ham, and Putman for Putnam, i.e.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.89433,
+"y0": 0.71591,
+"y1": 0.72818,
+"text": "Puttenham. Of course it would be",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.89433,
+"y0": 0.72989,
+"y1": 0.7425,
+"text": "more satisfactory to refer it to the",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.64621,
+"x1": 0.89433,
+"y0": 0.74284,
+"y1": 0.75648,
+"text": "same origin as Paternoster, and",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.89474,
+"y0": 0.75614,
+"y1": 0.77045,
+"text": "there  is strong evidence for this",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.64457,
+"x1": 0.89474,
+"y0": 0.76909,
+"y1": 0.78375,
+"text": "vicw. The corruptions would.be",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64498,
+"x1": 0.8931,
+"y0": 0.78205,
+"y1": 0.79739,
+"text": "as follows: Bedingham, Bedden-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.89474,
+"y0": 0.79636,
+"y1": 0.81,
+"text": "ham, Bednam, Bedman, Beadman ;",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64539,
+"x1": 0.89392,
+"y0": 0.80898,
+"y1": 0.82466,
+"text": "v. Beadman for a really satisfactory",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64621,
+"x1": 0.82326,
+"y0": 0.8233,
+"y1": 0.83693,
+"text": "solution of that surname.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65771,
+"x1": 0.89187,
+"y0": 0.8417,
+"y1": 0.85602,
+"text": "Clarice de Bedyngham, 'co. Norf.,",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64662,
+"x1": 0.70413,
+"y0": 0.85432,
+"y1": 0.86693,
+"text": "1273. A.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.69633,
+"x1": 0.89967,
+"y0": 0.91534,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.994
+}
+]

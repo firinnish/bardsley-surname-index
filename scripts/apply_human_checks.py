@@ -20,6 +20,11 @@ CHECKS = [
     (45, "Aldred, vicar of Rushall", {"Henrv": "Henry"}, {"Henry": "Vicar of Rushall"}),
     (46, "Thomas Alfra", {"Alfrav": "Alfray"}, {"Thomas": ""}),
     (49, "Johu le Aleman", {}, {"Johu": "First name printed 'Johu' (confirmed by eye)"}),
+    (38, "Francis Edmonds and Mary Aburne", {"Aburne?": "Aburne"}, {
+        "Mary": "Licence to marry Francis Edmonds. Last digit of the page number is damaged (probably 255)",
+        "Francis": "Licence to marry Mary Aburne. Last digit of the page number is damaged (probably 255)"}),
+    (39, "Elena Acom", {"Elena?": "Elena"}, {"Elena": ""}),
+    (46, "Elferus Tannator", {"Elferus?": "Elferus"}, {"Elferus": "Tannator = tanner"}),
 ]
 
 marked = 0

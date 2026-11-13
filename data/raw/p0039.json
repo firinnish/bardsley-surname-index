@@ -729,17 +729,18 @@
   "meaning": "(1) of Acomb, a parish near York; (2) of Acomb, two townships in the union of Hexham, co. Northumberland",
   "author_comment": "",
   "modern_distribution": "West Riding Court Dir., 2, 0; London, 0, 3",
-  "first_name": "Elena?",
+  "first_name": "Elena",
   "last_name": "Acom",
   "date": "1379",
   "event": "",
   "place": "",
   "county": "",
-  "notes": "[Unclear: first letter of forename damaged in print; read as Elena]",
+  "notes": "",
   "source_abbrev": "ibid.",
   "source": "Poll Tax, West Riding of Yorkshire, 1379, p. 301",
   "record_text": "Elena Acom, 1379: ibid.",
-  "confidence": "low"
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 39,

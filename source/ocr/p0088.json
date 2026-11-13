@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.20246,
+"x1": 0.30927,
+"y0": 0.07432,
+"y1": 0.08659,
+"text": "BEARBAIT",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.14783,
+"x1": 0.37787,
+"y0": 0.10227,
+"y1": 0.11523,
+"text": "Bearbait, Bearbaste.--Nick.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13838,
+"x1": 0.37828,
+"y0": 0.11591,
+"y1": 0.12852,
+"text": "One who baited or basted the bear.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.15029,
+"x1": 0.36143,
+"y0": 0.1292,
+"y1": 0.14352,
+"text": "' Thanne men doth the bere beyte.'",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.22834,
+"x1": 0.3676,
+"y0": 0.14114,
+"y1": 0.15443,
+"text": "Havelok, 1838 (Skeat).",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.14331,
+"x1": 0.38074,
+"y0": 0.15239,
+"y1": 0.1667,
+"text": "John Barbast or Barebastc, co. Glouc.,",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13222,
+"x1": 0.19014,
+"y0": 0.1633,
+"y1": 0.17795,
+"text": "1273. A.",
+"conf": 0.905
+},
+{
+"column": 1,
+"x0": 0.14495,
+"x1": 0.35692,
+"y0": 0.17386,
+"y1": 0.18614,
+"text": "Geoffrey Barebast, ca. Glouc., ibid.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.14537,
+"x1": 0.36143,
+"y0": 0.18375,
+"y1": 0.19773,
+"text": "Alexander Barebat, co. Bucks, ibid.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14495,
+"x1": 0.34541,
+"y0": 0.195,
+"y1": 0.20659,
+"text": "Thomas Barebat, co. Bucks, ibid.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.14578,
+"x1": 0.37992,
+"y0": 0.20591,
+"y1": 0.21818,
+"text": "John Barbast, co. Wilts, Hen. IlI-Edw.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.14865,
+"x1": 0.17371,
+"y0": 0.21648,
+"y1": 0.22636,
+"text": "K.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14865,
+"x1": 0.38033,
+"y0": 0.22841,
+"y1": 0.24136,
+"text": "Bearblock.--! Local, ‘at the",
+"conf": 0.903
+},
+{
+"column": 1,
+"x0": 0.1314,
+"x1": 0.38033,
+"y0": 0.24136,
+"y1": 0.25602,
+"text": "bearblock'(3), the block to which",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.13181,
+"x1": 0.38033,
+"y0": 0.25534,
+"y1": 0.26898,
+"text": "the bear was chained, from resi-",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13263,
+"x1": 0.24354,
+"y0": 0.26898,
+"y1": 0.28261,
+"text": "dence thereby.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.14454,
+"x1": 0.38074,
+"y0": 0.2825,
+"y1": 0.29648,
+"text": "1575. Edward Bereblocke, co. Kent :",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13017,
+"x1": 0.3409,
+"y0": 0.29273,
+"y1": 0.30773,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 68.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.14537,
+"x1": 0.37992,
+"y0": 0.30364,
+"y1": 0.31795,
+"text": "1577. Henry Bereblocke, co. Kent : ibid.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14947,
+"x1": 0.16385,
+"y0": 0.31761,
+"y1": 0.32477,
+"text": "78.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.15029,
+"x1": 0.37992,
+"y0": 0.32409,
+"y1": 0.33773,
+"text": "Purchase by William Bearblocke, &c.,",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13181,
+"x1": 0.38074,
+"y0": 0.33568,
+"y1": 0.34795,
+"text": "of the reversion of certain messuages in",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.13058,
+"x1": 0.3791,
+"y0": 0.34523,
+"y1": 0.35852,
+"text": "the city of London, July I3, 159o': Cal.",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.13099,
+"x1": 0.32898,
+"y0": 0.35477,
+"y1": 0.37011,
+"text": "State Papers (Dom estic), ii. 679.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.14495,
+"x1": 0.37951,
+"y0": 0.36705,
+"y1": 0.37898,
+"text": "1610 Antony Rammc and Susan",
+"conf": 0.907
+},
+{
+"column": 1,
+"x0": 0.13058,
+"x1": 0.37992,
+"y0": 0.37523,
+"y1": 0.39023,
+"text": "Berblock : Marriage Lic. (London), i. 326.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14537,
+"x1": 0.37992,
+"y0": 0.3875,
+"y1": 0.39943,
+"text": "1674. Buried- Daniell Bareblocke : St.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.1314,
+"x1": 0.28339,
+"y0": 0.39739,
+"y1": 0.41068,
+"text": "Mary Aldermary, p. 189.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14701,
+"x1": 0.37992,
+"y0": 0.40932,
+"y1": 0.4233,
+"text": "Charles Bearblock occurs in the",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13099,
+"x1": 0.37828,
+"y0": 0.42295,
+"y1": 0.4383,
+"text": "Devonport Directory, co. Devon,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13222,
+"x1": 0.1733,
+"y0": 0.43659,
+"y1": 0.45193,
+"text": "1873.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14331,
+"x1": 0.27189,
+"y0": 0.45023,
+"y1": 0.46455,
+"text": "MDB. (co. Essex), 4.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14619,
+"x1": 0.38074,
+"y0": 0.46455,
+"y1": 0.47818,
+"text": "Beard.---Nick. ‘ the bearded.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13099,
+"x1": 0.38238,
+"y0": 0.47818,
+"y1": 0.4942,
+"text": "An early surname. Speaking of",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13099,
+"x1": 0.37828,
+"y0": 0.4917,
+"y1": 0.50636,
+"text": "Geoffrey Martel's death, A.D. 1o6o,",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13017,
+"x1": 0.38033,
+"y0": 0.505,
+"y1": 0.52034,
+"text": "Freeman says, ‘To his namesake",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.27558,
+"x1": 0.37663,
+"y0": 0.51943,
+"y1": 0.52966,
+"text": "the Bearded.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12976,
+"x1": 0.37376,
+"y0": 0.53159,
+"y1": 0.54693,
+"text": "he left' Anjou and Saintogne",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.13181,
+"x1": 0.38074,
+"y0": 0.54557,
+"y1": 0.56159,
+"text": "(Norm. Conqest, ii. 18o) ; v. Withi-",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13222,
+"x1": 0.17576,
+"y0": 0.56023,
+"y1": 0.5708,
+"text": "beard.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.36185,
+"x1": 0.37622,
+"y0": 0.57761,
+"y1": 0.58511,
+"text": "A",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.14331,
+"x1": 0.35692,
+"y0": 0.58375,
+"y1": 0.59807,
+"text": "Richard Cum-Barba, co. Oxf, ibid.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.14372,
+"x1": 0.34377,
+"y0": 0.59398,
+"y1": 0.60898,
+"text": "Hugh cum-Barba, co. Bedf., ibid.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.1429,
+"x1": 0.38115,
+"y0": 0.6042,
+"y1": 0.62057,
+"text": "Adam cum-Barba, 1379: P. T. Yorks.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13017,
+"x1": 0.17083,
+"y0": 0.61545,
+"y1": 0.62977,
+"text": "p. 238.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.14413,
+"x1": 0.38156,
+"y0": 0.62534,
+"y1": 0.63898,
+"text": "1622-3. Gerrard van Holbrooke and",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13017,
+"x1": 0.38115,
+"y0": 0.63318,
+"y1": 0.65193,
+"text": "Susan Beard : Marriage Lic. (London),",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13181,
+"x1": 0.17248,
+"y0": 0.64818,
+"y1": 0.65943,
+"text": "p. 120.",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.14495,
+"x1": 0.3791,
+"y0": 0.65602,
+"y1": 0.67102,
+"text": "1645. Buried -- Mr. Edward Bearde,",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13222,
+"x1": 0.38033,
+"y0": 0.66659,
+"y1": 0.68193,
+"text": "grocer, in Cormnhill : St. Michael, Corn.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13345,
+"x1": 0.2,
+"y0": 0.6775,
+"y1": 0.69114,
+"text": "hill, p. 240.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14413,
+"x1": 0.38197,
+"y0": 0.68739,
+"y1": 0.70205,
+"text": "1771. Married-- Richard Beard and Ann",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13222,
+"x1": 0.36308,
+"y0": 0.69693,
+"y1": 0.71398,
+"text": "Ginder: Canterbury Cathedral, p. 96.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.14372,
+"x1": 0.32734,
+"y0": 0.70807,
+"y1": 0.72341,
+"text": "London, 33 ; Philadelphia, 28.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14906,
+"x1": 0.38156,
+"y0": 0.72148,
+"y1": 0.73716,
+"text": "Beardsall.--Local, ‘of Buerd-",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.13263,
+"x1": 0.38403,
+"y0": 0.73466,
+"y1": 0.75273,
+"text": "sall,' a place in the parish of",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.13345,
+"x1": 0.28421,
+"y0": 0.74898,
+"y1": 0.7633,
+"text": "Rochdale, co. Lanc.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14537,
+"x1": 0.38444,
+"y0": 0.76125,
+"y1": 0.77795,
+"text": "Henry Clegg, of Buerdsall, parish of",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13386,
+"x1": 0.36472,
+"y0": 0.7725,
+"y1": 0.78682,
+"text": "Rochdale, 1607 : W'ills at Chester, i. 41.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14537,
+"x1": 0.38197,
+"y0": 0.78307,
+"y1": 0.79807,
+"text": "James Buerdsall,of Blakley, 161o : ibid.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13797,
+"x1": 0.15112,
+"y0": 0.79773,
+"y1": 0.80455,
+"text": "1",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.1466,
+"x1": 0.38321,
+"y0": 0.80352,
+"y1": 0.8192,
+"text": "Adam Buerdsall, of Manchester, 1546 :",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.13386,
+"x1": 0.19836,
+"y0": 0.81477,
+"y1": 0.82807,
+"text": "ibid. p. 33.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.1466,
+"x1": 0.23574,
+"y0": 0.82568,
+"y1": 0.8383,
+"text": "Mancheater, I.",
+"conf": 0.918
+},
+{
+"column": 1,
+"x0": 0.14865,
+"x1": 0.38115,
+"y0": 0.83727,
+"y1": 0.85466,
+"text": "Beardsley, Beardslee ;  v.",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.13345,
+"x1": 0.20329,
+"y0": 0.85057,
+"y1": 0.86727,
+"text": "Bardsley.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.50664,
+"x1": 0.528,
+"y0": 0.07227,
+"y1": 0.0883,
+"text": "88",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40723,
+"x1": 0.58962,
+"y0": 0.10227,
+"y1": 0.11659,
+"text": "Beare.--Local ; v. Beer.",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.40682,
+"x1": 0.63603,
+"y0": 0.12136,
+"y1": 0.135,
+"text": "Bearward, Bearwood [(3).",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.39121,
+"x1": 0.64014,
+"y0": 0.13432,
+"y1": 0.14932,
+"text": "Occup. ‘the bearward,' i.e. 'the",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.39203,
+"x1": 0.64096,
+"y0": 0.14864,
+"y1": 0.16159,
+"text": "keeper of a bear for exhibition of",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.64014,
+"y0": 0.16159,
+"y1": 0.17557,
+"text": "tricks; one who travels from place",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.63973,
+"y0": 0.17557,
+"y1": 0.18886,
+"text": "to place with a bear. '1399. A bere-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39039,
+"x1": 0.58715,
+"y0": 0.18716,
+"y1": 0.20352,
+"text": "ward fond a rag' (H.E.D.).",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40312,
+"x1": 0.63973,
+"y0": 0.20557,
+"y1": 0.21886,
+"text": "Michael le Bereward, co. Hunts, I373. A.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.40353,
+"x1": 0.63973,
+"y0": 0.21648,
+"y1": 0.22841,
+"text": "1594. Buried-- Margaret Barwarde: St.",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.39121,
+"x1": 0.54361,
+"y0": 0.22636,
+"y1": 0.23966,
+"text": "Michael, Cornhill, p. 206.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.40394,
+"x1": 0.64014,
+"y0": 0.23693,
+"y1": 0.2492,
+"text": "1609. - Robert Bearewoode, who fell",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.64014,
+"y0": 0.24716,
+"y1": 0.26011,
+"text": "doune dead in Popes Hcad Alley, of the",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.51568,
+"y0": 0.25705,
+"y1": 0.27136,
+"text": "plague : ibid. p. 2i7.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.40353,
+"x1": 0.50171,
+"y0": 0.26761,
+"y1": 0.28125,
+"text": "New York, O, 1.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.406,
+"x1": 0.64096,
+"y0": 0.28295,
+"y1": 0.29932,
+"text": "Beater, Bater.-Occup. 'the",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.39162,
+"x1": 0.63768,
+"y0": 0.29761,
+"y1": 0.31159,
+"text": "beater, wool-beater, a fuller.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.39121,
+"x1": 0.63973,
+"y0": 0.30977,
+"y1": 0.32477,
+"text": ":To full cloth is to felt the wool",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.39039,
+"x1": 0.64014,
+"y0": 0.32409,
+"y1": 0.33773,
+"text": "together: this is done by severe",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38957,
+"x1": 0.63768,
+"y0": 0.33739,
+"y1": 0.35273,
+"text": "beating and pounding'; v. Full (3),",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39162,
+"x1": 0.63727,
+"y0": 0.35102,
+"y1": 0.36602,
+"text": "(Skeat). ' Jacobus, the son of Joseph,",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39039,
+"x1": 0.6385,
+"y0": 0.36568,
+"y1": 0.37795,
+"text": "was throwe there fro the pinaclc",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.6385,
+"y0": 0.37795,
+"y1": 0.39159,
+"text": "of the temple, and after smet with",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.38957,
+"x1": 0.64014,
+"y0": 0.39057,
+"y1": 0.40693,
+"text": "a fuller's bat ' (Capgrave's Chroni-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38998,
+"x1": 0.64014,
+"y0": 0.4042,
+"y1": 0.42023,
+"text": "cles, under date 30 A.D.; v. Wool.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39121,
+"x1": 0.63768,
+"y0": 0.41852,
+"y1": 0.43216,
+"text": "beater). .' A beter, verberator, bacu-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38957,
+"x1": 0.57113,
+"y0": 0.43148,
+"y1": 0.44682,
+"text": "lator,' 1483 (Cath. Angl.).",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.40312,
+"x1": 0.64014,
+"y0": 0.4475,
+"y1": 0.4608,
+"text": "Hugh de Ferlington, batur, 28 Edw. I :",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.5243,
+"y0": 0.45841,
+"y1": 0.47068,
+"text": "Freewen of York, i. 8.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.40477,
+"x1": 0.61632,
+"y0": 0.46898,
+"y1": 0.48125,
+"text": "John le Betere, co. Wilts, 1273.. A.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40518,
+"x1": 0.64014,
+"y0": 0.47784,
+"y1": 0.49216,
+"text": "William Je Betere, C. R. 1'Edw. II1 :",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.3908,
+"x1": 0.52307,
+"y0": 0.48875,
+"y1": 0.50341,
+"text": "Kirby's Quest, p. 126.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.43804,
+"x1": 0.63973,
+"y0": 0.49852,
+"y1": 0.51284,
+"text": "Batour, co. Soms., 1 Edw. III :",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.38998,
+"x1": 0.41791,
+"y0": 0.50977,
+"y1": 0.52136,
+"text": "ibid.",
+"conf": 0.922
+},
+{
+"column": 2,
+"x0": 0.55223,
+"x1": 0.63562,
+"y0": 0.5208,
+"y1": 0.52898,
+"text": "Ranghar ind",
+"conf": 0.783
+},
+{
+"column": 2,
+"x0": 0.39203,
+"x1": 0.62042,
+"y0": 0.53057,
+"y1": 0.54318,
+"text": "Ann' Beater: St. Geo. Han. Sq. i. 272.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.4023,
+"x1": 0.64014,
+"y0": 0.54045,
+"y1": 0.55511,
+"text": "London, 1, 1 ; Crockford, 1, o; Boston",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.39203,
+"x1": 0.46145,
+"y0": 0.55136,
+"y1": 0.56534,
+"text": "(U.S.), 0, 4.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.406,
+"x1": 0.63973,
+"y0": 0.56807,
+"y1": 0.58239,
+"text": "Beaton.--Bapt. ‘the son of",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.39244,
+"x1": 0.63973,
+"y0": 0.58273,
+"y1": 0.59466,
+"text": "Beatrice,' from nick. Bete and",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.39326,
+"x1": 0.64055,
+"y0": 0.59636,
+"y1": 0.60727,
+"text": "dim. Bet-on. It is found till recent",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39285,
+"x1": 0.64096,
+"y0": 0.60932,
+"y1": 0.62193,
+"text": "days in Cornwall, that last homc of",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.39326,
+"x1": 0.63932,
+"y0": 0.62295,
+"y1": 0.63557,
+"text": "decayed  forms of English font-",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.39039,
+"x1": 0.64178,
+"y0": 0.63523,
+"y1": 0.64955,
+"text": "names. But its origin does not",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39162,
+"x1": 0.60769,
+"y0": 0.64784,
+"y1": 0.66489,
+"text": "appear to have been known.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.43681,
+"x1": 0.57852,
+"y0": 0.66659,
+"y1": 0.67955,
+"text": "' Beton the Brewestere",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.44174,
+"x1": 0.59989,
+"y0": 0.67682,
+"y1": 0.68977,
+"text": "Bade him good morrow.'",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.47912,
+"x1": 0.627,
+"y0": 0.68807,
+"y1": 0.69966,
+"text": "Piers Plowman, Pass. V.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.40435,
+"x1": 0.63932,
+"y0": 0.69761,
+"y1": 0.71193,
+"text": "'Bete, or  Betune,  propyr name,",
+"conf": 0.84
+},
+{
+"column": 2,
+"x0": 0.39326,
+"x1": 0.58099,
+"y0": 0.70852,
+"y1": 0.72216,
+"text": "Beatrix': Prompt. Parv. p. 34.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.406,
+"x1": 0.63973,
+"y0": 0.72,
+"y1": 0.73398,
+"text": "Johannes Beton, 1379: P. T. Yorks.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.39203,
+"x1": 0.42654,
+"y0": 0.73239,
+"y1": 0.74432,
+"text": "p.87.",
+"conf": 0.927
+},
+{
+"column": 2,
+"x0": 0.40518,
+"x1": 0.58058,
+"y0": 0.74148,
+"y1": 0.75341,
+"text": "Beton de W ath : ibid. p. 100.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40394,
+"x1": 0.64137,
+"y0": 0.75034,
+"y1": 0.76568,
+"text": "Beton, servant of Robert, fil. Ade, 1379 :",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39203,
+"x1": 0.45776,
+"y0": 0.76227,
+"y1": 0.7742,
+"text": "ibid. p. 88.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.40559,
+"x1": 0.55388,
+"y0": 0.77284,
+"y1": 0.78443,
+"text": "Betin de Friscobald. 0.",
+"conf": 0.617
+},
+{
+"column": 2,
+"x0": 0.40641,
+"x1": 0.5206,
+"y0": 0.78239,
+"y1": 0.79602,
+"text": "John Betyn. HH.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.40764,
+"x1": 0.56743,
+"y0": 0.79261,
+"y1": 0.80659,
+"text": "John Betun, co. Oxf., 1273.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.40477,
+"x1": 0.64014,
+"y0": 0.80216,
+"y1": 0.81784,
+"text": "Beaten, d. of John Hoewell, 1637 : Reg.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.39285,
+"x1": 0.54813,
+"y0": 0.81341,
+"y1": 0.82807,
+"text": "St. Columb Major, P. 215.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.40518,
+"x1": 0.64055,
+"y0": 0.82364,
+"y1": 0.83761,
+"text": "Beaten, d. of Richard Cormishe, 1630 :",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.39244,
+"x1": 0.46433,
+"y0": 0.83591,
+"y1": 0.84784,
+"text": "ibid. p. 212.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.40394,
+"x1": 0.64055,
+"y0": 0.84409,
+"y1": 0.85909,
+"text": "Beaten, d. of Thomas Bayley, 1629 :",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39162,
+"x1": 0.42079,
+"y0": 0.85602,
+"y1": 0.86727,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.70944,
+"x1": 0.84062,
+"y0": 0.07466,
+"y1": 0.08761,
+"text": "BBAUCHAMP",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.66173,
+"x1": 0.89902,
+"y0": 0.10125,
+"y1": 0.11523,
+"text": "1694. Bapt.- Rohert, son of William",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.64898,
+"x1": 0.87188,
+"y0": 0.11148,
+"y1": 0.12682,
+"text": "Beton : St. Mary Aldermary. p. l11.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.66132,
+"x1": 0.83322,
+"y0": 0.12136,
+"y1": 0.13773,
+"text": "London, 8 ; Philadelphia, 5.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.66543,
+"x1": 0.89779,
+"y0": 0.14045,
+"y1": 0.15477,
+"text": "Beatson,Beetson.---Bapt.' the",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.64775,
+"x1": 0.90025,
+"y0": 0.15205,
+"y1": 0.16943,
+"text": "son of Beatrice,' nick. Bete; v.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.8982,
+"y0": 0.16739,
+"y1": 0.1817,
+"text": "Beaton. Beatricc was, t together",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.8982,
+"y0": 0.18102,
+"y1": 0.19534,
+"text": "with its nicks., a prime favourite in",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.89902,
+"y0": 0.19159,
+"y1": 0.21068,
+"text": "Yorkshire. The Poll Tax (1379)",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64939,
+"x1": 0.89861,
+"y0": 0.20625,
+"y1": 0.2233,
+"text": "teems with it.  Hence still largely",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.89861,
+"y0": 0.22159,
+"y1": 0.23591,
+"text": "represented ; v. Beaton, Bettinson,",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.72424,
+"y0": 0.23557,
+"y1": 0.24682,
+"text": "and Betts.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66132,
+"x1": 0.82212,
+"y0": 0.2475,
+"y1": 0.26625,
+"text": "Walter fl. Beatricie, 1273:",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.66255,
+"x1": 0.89614,
+"y0": 0.2608,
+"y1": 0.27273,
+"text": "Richard Beatriceson, C. R., 11 Edw. 11",
+"conf": 0.873
+},
+{
+"column": 3,
+"x0": 0.66173,
+"x1": 0.89861,
+"y0": 0.27034,
+"y1": 0.28568,
+"text": "Iabelle fl. Willelmi Beteson, r379 : P. T.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.73617,
+"y0": 0.28091,
+"y1": 0.29489,
+"text": "Yorks. p. 220.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.66173,
+"x1": 0.89984,
+"y0": 0.29182,
+"y1": 0.30545,
+"text": "Richard Beteson, 1494, co. York. W'. 11.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.66461,
+"x1": 0.89861,
+"y0": 0.30705,
+"y1": 0.3217,
+"text": "Thesc two last entrics agree with",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.64898,
+"x1": 0.88257,
+"y0": 0.32136,
+"y1": 0.33602,
+"text": "Prompt. Parv. supra ; v. Beaton.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66296,
+"x1": 0.89943,
+"y0": 0.34011,
+"y1": 0.35102,
+"text": "1718. Married - William Grant and",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.64857,
+"x1": 0.89943,
+"y0": 0.34795,
+"y1": 0.36398,
+"text": "Elizabeth Beatson : St. Mary Aldermary,",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64857,
+"x1": 0.89902,
+"y0": 0.37966,
+"y1": 0.39466,
+"text": "Court Dir., 6, o: New York, 3, 2 : Phila-",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64898,
+"x1": 0.72876,
+"y0": 0.39057,
+"y1": 0.40591,
+"text": "delphia, 5, 0.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.66461,
+"x1": 0.89614,
+"y0": 0.4083,
+"y1": 0.42261,
+"text": "Beattie, Beattey, Beatty.--",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64939,
+"x1": 0.89861,
+"y0": 0.42227,
+"y1": 0.43557,
+"text": "Bapt. ' the son of Beatrice.' Beattie",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.6498,
+"x1": 0.89779,
+"y0": 0.43693,
+"y1": 0.44784,
+"text": "was the Northumbrian and Low-",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64898,
+"x1": 0.89779,
+"y0": 0.44886,
+"y1": 0.46284,
+"text": "land Scotch form of thc pet name.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65186,
+"x1": 0.89779,
+"y0": 0.46318,
+"y1": 0.47477,
+"text": "An 1 abbreviation of the female",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.64857,
+"x1": 0.89902,
+"y0": 0.47614,
+"y1": 0.48977,
+"text": "name Beatrix'(Jamieson). The fol-",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64898,
+"x1": 0.89943,
+"y0": 0.48943,
+"y1": 0.50341,
+"text": "lowing variants of this surname are",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.89861,
+"y0": 0.50159,
+"y1": 0.51659,
+"text": "found on the Border: Baetie, Baitie,",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.89655,
+"y0": 0.51557,
+"y1": 0.53091,
+"text": "Baittie, Batie, Baty, Batye, Baytie,",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65063,
+"x1": 0.89655,
+"y0": 0.52989,
+"y1": 0.54216,
+"text": "and Bette; v. The Debateable Land,",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.65104,
+"x1": 0.89696,
+"y0": 0.54318,
+"y1": 0.55784,
+"text": "by Robert Bruce Armstrong, p. 184.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66214,
+"x1": 0.8982,
+"y0": 0.55784,
+"y1": 0.57148,
+"text": "1729. Married - William  Beaty  αnd",
+"conf": 0.742
+},
+{
+"column": 3,
+"x0": 0.6498,
+"x1": 0.8875,
+"y0": 0.56875,
+"y1": 0.58102,
+"text": "Sarah Davis : St. Peter, Cornhill, ii. 78.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.66173,
+"x1": 0.90025,
+"y0": 0.57898,
+"y1": 0.59364,
+"text": "London, 11, 1, 1 ; Newcastle, 4, 0, 0:",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.6498,
+"x1": 0.79621,
+"y0": 0.5892,
+"y1": 0.60455,
+"text": "Philadelphia, 19, 0, 120.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.66461,
+"x1": 0.89861,
+"y0": 0.60693,
+"y1": 0.62159,
+"text": "Beauchamp, Beacham, Bea-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65063,
+"x1": 0.89943,
+"y0": 0.62057,
+"y1": 0.63455,
+"text": "chem, Beecham.-- Local, ‘of",
+"conf": 0.912
+},
+{
+"column": 3,
+"x0": 0.65063,
+"x1": 0.89943,
+"y0": 0.63455,
+"y1": 0.64818,
+"text": "Beauchamp.' Mr. Lower mentions",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64939,
+"x1": 0.89902,
+"y0": 0.64784,
+"y1": 0.66182,
+"text": "a Beauchamp near Avranches, and",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.6498,
+"x1": 0.89861,
+"y0": 0.6608,
+"y1": 0.67511,
+"text": "another near Havre. Its equiva-",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.6498,
+"x1": 0.89984,
+"y0": 0.67443,
+"y1": 0.68807,
+"text": "lent local term in England is Fair-",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64939,
+"x1": 0.90149,
+"y0": 0.68636,
+"y1": 0.70341,
+"text": "feld. Hugh de Bel-Champ, or",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65433,
+"x1": 0.89614,
+"y0": 0.70534,
+"y1": 0.71455,
+"text": "Beauchamp Latinizedin carly re",
+"conf": 0.906
+},
+{
+"column": 3,
+"x0": 0.65186,
+"x1": 0.89655,
+"y0": 0.71557,
+"y1": 0.72818,
+"text": "cords ”，ob",
+"conf": 0.843
+},
+{
+"column": 3,
+"x0": 0.65104,
+"x1": 0.89943,
+"y0": 0.7283,
+"y1": 0.74261,
+"text": "tained forty-three  lordships  from",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.65063,
+"x1": 0.90108,
+"y0": 0.74114,
+"y1": 0.75648,
+"text": "the Conqueror (Lower). Some of",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65022,
+"x1": 0.90066,
+"y0": 0.75477,
+"y1": 0.76977,
+"text": "the variants may relate to some",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65104,
+"x1": 0.8982,
+"y0": 0.76773,
+"y1": 0.78273,
+"text": "spot called Beecham (cf. Ashton),",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.65186,
+"x1": 0.89861,
+"y0": 0.78239,
+"y1": 0.79602,
+"text": "which would make them purely",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.65145,
+"x1": 0.90108,
+"y0": 0.79432,
+"y1": 0.80966,
+"text": "English, but I cannot fnd such a",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65268,
+"x1": 0.6934,
+"y0": 0.80966,
+"y1": 0.82261,
+"text": "place.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66338,
+"x1": 0.89984,
+"y0": 0.8233,
+"y1": 0.83761,
+"text": "John de Bello Campo, co. Som&, 1",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65145,
+"x1": 0.85131,
+"y0": 0.83455,
+"y1": 0.84784,
+"text": "Edw. Ill : Kirby's Quest, p. 187.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.6642,
+"x1": 0.8982,
+"y0": 0.8458,
+"y1": 0.85739,
+"text": "Thomas de Becbam, co.  Soms., I Edw.",
+"conf": 0.927
+},
+{
+"column": 3,
+"x0": 0.65063,
+"x1": 0.75179,
+"y0": 0.855,
+"y1": 0.87,
+"text": "Ill : ibid. p. 195.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.69669,
+"x1": 0.90025,
+"y0": 0.91568,
+"y1": 0.94807,
+"text": "Digitized by Google",
+"conf": 0.959
+}
+]

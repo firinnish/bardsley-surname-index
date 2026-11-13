@@ -1,0 +1,1739 @@
+[
+{
+"column": 1,
+"x0": 0.17174,
+"x1": 0.2769,
+"y0": 0.06989,
+"y1": 0.08352,
+"text": "BAYNTON",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.35084,
+"y0": 0.09682,
+"y1": 0.11045,
+"text": "176o. Married-- John Baynom and Ann",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.10232,
+"x1": 0.30401,
+"y0": 0.10602,
+"y1": 0.12273,
+"text": "Yeates : St. Geo. Han. Sq. i. 94.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.27444,
+"y0": 0.11795,
+"y1": 0.13227,
+"text": "London, I ; Crockford, 4.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.11998,
+"x1": 0.34632,
+"y0": 0.135,
+"y1": 0.14693,
+"text": "Baynton.-Local, ‘of Baynton",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.35043,
+"y0": 0.14795,
+"y1": 0.16193,
+"text": "or ·Bainton': (1) a parish in co.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.10355,
+"x1": 0.35084,
+"y0": 0.16125,
+"y1": 0.17591,
+"text": "Northampton ; (2) ) a parish in co.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.35043,
+"y0": 0.17523,
+"y1": 0.1892,
+"text": "Oxford ; (3) a tything in the parish",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.27567,
+"y0": 0.18852,
+"y1": 0.20318,
+"text": "of Edgington, co. Wilts.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.35125,
+"y0": 0.2042,
+"y1": 0.2158,
+"text": "John de Bayntun, faber, 20 Edw. II :",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.10232,
+"x1": 0.2465,
+"y0": 0.21307,
+"y1": 0.22739,
+"text": "Freemen of York, i. 23:",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.35084,
+"y0": 0.22432,
+"y1": 0.23693,
+"text": "1661. Sir Edward 'Bayntun of Brem-",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10232,
+"x1": 0.35125,
+"y0": 0.2342,
+"y1": 0.24818,
+"text": "hill, Wilts, and Stuart Thynne : Marriage",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10232,
+"x1": 0.26786,
+"y0": 0.24477,
+"y1": 0.25943,
+"text": "Alleg. (Westminster, p. 59:",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.11464,
+"x1": 0.35248,
+"y0": 0.2533,
+"y1": 0.26932,
+"text": "1754. Married - Edward Bainton and",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.1015,
+"x1": 0.35043,
+"y0": 0.26489,
+"y1": 0.27989,
+"text": "Ann Hart: St. Geo. Chap. Mayfair,",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10232,
+"x1": 0.14134,
+"y0": 0.27875,
+"y1": 0.28898,
+"text": "P.275.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.11464,
+"x1": 0.29087,
+"y0": 0.28523,
+"y1": 0.30023,
+"text": "London, I ; Boeton (U.S.), 5.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.11711,
+"x1": 0.35413,
+"y0": 0.30193,
+"y1": 0.31693,
+"text": "Bazin, Bason.--(1) Local, ‘of",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.31757,
+"y0": 0.31557,
+"y1": 0.33125,
+"text": "Bastmg.' (2) Nick.; v. Bason.",
+"conf": 0.909
+},
+{
+"column": 1,
+"x0": 0.11423,
+"x1": 0.35125,
+"y0": 0.33023,
+"y1": 0.34523,
+"text": "Salomon de. Basinge, sheriff of London,",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10191,
+"x1": 0.27033,
+"y0": 0.34148,
+"y1": 0.35477,
+"text": "1214: www. pp. 187-190.",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.11464,
+"x1": 0.35125,
+"y0": 0.35136,
+"y1": 0.3667,
+"text": "Adam de Basinge or Basinges, London,",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.16106,
+"y0": 0.36295,
+"y1": 0.37591,
+"text": "1273.. A.",
+"conf": 0.92
+},
+{
+"column": 1,
+"x0": 0.11464,
+"x1": 0.35248,
+"y0": 0.37148,
+"y1": 0.3875,
+"text": "Robert de Basinges or Basinge, London :",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.13066,
+"y0": 0.38341,
+"y1": 0.39466,
+"text": "ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.11588,
+"x1": 0.35166,
+"y0": 0.39432,
+"y1": 0.40659,
+"text": "1583. Rohert Bason, Qucen's Coll. :",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10191,
+"x1": 0.24979,
+"y0": 0.40318,
+"y1": 0.41784,
+"text": "Reg. Univ. Oxf. ii. 109.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11423,
+"x1": 0.35084,
+"y0": 0.41375,
+"y1": 0.42841,
+"text": "1688. Bapt.- John Bazen, a foundline :",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.10191,
+"x1": 0.27731,
+"y0": 0.42466,
+"y1": 0.43932,
+"text": "St. Mary Aldermary. P. 109.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.11505,
+"x1": 0.31346,
+"y0": 0.43557,
+"y1": 0.44989,
+"text": "Londoo, 2, I ; Philadelpbia, 5, 0.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.11752,
+"x1": 0.32455,
+"y0": 0.45091,
+"y1": 0.46625,
+"text": "Bazley.--Local ; v. Basley.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.11711,
+"x1": 0.35043,
+"y0": 0.46761,
+"y1": 0.4833,
+"text": "Beaby.--Local, ‘of Beeby';",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.10232,
+"x1": 0.17174,
+"y0": 0.48261,
+"y1": 0.49489,
+"text": "v. Beebe.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.11875,
+"x1": 0.31264,
+"y0": 0.49852,
+"y1": 0.5125,
+"text": "Beach.--- Local ; v. Beech.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.11875,
+"x1": 0.31716,
+"y0": 0.51625,
+"y1": 0.53159,
+"text": "Beacham ; v. Beauchamp.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11916,
+"x1": 0.34838,
+"y0": 0.53602,
+"y1": 0.5483,
+"text": "Beadle, Beaddall, Beadell",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.35002,
+"y0": 0.54898,
+"y1": 0.56261,
+"text": "Biddle,Beadel, Biddell.--Offic.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.35002,
+"y0": 0.56295,
+"y1": 0.57659,
+"text": ":the beadle,  one who executed",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.1015,
+"x1": 0.35002,
+"y0": 0.57591,
+"y1": 0.59091,
+"text": "processes or attended proclama-",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.3492,
+"y0": 0.59023,
+"y1": 0.60284,
+"text": "tions. The H.E.D. gives the follow-",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.35125,
+"y0": 0.60284,
+"y1": 0.61818,
+"text": "ing carly dictionary forms (among",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.30976,
+"y0": 0.61648,
+"y1": 0.63045,
+"text": "Others) : tidel, beadel, beddell.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11629,
+"x1": 0.35084,
+"y0": 0.63148,
+"y1": 0.64477,
+"text": "John Je Bedal, co. Soms., 1 Edw. I11:",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.23541,
+"y0": 0.64102,
+"y1": 0.65636,
+"text": "Kirby's Quest, p. 188.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.11588,
+"x1": 0.35043,
+"y0": 0.65227,
+"y1": 0.66625,
+"text": "Alan Bedellus, co. Kent, Hen. Ill-Edw.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.14217,
+"y0": 0.66318,
+"y1": 0.67375,
+"text": "I.  K.",
+"conf": 0.852
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.34016,
+"y0": 0.67307,
+"y1": 0.6867,
+"text": "Geoffrey le Bedel, co. Kent, I273. A",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.11588,
+"x1": 0.30566,
+"y0": 0.68295,
+"y1": 0.69693,
+"text": "Martin le Bedel, co. Norf., ibid.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.1167,
+"x1": 0.30648,
+"y0": 0.69386,
+"y1": 0.70648,
+"text": "Walter Bidellus, co. Linc', ibid.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.11588,
+"x1": 0.35043,
+"y0": 0.70341,
+"y1": 0.71841,
+"text": "William le Bedel, co. Linc., 2o Edw.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.14217,
+"y0": 0.71455,
+"y1": 0.7258,
+"text": "I.  R.",
+"conf": 0.861
+},
+{
+"column": 1,
+"x0": 0.11588,
+"x1": 0.35166,
+"y0": 0.7242,
+"y1": 0.73818,
+"text": "1578-9. Richard Bedal, co. Stafford :",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.31428,
+"y0": 0.73568,
+"y1": 0.74864,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 86.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.35125,
+"y0": 0.74557,
+"y1": 0.75852,
+"text": "1'38o-i. Richard Bcedle, co. Worc.:",
+"conf": 0.928
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.16928,
+"y0": 0.75614,
+"y1": 0.76977,
+"text": "ibid, p. 96.",
+"conf": 0.911
+},
+{
+"column": 1,
+"x0": 0.11547,
+"x1": 0.35125,
+"y0": 0.76705,
+"y1": 0.77932,
+"text": "1632. Bapt.--John, son of John Biddall :",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10191,
+"x1": 0.3529,
+"y0": 0.77591,
+"y1": 0.79159,
+"text": "St. Michael, Cornhill, p. 12?. The samc",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.10273,
+"x1": 0.35084,
+"y0": 0.78614,
+"y1": 0.80148,
+"text": "person is entered as' Beddell, p. 124,",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.10396,
+"x1": 0.20378,
+"y0": 0.79705,
+"y1": 0.81136,
+"text": "Beddelle, p. 126.",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.11588,
+"x1": 0.35084,
+"y0": 0.80761,
+"y1": 0.82091,
+"text": "166o. Married -- Mar ke Whiteand Mary",
+"conf": 0.917
+},
+{
+"column": 1,
+"x0": 0.10355,
+"x1": 0.33359,
+"y0": 0.81784,
+"y1": 0.83148,
+"text": "Biddle : St. Dionis Backchurch, p. 36.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10314,
+"x1": 0.35166,
+"y0": 0.83761,
+"y1": 0.85602,
+"text": "(Bedell, 47: Philadelphin, 5. 0, 0, 140,",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.47771,
+"x1": 0.49786,
+"y0": 0.0692,
+"y1": 0.08352,
+"text": "87",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37572,
+"x1": 0.61178,
+"y0": 0.09682,
+"y1": 0.11284,
+"text": "Beadman.--Occup. ' the bead-",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.36256,
+"x1": 0.61136,
+"y0": 0.11045,
+"y1": 0.12614,
+"text": "man,  one who prays for others;",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36009,
+"x1": 0.61178,
+"y0": 0.12409,
+"y1": 0.14011,
+"text": "one paid to pray for the soul of his",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36133,
+"x1": 0.44111,
+"y0": 0.13875,
+"y1": 0.1517,
+"text": "benefactor.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37531,
+"x1": 0.61136,
+"y0": 0.15239,
+"y1": 0.1667,
+"text": "'Other smale mynisters, As reders and",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.36133,
+"x1": 0.61095,
+"y0": 0.16466,
+"y1": 0.17693,
+"text": "singers, Bedemen and bellringers,' 1528 :",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.47236,
+"y0": 0.17455,
+"y1": 0.18648,
+"text": "Skelton (H.E.D.).",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37408,
+"x1": 0.6089,
+"y0": 0.18511,
+"y1": 0.19705,
+"text": "William Bedman, co. Soms., I Edw.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.36009,
+"x1": 0.52624,
+"y0": 0.19466,
+"y1": 0.21,
+"text": "I1l : Kirby's Quest, p. 271:",
+"conf": 0.91
+},
+{
+"column": 2,
+"x0": 0.37243,
+"x1": 0.61054,
+"y0": 0.20489,
+"y1": 0.21886,
+"text": "1659. Buried-Eliza, , d. John Bedman :",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.53528,
+"y0": 0.2158,
+"y1": 0.22875,
+"text": "St. Jas. Cler kenwell, iy. 328.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.37243,
+"x1": 0.61095,
+"y0": 0.22466,
+"y1": 0.24,
+"text": "1793. Married - William Cullen and",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.60849,
+"y0": 0.23625,
+"y1": 0.2492,
+"text": "Catherine Beadinan : St. Geo. Han. Sq.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.39505,
+"y0": 0.24682,
+"y1": 0.25841,
+"text": "ii. 88.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37366,
+"x1": 0.44193,
+"y0": 0.25705,
+"y1": 0.27068,
+"text": "London, 2.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37695,
+"x1": 0.61136,
+"y0": 0.27511,
+"y1": 0.28841,
+"text": "Beake, Beak. ! I cannot",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.36174,
+"x1": 0.61136,
+"y0": 0.28864,
+"y1": 0.30261,
+"text": "discover the meaning of this sur-",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36215,
+"x1": 0.40492,
+"y0": 0.305,
+"y1": 0.31455,
+"text": "name.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37366,
+"x1": 0.5945,
+"y0": 0.31523,
+"y1": 0.33159,
+"text": "Emma la Bekc, co. Hunts, 1273: A",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.3749,
+"x1": 0.57476,
+"y0": 0.32784,
+"y1": 0.34045,
+"text": "William le Beke, co. Hunts, ibid.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.3749,
+"x1": 0.54227,
+"y0": 0.33739,
+"y1": 0.35034,
+"text": "Alde Beke, co. Hunts, ibid.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.37408,
+"x1": 0.55831,
+"y0": 0.34795,
+"y1": 0.36193,
+"text": "William Je' Byk, co. Oxf., ibid.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37449,
+"x1": 0.60972,
+"y0": 0.35886,
+"y1": 0.37216,
+"text": "1589-9o. Simon' Beake, co. Kent : Reg.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36256,
+"x1": 0.46866,
+"y0": 0.36841,
+"y1": 0.38273,
+"text": "Univ.'Oxf. ii. 175.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.37531,
+"x1": 0.61054,
+"y0": 0.38,
+"y1": 0.39125,
+"text": "1609. Nicholas Wilsonand Joan Beake :",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36215,
+"x1": 0.55214,
+"y0": 0.38989,
+"y1": 0.40318,
+"text": "Marriage Lic. (London), i. 3i2.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.37284,
+"x1": 0.61178,
+"y0": 0.39977,
+"y1": 0.41443,
+"text": "1657. Bapt.--Eliz., d. Frederic Beake :",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.36092,
+"x1": 0.52911,
+"y0": 0.4083,
+"y1": 0.42602,
+"text": "St. Jas. Clerkenwell, i. 199.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.37202,
+"x1": 0.61178,
+"y0": 0.41955,
+"y1": 0.43523,
+"text": "London, I, o: MDB. (co. Kent), 1, 0 ;",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.47853,
+"y0": 0.42943,
+"y1": 0.4458,
+"text": "Boston (U.S.), I, 3.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.37654,
+"x1": 0.6089,
+"y0": 0.44682,
+"y1": 0.4608,
+"text": "Beal, Beale, Beall.---Local,",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.36297,
+"x1": 0.61013,
+"y0": 0.4608,
+"y1": 0.47443,
+"text": "'of Beal,' sometimes called Beal.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.36215,
+"x1": 0.60931,
+"y0": 0.47443,
+"y1": 0.48773,
+"text": "on-the-Hill, ，a hamlet in north",
+"conf": 0.914
+},
+{
+"column": 2,
+"x0": 0.36215,
+"x1": 0.61013,
+"y0": 0.48773,
+"y1": 0.50136,
+"text": "Durham, close to the sea. In Testa",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.61095,
+"y0": 0.50057,
+"y1": 0.51557,
+"text": "de Nevill it is spelt Behil, and it",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.61013,
+"y0": 0.51489,
+"y1": 0.5275,
+"text": "is recorded there that Gilbert de",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36133,
+"x1": 0.60972,
+"y0": 0.52852,
+"y1": 0.54045,
+"text": "Behil held it of the sec of Durham",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.36215,
+"x1": 0.46948,
+"y0": 0.5425,
+"y1": 0.55614,
+"text": "(QQQ. P. 203).",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37284,
+"x1": 0.60807,
+"y0": 0.55545,
+"y1": 0.56943,
+"text": "William Selby, de Bcall, 1631 : QQQ.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.36174,
+"x1": 0.46619,
+"y0": 0.5667,
+"y1": 0.58034,
+"text": "Appendix, , P.156.",
+"conf": 0.931
+},
+{
+"column": 2,
+"x0": 0.37243,
+"x1": 0.59039,
+"y0": 0.57489,
+"y1": 0.59091,
+"text": "Thomas de Behil, 1382 : ibid. p. 203.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.37161,
+"x1": 0.57641,
+"y0": 0.58614,
+"y1": 0.60182,
+"text": "Laurence Beil, 1517: ibid. p. 221.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37449,
+"x1": 0.55955,
+"y0": 0.59739,
+"y1": 0.61102,
+"text": "John Bele, 1561 : ibid. p. xxxii.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37325,
+"x1": 0.60931,
+"y0": 0.60591,
+"y1": 0.62295,
+"text": "Willelmus Beall, 1379 : P. T. Yorks.",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.40204,
+"y0": 0.62057,
+"y1": 0.63148,
+"text": "P. 301.",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.37284,
+"x1": 0.61054,
+"y0": 0.62739,
+"y1": 0.64205,
+"text": "1583. Thomas Beale or Bele, co. Heref. :",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36174,
+"x1": 0.57723,
+"y0": 0.63864,
+"y1": 0.65261,
+"text": "Reg: . Univ. Oxf. vol. ii. pt. ii. p. 128.",
+"conf": 0.854
+},
+{
+"column": 2,
+"x0": 0.37284,
+"x1": 0.61054,
+"y0": 0.6492,
+"y1": 0.66216,
+"text": "1697. Married-John Deane and Ann",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36092,
+"x1": 0.57435,
+"y0": 0.65875,
+"y1": 0.67409,
+"text": "Beale': St. Mary Aldermary, P: 35.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37284,
+"x1": 0.61095,
+"y0": 0.66932,
+"y1": 0.68636,
+"text": "London, 14, 3i, 1 ; Philadelphia, 9 40, 3.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.37613,
+"x1": 0.6089,
+"y0": 0.68773,
+"y1": 0.70136,
+"text": "Beam, Beams, Beames.--",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.36544,
+"x1": 0.52212,
+"y0": 0.70568,
+"y1": 0.71489,
+"text": "Local, at the beam,",
+"conf": 0.685
+},
+{
+"column": 2,
+"x0": 0.36174,
+"x1": 0.60931,
+"y0": 0.71534,
+"y1": 0.72898,
+"text": "dencc by a prominent tree ; beam,",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.36215,
+"x1": 0.60232,
+"y0": 0.72955,
+"y1": 0.74182,
+"text": "wood : O.E. a tree; cf. Nutbeam.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37408,
+"x1": 0.61013,
+"y0": 0.74489,
+"y1": 0.75818,
+"text": "Osbarn Atebeame, co. Essex, 1273. A.",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.37325,
+"x1": 0.61095,
+"y0": 0.75511,
+"y1": 0.76909,
+"text": "Robert atte Byme, co. Soms., I Edw.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36133,
+"x1": 0.52747,
+"y0": 0.76534,
+"y1": 0.78034,
+"text": "I1I : Kirby's Quest, p. 250.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37366,
+"x1": 0.61095,
+"y0": 0.77591,
+"y1": 0.7892,
+"text": "1750. Married--Aaron Hargrave and",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36092,
+"x1": 0.60972,
+"y0": 0.78648,
+"y1": 0.80011,
+"text": "Eliz. Beams: St. Geo. Chap. Mayfair,",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.36133,
+"x1": 0.40286,
+"y0": 0.79739,
+"y1": 0.80966,
+"text": "p. 181.",
+"conf": 0.904
+},
+{
+"column": 2,
+"x0": 0.37243,
+"x1": 0.61095,
+"y0": 0.80659,
+"y1": 0.82193,
+"text": "London, 0.2, 0: MDB. (co. Soms.), 0,",
+"conf": 0.935
+},
+{
+"column": 2,
+"x0": 0.36174,
+"x1": 0.5287,
+"y0": 0.81852,
+"y1": 0.83114,
+"text": "1, 0 ; Philadelphia, 26, 0, 0.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.37572,
+"x1": 0.61095,
+"y0": 0.83284,
+"y1": 0.84784,
+"text": "Beaman, Beament,  Bea-",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.3605,
+"x1": 0.61095,
+"y0": 0.84886,
+"y1": 0.86114,
+"text": "mont,  Boeman, - Local, ' dc",
+"conf": 0.886
+},
+{
+"column": 3,
+"x0": 0.70949,
+"x1": 0.77532,
+"y0": 0.07023,
+"y1": 0.0825,
+"text": " BEAR",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.87158,
+"y0": 0.09716,
+"y1": 0.11318,
+"text": "Beaumont,' q.v. ; cf. Rayment for",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.62187,
+"x1": 0.86994,
+"y0": 0.11045,
+"y1": 0.12545,
+"text": "Raymond, Wyman for Wymond,",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.87076,
+"y0": 0.12443,
+"y1": 0.13841,
+"text": "Osman and Osment for Osmond.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62104,
+"x1": 0.87158,
+"y0": 0.13705,
+"y1": 0.15307,
+"text": "The spellings of this surname in the",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62187,
+"x1": 0.87117,
+"y0": 0.15136,
+"y1": 0.16602,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. are",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.62104,
+"x1": 0.87035,
+"y0": 0.16364,
+"y1": 0.18068,
+"text": "Beaman, Beament, Beamont, Bey-",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62063,
+"x1": 0.76627,
+"y0": 0.17932,
+"y1": 0.19193,
+"text": "man, Beymond, &c.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.87158,
+"y0": 0.19295,
+"y1": 0.20761,
+"text": "1583. Thomas Hawarde and Agnes",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62063,
+"x1": 0.87035,
+"y0": 0.20386,
+"y1": 0.21784,
+"text": "Beyman : Marriage Lic.(London), i. 126.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.87035,
+"y0": 0.21511,
+"y1": 0.2267,
+"text": "1614. Richard Bcamond and Eliz.",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.62022,
+"x1": 0.75639,
+"y0": 0.22398,
+"y1": 0.2383,
+"text": "Bannister : ibid, ii. 30.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.63256,
+"x1": 0.87282,
+"y0": 0.23523,
+"y1": 0.24784,
+"text": "1748. Married - Thomaa Wright and.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.62022,
+"x1": 0.8687,
+"y0": 0.24545,
+"y1": 0.25943,
+"text": "Grace Beamont : St. Gco. Chap. Mayfair,",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.62104,
+"x1": 0.66013,
+"y0": 0.25909,
+"y1": 0.26864,
+"text": "p. 115.",
+"conf": 0.914
+},
+{
+"column": 3,
+"x0": 0.63256,
+"x1": 0.87117,
+"y0": 0.26557,
+"y1": 0.28091,
+"text": "1749. -- Richard Daniel and Margaret",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62104,
+"x1": 0.75639,
+"y0": 0.27682,
+"y1": 0.29011,
+"text": "Beaman : ibid. p. 142.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63215,
+"x1": 0.87035,
+"y0": 0.2867,
+"y1": 0.30136,
+"text": "London, I. 2, i. I: New York (Bea.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.87035,
+"y0": 0.2983,
+"y1": 0.31261,
+"text": "ment! Boston (U.S.), 12, 0, 1, 1 ;",
+"conf": 0.915
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.76092,
+"y0": 0.30807,
+"y1": 0.32273,
+"text": "Philadelphia, 0, O, 0, 1.",
+"conf": 0.923
+},
+{
+"column": 3,
+"x0": 0.63668,
+"x1": 0.86706,
+"y0": 0.32409,
+"y1": 0.33739,
+"text": "Beamish.-- Local,'of Bcamish,",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.62063,
+"x1": 0.87076,
+"y0": 0.33773,
+"y1": 0.35205,
+"text": "a parish 1in co. Durham, seven",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.87117,
+"y0": 0.35,
+"y1": 0.36568,
+"text": "miles from Gateshead. It is pos-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62187,
+"x1": 0.86994,
+"y0": 0.36432,
+"y1": 0.37864,
+"text": "sible the cntries below belong to",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.61981,
+"x1": 0.76832,
+"y0": 0.37795,
+"y1": 0.39227,
+"text": "some other locality.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.86994,
+"y0": 0.39364,
+"y1": 0.40659,
+"text": "Robert de Beaumeis, alias Beameis, co.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62228,
+"x1": 0.72718,
+"y0": 0.4042,
+"y1": 0.41716,
+"text": "Camb., 1273. A.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.63297,
+"x1": 0.8469,
+"y0": 0.41409,
+"y1": 0.42807,
+"text": "Roger de Beaumes, co. Salop, ibid.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.85718,
+"y0": 0.42466,
+"y1": 0.4383,
+"text": "Agies de Beaumeys, co. Hunts, ibid.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.87035,
+"y0": 0.43523,
+"y1": 0.44818,
+"text": "1748. Married--John Hughes and Ann",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62063,
+"x1": 0.86788,
+"y0": 0.44511,
+"y1": 0.45909,
+"text": "Beamis : St. Geo. Chap. Mayfair, P. 102.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63215,
+"x1": 0.8687,
+"y0": 0.45602,
+"y1": 0.46864,
+"text": "London, I; New York, 2'; Crockford,",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.6194,
+"x1": 0.73706,
+"y0": 0.46659,
+"y1": 0.48057,
+"text": "5 ; Philadelphia, 4.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.63585,
+"x1": 0.85924,
+"y0": 0.48261,
+"y1": 0.49659,
+"text": "Bean, Beane.--(1) Local, -----",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.62187,
+"x1": 0.86582,
+"y0": 0.49614,
+"y1": 0.50909,
+"text": "(2) Bapt. ‘the son of Benedict,",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62022,
+"x1": 0.86377,
+"y0": 0.50977,
+"y1": 0.52307,
+"text": "from the nick. Ben, dim. Bennett.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63256,
+"x1": 0.86953,
+"y0": 0.52477,
+"y1": 0.53807,
+"text": "Maurice de la Bene, co. Salop, 2o Edw.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63462,
+"x1": 0.65848,
+"y0": 0.53705,
+"y1": 0.54659,
+"text": "R.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63297,
+"x1": 0.80741,
+"y0": 0.54557,
+"y1": 0.55886,
+"text": "Ediva Bene, co. Kent, 1273..",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.63297,
+"x1": 0.86994,
+"y0": 0.5558,
+"y1": 0.57045,
+"text": "Johannes Bene, 1379 : P.T. Yorks. p. 16.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63297,
+"x1": 0.84772,
+"y0": 0.56568,
+"y1": 0.5817,
+"text": "Willelmus Bene, 1379 : ibid. p. 261.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63297,
+"x1": 0.86912,
+"y0": 0.58239,
+"y1": 0.59773,
+"text": "Onthesame pageas the preceding,",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.61858,
+"x1": 0.87035,
+"y0": 0.59568,
+"y1": 0.6117,
+"text": "in the same village, occurs Willel.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.61899,
+"x1": 0.86912,
+"y0": 0.60966,
+"y1": 0.62466,
+"text": "mus Benne. If the same, the origin",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.6194,
+"x1": 0.68646,
+"y0": 0.62398,
+"y1": 0.63727,
+"text": "is simplc.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.63256,
+"x1": 0.87035,
+"y0": 0.63795,
+"y1": 0.65432,
+"text": "Willelmus Bene, 1379 : P.T. Yorks.p.257.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63256,
+"x1": 0.83456,
+"y0": 0.64989,
+"y1": 0.66489,
+"text": "Thomas Been, 1379 : ibid. p. 244.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.86994,
+"y0": 0.66045,
+"y1": 0.67375,
+"text": "1056. Married--Isack Beanne and Rc-",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62063,
+"x1": 0.87117,
+"y0": 0.67205,
+"y1": 0.68398,
+"text": "becke Jenner: St. Mary Aldermary, p. 26.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.63462,
+"x1": 0.87076,
+"y0": 0.68227,
+"y1": 0.6942,
+"text": "West Riding Court Dir., 7, o; Boston",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.62104,
+"x1": 0.8218,
+"y0": 0.69148,
+"y1": 0.70682,
+"text": "(U.S.), 95, 2 ; Philadelphia, 37, 1.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.63585,
+"x1": 0.87035,
+"y0": 0.70739,
+"y1": 0.72239,
+"text": "Bear.--(1) Local ; v. Beer. (2)",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.62187,
+"x1": 0.86994,
+"y0": 0.72148,
+"y1": 0.73602,
+"text": "Nick. ‘the bear,  onc of surly",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.8687,
+"y0": 0.73568,
+"y1": 0.75,
+"text": "temper. A common entry in early",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.62104,
+"x1": 0.68687,
+"y0": 0.7517,
+"y1": 0.76364,
+"text": "registers.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63215,
+"x1": 0.81563,
+"y0": 0.76227,
+"y1": 0.78034,
+"text": "Robert le Ber, co. Kent, 1273:",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63421,
+"x1": 0.8218,
+"y0": 0.7742,
+"y1": 0.78784,
+"text": "Adam le Bere, co. Camb., ibid.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.6338,
+"x1": 0.81975,
+"y0": 0.78477,
+"y1": 0.79807,
+"text": "Clement le Bere, co. Oxf,' ibid.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63421,
+"x1": 0.81399,
+"y0": 0.795,
+"y1": 0.8083,
+"text": "Walter le Bere, co. Oxf., ibid.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63339,
+"x1": 0.86829,
+"y0": 0.80523,
+"y1": 0.8192,
+"text": "1614. Marricd---Fauor Beare and Cathe-",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.62146,
+"x1": 0.86171,
+"y0": 0.81614,
+"y1": 0.83045,
+"text": "rine Powell : St. Mary Aldermary, p. 13.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63421,
+"x1": 0.87076,
+"y0": 0.82602,
+"y1": 0.84034,
+"text": "1628. Hugh Beare and Dorothy Skeares:",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62269,
+"x1": 0.83415,
+"y0": 0.83625,
+"y1": 0.85159,
+"text": "Marriage Lic. (Westminster), p 32.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63421,
+"x1": 0.80288,
+"y0": 0.84784,
+"y1": 0.86148,
+"text": "London, 6 ; Philadelphia, 9.",
+"conf": 0.949
+},
+{
+"column": 3,
+"x0": 0.69715,
+"x1": 0.87446,
+"y0": 0.91534,
+"y1": 0.94909,
+"text": "Digitized by Go0g",
+"conf": 0.815
+}
+]

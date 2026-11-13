@@ -787,17 +787,18 @@
   "meaning": "the son of Alfrey, i.e. Alfred",
   "author_comment": "Alfried, Alfred, Alfrey; cf. Godfrey, Godfried, Humfrey, Humfreid: Yonge, i. pp. lxviii and lxxviii.",
   "modern_distribution": "London, 1, 3, 0, 0; Crockford, 0, 0, 5, 0; Philadelphia, 0, 0, 0, 1",
-  "first_name": "Elferus?",
+  "first_name": "Elferus",
   "last_name": "Tannator",
   "date": "1273",
   "event": "",
   "place": "Sussex",
   "county": "Sussex",
-  "notes": "[Unclear: first name's second/third letters faint or ligatured; read as Elferus] Tannator = tanner",
+  "notes": "Tannator = tanner",
   "source_abbrev": "A",
   "source": "Hundred Rolls, 1273",
   "record_text": "Elferus Tannator, co. Sussex, 1273. A.",
-  "confidence": "low"
+  "confidence": "high",
+  "human_checked": true
  },
  {
   "page": 46,

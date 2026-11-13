@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.16832,
+"x1": 0.28424,
+"y0": 0.06409,
+"y1": 0.07773,
+"text": "BALKWILL",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.11612,
+"x1": 0.35001,
+"y0": 0.09136,
+"y1": 0.10568,
+"text": "Nicholas Balgie, or Balgee, sup. for",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.31713,
+"y0": 0.10159,
+"y1": 0.11693,
+"text": "B.A., 1566 : Reg. Univ. Oxf. i. 242.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.11571,
+"x1": 0.35207,
+"y0": 0.11216,
+"y1": 0.12648,
+"text": "1593. Bapt.  Richard, son of John",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.35125,
+"y0": 0.12273,
+"y1": 0.13739,
+"text": "BaIgay : St.Thomas the Apostle (London),",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.10297,
+"x1": 0.13832,
+"y0": 0.13534,
+"y1": 0.14761,
+"text": "p. 34.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.11653,
+"x1": 0.35289,
+"y0": 0.14386,
+"y1": 0.15648,
+"text": "i6o2. Married--John Ellis and Jane",
+"conf": 0.932
+},
+{
+"column": 1,
+"x0": 0.10379,
+"x1": 0.22012,
+"y0": 0.15375,
+"y1": 0.16875,
+"text": "Balgay : ibid. P. 9.",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.11571,
+"x1": 0.35166,
+"y0": 0.16432,
+"y1": 0.17795,
+"text": "London, I ; West Riding Court Dir., 1.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11941,
+"x1": 0.35125,
+"y0": 0.18205,
+"y1": 0.19602,
+"text": "Balkwill.---Local, ′ of 1 Bake-",
+"conf": 0.892
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.30521,
+"y0": 0.19534,
+"y1": 0.21068,
+"text": "well,' ? parish in co. Derby.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11694,
+"x1": 0.35207,
+"y0": 0.21034,
+"y1": 0.225,
+"text": "William (Rector de Bauk wel), co. Linc.,",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.19792,
+"y0": 0.22159,
+"y1": 0.23386,
+"text": "20 Edw. I. R.",
+"conf": 0.918
+},
+{
+"column": 1,
+"x0": 0.11776,
+"x1": 0.31959,
+"y0": 0.23284,
+"y1": 0.24375,
+"text": "John de Bauquelle, co. Kent, ibid.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.11653,
+"x1": 0.32782,
+"y0": 0.24273,
+"y1": 0.25466,
+"text": "Cecilia de Baukwell, London, ibid.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.11653,
+"x1": 0.33234,
+"y0": 0.25261,
+"y1": 0.26557,
+"text": "Roger de Bauquell, co. Derby. ibid.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11694,
+"x1": 0.35289,
+"y0": 0.26352,
+"y1": 0.27511,
+"text": "1892. Died-- William Fdward Balkwill :",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.10502,
+"x1": 0.26287,
+"y0": 0.27341,
+"y1": 0.28705,
+"text": "Daily Telegraph, July !4.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.11653,
+"x1": 0.27438,
+"y0": 0.28352,
+"y1": 0.29818,
+"text": "London, I ; New York, 1.",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.12064,
+"x1": 0.35659,
+"y0": 0.30102,
+"y1": 0.31398,
+"text": "Ball.---(1) son of",
+"conf": 0.882
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.35453,
+"y0": 0.31352,
+"y1": 0.32886,
+"text": "Baldwin,' from the  nick. Bald.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.35495,
+"y0": 0.3275,
+"y1": 0.34386,
+"text": "This was popularly Ball. The",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10379,
+"x1": 0.3533,
+"y0": 0.34216,
+"y1": 0.3558,
+"text": "large number of Balls in the London",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.10502,
+"x1": 0.35371,
+"y0": 0.35511,
+"y1": 0.37045,
+"text": "Directory is accounted for by the",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10502,
+"x1": 0.35412,
+"y0": 0.37045,
+"y1": 0.38273,
+"text": "great favour in which the name was",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.1042,
+"x1": 0.35289,
+"y0": 0.38239,
+"y1": 0.39602,
+"text": "held, and the constant influx from",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.35453,
+"y0": 0.395,
+"y1": 0.41068,
+"text": "the Low Countries, where for a",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.1042,
+"x1": 0.35371,
+"y0": 0.40898,
+"y1": 0.42398,
+"text": "time it ruled supreme. The d in",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.10379,
+"x1": 0.35412,
+"y0": 0.42398,
+"y1": 0.43727,
+"text": "some cases might be dropped later",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10297,
+"x1": 0.35453,
+"y0": 0.43625,
+"y1": 0.45159,
+"text": "on, on account of its suggesting",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.35371,
+"y0": 0.4492,
+"y1": 0.46352,
+"text": "baldness. We find Balcock in the",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.1042,
+"x1": 0.35412,
+"y0": 0.46216,
+"y1": 0.47852,
+"text": "Hundred Rolls, -cock beingthe suffix",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10379,
+"x1": 0.35577,
+"y0": 0.47682,
+"y1": 0.49148,
+"text": "usually appended to the nick. of",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.10338,
+"x1": 0.35166,
+"y0": 0.49,
+"y1": 0.50568,
+"text": "fontal names (v. Balcock). (2) Nick.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.35207,
+"y0": 0.50261,
+"y1": 0.51898,
+"text": "'the bald'; v. Ballard. The repre.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.10502,
+"x1": 0.35453,
+"y0": 0.51659,
+"y1": 0.53125,
+"text": "sentatives of this sobriquet have",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.10543,
+"x1": 0.35453,
+"y0": 0.52989,
+"y1": 0.54489,
+"text": "also dropped the final d to hide",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.35412,
+"y0": 0.54284,
+"y1": 0.56023,
+"text": "the truth. Amongst very many",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.22711,
+"y0": 0.55716,
+"y1": 0.57148,
+"text": "instances occur :",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11612,
+"x1": 0.34796,
+"y0": 0.57114,
+"y1": 0.58852,
+"text": "Custance Balde, co. Camb., 1273. A.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11735,
+"x1": 0.28876,
+"y0": 0.58239,
+"y1": 0.59602,
+"text": "Richard Bald, co. Oxf., ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.119,
+"x1": 0.27849,
+"y0": 0.59364,
+"y1": 0.60591,
+"text": "John Balle, co. Norf., ibid.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.11776,
+"x1": 0.29699,
+"y0": 0.60352,
+"y1": 0.61682,
+"text": "Albred Balle, co. Hunts, ibid.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.11735,
+"x1": 0.35453,
+"y0": 0.61341,
+"y1": 0.62841,
+"text": "John Balde, co. Soms., 1 Edw. I11:",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.10543,
+"x1": 0.23697,
+"y0": 0.6233,
+"y1": 0.63966,
+"text": "Kirby's Quest, p. 115.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11653,
+"x1": 0.35495,
+"y0": 0.63352,
+"y1": 0.65057,
+"text": "Isabella Balke, 1379 : P. T. Yorks. p. 212.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11735,
+"x1": 0.35453,
+"y0": 0.64477,
+"y1": 0.65977,
+"text": "Johannes Balde-man, i.e. John, the ser.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.26698,
+"y0": 0.65432,
+"y1": 0.67034,
+"text": "vant of Balde: ibid. p. 217.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11941,
+"x1": 0.35495,
+"y0": 0.6717,
+"y1": 0.68977,
+"text": "From either (1) or (2) or both",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.10543,
+"x1": 0.35495,
+"y0": 0.68841,
+"y1": 0.70205,
+"text": "came a pet name given to various",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.1042,
+"x1": 0.35412,
+"y0": 0.70034,
+"y1": 0.71398,
+"text": "animals. Ball is mentioned as the",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10584,
+"x1": 0.35412,
+"y0": 0.71364,
+"y1": 0.72761,
+"text": "name of a horse in Chaucer and",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.10543,
+"x1": 0.35453,
+"y0": 0.72614,
+"y1": 0.74284,
+"text": "Tusser, of a sheep in the Promp-",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10461,
+"x1": 0.35453,
+"y0": 0.73943,
+"y1": 0.75648,
+"text": "torium, and of a dog in the Privy",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.10543,
+"x1": 0.35453,
+"y0": 0.75341,
+"y1": 0.76977,
+"text": "Purse Expenses of Henry VII1",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.10749,
+"x1": 0.18805,
+"y0": 0.76773,
+"y1": 0.78239,
+"text": "(Halliwell).",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.11776,
+"x1": 0.35495,
+"y0": 0.7817,
+"y1": 0.79807,
+"text": "' Item, the 14th day (May, 1530) paicd",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.10584,
+"x1": 0.35453,
+"y0": 0.79432,
+"y1": 0.80693,
+"text": "to one in rewarde for bringing homc Ball",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.10666,
+"x1": 0.35495,
+"y0": 0.80318,
+"y1": 0.8175,
+"text": "the Kinges dog that was loste in the",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.10666,
+"x1": 0.35453,
+"y0": 0.81443,
+"y1": 0.82739,
+"text": "forreat of Waltham 5s.': Priry Purse",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.10584,
+"x1": 0.13996,
+"y0": 0.84682,
+"y1": 0.85909,
+"text": "P. 22.",
+"conf": 0.856
+},
+{
+"column": 2,
+"x0": 0.47683,
+"x1": 0.50026,
+"y0": 0.0617,
+"y1": 0.07807,
+"text": "75",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37612,
+"x1": 0.61083,
+"y0": 0.09205,
+"y1": 0.10739,
+"text": "(3) Local, ‘at the Ball,' a sign-",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.36214,
+"x1": 0.57466,
+"y0": 0.1067,
+"y1": 0.11898,
+"text": "name; cf. Bell, Roebuck, &c.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.37489,
+"x1": 0.61166,
+"y0": 0.12136,
+"y1": 0.13398,
+"text": "John atte Balle, co. Soms., 1 Edw. 11I :",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.49738,
+"y0": 0.13227,
+"y1": 0.14523,
+"text": "Kirby's Quest, P. 149.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.37571,
+"x1": 0.61166,
+"y0": 0.14216,
+"y1": 0.15545,
+"text": "Henry atte' Balle, co. Soms., I Edw.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36297,
+"x1": 0.46285,
+"y0": 0.15239,
+"y1": 0.16602,
+"text": "11 : ibid. p. 258.",
+"conf": 0.886
+},
+{
+"column": 2,
+"x0": 0.37735,
+"x1": 0.61495,
+"y0": 0.16602,
+"y1": 0.1817,
+"text": "This sign-name has existed for",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.43326,
+"y0": 0.18136,
+"y1": 0.19364,
+"text": "centuries.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37571,
+"x1": 0.56644,
+"y0": 0.19568,
+"y1": 0.20932,
+"text": "London, 64 ; Philadelphia, 104.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.37982,
+"x1": 0.6133,
+"y0": 0.21307,
+"y1": 0.22568,
+"text": "Ballard.--Nick. ' bald-headed.'",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.61536,
+"y0": 0.22636,
+"y1": 0.24102,
+"text": "The hair, or absence of it, gave us",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.6133,
+"y0": 0.24034,
+"y1": 0.25466,
+"text": "a large number of early nicknames,",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.61577,
+"y0": 0.25295,
+"y1": 0.26898,
+"text": "the majority of which still exist as",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.6133,
+"y0": 0.26795,
+"y1": 0.28023,
+"text": "surnames.  Ballard seems to have",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.61412,
+"y0": 0.27943,
+"y1": 0.29545,
+"text": "been very popular for a bald-headed",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36255,
+"x1": 0.61453,
+"y0": 0.29307,
+"y1": 0.30773,
+"text": "man; v. Ball. Professor Skeat",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3642,
+"x1": 0.42257,
+"y0": 0.30943,
+"y1": 0.32102,
+"text": "quotes :",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37571,
+"x1": 0.61371,
+"y0": 0.32102,
+"y1": 0.33636,
+"text": "'And scorneden to hyin saying, Stye",
+"conf": 0.931
+},
+{
+"column": 2,
+"x0": 0.36255,
+"x1": 0.61042,
+"y0": 0.33125,
+"y1": 0.34693,
+"text": "up, ballard,' 1382 : W'yclif, 2 Kings i. 23.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.37653,
+"x1": 0.61248,
+"y0": 0.34523,
+"y1": 0.3575,
+"text": "Richard Ballehered, co. Soms., 1 Edw.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.52986,
+"y0": 0.35511,
+"y1": 0.36841,
+"text": "I1l: Kirby's Quest, P. 206.",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.3753,
+"x1": 0.61412,
+"y0": 0.36534,
+"y1": 0.37932,
+"text": "Peter Ballard, co. 'Soms., 1 Edw. 111 :",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.3642,
+"x1": 0.43367,
+"y0": 0.37659,
+"y1": 0.3892,
+"text": "ibid. p. 252.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.3753,
+"x1": 0.59604,
+"y0": 0.38545,
+"y1": 0.40114,
+"text": "Alured Ba lard, co. Essex, 1273. A.",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.37612,
+"x1": 0.55945,
+"y0": 0.39705,
+"y1": 0.40864,
+"text": "Dreu Ballard, co. Hunts, ibid.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37612,
+"x1": 0.56726,
+"y0": 0.40693,
+"y1": 0.41955,
+"text": "Thomas Ballard, co. Suff., ibid.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37612,
+"x1": 0.61207,
+"y0": 0.41716,
+"y1": 0.42977,
+"text": "Henry Ballard, co. Lanc., 2o Edw. I. R.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.37489,
+"x1": 0.61371,
+"y0": 0.42602,
+"y1": 0.44239,
+"text": "1615. Ralph Ballard, co. Oxf. : Reg.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.54712,
+"y0": 0.43761,
+"y1": 0.45193,
+"text": "Univ.'Oxf. vol. ii. pt. i..p. 339.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.3753,
+"x1": 0.61412,
+"y0": 0.44784,
+"y1": 0.46216,
+"text": "1634: Married - William1 Mayle and",
+"conf": 0.898
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.61412,
+"y0": 0.45773,
+"y1": 0.47341,
+"text": "Mary Ballerde : St. Mary Aldermary, p. 19.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.37571,
+"x1": 0.55945,
+"y0": 0.47,
+"y1": 0.48227,
+"text": "London, 26; Philadelphia, 10.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37694,
+"x1": 0.61207,
+"y0": 0.48739,
+"y1": 0.49966,
+"text": "Balleine,Ballin.--Nick. le Ba-",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.59152,
+"y0": 0.50057,
+"y1": 0.51318,
+"text": "lun,' i.e. the whale ; Fr. baleina.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.37571,
+"x1": 0.61289,
+"y0": 0.51557,
+"y1": 0.52886,
+"text": "Baloun (without surname), co. Lcic.,",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.42216,
+"y0": 0.52614,
+"y1": 0.5408,
+"text": "1273.. A.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.37653,
+"x1": 0.44847,
+"y0": 0.53534,
+"y1": 0.54932,
+"text": "Balun, ibid.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37735,
+"x1": 0.56274,
+"y0": 0.54659,
+"y1": 0.55989,
+"text": "John le Balun, co. Heref., ibid.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.37612,
+"x1": 0.58288,
+"y0": 0.55648,
+"y1": 0.57148,
+"text": "A lan Balun, co. Northampt., ibid.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.37776,
+"x1": 0.49081,
+"y0": 0.56773,
+"y1": 0.58,
+"text": "John le Balun. L.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37571,
+"x1": 0.61536,
+"y0": 0.57659,
+"y1": 0.59295,
+"text": "London, 0, 2; Crockford, 4. 0; New",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.43778,
+"y0": 0.58818,
+"y1": 0.6025,
+"text": "York, O, 14.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.37982,
+"x1": 0.61453,
+"y0": 0.60284,
+"y1": 0.61716,
+"text": "Ballinger, Ballenger.--Oc-",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.50026,
+"y0": 0.61716,
+"y1": 0.63114,
+"text": "cup.; v. Bullinger.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37653,
+"x1": 0.61495,
+"y0": 0.63148,
+"y1": 0.64511,
+"text": "167o. Edmund Burt and Audrey Bal.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.36379,
+"x1": 0.61289,
+"y0": 0.64273,
+"y1": 0.65568,
+"text": "linger : Marriage  Lic. (Westminster),",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.40078,
+"y0": 0.65466,
+"y1": 0.66659,
+"text": "p. 45.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37817,
+"x1": 0.61412,
+"y0": 0.6625,
+"y1": 0.6758,
+"text": "1701. Married -- Henry  Kirby and",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.36338,
+"x1": 0.61371,
+"y0": 0.67341,
+"y1": 0.68739,
+"text": "Patience Ballinger : St. Peter, Cornhill,",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36255,
+"x1": 0.40037,
+"y0": 0.6833,
+"y1": 0.69761,
+"text": "ii. 63.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38023,
+"x1": 0.61042,
+"y0": 0.69864,
+"y1": 0.71091,
+"text": "Balm, Balme.--Loc.'of Balne,",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.37447,
+"x1": 0.61125,
+"y0": 0.71011,
+"y1": 0.72614,
+"text": " parish near Snaith, co. York.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36461,
+"x1": 0.61371,
+"y0": 0.7258,
+"y1": 0.73807,
+"text": "The corruption was an carly and",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.3642,
+"x1": 0.61371,
+"y0": 0.73909,
+"y1": 0.75136,
+"text": "natural one. The surname is well",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36461,
+"x1": 0.52246,
+"y0": 0.75102,
+"y1": 0.76636,
+"text": "known in the county.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37982,
+"x1": 0.6133,
+"y0": 0.76466,
+"y1": 0.78,
+"text": "The following entries occur in",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36461,
+"x1": 0.58001,
+"y0": 0.77932,
+"y1": 0.79295,
+"text": "the same village (Wadworth) :",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.37653,
+"x1": 0.61248,
+"y0": 0.79364,
+"y1": 0.80761,
+"text": "Johannes Balne, 1379: P. T. Yorka.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.38105,
+"x1": 0.39914,
+"y0": 0.80591,
+"y1": 0.81648,
+"text": "76.",
+"conf": 0.91
+},
+{
+"column": 2,
+"x0": 0.38023,
+"x1": 0.54465,
+"y0": 0.81307,
+"y1": 0.82943,
+"text": "Johannes Balm, 1379 : ibid.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.37817,
+"x1": 0.60672,
+"y0": 0.82398,
+"y1": 0.84,
+"text": "Willelmas de Balne, 1379 : ibid. p. 50.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.37776,
+"x1": 0.58987,
+"y0": 0.83455,
+"y1": 0.85023,
+"text": "Bmma de Balne, 1379: ibid. p. 46.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.37735,
+"x1": 0.5985,
+"y0": 0.84477,
+"y1": 0.8608,
+"text": "Thomas de Balme, 1379 : ibid. p. 39.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.69395,
+"x1": 0.80559,
+"y0": 0.06443,
+"y1": 0.07705,
+"text": "BAMFIELD",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.63567,
+"x1": 0.87414,
+"y0": 0.0917,
+"y1": 0.10432,
+"text": "1745. Married--John Balm and Sarah",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62253,
+"x1": 0.87373,
+"y0": 0.10193,
+"y1": 0.11557,
+"text": "Brewerton : St. Geo. Chap. Mayfair, P. 50.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.63444,
+"x1": 0.87496,
+"y0": 0.11148,
+"y1": 0.1275,
+"text": "West Riding Court Dir., 1, 5: 'New",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.62253,
+"x1": 0.68944,
+"y0": 0.12239,
+"y1": 0.13705,
+"text": "York, 0 2.",
+"conf": 0.871
+},
+{
+"column": 3,
+"x0": 0.63936,
+"x1": 0.87127,
+"y0": 0.14011,
+"y1": 0.15545,
+"text": "Balshaw.--- Local,'of Balshaw,",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62418,
+"x1": 0.87414,
+"y0": 0.15614,
+"y1": 0.16807,
+"text": "some spot in the vicinity of Lathom,",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62377,
+"x1": 0.6919,
+"y0": 0.16773,
+"y1": 0.18102,
+"text": "co. Lanc.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63731,
+"x1": 0.87455,
+"y0": 0.18239,
+"y1": 0.19739,
+"text": "Adam de Balshagh, co. Lanc., 1332:",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.62377,
+"x1": 0.81339,
+"y0": 0.19364,
+"y1": 0.2083,
+"text": "Lay Subsidy (Rylands), p. 120.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63649,
+"x1": 0.87496,
+"y0": 0.2025,
+"y1": 0.21955,
+"text": "John de Balshagh, co. Lanc., 1332: ibid.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6369,
+"x1": 0.87455,
+"y0": 0.21477,
+"y1": 0.22739,
+"text": "1608. John Balshaw. of Snape within",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.62459,
+"x1": 0.84253,
+"y0": 0.22534,
+"y1": 0.23761,
+"text": "Scarisbrick : Wills at Chester, i. 10.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.63649,
+"x1": 0.87496,
+"y0": 0.23455,
+"y1": 0.24852,
+"text": "1622. William Balshaw, of' Walton-le-",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.625,
+"x1": 0.68985,
+"y0": 0.24648,
+"y1": 0.2567,
+"text": "Dale, ibid.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63649,
+"x1": 0.87373,
+"y0": 0.255,
+"y1": 0.26966,
+"text": "1628. Margaret Balshaw, of Mawdsley,",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62336,
+"x1": 0.74731,
+"y0": 0.26591,
+"y1": 0.27955,
+"text": "spinster: ibid. i. 11.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63608,
+"x1": 0.87619,
+"y0": 0.27568,
+"y1": 0.29102,
+"text": "MDB. (co. Lanc), 6; Liverpool, 2;",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62294,
+"x1": 0.71981,
+"y0": 0.28591,
+"y1": 0.30159,
+"text": "Philadelphia, 1.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.63567,
+"x1": 0.87332,
+"y0": 0.30466,
+"y1": 0.31795,
+"text": ".Bamber.--Local, 'of Bamber,",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.62377,
+"x1": 0.87414,
+"y0": 0.31932,
+"y1": 0.33159,
+"text": "now more familiarly known as",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.62377,
+"x1": 0.87701,
+"y0": 0.33091,
+"y1": 0.34761,
+"text": "Bamber Bridge, a village three",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62377,
+"x1": 0.83884,
+"y0": 0.34557,
+"y1": 0.3592,
+"text": "miles from Preston, co. Lanc.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63731,
+"x1": 0.87537,
+"y0": 0.36091,
+"y1": 0.37318,
+"text": "1619. Robert Bamber, of Dukinfeld :",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62541,
+"x1": 0.76291,
+"y0": 0.37045,
+"y1": 0.38409,
+"text": "Wills at Chester. i. 10.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.63649,
+"x1": 0.87578,
+"y0": 0.38034,
+"y1": 0.39466,
+"text": "1642. Robert Bamber: Preston Guild",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.65906,
+"x1": 0.77563,
+"y0": 0.4008,
+"y1": 0.41375,
+"text": "ohn'Bamber : ibid.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.63567,
+"x1": 0.87537,
+"y0": 0.41136,
+"y1": 0.42602,
+"text": "1664. Bapt.-Katharine, d. John Bom.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62212,
+"x1": 0.87619,
+"y0": 0.42125,
+"y1": 0.43898,
+"text": "ber, of Farrington: Reg. Leyland (co.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63731,
+"x1": 0.6878,
+"y0": 0.44409,
+"y1": 0.45602,
+"text": "1683. -",
+"conf": 0.904
+},
+{
+"column": 3,
+"x0": 0.62253,
+"x1": 0.76332,
+"y0": 0.45193,
+"y1": 0.46898,
+"text": "of Fuxton : ibid. p. 73.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.63649,
+"x1": 0.87455,
+"y0": 0.46386,
+"y1": 0.47784,
+"text": "London, 2: Liverpool. 7 ; Manchester,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62336,
+"x1": 0.85033,
+"y0": 0.47443,
+"y1": 0.48875,
+"text": "6 ; Boston (U.S.), 6 ; Philadelphia, I.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.63895,
+"x1": 0.87373,
+"y0": 0.4917,
+"y1": 0.5067,
+"text": "Bambrough, Bambury .---",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.62418,
+"x1": 0.87537,
+"y0": 0.505,
+"y1": 0.52,
+"text": "Local, ^ of Bambrough,' a parish in",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.62541,
+"x1": 0.77399,
+"y0": 0.52068,
+"y1": 0.53159,
+"text": "co. Northumberland.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63608,
+"x1": 0.87414,
+"y0": 0.53295,
+"y1": 0.54932,
+"text": "Beatrix de Bamburg, co. Northumb.,",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.625,
+"x1": 0.75757,
+"y0": 0.54489,
+"y1": 0.55682,
+"text": "Hen. IIl-Edw. I. K.",
+"conf": 0.896
+},
+{
+"column": 3,
+"x0": 0.63731,
+"x1": 0.87455,
+"y0": 0.55443,
+"y1": 0.56909,
+"text": "William de Bamburgh, co. Northumb.,",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62541,
+"x1": 0.65414,
+"y0": 0.56568,
+"y1": 0.57659,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63854,
+"x1": 0.87455,
+"y0": 0.57523,
+"y1": 0.58955,
+"text": "Anselm de Bamburg', co. Norf., 1273. A.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.63936,
+"x1": 0.87496,
+"y0": 0.58511,
+"y1": 0.60011,
+"text": "Robertus Janitor r Castri de Bamburg.",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.62623,
+"x1": 0.74854,
+"y0": 0.59773,
+"y1": 0.60864,
+"text": "co. Northumb., ibid.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63854,
+"x1": 0.87414,
+"y0": 0.60761,
+"y1": 0.61989,
+"text": "William de Bamburgh, prior of Colding-",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62459,
+"x1": 0.78056,
+"y0": 0.6175,
+"y1": 0.63216,
+"text": "ham, 1355: QQQ. P: 380.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.63854,
+"x1": 0.87619,
+"y0": 0.62705,
+"y1": 0.6417,
+"text": "1524. J John Fairfax and Alice Bam-",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.625,
+"x1": 0.8528,
+"y0": 0.63898,
+"y1": 0.65091,
+"text": "borow : Marriage Lic. (London), i. 4.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63567,
+"x1": 0.87619,
+"y0": 0.64682,
+"y1": 0.66352,
+"text": "1775. MarriedWilliam Bambary and",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62623,
+"x1": 0.861,
+"y0": 0.65875,
+"y1": 0.6717,
+"text": "Ann' Goodin: St. Geo. Han. Sq. i. 252.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.6369,
+"x1": 0.82242,
+"y0": 0.67,
+"y1": 0.6833,
+"text": "London, I, I; New York, I, i.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63977,
+"x1": 0.87414,
+"y0": 0.6867,
+"y1": 0.70068,
+"text": "Bamfield, Bampfeld, Ban-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62336,
+"x1": 0.8766,
+"y0": 0.70068,
+"y1": 0.71432,
+"text": "feld, Banfll.--Local, ‘of Bam-",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.62418,
+"x1": 0.87701,
+"y0": 0.71318,
+"y1": 0.72886,
+"text": "fyld,' some place in co. Devon or",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62418,
+"x1": 0.87537,
+"y0": 0.7275,
+"y1": 0.7408,
+"text": "co. Somerset, whence in the latter",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62459,
+"x1": 0.8766,
+"y0": 0.73977,
+"y1": 0.7558,
+"text": "Weston-Bamfyld, a parish six miles",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62377,
+"x1": 0.87701,
+"y0": 0.75409,
+"y1": 0.76943,
+"text": "from Castle-Cary.  As a surname",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.625,
+"x1": 0.82981,
+"y0": 0.76875,
+"y1": 0.78034,
+"text": "Banfeld is the chief variant.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.63567,
+"x1": 0.87619,
+"y0": 0.78136,
+"y1": 0.79773,
+"text": "1575. Ames (Amiaa)  Banflde. co.",
+"conf": 0.917
+},
+{
+"column": 3,
+"x0": 0.62418,
+"x1": 0.87414,
+"y0": 0.79398,
+"y1": 0.80659,
+"text": "Devon : Reg. Univ. Oxf. vol. ii. pt. ii. p. 63.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63649,
+"x1": 0.87455,
+"y0": 0.80318,
+"y1": 0.81784,
+"text": "1581. Richard Bampfild, or Bamfeld,",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.62459,
+"x1": 0.77071,
+"y0": 0.8158,
+"y1": 0.82705,
+"text": "co. Deron : ibid. p. 100.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.6369,
+"x1": 0.87496,
+"y0": 0.8233,
+"y1": 0.83898,
+"text": "1582. Giles Baimpfld, co. Deron : ibid.",
+"conf": 0.942
+},
+{
+"column": 3,
+"x0": 0.63772,
+"x1": 0.87701,
+"y0": 0.84273,
+"y1": 0.86011,
+"text": "1752. Married - Wilbam Smith and",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.69683,
+"x1": 0.87701,
+"y0": 0.91602,
+"y1": 0.9467,
+"text": "Digitized by Goog",
+"conf": 0.956
+}
+]

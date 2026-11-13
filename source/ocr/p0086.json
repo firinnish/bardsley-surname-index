@@ -1,0 +1,1721 @@
+[
+{
+"column": 1,
+"x0": 0.19813,
+"x1": 0.30157,
+"y0": 0.07534,
+"y1": 0.0883,
+"text": "BA WTREE",
+"conf": 0.851
+},
+{
+"column": 1,
+"x0": 0.14272,
+"x1": 0.37956,
+"y0": 0.10091,
+"y1": 0.11727,
+"text": "Baldwin or Baudwin de Rumeny, co.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13123,
+"x1": 0.30978,
+"y0": 0.11318,
+"y1": 0.12545,
+"text": "Worc., Hen. Ill-Edw. I. K.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14395,
+"x1": 0.37915,
+"y0": 0.12341,
+"y1": 0.13705,
+"text": "Johanna Baudewyn,co. Camb., 1273. A.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.14313,
+"x1": 0.37956,
+"y0": 0.13364,
+"y1": 0.14864,
+"text": "Bawden, son of John Jane, 15tt : Reg.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12959,
+"x1": 0.27612,
+"y0": 0.1425,
+"y1": 0.1592,
+"text": "St. Columb Major, P: 3.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.14313,
+"x1": 0.37874,
+"y0": 0.15511,
+"y1": 0.16739,
+"text": "!547. Augustin'F Bawdwyn and Eliz.",
+"conf": 0.846
+},
+{
+"column": 1,
+"x0": 0.13164,
+"x1": 0.37012,
+"y0": 0.16466,
+"y1": 0.17795,
+"text": "Wilson : Marriage Lic. (London), i. I1.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.14313,
+"x1": 0.37956,
+"y0": 0.17455,
+"y1": 0.19023,
+"text": "Bawden, d. of John Moyle, 155o: Reg.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13041,
+"x1": 0.27694,
+"y0": 0.18409,
+"y1": 0.20011,
+"text": "St. Columb Major, P: 5.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.14149,
+"x1": 0.38079,
+"y0": 0.19602,
+"y1": 0.21034,
+"text": "Johane Bawden, buried, 1589: ibid.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13205,
+"x1": 0.17063,
+"y0": 0.20898,
+"y1": 0.21955,
+"text": "p. 193.",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.14395,
+"x1": 0.37997,
+"y0": 0.21614,
+"y1": 0.23011,
+"text": "1575. Nicholas Bawden, co. Cornwall :",
+"conf": 0.908
+},
+{
+"column": 1,
+"x0": 0.13,
+"x1": 0.34385,
+"y0": 0.22602,
+"y1": 0.24102,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 63.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14231,
+"x1": 0.38038,
+"y0": 0.23795,
+"y1": 0.25125,
+"text": "1577. William Bawden, co. Cornwall :",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13,
+"x1": 0.19608,
+"y0": 0.24784,
+"y1": 0.26182,
+"text": "jbid. p. 74.",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.14272,
+"x1": 0.37997,
+"y0": 0.25841,
+"y1": 0.27068,
+"text": "Thomas, son of Bodwinc and Hanah",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14313,
+"x1": 0.32702,
+"y0": 0.28023,
+"y1": 0.29216,
+"text": "Bnwden Maynard, English",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.13164,
+"x1": 0.17104,
+"y0": 0.29182,
+"y1": 0.30239,
+"text": "p. 320.",
+"conf": 0.921
+},
+{
+"column": 1,
+"x0": 0.14149,
+"x1": 0.38161,
+"y0": 0.29795,
+"y1": 0.31466,
+"text": "London, 5, 2 ; MDB. (co. Cornwall), 5.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12959,
+"x1": 0.36766,
+"y0": 0.30977,
+"y1": 0.32443,
+"text": "O; New York, 4, 0; Philadelphia, 2, 0.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.1456,
+"x1": 0.37915,
+"y0": 0.32511,
+"y1": 0.34045,
+"text": "Bawtree.--(1) Local, ‘ of Baw-",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.13041,
+"x1": 0.38161,
+"y0": 0.33943,
+"y1": 0.35409,
+"text": "try,'  a small market town near",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.13041,
+"x1": 0.38038,
+"y0": 0.35205,
+"y1": 0.36739,
+"text": "Doncaster. (2) Local,'at the Bor-",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13,
+"x1": 0.37997,
+"y0": 0.36636,
+"y1": 0.37932,
+"text": "tree' or 'Baw-tree,' i.e. the clder-",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12959,
+"x1": 0.37997,
+"y0": 0.37966,
+"y1": 0.3933,
+"text": "berry, from residence thereby ; cf.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13,
+"x1": 0.37915,
+"y0": 0.39295,
+"y1": 0.40727,
+"text": "Rowntree, Birch, Nash, Nutbeam,",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13123,
+"x1": 0.37956,
+"y0": 0.40693,
+"y1": 0.41955,
+"text": "&c. A word still in use in Furness.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.13082,
+"x1": 0.37504,
+"y0": 0.4192,
+"y1": 0.4342,
+"text": "Elderberry wine is there' bor-tree",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13041,
+"x1": 0.37915,
+"y0": 0.43318,
+"y1": 0.44818,
+"text": "or ‘ bawtry-jack.' Bawtry or Bor-",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13,
+"x1": 0.37997,
+"y0": 0.44648,
+"y1": 0.4608,
+"text": "tery Stile is a farmstead in my old",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13041,
+"x1": 0.37915,
+"y0": 0.45909,
+"y1": 0.47545,
+"text": "par:sh, and is found in many spell.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13164,
+"x1": 0.37751,
+"y0": 0.47375,
+"y1": 0.48705,
+"text": "ings in the Ulverston church.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.13123,
+"x1": 0.19116,
+"y0": 0.48807,
+"y1": 0.50068,
+"text": "register.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.31635,
+"x1": 0.37135,
+"y0": 0.50511,
+"y1": 0.515,
+"text": "1273 A",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.31265,
+"x1": 0.33687,
+"y0": 0.515,
+"y1": 0.52455,
+"text": "ibid",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.1419,
+"x1": 0.37874,
+"y0": 0.52136,
+"y1": 0.53875,
+"text": "Elena de Bautre, 1379 : P. T. Yorks.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12959,
+"x1": 0.16366,
+"y0": 0.53364,
+"y1": 0.54523,
+"text": "p. 18.",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.14149,
+"x1": 0.37956,
+"y0": 0.5425,
+"y1": 0.55852,
+"text": "Ranaldus Bawtrec, co. York, 1429:",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.13,
+"x1": 0.21414,
+"y0": 0.55307,
+"y1": 0.56875,
+"text": "W'. 11, p. 245.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.14313,
+"x1": 0.19075,
+"y0": 0.56466,
+"y1": 0.57625,
+"text": "1604-5.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12836,
+"x1": 0.3496,
+"y0": 0.57318,
+"y1": 0.5892,
+"text": "Reg. U niv. Oxf. vol. i. pt. ii. p. 280.",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.15791,
+"x1": 0.37956,
+"y0": 0.58409,
+"y1": 0.59977,
+"text": "Edward Bawtrey and Judith Lang.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12877,
+"x1": 0.35124,
+"y0": 0.595,
+"y1": 0.60864,
+"text": "toa : Marriagc Lic. (London), i. 292.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14108,
+"x1": 0.38038,
+"y0": 0.60523,
+"y1": 0.62057,
+"text": "1623-4. Richard Bawtrey and Wilmott",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12877,
+"x1": 0.26463,
+"y0": 0.61375,
+"y1": 0.63148,
+"text": "Bufome : ibid. ii. 133.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.1419,
+"x1": 0.21004,
+"y0": 0.62568,
+"y1": 0.64034,
+"text": "London, 3.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14436,
+"x1": 0.37751,
+"y0": 0.64034,
+"y1": 0.65568,
+"text": "Baxendale, Baxendell, Bax-",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.12877,
+"x1": 0.38038,
+"y0": 0.65432,
+"y1": 0.66864,
+"text": "enden, Baxendine.-Local, ‘of",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12795,
+"x1": 0.3771,
+"y0": 0.66693,
+"y1": 0.6833,
+"text": "Baxenden' or ‘Baxendale, a lo-",
+"conf": 0.754
+},
+{
+"column": 1,
+"x0": 0.12918,
+"x1": 0.37792,
+"y0": 0.68057,
+"y1": 0.69727,
+"text": "cality in the district of Accrington,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.12795,
+"x1": 0.37833,
+"y0": 0.69352,
+"y1": 0.71057,
+"text": "East Lanc. Forthe sufixes, v. Dean",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12836,
+"x1": 0.37833,
+"y0": 0.70784,
+"y1": 0.7225,
+"text": "and Dale. The first named seems",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12753,
+"x1": 0.37587,
+"y0": 0.72068,
+"y1": 0.73739,
+"text": "to have been the earliest, although",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12712,
+"x1": 0.37915,
+"y0": 0.73398,
+"y1": 0.75102,
+"text": "both practically mean the same",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.12712,
+"x1": 0.17269,
+"y0": 0.74727,
+"y1": 0.76398,
+"text": "thing.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14026,
+"x1": 0.37587,
+"y0": 0.76193,
+"y1": 0.7783,
+"text": "William de Bakestonden, co. Lanc.,",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.12712,
+"x1": 0.35206,
+"y0": 0.7725,
+"y1": 0.78989,
+"text": "1332: Lay Sabsidy (Rylands), p. 79.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.14108,
+"x1": 0.3771,
+"y0": 0.78375,
+"y1": 0.79977,
+"text": "John Baxenden, C of Accrington, 1614 :",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.12753,
+"x1": 0.26586,
+"y0": 0.7933,
+"y1": 0.80898,
+"text": "W'ills at Chester, i. i5.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.13903,
+"x1": 0.3771,
+"y0": 0.80318,
+"y1": 0.82125,
+"text": "William Baxtenden, of Cro:ton, 1672 :",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.12712,
+"x1": 0.19813,
+"y0": 0.81375,
+"y1": 0.82909,
+"text": "ibid. iii. 23.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13862,
+"x1": 0.37669,
+"y0": 0.82534,
+"y1": 0.84068,
+"text": "Thomaa Baxtendine, o? Bretherton,",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.12753,
+"x1": 0.2359,
+"y0": 0.83659,
+"y1": 0.84886,
+"text": "1700 : ibid. iv. 21.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13739,
+"x1": 0.37628,
+"y0": 0.84648,
+"y1": 0.86148,
+"text": "Thomas Backstendean:, of Croston,",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12753,
+"x1": 0.23631,
+"y0": 0.8567,
+"y1": 0.87,
+"text": "1681 : ibid. iv. 12.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.5054,
+"x1": 0.52675,
+"y0": 0.075,
+"y1": 0.09034,
+"text": "86",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.40274,
+"x1": 0.63926,
+"y0": 0.1033,
+"y1": 0.11795,
+"text": "MDB. (co. Lanc.), 4. I, O, O; Man-",
+"conf": 0.909
+},
+{
+"column": 2,
+"x0": 0.39125,
+"x1": 0.63926,
+"y0": 0.11455,
+"y1": 0.12818,
+"text": "rhester, .3: . 2, 0, 0: London,. a 0.1, 9:",
+"conf": 0.832
+},
+{
+"column": 2,
+"x0": 0.38919,
+"x1": 0.63885,
+"y0": 0.12239,
+"y1": 0.1408,
+"text": "Boston' (U.S.), 4, 0, 0, 0; Philadelphia,",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.39042,
+"x1": 0.44709,
+"y0": 0.13773,
+"y1": 0.1483,
+"text": "2, 0, a, 5.",
+"conf": 0.891
+},
+{
+"column": 2,
+"x0": 0.4048,
+"x1": 0.63885,
+"y0": 0.15068,
+"y1": 0.16602,
+"text": "Baxter.--Occup. 'a female ba-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.60353,
+"y0": 0.16466,
+"y1": 0.17864,
+"text": "ker,' a bakester; v. Backster.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.40603,
+"x1": 0.6372,
+"y0": 0.18,
+"y1": 0.19636,
+"text": "Bay.--(1) Local, ‘at the bay,",
+"conf": 0.936
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.63926,
+"y0": 0.1933,
+"y1": 0.21068,
+"text": "i.e. bay-tree; very rare ; cf. Box,",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39125,
+"x1": 0.55549,
+"y0": 0.20727,
+"y1": 0.22261,
+"text": "Beech, Ash, Nash, &c.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.40274,
+"x1": 0.6179,
+"y0": 0.22295,
+"y1": 0.23727,
+"text": "Jolin ate Bey, co. Camb., 1273. A.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.40521,
+"x1": 0.63885,
+"y0": 0.23795,
+"y1": 0.25534,
+"text": "(2)N:ck. 'the bay.' i.e. bay-",
+"conf": 0.901
+},
+{
+"column": 2,
+"x0": 0.39084,
+"x1": 0.62201,
+"y0": 0.2533,
+"y1": 0.26659,
+"text": "coloured or complcxioned ;",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.39125,
+"x1": 0.44955,
+"y0": 0.26591,
+"y1": 0.27955,
+"text": "Bayard.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40356,
+"x1": 0.62201,
+"y0": 0.28045,
+"y1": 0.29511,
+"text": "Walter le Bay, co. Camb., 1273. A",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.40315,
+"x1": 0.59696,
+"y0": 0.29182,
+"y1": 0.30443,
+"text": "Nicholas le Bay, co. Bedf., ibidi.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.40274,
+"x1": 0.64049,
+"y0": 0.30227,
+"y1": 0.31625,
+"text": "1595. Richard' Cole and'Mary Bay:",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39125,
+"x1": 0.57849,
+"y0": 0.31114,
+"y1": 0.32682,
+"text": "Marriage Lic. ILondon), i. 227.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.40274,
+"x1": 0.57479,
+"y0": 0.32205,
+"y1": 0.33773,
+"text": "London, 3 ; Philadelphia, 6.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.40685,
+"x1": 0.63843,
+"y0": 0.33875,
+"y1": 0.35443,
+"text": "Bayard, Byard, Byatt.—-(1)",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39248,
+"x1": 0.63885,
+"y0": 0.35273,
+"y1": 0.36705,
+"text": "Local, ‘of  Castle Bayard,' near",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.39166,
+"x1": 0.63843,
+"y0": 0.36602,
+"y1": 0.38034,
+"text": "Grenoble. Pierre Bayard, the",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39042,
+"x1": 0.63843,
+"y0": 0.37932,
+"y1": 0.395,
+"text": "knight sans peur et sans reproche,",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.63843,
+"y0": 0.39261,
+"y1": 0.40864,
+"text": "was born here in 1476. (2) Nick.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39125,
+"x1": 0.63843,
+"y0": 0.40659,
+"y1": 0.42023,
+"text": "the English Bayard is, without",
+"conf": 0.919
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.63885,
+"y0": 0.41955,
+"y1": 0.43523,
+"text": "doubt, a name of complexion, from",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39084,
+"x1": 0.63802,
+"y0": 0.4342,
+"y1": 0.44852,
+"text": "bay, reddish brown, whence  bay-",
+"conf": 0.909
+},
+{
+"column": 2,
+"x0": 0.39125,
+"x1": 0.63885,
+"y0": 0.4475,
+"y1": 0.46148,
+"text": "ard, bay horse; cf. Favel, a",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.63926,
+"y0": 0.46011,
+"y1": 0.47477,
+"text": "horse's name, and Burnel,an ass's",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38878,
+"x1": 0.63885,
+"y0": 0.47375,
+"y1": 0.48739,
+"text": "name. 'As bold as is Bayard the",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38878,
+"x1": 0.63802,
+"y0": 0.485,
+"y1": 0.50307,
+"text": "blind,' i.e. a blind horse (Chaucer,",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.3896,
+"x1": 0.48569,
+"y0": 0.49966,
+"y1": 0.515,
+"text": "C. T. 16881).",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.40151,
+"x1": 0.63761,
+"y0": 0.51557,
+"y1": 0.5292,
+"text": "Robert Bahard, or Baiard, co. Camb.,",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.44873,
+"y0": 0.52682,
+"y1": 0.53977,
+"text": "1273. A.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.40233,
+"x1": 0.58588,
+"y0": 0.53636,
+"y1": 0.54932,
+"text": "Roger Bayard, co. Norf., ibid.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.40274,
+"x1": 0.61051,
+"y0": 0.54761,
+"y1": 0.55989,
+"text": "Thebald K Bayard, co. Linc., ibid.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40233,
+"x1": 0.59162,
+"y0": 0.5575,
+"y1": 0.5708,
+"text": "Thomas Bayard, co. Oxf., ibid.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.4011,
+"x1": 0.63843,
+"y0": 0.56705,
+"y1": 0.58273,
+"text": "Ricardus Bayard, 1379: P. T. Yorks.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40439,
+"x1": 0.42163,
+"y0": 0.58239,
+"y1": 0.58989,
+"text": "90.",
+"conf": 0.842
+},
+{
+"column": 2,
+"x0": 0.40315,
+"x1": 0.6179,
+"y0": 0.58648,
+"y1": 0.60386,
+"text": "Thomas Bayard, 1379 : ibid. p. 111.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.40315,
+"x1": 0.63515,
+"y0": 0.59841,
+"y1": 0.61307,
+"text": "Margaret Buard, co. Camb., 1273. A",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.40233,
+"x1": 0.63967,
+"y0": 0.60932,
+"y1": 0.62432,
+"text": "Ralph_ Baird, co. Northumb., 1175 :",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39084,
+"x1": 0.47049,
+"y0": 0.62023,
+"y1": 0.63182,
+"text": "KKK. vi. 22.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.40151,
+"x1": 0.63967,
+"y0": 0.63011,
+"y1": 0.64341,
+"text": "166s. Married---Jcames Bayasde and",
+"conf": 0.917
+},
+{
+"column": 2,
+"x0": 0.3896,
+"x1": 0.63926,
+"y0": 0.64034,
+"y1": 0.65432,
+"text": "Elizaheth Weekes : St. Michael, Corn-",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38878,
+"x1": 0.45037,
+"y0": 0.65057,
+"y1": 0.66625,
+"text": "hill, P: 39:",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.40028,
+"x1": 0.64049,
+"y0": 0.66045,
+"y1": 0.67511,
+"text": "1726.'Bapt. -- Peter Beyard : St. An-",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.38755,
+"x1": 0.5325,
+"y0": 0.67102,
+"y1": 0.68636,
+"text": "tholin (London), p. 158.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.40028,
+"x1": 0.63556,
+"y0": 0.68227,
+"y1": 0.69727,
+"text": "London, 0, 1, 4; Philadelphia, 15, 8, 0",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.40439,
+"x1": 0.63638,
+"y0": 0.69966,
+"y1": 0.71568,
+"text": "Bayldon, l Bayldono.--Local,",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.39084,
+"x1": 0.63679,
+"y0": 0.7125,
+"y1": 0.72955,
+"text": " of Baildon,' a parish near Shipley,",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38796,
+"x1": 0.45489,
+"y0": 0.7275,
+"y1": 0.73977,
+"text": "co. York.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39987,
+"x1": 0.63802,
+"y0": 0.74284,
+"y1": 0.75784,
+"text": "Matilda de Bayldon, 1379 : P. T. Yorks.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.42779,
+"y0": 0.75682,
+"y1": 0.76636,
+"text": "p. 199.",
+"conf": 0.897
+},
+{
+"column": 2,
+"x0": 0.40028,
+"x1": 0.62653,
+"y0": 0.76398,
+"y1": 0.7783,
+"text": "Ricardus Bayldon, 1379: ibid. p. 204.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40028,
+"x1": 0.63802,
+"y0": 0.7742,
+"y1": 0.78886,
+"text": "West Riding Court Dir, 8, o ; Boston",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38755,
+"x1": 0.45941,
+"y0": 0.78545,
+"y1": 0.79841,
+"text": "(U.S.), a, 1.",
+"conf": 0.893
+},
+{
+"column": 2,
+"x0": 0.40315,
+"x1": 0.63802,
+"y0": 0.80045,
+"y1": 0.8158,
+"text": "Baylis, Bayliss.--Nick. This",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.38673,
+"x1": 0.63597,
+"y0": 0.81545,
+"y1": 0.82807,
+"text": "surname is hard to classify, but its",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38755,
+"x1": 0.63638,
+"y0": 0.82841,
+"y1": 0.84239,
+"text": "meaning seems obvious, viz. 'the",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38673,
+"x1": 0.63597,
+"y0": 0.8417,
+"y1": 0.85568,
+"text": "son of the Bailey,' i.e. bailiff; v.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38714,
+"x1": 0.63843,
+"y0": 0.85432,
+"y1": 0.87034,
+"text": "Bailey. Thus thc fnal s is the",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.72034,
+"x1": 0.83079,
+"y0": 0.07773,
+"y1": 0.09102,
+"text": "BAYNHAM",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65012,
+"x1": 0.89731,
+"y0": 0.10568,
+"y1": 0.11966,
+"text": "patronymic, as in Williams, Rich.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64889,
+"x1": 0.89896,
+"y0": 0.11898,
+"y1": 0.13398,
+"text": "ards, Jones, Wilkins, &c.: cf.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65054,
+"x1": 0.89937,
+"y0": 0.13091,
+"y1": 0.15,
+"text": "Wrightson, Taylorson, Smithson.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.6764,
+"y0": 0.14557,
+"y1": 0.15886,
+"text": "&c.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66244,
+"x1": 0.89813,
+"y0": 0.16023,
+"y1": 0.17557,
+"text": "' Orate pro anima Willi. Balys ' : Blick.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64848,
+"x1": 0.8657,
+"y0": 0.17011,
+"y1": 0.18716,
+"text": "ling Church, co. Norf. : FF. vi. 407",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.66162,
+"x1": 0.89813,
+"y0": 0.1817,
+"y1": 0.19568,
+"text": "1767. Married - Thomas Baylis and",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.89649,
+"y0": 0.19159,
+"y1": 0.20693,
+"text": "Rachel Nereway: St. Geo. Han. Sq",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.68831,
+"y0": 0.20318,
+"y1": 0.21375,
+"text": "i. 161.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.66039,
+"x1": 0.89608,
+"y0": 0.21307,
+"y1": 0.22773,
+"text": ":778. -- John Parry and Eliz. Bayless :",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64889,
+"x1": 0.71747,
+"y0": 0.22261,
+"y1": 0.23591,
+"text": "ibid.'i. 284.",
+"conf": 0.92
+},
+{
+"column": 3,
+"x0": 0.66203,
+"x1": 0.86282,
+"y0": 0.23386,
+"y1": 0.24818,
+"text": "London, 26, 6; New York, 1i, 2.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.66573,
+"x1": 0.89772,
+"y0": 0.25159,
+"y1": 0.26795,
+"text": "Bayman.--Bapt. ; v. Baynham,",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.66491,
+"x1": 0.89937,
+"y0": 0.26557,
+"y1": 0.28023,
+"text": "corruption to which there are",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65012,
+"x1": 0.89731,
+"y0": 0.28023,
+"y1": 0.29352,
+"text": "many parallels ; v. Deadman, Put.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65177,
+"x1": 0.89896,
+"y0": 0.29216,
+"y1": 0.3075,
+"text": "man, Swetman.  This surmame is",
+"conf": 0.889
+},
+{
+"column": 3,
+"x0": 0.65012,
+"x1": 0.89896,
+"y0": 0.30398,
+"y1": 0.32136,
+"text": "still familiar to co. Wilts, bordering",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64971,
+"x1": 0.89772,
+"y0": 0.31864,
+"y1": 0.3333,
+"text": "on the district where Baynham",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64807,
+"x1": 0.89896,
+"y0": 0.33159,
+"y1": 0.34659,
+"text": "arose. There cannot be a doubt",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.77249,
+"y0": 0.34591,
+"y1": 0.36125,
+"text": "as to the origin.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66203,
+"x1": 0.89937,
+"y0": 0.36261,
+"y1": 0.37693,
+"text": "1658. Married -- Richard Bayman to",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.65012,
+"x1": 0.89608,
+"y0": 0.37352,
+"y1": 0.3875,
+"text": "Hannah Curlinge : Canterbury Cath.,",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.6645,
+"x1": 0.68215,
+"y0": 0.38818,
+"y1": 0.39773,
+"text": "59.",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.66409,
+"x1": 0.86159,
+"y0": 0.39398,
+"y1": 0.40864,
+"text": "London, 3 ; MDB. (co. Wilts), 2.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.6645,
+"x1": 0.89978,
+"y0": 0.41307,
+"y1": 0.42705,
+"text": "Baynard.-Bapt. ‘the son of",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64848,
+"x1": 0.89855,
+"y0": 0.42534,
+"y1": 0.44307,
+"text": "Barnard, q.v. ‘Meet me within",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.64848,
+"x1": 0.89772,
+"y0": 0.43932,
+"y1": 0.45466,
+"text": "this hour at Baynard's Castle'",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65095,
+"x1": 0.82833,
+"y0": 0.45295,
+"y1": 0.46932,
+"text": "(Rich. Ill, Act ii. sc. 5).",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.6608,
+"x1": 0.89731,
+"y0": 0.46898,
+"y1": 0.48261,
+"text": "155o.William Curteys and Margery",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.89731,
+"y0": 0.47955,
+"y1": 0.4925,
+"text": "Baynerd:MarriageLic.（London),i.a.",
+"conf": 0.872
+},
+{
+"column": 3,
+"x0": 0.66203,
+"x1": 0.89772,
+"y0": 0.49045,
+"y1": 0.5017,
+"text": "16i6.John Baynard,New Inn Hall:",
+"conf": 0.916
+},
+{
+"column": 3,
+"x0": 0.64971,
+"x1": 0.86405,
+"y0": 0.49932,
+"y1": 0.51466,
+"text": "Reg.Univ.Oxf.vol.ii.pt.ji.p.350.",
+"conf": 0.862
+},
+{
+"column": 3,
+"x0": 0.66162,
+"x1": 0.89855,
+"y0": 0.51045,
+"y1": 0.52443,
+"text": "1625.Adriel Baynard,Ball.Coll.and",
+"conf": 0.932
+},
+{
+"column": 3,
+"x0": 0.64971,
+"x1": 0.80493,
+"y0": 0.52034,
+"y1": 0.53534,
+"text": "Magd.Hall:ibid.p.439.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.66121,
+"x1": 0.89855,
+"y0": 0.53227,
+"y1": 0.54455,
+"text": "164s.John Mills and IthamarBaynard:",
+"conf": 0.918
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.84147,
+"y0": 0.54148,
+"y1": 0.55614,
+"text": "Marriage Lic.(London,ii.276.",
+"conf": 0.92
+},
+{
+"column": 3,
+"x0": 0.66203,
+"x1": 0.84517,
+"y0": 0.55307,
+"y1": 0.56636,
+"text": "Crockford,;Philadelphia,8.",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.66491,
+"x1": 0.89444,
+"y0": 0.57045,
+"y1": 0.58545,
+"text": "Baynham.-- Bapt. Ab-Eignon",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.65012,
+"x1": 0.89485,
+"y0": 0.58443,
+"y1": 0.59943,
+"text": "(Welsh), i.c. ‘the son of Eignon'",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64889,
+"x1": 0.89813,
+"y0": 0.59807,
+"y1": 0.61136,
+"text": "or ‘Ennion.' A Gloucestershire",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.64807,
+"x1": 0.89896,
+"y0": 0.6117,
+"y1": 0.62636,
+"text": "surnamc. Robert ap Eignon had",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64971,
+"x1": 0.89978,
+"y0": 0.625,
+"y1": 0.63932,
+"text": "for his son Robert Baynham, of",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65095,
+"x1": 0.89731,
+"y0": 0.63898,
+"y1": 0.65159,
+"text": "Chorewall, in the forest of Dean.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.65095,
+"x1": 0.89896,
+"y0": 0.65227,
+"y1": 0.66523,
+"text": "Henccforward the family were s0",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.6493,
+"x1": 0.89855,
+"y0": 0.66591,
+"y1": 0.6792,
+"text": "known (vide Visitation of Glouces.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64807,
+"x1": 0.89978,
+"y0": 0.67818,
+"y1": 0.69489,
+"text": "tershirc, 1623, P. 14: Harleian",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.65012,
+"x1": 0.89855,
+"y0": 0.69284,
+"y1": 0.70614,
+"text": "Soc.). The name looks wonder-",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64971,
+"x1": 0.89896,
+"y0": 0.70545,
+"y1": 0.72011,
+"text": "fully English and local, but, as",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64807,
+"x1": 0.89731,
+"y0": 0.71841,
+"y1": 0.73443,
+"text": "shown, is not so. Beynon, Binyon,",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64807,
+"x1": 0.89937,
+"y0": 0.73261,
+"y1": 0.74864,
+"text": "and Benyon, q.v., are other forms ;",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64807,
+"x1": 0.82587,
+"y0": 0.74659,
+"y1": 0.76091,
+"text": "but not Bunyan, I think.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65998,
+"x1": 0.89855,
+"y0": 0.76193,
+"y1": 0.77761,
+"text": "Thomas ap Eignon, 7 Edw. IlI : Visita-",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.64766,
+"x1": 0.80862,
+"y0": 0.77455,
+"y1": 0.78852,
+"text": "tion of Glouc., 1623, P. 13:",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.65957,
+"x1": 0.87884,
+"y0": 0.78205,
+"y1": 0.79977,
+"text": "Richard ap Eignon, 6 Ric. II : ibid.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.66162,
+"x1": 0.89937,
+"y0": 0.79432,
+"y1": 0.80795,
+"text": "Thomas   Baynam, High _Sheriff  of",
+"conf": 0.903
+},
+{
+"column": 3,
+"x0": 0.64684,
+"x1": 0.89937,
+"y0": 0.80386,
+"y1": 0.81989,
+"text": "Gloncestershire, 1476: Atkyn's Hist.",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.64766,
+"x1": 0.73102,
+"y0": 0.8158,
+"y1": 0.83045,
+"text": "Glouc., P. 40.",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.65998,
+"x1": 0.89813,
+"y0": 0.82466,
+"y1": 0.83966,
+"text": "Alex. Baynham, High Sherif of Glou.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64725,
+"x1": 0.78891,
+"y0": 0.83625,
+"y1": 0.85091,
+"text": "cestershire, 15o! : ibid.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.65957,
+"x1": 0.89896,
+"y0": 0.84545,
+"y1": 0.86045,
+"text": "1738. Married--Richard Baynham and",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64889,
+"x1": 0.89731,
+"y0": 0.85807,
+"y1": 0.86966,
+"text": "Frances Griffith : St. Geo. Han. Sq. i. 3l.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.69734,
+"x1": 0.90019,
+"y0": 0.91568,
+"y1": 0.94807,
+"text": "Digitized by Google",
+"conf": 0.971
+}
+]
