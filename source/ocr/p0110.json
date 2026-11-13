@@ -1,0 +1,1775 @@
+[
+{
+"column": 1,
+"x0": 0.22329,
+"x1": 0.29191,
+"y0": 0.07636,
+"y1": 0.08932,
+"text": "BLAZE",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.37984,
+"y0": 0.1033,
+"y1": 0.1183,
+"text": "candidarius' (Prompt. Parv.).",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.38272,
+"y0": 0.11761,
+"y1": 0.13193,
+"text": "Robert Blaxter appeared  as de-",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.38272,
+"y0": 0.13125,
+"y1": 0.1442,
+"text": "fcndant in a Norfolk casc at the",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.13454,
+"x1": 0.38025,
+"y0": 0.14523,
+"y1": 0.15818,
+"text": "close of the 16th century (Pro-",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.13454,
+"x1": 0.38107,
+"y0": 0.15818,
+"y1": 0.17284,
+"text": "ceedings in Chancery, Elizabeth,",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13207,
+"x1": 0.38189,
+"y0": 0.17114,
+"y1": 0.18682,
+"text": "i. 25o). Both Blaxter and Black-",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.13248,
+"x1": 0.38313,
+"y0": 0.18477,
+"y1": 0.19909,
+"text": "istor  still exist.  For masculine",
+"conf": 0.927
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.27876,
+"y0": 0.19977,
+"y1": 0.21273,
+"text": "form, v. Blacker (2).",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.14481,
+"x1": 0.37779,
+"y0": 0.21375,
+"y1": 0.23011,
+"text": "Matilda Blakester, London, 1273: A.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.14727,
+"x1": 0.37902,
+"y0": 0.22568,
+"y1": 0.23795,
+"text": "William  le Bleckestere, co.'Camb.",
+"conf": 0.927
+},
+{
+"column": 1,
+"x0": 0.1333,
+"x1": 0.16207,
+"y0": 0.23693,
+"y1": 0.24784,
+"text": "ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14727,
+"x1": 0.36012,
+"y0": 0.2458,
+"y1": 0.25909,
+"text": "John le Bleckestere, co. Norf., ibid.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.38272,
+"y0": 0.25705,
+"y1": 0.27034,
+"text": "Richard le Bleckster, 1307, Glouces-",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.18549,
+"y0": 0.26795,
+"y1": 0.27886,
+"text": "ter.  M.",
+"conf": 0.909
+},
+{
+"column": 1,
+"x0": 0.14604,
+"x1": 0.38189,
+"y0": 0.27716,
+"y1": 0.28977,
+"text": "John de (misprint for ‘le')) Blexter,",
+"conf": 0.896
+},
+{
+"column": 1,
+"x0": 0.1333,
+"x1": 0.33382,
+"y0": 0.28841,
+"y1": 0.30034,
+"text": "bailiff of Norwich, 1286 : FF. ili.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13248,
+"x1": 0.34738,
+"y0": 0.30773,
+"y1": 0.32273,
+"text": "Blaxter : Reg. Dcopham, co. Norf.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.14481,
+"x1": 0.38354,
+"y0": 0.31795,
+"y1": 0.33432,
+"text": "Derby, I, O,o; London, 1, o, o ; MDB.",
+"conf": 0.926
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.23767,
+"y0": 0.33023,
+"y1": 0.34386,
+"text": "(Suffolk), O, O, 1.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.14933,
+"x1": 0.38272,
+"y0": 0.34455,
+"y1": 0.35886,
+"text": "Blaze, Blazey, Blasy, Blease,",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.38436,
+"y0": 0.35955,
+"y1": 0.37148,
+"text": "Bleas, Blase.--Bapt. ‘ the son of",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.38436,
+"y0": 0.37045,
+"y1": 0.38648,
+"text": "Blaze.' St. Blaise was the patron",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.38395,
+"y0": 0.38545,
+"y1": 0.39977,
+"text": "saint of wool-combers, and his",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.38395,
+"y0": 0.39909,
+"y1": 0.41307,
+"text": "festival (Feb. 3) till recent days",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.38313,
+"y0": 0.41273,
+"y1": 0.42568,
+"text": "was  faithfully commemorated in",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.386,
+"y0": 0.42568,
+"y1": 0.44068,
+"text": "Yorkshire. A full-sized effigy of",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.38395,
+"y0": 0.43932,
+"y1": 0.45398,
+"text": "the bishop is carved in the principal",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.38189,
+"y0": 0.45227,
+"y1": 0.46727,
+"text": "entrance to the Bradford Exchange.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.38272,
+"y0": 0.46557,
+"y1": 0.48023,
+"text": "As a font-name Blaisc, or Blaze,",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.38395,
+"y0": 0.47955,
+"y1": 0.49386,
+"text": "just managed to survive the Refor.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.38395,
+"y0": 0.49341,
+"y1": 0.50534,
+"text": "mation. Gil Blas has immortalized",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.38313,
+"y0": 0.50716,
+"y1": 0.51943,
+"text": "the name in literature; v. Puritan",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.32478,
+"y0": 0.52034,
+"y1": 0.53534,
+"text": "Nomenclature, pp. 93, 94.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.36382,
+"y0": 0.53568,
+"y1": 0.54864,
+"text": "1550. Bapt. - Blaze, daughter of",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.36382,
+"y0": 0.54489,
+"y1": 0.55955,
+"text": "Goodwinne : St. Peter, ( Cornhill, p. 5.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.14604,
+"x1": 0.38477,
+"y0": 0.55477,
+"y1": 0.57045,
+"text": "1555. Married - Blase Sawlter and",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.29437,
+"y0": 0.56568,
+"y1": 0.58034,
+"text": "Collis Smith : ibid. p. 223.",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.14768,
+"x1": 0.38395,
+"y0": 0.57693,
+"y1": 0.58886,
+"text": "1662. -- Blase Whyte to Mrs. Susanna",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.38272,
+"y0": 0.58716,
+"y1": 0.60148,
+"text": "Wright, widow :'( 'Canterbury Cath.",
+"conf": 0.897
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.17028,
+"y0": 0.59909,
+"y1": 0.61102,
+"text": "P. 60.",
+"conf": 0.904
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.38641,
+"y0": 0.60693,
+"y1": 0.62261,
+"text": "' Jan. 1537. Item, payed to Blaze for",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.38559,
+"y0": 0.61852,
+"y1": 0.63352,
+"text": "brawdering a payre of sleves for my lady's",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.13618,
+"x1": 0.38313,
+"y0": 0.62943,
+"y1": 0.64239,
+"text": "grace, xxs': 'Privy Purse  Expenses,",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.137,
+"x1": 0.26356,
+"y0": 0.63864,
+"y1": 0.65364,
+"text": "Princess Mary, P. 14:",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.38395,
+"y0": 0.64955,
+"y1": 0.66182,
+"text": "Blasius Billard : Patent Roll, 1o Hen.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.16289,
+"y0": 0.66045,
+"y1": 0.6717,
+"text": "ViI.",
+"conf": 0.695
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.38641,
+"y0": 0.67102,
+"y1": 0.68295,
+"text": "Blase Caryll, temp. 16oo : Visitation of",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.26479,
+"y0": 0.68159,
+"y1": 0.69523,
+"text": "London, 1634, P: 144.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.14851,
+"x1": 0.38477,
+"y0": 0.69182,
+"y1": 0.70409,
+"text": "1605. Bapt.Jamcs, s. Andrew Blase :",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.29561,
+"y0": 0.70239,
+"y1": 0.71432,
+"text": "St. Jas. Clerkenwell, i. 46.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14851,
+"x1": 0.38559,
+"y0": 0.71216,
+"y1": 0.7258,
+"text": "174+., Married -- Joseph Tucker and",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.36669,
+"y0": 0.72318,
+"y1": 0.73511,
+"text": "Mary Bleeze : St. Geo. Han. Sq. i. 32.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.38436,
+"y0": 0.73261,
+"y1": 0.74864,
+"text": "London, 0, 3, 1, 1, 0, 0; Philadeiphia,",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.22165,
+"y0": 0.74659,
+"y1": 0.75682,
+"text": "2, 0, 0, 1, 1, 2.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.1481,
+"x1": 0.38189,
+"y0": 0.75989,
+"y1": 0.77284,
+"text": "Bleasdale,Blazdell,Blasdale",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.38066,
+"y0": 0.77318,
+"y1": 0.78682,
+"text": "Blesdill.-- Local, 'of Bleasdale,",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.386,
+"y0": 0.78784,
+"y1": 0.8008,
+"text": "a chapelry in the parish of Lancas-",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.38436,
+"y0": 0.79909,
+"y1": 0.81477,
+"text": "ter. The surname is still chiefly",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.137,
+"x1": 0.38641,
+"y0": 0.81409,
+"y1": 0.82602,
+"text": "found in that district. But it has",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.38518,
+"y0": 0.82773,
+"y1": 0.84068,
+"text": "managed to cross thc Atlantic, and",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.38518,
+"y0": 0.84068,
+"y1": 0.855,
+"text": "lives in Boston in a slightly varied",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.17645,
+"y0": 0.85398,
+"y1": 0.86864,
+"text": "form.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.50331,
+"x1": 0.53372,
+"y0": 0.07364,
+"y1": 0.08864,
+"text": "110",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40511,
+"x1": 0.62288,
+"y0": 0.10227,
+"y1": 0.11455,
+"text": "John Bkeasdale, .of Inkleingreen,",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.62699,
+"y0": 0.11318,
+"y1": 0.12511,
+"text": "Bolland, 16i9 : Wills at Chester, i. 22.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.40593,
+"x1": 0.64137,
+"y0": 0.12341,
+"y1": 0.13466,
+"text": "Robert Bleasdall, of Bolland, 16i1 : ibid.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.40552,
+"x1": 0.64219,
+"y0": 0.13398,
+"y1": 0.14591,
+"text": "Henry Bleasdall, of Chepin, husband.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.64302,
+"y0": 0.14284,
+"y1": 0.15716,
+"text": "max, i6i6: Lancashire Wills at Rich-",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.46592,
+"y0": 0.15477,
+"y1": 0.16636,
+"text": "inond, i. 36.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40552,
+"x1": 0.64302,
+"y0": 0.16466,
+"y1": 0.17761,
+"text": "Alice Bleasdaile, of Chipping, 1668:",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39155,
+"x1": 0.42113,
+"y0": 0.17489,
+"y1": 0.18716,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40388,
+"x1": 0.64302,
+"y0": 0.18511,
+"y1": 0.19977,
+"text": "London, I, 2, O, 0; Lancaster, 5, 0, 0,",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.64302,
+"y0": 0.19534,
+"y1": 0.20898,
+"text": "O; MDB. (co. ] Lancaster), 6, o, O, 0;",
+"conf": 0.882
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.53988,
+"y0": 0.20591,
+"y1": 0.22023,
+"text": "Boston (U.S.), O, O, 1, 1.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.40963,
+"x1": 0.64343,
+"y0": 0.22432,
+"y1": 0.23659,
+"text": "Blencowe, Blinko.---Local, ‘of",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.64302,
+"y0": 0.23761,
+"y1": 0.25125,
+"text": "Blencowe, township  in the",
+"conf": 0.913
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64137,
+"y0": 0.25091,
+"y1": 0.26489,
+"text": "parish of Greystoke, co. Cumb.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39401,
+"x1": 0.64302,
+"y0": 0.26489,
+"y1": 0.27784,
+"text": "The corruption into Blinko, found",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.64302,
+"y0": 0.27852,
+"y1": 0.29114,
+"text": "in the London Directory, is ex-",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.64384,
+"y0": 0.29034,
+"y1": 0.30477,
+"text": "plained by  instances  in  London",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.51564,
+"y0": 0.30466,
+"y1": 0.31898,
+"text": "church registers.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40593,
+"x1": 0.64384,
+"y0": 0.31864,
+"y1": 0.33261,
+"text": "1590. George Blincoe and Eliz. Fowler :",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.58508,
+"y0": 0.33057,
+"y1": 0.3425,
+"text": "Marriage. Lic. (London), i. 188.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.40634,
+"x1": 0.64343,
+"y0": 0.34045,
+"y1": 0.35273,
+"text": "1618. Christopher Blencow, co. Cumb. :",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.60932,
+"y0": 0.35034,
+"y1": 0.365,
+"text": "Reg. Univ. Oxf. yol. ii. pt. ii. P. 366.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.64384,
+"y0": 0.35989,
+"y1": 0.37386,
+"text": "1624. Married-Georgc Blincoe and",
+"conf": 0.936
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64384,
+"y0": 0.37011,
+"y1": 0.3858,
+"text": "Mary Hickes : St. Michael, Cormhill, p. 23:",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.40552,
+"x1": 0.64384,
+"y0": 0.38068,
+"y1": 0.39534,
+"text": "1778. Married---Thomas Blencow and",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64302,
+"y0": 0.39227,
+"y1": 0.40489,
+"text": "Dorothy Marshall: St. Geo. Han. Sq.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.43182,
+"y0": 0.40352,
+"y1": 0.41477,
+"text": "i. 285.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.57234,
+"y0": 0.41375,
+"y1": 0.42568,
+"text": "London, 2, I ; Oxford, 5, 0.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.40922,
+"x1": 0.64096,
+"y0": 0.42943,
+"y1": 0.4417,
+"text": "Blenkarn,Blenkarne,Blenk.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.64343,
+"y0": 0.44205,
+"y1": 0.45602,
+"text": "iron, Blenkhorn, Blenkhorne,",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64384,
+"y0": 0.45568,
+"y1": 0.46966,
+"text": "Blankhorn, Blinkhorn, Blen.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64137,
+"y0": 0.46898,
+"y1": 0.4833,
+"text": "kin.,--Local, ‘of Blenkarne,' a",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64261,
+"y0": 0.48295,
+"y1": 0.49659,
+"text": "township in the parish of Kirkland,",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.64343,
+"y0": 0.49716,
+"y1": 0.50909,
+"text": "co. Cumberland. The surname has",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39401,
+"x1": 0.64302,
+"y0": 0.50943,
+"y1": 0.52443,
+"text": "spread far, and has assumed many",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.44332,
+"y0": 0.5258,
+"y1": 0.53739,
+"text": "guises.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.4047,
+"x1": 0.64261,
+"y0": 0.5367,
+"y1": 0.55205,
+"text": "1576.Buried-Dennis Blinkhorne:St.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.54769,
+"y0": 0.54932,
+"y1": 0.56261,
+"text": "Mary Aldermary,p.140.",
+"conf": 0.875
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.64178,
+"y0": 0.55955,
+"y1": 0.57148,
+"text": "1666.Bapt.-John,s.John Blenkerne:",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.39401,
+"x1": 0.5781,
+"y0": 0.57011,
+"y1": 0.58273,
+"text": "St.DionisBackchurch,p.19.",
+"conf": 0.899
+},
+{
+"column": 2,
+"x0": 0.40593,
+"x1": 0.64384,
+"y0": 0.57932,
+"y1": 0.59295,
+"text": "168i-2.JosephPawlettandEliz.",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.64343,
+"y0": 0.59125,
+"y1": 0.60386,
+"text": "Blinckarne: MarriageAlleg.（Canter-",
+"conf": 0.939
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.4688,
+"y0": 0.60182,
+"y1": 0.61375,
+"text": "bury).p.87.",
+"conf": 0.866
+},
+{
+"column": 2,
+"x0": 0.40634,
+"x1": 0.64384,
+"y0": 0.60932,
+"y1": 0.62534,
+"text": "1777.Married-ThomasBlenkhorn and",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.63973,
+"y0": 0.62193,
+"y1": 0.63455,
+"text": "Mary Watson:St.Geo.Han.Sq.i.277.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.64261,
+"y0": 0.63148,
+"y1": 0.64648,
+"text": "London,2,1,1,o.o,o,o.o:Crockford,",
+"conf": 0.757
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64302,
+"y0": 0.64205,
+"y1": 0.65602,
+"text": "O,11o,0,o,00；Sheffield（Blenkhorme),",
+"conf": 0.716
+},
+{
+"column": 2,
+"x0": 0.40346,
+"x1": 0.64466,
+"y0": 0.65261,
+"y1": 0.66489,
+"text": "：Huddersfield'(Blankhorn),1；West",
+"conf": 0.872
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.64425,
+"y0": 0.66318,
+"y1": 0.67614,
+"text": "Riding Court Dir.（Blenkin）,; Man-",
+"conf": 0.856
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.64384,
+"y0": 0.67375,
+"y1": 0.6867,
+"text": "chester (Blinkhorn),.3jNew York",
+"conf": 0.844
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.64384,
+"y0": 0.6833,
+"y1": 0.69864,
+"text": "(Blankhorn）,;Philadelphia,O,Oo,0,,",
+"conf": 0.809
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.4388,
+"y0": 0.69727,
+"y1": 0.7075,
+"text": "0, 4, 0.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.41209,
+"x1": 0.64425,
+"y0": 0.70875,
+"y1": 0.72523,
+"text": "Blenkinsop, Blenkensop,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.64261,
+"y0": 0.72352,
+"y1": 0.7375,
+"text": "Blankenship, Blenkinship.--",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.64343,
+"y0": 0.73739,
+"y1": 0.75136,
+"text": "Local, ‘of Blenkinsop,' a township",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.64343,
+"y0": 0.75,
+"y1": 0.76466,
+"text": "in the parish of Haltwhistle, co.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39689,
+"x1": 0.51769,
+"y0": 0.76466,
+"y1": 0.77659,
+"text": "Northumberland.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40798,
+"x1": 0.64384,
+"y0": 0.77898,
+"y1": 0.79364,
+"text": "Antony Blencansop, 20 Ric. 11 : Hodg-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.57399,
+"y0": 0.78989,
+"y1": 0.80284,
+"text": "son's Northumberland, i. 362.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.40798,
+"x1": 0.64425,
+"y0": 0.8008,
+"y1": 0.81409,
+"text": "Ranulf de Blenkenshopc. 1240: ibid.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.44045,
+"y0": 0.81068,
+"y1": 0.825,
+"text": "iii. 129.",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.41086,
+"x1": 0.64466,
+"y0": 0.82602,
+"y1": 0.8417,
+"text": "The following spellings are",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.45894,
+"y0": 0.84136,
+"y1": 0.8533,
+"text": "curious :",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.4047,
+"x1": 0.64713,
+"y0": 0.85568,
+"y1": 0.87102,
+"text": "* On April 23,1470, Eliza beth Blynkkyne-",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.73773,
+"x1": 0.81867,
+"y0": 0.07398,
+"y1": 0.08659,
+"text": "BLEVIN",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65185,
+"x1": 0.90455,
+"y0": 0.0992,
+"y1": 0.11659,
+"text": "soppye, of Blynkkynsoppe, widow of",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.90044,
+"y0": 0.11284,
+"y1": 0.12477,
+"text": "Thomas Blynkyensope, of Blynk kensope.'",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.90249,
+"y0": 0.12307,
+"y1": 0.13466,
+"text": "received a general pardon: Hodgsou's",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.80676,
+"y0": 0.13193,
+"y1": 0.14591,
+"text": "Northumberland, iii. 130.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66952,
+"x1": 0.90291,
+"y0": 0.14625,
+"y1": 0.16159,
+"text": "Why such a variety it is hard to",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.68267,
+"y0": 0.1633,
+"y1": 0.1742,
+"text": "say.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66582,
+"x1": 0.90044,
+"y0": 0.17591,
+"y1": 0.1875,
+"text": "Randolf de Blekenishop, co. Northun b.,",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.7858,
+"y0": 0.18682,
+"y1": 0.19705,
+"text": "Hen. Hll-Edw. I. K.",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90167,
+"y0": 0.19705,
+"y1": 0.20898,
+"text": "1572. Charles Blenc kinsopp,co. Westim.:",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65226,
+"x1": 0.86675,
+"y0": 0.20557,
+"y1": 0.22159,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p.,54:",
+"conf": 0.94
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90249,
+"y0": 0.2158,
+"y1": 0.2308,
+"text": "1794. Married -- Thomas Blinkinship",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65185,
+"x1": 0.90291,
+"y0": 0.22602,
+"y1": 0.24102,
+"text": "and 'Sarah Allen : St. Geo. Han. Sq.",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.69458,
+"y0": 0.2383,
+"y1": 0.25057,
+"text": "ii. 123.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.66418,
+"x1": 0.90291,
+"y0": 0.2475,
+"y1": 0.26216,
+"text": "London, 4, 0, 0, 0 ; Penrith, 0, 0,.0. 4 ;",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.65226,
+"x1": 0.90249,
+"y0": 0.25739,
+"y1": 0.27443,
+"text": "Philadelphia, 0, i, 0, O; Boston (U.S.),",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.71102,
+"y0": 0.27102,
+"y1": 0.28261,
+"text": "5, 0, 1, 0.",
+"conf": 0.916
+},
+{
+"column": 3,
+"x0": 0.67486,
+"x1": 0.90455,
+"y0": 0.28284,
+"y1": 0.29682,
+"text": "Blennerhassett.---Local, ‘of",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90291,
+"y0": 0.29659,
+"y1": 0.31091,
+"text": "Blennerhassett,' a township in the",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.89921,
+"y0": 0.3108,
+"y1": 0.32375,
+"text": "parish of Torpenhow, co. Cumb. .",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.66582,
+"x1": 0.90332,
+"y0": 0.3258,
+"y1": 0.33841,
+"text": "' Johannes de Hayton quondam tenuit",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65555,
+"x1": 0.90291,
+"y0": 0.3367,
+"y1": 0.34966,
+"text": ".. . in Alderscogh, et guandam peciam",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90249,
+"y0": 0.34659,
+"y1": 0.3592,
+"text": "terre in Blenerhayset,' 16 Ric. 11 : E. and",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.78375,
+"y0": 0.3558,
+"y1": 0.37148,
+"text": "F., co. Cumb. p. 174.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.66418,
+"x1": 0.90291,
+"y0": 0.36432,
+"y1": 0.38205,
+"text": "\" Thomas Blennerhasset, of Carlisle ' :",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.71841,
+"y0": 0.37659,
+"y1": 0.39057,
+"text": "ibid. p. 83.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.66582,
+"x1": 0.90291,
+"y0": 0.38716,
+"y1": 0.4008,
+"text": " Thomas Bleverhasset, appointed rector",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90373,
+"y0": 0.39807,
+"y1": 0.41102,
+"text": "of Hardingham, co. Norf., at the age of",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.90249,
+"y0": 0.40795,
+"y1": 0.42227,
+"text": "I I, by the Pope's dispensation': FF. x. 227.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.66828,
+"x1": 0.90208,
+"y0": 0.41989,
+"y1": 0.43114,
+"text": "John Blenerhayset (writes) to Thomas",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.90085,
+"y0": 0.43011,
+"y1": 0.44205,
+"text": "Fayrfax, Feb. 22, 1572 : Cal. State Papers",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65514,
+"x1": 0.76484,
+"y0": 0.44034,
+"y1": 0.45159,
+"text": "(Domestic), i. 438.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.66582,
+"x1": 0.83593,
+"y0": 0.45023,
+"y1": 0.46318,
+"text": "Crockford, I ; New York, 2.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.66993,
+"x1": 0.90373,
+"y0": 0.46625,
+"y1": 0.47955,
+"text": "Bletsoe, Bletso.-Local, ‘ of",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90537,
+"y0": 0.47852,
+"y1": 0.4942,
+"text": "Bletsoe.' a parish in the county of",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.88976,
+"y0": 0.49307,
+"y1": 0.50568,
+"text": "Bedford, six miles from Bedford.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.665,
+"x1": 0.90291,
+"y0": 0.50705,
+"y1": 0.52273,
+"text": "John de Bletsho, temp. 35 Edw.III :",
+"conf": 0.899
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.72293,
+"y0": 0.51864,
+"y1": 0.53125,
+"text": "FF.vii.70.",
+"conf": 0.822
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90167,
+"y0": 0.52852,
+"y1": 0.5425,
+"text": "Sir John Bletso,21 Henry VIII:ibid.",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.65226,
+"x1": 0.69705,
+"y0": 0.53943,
+"y1": 0.55341,
+"text": "ii.442.",
+"conf": 0.886
+},
+{
+"column": 3,
+"x0": 0.66582,
+"x1": 0.90167,
+"y0": 0.54932,
+"y1": 0.5633,
+"text": "1587.George Bleatso and Eliz.Dudley:",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.84538,
+"y0": 0.56091,
+"y1": 0.57318,
+"text": "MarriageLic.(London),i.164.",
+"conf": 0.913
+},
+{
+"column": 3,
+"x0": 0.66664,
+"x1": 0.90291,
+"y0": 0.57148,
+"y1": 0.58341,
+"text": "1641 Bapt.-Hugh,s NicholasBletsor",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.86017,
+"y0": 0.58136,
+"y1": 0.59432,
+"text": "(sic):St.Jas.Clerkenwell,i.I47.",
+"conf": 0.91
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90291,
+"y0": 0.59125,
+"y1": 0.60625,
+"text": "MDB.(co.Northampton),z,I;Lon-",
+"conf": 0.909
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.71143,
+"y0": 0.60216,
+"y1": 0.6158,
+"text": "don, I, 0.",
+"conf": 0.922
+},
+{
+"column": 3,
+"x0": 0.6687,
+"x1": 0.89921,
+"y0": 0.61716,
+"y1": 0.63182,
+"text": "Blevin,: Blethyn, Bliven,",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.90455,
+"y0": 0.63114,
+"y1": 0.64614,
+"text": "? Bleything.--Bapt. ‘the son of",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.90332,
+"y0": 0.64375,
+"y1": 0.66011,
+"text": "Blethyn' (Welsh).\"‘Meredith ap",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.65431,
+"x1": 0.90249,
+"y0": 0.65807,
+"y1": 0.67307,
+"text": "Blethyn was prince of N. Wales in",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65431,
+"x1": 0.85812,
+"y0": 0.6717,
+"y1": 0.68636,
+"text": "the eleventh cent.' (Lower).",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.665,
+"x1": 0.90414,
+"y0": 0.68705,
+"y1": 0.70375,
+"text": ":At the Survey we see that King",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.65514,
+"x1": 0.90249,
+"y0": 0.69898,
+"y1": 0.71227,
+"text": "William was Lord of this manor (Mile",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65555,
+"x1": 0.90044,
+"y0": 0.71011,
+"y1": 0.7217,
+"text": "ham), but soon after Alan, son of Flaald,",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.65431,
+"x1": 0.90208,
+"y0": 0.72045,
+"y1": 0.73273,
+"text": "obtained it by the gitt of William the",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.65431,
+"x1": 0.90167,
+"y0": 0.73068,
+"y1": 0.7433,
+"text": "Conqueror: also the castle of Oswald.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.90044,
+"y0": 0.74182,
+"y1": 0.75341,
+"text": "strey in Shropshire . . . which belonged",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.90373,
+"y0": 0.75136,
+"y1": 0.765,
+"text": "to Meredith_ap Blethyn, a Welshman or",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65514,
+"x1": 0.7743,
+"y0": 0.76193,
+"y1": 0.77318,
+"text": "Briton': FF.x. 16.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.66664,
+"x1": 0.90291,
+"y0": 0.77148,
+"y1": 0.78545,
+"text": "Frederick Blethyn C. Hulton appears",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.90085,
+"y0": 0.78239,
+"y1": 0.79466,
+"text": "in the obituary of Manchester Guardian,",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.65514,
+"x1": 0.90085,
+"y0": 0.79295,
+"y1": 0.80591,
+"text": "June 10, 1886. descended from Blethyn",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.81374,
+"y0": 0.80352,
+"y1": 0.81545,
+"text": "de Hulton. temp. Edw. II.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.66828,
+"x1": 0.85031,
+"y0": 0.81443,
+"y1": 0.82602,
+"text": "Robert Blevyn, co. Norf., 1273",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66705,
+"x1": 0.82278,
+"y0": 0.82398,
+"y1": 0.83761,
+"text": "Lewelyn ap Bledyn, 13!3.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66664,
+"x1": 0.90167,
+"y0": 0.83386,
+"y1": 0.84818,
+"text": "Nicholas Blythewin, C. R., 42 Edw. I11.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.66705,
+"x1": 0.90003,
+"y0": 0.84409,
+"y1": 0.85875,
+"text": " William Blethyn, bishop of Landaff,",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65596,
+"x1": 0.90085,
+"y0": 0.855,
+"y1": 0.86898,
+"text": "writes to Sir 'Francis \"Walsingham,",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.69705,
+"x1": 0.89921,
+"y0": 0.91568,
+"y1": 0.94841,
+"text": "Digitized by Google",
+"conf": 0.989
+}
+]

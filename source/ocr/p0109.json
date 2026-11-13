@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.1614,
+"x1": 0.28685,
+"y0": 0.0692,
+"y1": 0.0825,
+"text": "BLAMESTER",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.11286,
+"x1": 0.3506,
+"y0": 0.09409,
+"y1": 0.11216,
+"text": "1723. Married-Thomas Blakesley and",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10094,
+"x1": 0.34896,
+"y0": 0.1067,
+"y1": 0.12034,
+"text": "Rachael Dukes : St. Michael, Cormhill,",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.13466,
+"y0": 0.11966,
+"y1": 0.13227,
+"text": "p. 62.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.10135,
+"x1": 0.29343,
+"y0": 0.13705,
+"y1": 0.15307,
+"text": "Jolly : St. Geo. Han. Sq. i. 254.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.11328,
+"x1": 0.35142,
+"y0": 0.14727,
+"y1": 0.16398,
+"text": "London, 2, 1, o; Boston (U'S.), 0, 0, 2.",
+"conf": 0.908
+},
+{
+"column": 1,
+"x0": 0.1178,
+"x1": 0.34813,
+"y0": 0.16568,
+"y1": 0.18068,
+"text": "Blamester.--Nick.'the blamer,",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10258,
+"x1": 0.35019,
+"y0": 0.18,
+"y1": 0.19466,
+"text": "with fem. sufix -ster ; cf. Brewster,",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10299,
+"x1": 0.19965,
+"y0": 0.19534,
+"y1": 0.20966,
+"text": "Spinster, &c.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11615,
+"x1": 0.35019,
+"y0": 0.2083,
+"y1": 0.22227,
+"text": "Robert le Blaimister, co. Camb.,",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.10299,
+"x1": 0.16346,
+"y0": 0.21989,
+"y1": 0.23591,
+"text": "1273. A.",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.11862,
+"x1": 0.35348,
+"y0": 0.23455,
+"y1": 0.25193,
+"text": "Blamire, Blamires, Blay-",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.1034,
+"x1": 0.35307,
+"y0": 0.24886,
+"y1": 0.26591,
+"text": "mire.--Local, ' of the blamire,' i. e.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.10423,
+"x1": 0.35184,
+"y0": 0.26318,
+"y1": 0.27989,
+"text": "black mire, from residence thereby.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.3506,
+"y0": 0.27636,
+"y1": 0.29341,
+"text": "A North-country name; v. Myers.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11698,
+"x1": 0.35266,
+"y0": 0.29307,
+"y1": 0.30807,
+"text": "William de la Blamire, E. and F., co.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10505,
+"x1": 0.19471,
+"y0": 0.30636,
+"y1": 0.31932,
+"text": "Cumb., P. 163.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.11821,
+"x1": 0.35389,
+"y0": 0.31352,
+"y1": 0.33057,
+"text": "1753. Married -- Francis Bernard and",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10464,
+"x1": 0.35389,
+"y0": 0.32409,
+"y1": 0.34011,
+"text": "Sarah' Bleamire : St. Geo. Chap. May.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.10505,
+"x1": 0.17456,
+"y0": 0.33807,
+"y1": 0.3517,
+"text": "fair, p. 245.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.10628,
+"x1": 0.35636,
+"y0": 0.35545,
+"y1": 0.3725,
+"text": "Ulverston, 1, 0, o'; New York, 1,'O, 0 ;",
+"conf": 0.921
+},
+{
+"column": 1,
+"x0": 0.10669,
+"x1": 0.23132,
+"y0": 0.36875,
+"y1": 0.38273,
+"text": "Philadelphia, O, O, 1.",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.12274,
+"x1": 0.35636,
+"y0": 0.38341,
+"y1": 0.39977,
+"text": "Blanch, Blanche.--Bapt. ‘ the",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.10752,
+"x1": 0.35636,
+"y0": 0.39841,
+"y1": 0.41409,
+"text": "son of Blanche.' Sometimes, no",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.10834,
+"x1": 0.35677,
+"y0": 0.41136,
+"y1": 0.42705,
+"text": "doubt, a nicknamc answering to",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.10875,
+"x1": 0.23338,
+"y0": 0.42602,
+"y1": 0.44102,
+"text": "English 'White.'",
+"conf": 0.918
+},
+{
+"column": 1,
+"x0": 0.12027,
+"x1": 0.34279,
+"y0": 0.43898,
+"y1": 0.45636,
+"text": "John Blaunche, co. Hunts, I273. , A.",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.1215,
+"x1": 0.33168,
+"y0": 0.44989,
+"y1": 0.46557,
+"text": "Elianora Blanchc, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.12191,
+"x1": 0.30083,
+"y0": 0.45977,
+"y1": 0.47716,
+"text": "Henry Blanche, co. Oxf., ibid.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.1215,
+"x1": 0.36006,
+"y0": 0.47,
+"y1": 0.4867,
+"text": "Clement Blaunche, co.' Warwick, 20",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.11081,
+"x1": 0.18402,
+"y0": 0.48466,
+"y1": 0.49489,
+"text": "Edw. I.  R.",
+"conf": 0.916
+},
+{
+"column": 1,
+"x0": 0.12109,
+"x1": 0.31934,
+"y0": 0.49148,
+"y1": 0.50716,
+"text": "John Blanche, C. R., 2 Edw. IV.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12274,
+"x1": 0.36006,
+"y0": 0.50102,
+"y1": 0.51739,
+"text": "1716. Bapt.-Sarah,'d. Daniel Blanch :",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10916,
+"x1": 0.27492,
+"y0": 0.5125,
+"y1": 0.52818,
+"text": "St. Jas. Clerkenwell, ii. 95.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12232,
+"x1": 0.32263,
+"y0": 0.52341,
+"y1": 0.53807,
+"text": "London, 5, O ; Philadeiphia, 4, 1.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12561,
+"x1": 0.35759,
+"y0": 0.53977,
+"y1": 0.5558,
+"text": "Blanchard,Blanshard,Blan-",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11204,
+"x1": 0.35801,
+"y0": 0.55477,
+"y1": 0.56909,
+"text": "chet.-Nick. ‘Blanchard.' O.F.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11204,
+"x1": 0.36089,
+"y0": 0.56773,
+"y1": 0.58341,
+"text": "tlanchart, whitish. A sobriquet",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.11245,
+"x1": 0.36089,
+"y0": 0.58136,
+"y1": 0.59773,
+"text": "of complexion, and probably used",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11204,
+"x1": 0.36253,
+"y0": 0.59398,
+"y1": 0.61068,
+"text": "as a fontal name. It was used as",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11204,
+"x1": 0.36089,
+"y0": 0.60761,
+"y1": 0.62432,
+"text": "the name for a white horse; cf.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.11369,
+"x1": 0.28932,
+"y0": 0.62295,
+"y1": 0.63795,
+"text": "Bayard, for a bay horse.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.12479,
+"x1": 0.36376,
+"y0": 0.63659,
+"y1": 0.65398,
+"text": ": Vppon my stede blanchard thu ridest",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.11533,
+"x1": 0.33826,
+"y0": 0.64784,
+"y1": 0.66284,
+"text": "here. c. 1440, Generydes (H.E.D.).",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.36335,
+"y0": 0.65875,
+"y1": 0.67239,
+"text": "Nicholas Blaunchard, , co. Lanc., 1332 :",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.11245,
+"x1": 0.28932,
+"y0": 0.66898,
+"y1": 0.68432,
+"text": "Lay Subsidy (Rylands), p. 8.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.12644,
+"x1": 0.36376,
+"y0": 0.67852,
+"y1": 0.69489,
+"text": "Gilbert Blanchard, co. Linc., Hen. I1I-",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.11533,
+"x1": 0.18937,
+"y0": 0.69114,
+"y1": 0.70341,
+"text": "Edw. I. K.",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.12767,
+"x1": 0.36418,
+"y0": 0.7,
+"y1": 0.71398,
+"text": "William Blamchard (sic), co. Soms., I",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11574,
+"x1": 0.31482,
+"y0": 0.71227,
+"y1": 0.7242,
+"text": "Edw. Ill : Kirby's Quest, P...75.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.365,
+"y0": 0.71875,
+"y1": 0.73716,
+"text": "William Blannchard, co. Wilts, 1273. A.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.34484,
+"y0": 0.73136,
+"y1": 0.74466,
+"text": "Reginald Blanchard, co. York, ibid.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12849,
+"x1": 0.34155,
+"y0": 0.74148,
+"y1": 0.7558,
+"text": "Robert Blaunchard, co. Linc., ibid.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.12767,
+"x1": 0.36582,
+"y0": 0.75068,
+"y1": 0.76807,
+"text": "Willelmus Blaunchard, 1379: P. T.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.11615,
+"x1": 0.20006,
+"y0": 0.76398,
+"y1": 0.77727,
+"text": "Yorks. p. 236.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.31276,
+"y0": 0.77148,
+"y1": 0.78886,
+"text": "Elena Blaunchard, 1379 : ibid.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12849,
+"x1": 0.365,
+"y0": 0.78205,
+"y1": 0.79807,
+"text": "1587. Buried--Ann Blanket : Kensing-",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.11821,
+"x1": 0.22639,
+"y0": 0.79739,
+"y1": 0.8083,
+"text": "ton Churcli, p. 92.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.13302,
+"x1": 0.36664,
+"y0": 0.80898,
+"y1": 0.825,
+"text": "This last form is imitative, and",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11862,
+"x1": 0.1869,
+"y0": 0.82432,
+"y1": 0.8383,
+"text": "still lives.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12973,
+"x1": 0.36829,
+"y0": 0.83693,
+"y1": 0.85534,
+"text": "Londoo, 17,4. li West Riding Court",
+"conf": 0.932
+},
+{
+"column": 1,
+"x0": 0.11533,
+"x1": 0.33004,
+"y0": 0.84955,
+"y1": 0.86455,
+"text": ".Dir., 0, 1, 1 ;' Philadelphia, 20, 0, 1.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.4691,
+"x1": 0.49909,
+"y0": 0.06409,
+"y1": 0.07875,
+"text": "109",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37588,
+"x1": 0.60792,
+"y0": 0.09136,
+"y1": 0.10636,
+"text": "Blanchfower, Branch-",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.36027,
+"x1": 0.61079,
+"y0": 0.10602,
+"y1": 0.12034,
+"text": "fower. -- Bapt.\" ‘the son of",
+"conf": 0.915
+},
+{
+"column": 2,
+"x0": 0.36068,
+"x1": 0.60669,
+"y0": 0.11898,
+"y1": 0.13466,
+"text": "Blunchefleur,' Angl.'white-flower.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.3615,
+"x1": 0.61162,
+"y0": 0.13227,
+"y1": 0.14795,
+"text": "There is the story of ‘Floriz and",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36109,
+"x1": 0.61079,
+"y0": 0.14523,
+"y1": 0.16159,
+"text": "Blancheflour, E. E. Text Society",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36438,
+"x1": 0.61079,
+"y0": 0.15989,
+"y1": 0.17489,
+"text": "(circa 128o). Lower sets down",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36232,
+"x1": 0.61203,
+"y0": 0.17182,
+"y1": 0.18955,
+"text": "the corrupted Branchfower as still",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.36356,
+"x1": 0.42393,
+"y0": 0.19057,
+"y1": 0.20216,
+"text": "existing.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37588,
+"x1": 0.61244,
+"y0": 0.20148,
+"y1": 0.21545,
+"text": "1618. George Blanchflower, co. Soms. :",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36232,
+"x1": 0.58246,
+"y0": 0.21205,
+"y1": 0.22739,
+"text": "Reg. Univ. Oxf. vol. ii. pt. i. P. 367.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37382,
+"x1": 0.59108,
+"y0": 0.22023,
+"y1": 0.23864,
+"text": "Faith Blanchflower, temp. Eliz.' Z.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.37547,
+"x1": 0.61326,
+"y0": 0.23182,
+"y1": 0.24818,
+"text": "Gcorge Blanchflower, , of Kingston,",
+"conf": 0.936
+},
+{
+"column": 2,
+"x0": 0.36274,
+"x1": 0.61408,
+"y0": 0.24205,
+"y1": 0.25875,
+"text": "Soms.,*1625: Abstract of Somersetshire",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.36397,
+"x1": 0.43995,
+"y0": 0.25534,
+"y1": 0.26932,
+"text": "W'ills, p. 21.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.37547,
+"x1": 0.61203,
+"y0": 0.26318,
+"y1": 0.27852,
+"text": "Thomas Blanchflower, of Gotehurst,",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.36356,
+"x1": 0.51428,
+"y0": 0.27545,
+"y1": 0.28943,
+"text": "Soms., 1659 : ibid. p. 82.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.6149,
+"y0": 0.28795,
+"y1": 0.30193,
+"text": "From Somersetshire the surname",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.36397,
+"x1": 0.61408,
+"y0": 0.30023,
+"y1": 0.31625,
+"text": "seems to have travelled into Devon-",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.36561,
+"x1": 0.41243,
+"y0": 0.3183,
+"y1": 0.3292,
+"text": "shire :",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.37752,
+"x1": 0.61531,
+"y0": 0.3292,
+"y1": 0.34386,
+"text": "Barnabas Blanchflower, Myrtle Cot-",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.36479,
+"x1": 0.61531,
+"y0": 0.33943,
+"y1": 0.3558,
+"text": "tage, is set down in the Directory for",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36561,
+"x1": 0.54467,
+"y0": 0.3517,
+"y1": 0.36534,
+"text": "Kilmington, co. Devon, 1873.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.37793,
+"x1": 0.61531,
+"y0": 0.36023,
+"y1": 0.37727,
+"text": "MDB. (co. Norfolk), 3, O'; (co. Devon),",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.36725,
+"x1": 0.39189,
+"y0": 0.37659,
+"y1": 0.38614,
+"text": "1, 0.",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.38163,
+"x1": 0.61736,
+"y0": 0.3858,
+"y1": 0.40114,
+"text": "Blanchfront. -- Local, 'of",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.36725,
+"x1": 0.61695,
+"y0": 0.39977,
+"y1": 0.41545,
+"text": "Blanchfront,' from some spot in",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.3689,
+"x1": 0.61778,
+"y0": 0.41443,
+"y1": 0.42807,
+"text": "Normandy. Not a nickname, as",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.36643,
+"x1": 0.52085,
+"y0": 0.4267,
+"y1": 0.44443,
+"text": "suggested by Lower.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.38081,
+"x1": 0.61531,
+"y0": 0.44136,
+"y1": 0.45636,
+"text": "Johannes de Blauncefrunt, co. York,",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.3689,
+"x1": 0.49991,
+"y0": 0.4533,
+"y1": 0.46693,
+"text": "Hen. IlI-Edw. I. K.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.61613,
+"y0": 0.46216,
+"y1": 0.47682,
+"text": "Walter de Blauncefrunt, co. York, ibid.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.61778,
+"y0": 0.47239,
+"y1": 0.48705,
+"text": "Henry de Blancfrund, cos. Bucks and",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36972,
+"x1": 0.54098,
+"y0": 0.48432,
+"y1": 0.49727,
+"text": "Bedf , Hen. IlI-Edw. I. K.",
+"conf": 0.926
+},
+{
+"column": 2,
+"x0": 0.38204,
+"x1": 0.58862,
+"y0": 0.49318,
+"y1": 0.5092,
+"text": "Henry Blancfront, co. Bucks, ibid.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38163,
+"x1": 0.60915,
+"y0": 0.50398,
+"y1": 0.5183,
+"text": "Robert Blanfront, co. Bedf., 1273.. . A",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.38163,
+"x1": 0.60135,
+"y0": 0.51364,
+"y1": 0.52932,
+"text": "Nicholas Blaunfront, co. Bedf., ibid.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38245,
+"x1": 0.53482,
+"y0": 0.52443,
+"y1": 0.53909,
+"text": "Philip Blanchfront. ' FF.",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.38245,
+"x1": 0.54714,
+"y0": 0.53432,
+"y1": 0.55,
+"text": "Joan Blaunkfront. XX. 4.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38327,
+"x1": 0.5381,
+"y0": 0.54557,
+"y1": 0.55989,
+"text": "Anabel Blancfiont. GG.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.38656,
+"x1": 0.61901,
+"y0": 0.55852,
+"y1": 0.57455,
+"text": "Blanchmains.Nick. 'white",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.37218,
+"x1": 0.61942,
+"y0": 0.5725,
+"y1": 0.58989,
+"text": "hand,' q. v.  Lower says, 'Fr.",
+"conf": 0.873
+},
+{
+"column": 2,
+"x0": 0.37136,
+"x1": 0.62106,
+"y0": 0.58443,
+"y1": 0.60386,
+"text": "blanches mains、 \" white hands.'",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.37177,
+"x1": 0.62188,
+"y0": 0.59909,
+"y1": 0.61716,
+"text": "From this peculiarity Robert de",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37013,
+"x1": 0.62353,
+"y0": 0.6117,
+"y1": 0.6325,
+"text": "Beaumont, 3rd Earl of Leicester,",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37136,
+"x1": 0.62147,
+"y0": 0.62636,
+"y1": 0.64273,
+"text": "received his sobriquet. It  also",
+"conf": 0.9
+},
+{
+"column": 2,
+"x0": 0.37177,
+"x1": 0.62435,
+"y0": 0.63966,
+"y1": 0.65739,
+"text": "became the hereditary surname of",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.37218,
+"x1": 0.57588,
+"y0": 0.65466,
+"y1": 0.67034,
+"text": "a family' (Patr. Brit. p. 30).",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.38697,
+"x1": 0.55289,
+"y0": 0.67,
+"y1": 0.68364,
+"text": "Robert Blanchmains. FF.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38697,
+"x1": 0.56274,
+"y0": 0.67989,
+"y1": 0.6942,
+"text": "Humbert Blanchmains. PP.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38902,
+"x1": 0.62147,
+"y0": 0.69318,
+"y1": 0.70989,
+"text": "Blanchpain.---Local,'ofBlanc-",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37588,
+"x1": 0.62311,
+"y0": 0.70568,
+"y1": 0.72477,
+"text": "pain,' of which the English trans-",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37547,
+"x1": 0.62311,
+"y0": 0.71966,
+"y1": 0.73636,
+"text": "lation was Whitebread and Whit-",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37465,
+"x1": 0.62558,
+"y0": 0.73295,
+"y1": 0.75239,
+"text": "bread, q.v.. Some spot in Nor-",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.37711,
+"x1": 0.62476,
+"y0": 0.74795,
+"y1": 0.76398,
+"text": "mandy. Blanchpain has a strong",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37423,
+"x1": 0.62599,
+"y0": 0.75955,
+"y1": 0.77932,
+"text": "nickname appearance about it, but",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.37588,
+"x1": 0.62558,
+"y0": 0.77352,
+"y1": 0.79159,
+"text": "the evidence is against such a deriv-",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.37629,
+"x1": 0.41695,
+"y0": 0.79159,
+"y1": 0.80352,
+"text": "ation.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.35575,
+"x1": 0.62517,
+"y0": 0.80216,
+"y1": 0.81955,
+"text": "d Aldwina de Blancpain, co. Berks, Hen.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37752,
+"x1": 0.47691,
+"y0": 0.81443,
+"y1": 0.82705,
+"text": "II-Edw. I. K.",
+"conf": 0.857
+},
+{
+"column": 2,
+"x0": 0.38984,
+"x1": 0.60628,
+"y0": 0.8233,
+"y1": 0.83932,
+"text": "Roger Blancpayn, co. Camb., I273:",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.35493,
+"x1": 0.60792,
+"y0": 0.83386,
+"y1": 0.84955,
+"text": "rt William Blancpain, co. Camb., ibid.",
+"conf": 0.906
+},
+{
+"column": 2,
+"x0": 0.39272,
+"x1": 0.54755,
+"y0": 0.8458,
+"y1": 0.85909,
+"text": "Edmund Blankpayn. D.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.69682,
+"x1": 0.79703,
+"y0": 0.06273,
+"y1": 0.07568,
+"text": "BLAXTER",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63152,
+"x1": 0.8689,
+"y0": 0.08932,
+"y1": 0.10432,
+"text": "John  Blankpayn represented 1 Cain",
+"conf": 0.825
+},
+{
+"column": 3,
+"x0": 0.61961,
+"x1": 0.86973,
+"y0": 0.09989,
+"y1": 0.11489,
+"text": "bridge in Parliament : C.R., 50 Edw. 1.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.62126,
+"x1": 0.65452,
+"y0": 0.11216,
+"y1": 0.12409,
+"text": "pt. it.",
+"conf": 0.908
+},
+{
+"column": 3,
+"x0": 0.63358,
+"x1": 0.86973,
+"y0": 0.12102,
+"y1": 0.13466,
+"text": "Eugene Aram was usher, in 1744, to",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.62126,
+"x1": 0.85001,
+"y0": 0.13125,
+"y1": 0.14591,
+"text": "the Rev. Mr. Painblanc, in Piccadilly.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63933,
+"x1": 0.87342,
+"y0": 0.14761,
+"y1": 0.16091,
+"text": "Bland.--Local, ‘of Bland,' one",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62413,
+"x1": 0.8726,
+"y0": 0.16125,
+"y1": 0.17455,
+"text": "of the four hamlets of which the",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62208,
+"x1": 0.87383,
+"y0": 0.17352,
+"y1": 0.19023,
+"text": "town of Sedburgh (co. York) is",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.62372,
+"x1": 0.87301,
+"y0": 0.18784,
+"y1": 0.20352,
+"text": "comprised.  It is not a compli-",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.6229,
+"x1": 0.87301,
+"y0": 0.20114,
+"y1": 0.21648,
+"text": "mentary nickname, but distinctly",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.62167,
+"x1": 0.87342,
+"y0": 0.21443,
+"y1": 0.22909,
+"text": "local. The name ramifed strongly.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.63563,
+"x1": 0.87383,
+"y0": 0.22977,
+"y1": 0.24443,
+"text": "Johannes de Bland, 1379 : P. T. Yorks.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.62331,
+"x1": 0.66274,
+"y0": 0.24307,
+"y1": 0.255,
+"text": "P. 289.",
+"conf": 0.867
+},
+{
+"column": 3,
+"x0": 0.63604,
+"x1": 0.80607,
+"y0": 0.24989,
+"y1": 0.26591,
+"text": "Adam de Bland, 1379 : ibid.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63686,
+"x1": 0.80032,
+"y0": 0.26148,
+"y1": 0.27614,
+"text": "Matilda Bland, 1379: ibid.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6381,
+"x1": 0.86849,
+"y0": 0.27136,
+"y1": 0.2867,
+"text": "Wymerk de Bland, 1379 : ibid. p. 246.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63686,
+"x1": 0.8763,
+"y0": 0.28011,
+"y1": 0.29716,
+"text": "1753. Married - Edward Bland and",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.62454,
+"x1": 0.87712,
+"y0": 0.29216,
+"y1": 0.30648,
+"text": "Elcanor Turnbull : St. Geo. Chap. May-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62454,
+"x1": 0.69436,
+"y0": 0.30466,
+"y1": 0.31761,
+"text": "fair, P. 257.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63645,
+"x1": 0.87548,
+"y0": 0.3125,
+"y1": 0.3275,
+"text": "London, 25 ; West Riding Court Dir.,",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.62577,
+"x1": 0.74775,
+"y0": 0.32443,
+"y1": 0.33841,
+"text": "12; Philadeiphia, 9.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.64179,
+"x1": 0.8763,
+"y0": 0.33875,
+"y1": 0.35443,
+"text": "Blankley.--Local, 'of Blank-",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62536,
+"x1": 0.87671,
+"y0": 0.35205,
+"y1": 0.36977,
+"text": "ney,'a parish in dioc. of Lincoln ; v.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62701,
+"x1": 0.8763,
+"y0": 0.36739,
+"y1": 0.38136,
+"text": "Blackley fora corresponding changc",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62742,
+"x1": 0.76787,
+"y0": 0.38273,
+"y1": 0.395,
+"text": "of suffix -ney to -ley.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.63933,
+"x1": 0.87794,
+"y0": 0.39466,
+"y1": 0.41034,
+"text": "Adam de Blanckenay, co. Linc., Hen.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.62783,
+"x1": 0.72886,
+"y0": 0.40659,
+"y1": 0.41852,
+"text": "Il-Edw. I. K.",
+"conf": 0.866
+},
+{
+"column": 3,
+"x0": 0.63974,
+"x1": 0.87671,
+"y0": 0.4158,
+"y1": 0.43045,
+"text": "Robert de Blankeney, co. Oxf., I273. A.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.63974,
+"x1": 0.86808,
+"y0": 0.42602,
+"y1": 0.44136,
+"text": "Richard de Blankeney, co. Oxf., ihid.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64097,
+"x1": 0.87876,
+"y0": 0.43727,
+"y1": 0.45159,
+"text": "(Vicar) de Blannkeneye, co.' Linc.,",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.62906,
+"x1": 0.65493,
+"y0": 0.44989,
+"y1": 0.46011,
+"text": "ibid.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.64097,
+"x1": 0.811,
+"y0": 0.45841,
+"y1": 0.47205,
+"text": "London, 3 ; Philadeiphia, 8.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64467,
+"x1": 0.87876,
+"y0": 0.47375,
+"y1": 0.48705,
+"text": "Blanks, Blankson.--' The son",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.62865,
+"x1": 0.83523,
+"y0": 0.48773,
+"y1": 0.50307,
+"text": "of Blanch '(q. v.) ; a variant.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.6422,
+"x1": 0.87753,
+"y0": 0.50193,
+"y1": 0.51625,
+"text": "1613. Thomas Blank, or Blanck, Glouc.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62947,
+"x1": 0.81346,
+"y0": 0.51386,
+"y1": 0.5275,
+"text": "Hall : Reg. Univ. Oxf. iii. 324.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64508,
+"x1": 0.88081,
+"y0": 0.52818,
+"y1": 0.54386,
+"text": "The following two entries mani-",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.62988,
+"x1": 0.85699,
+"y0": 0.5425,
+"y1": 0.55784,
+"text": "festly concern the same couple.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64261,
+"x1": 0.87917,
+"y0": 0.55682,
+"y1": 0.57182,
+"text": "1676. Married--John Crose and Eliz",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.62988,
+"x1": 0.87835,
+"y0": 0.56807,
+"y1": 0.58205,
+"text": "Blankson : St. Antholin (London), P: 96.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.65945,
+"x1": 0.88081,
+"y0": 0.57795,
+"y1": 0.59227,
+"text": " John Cross and Eliz. Blanks: Mar.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63111,
+"x1": 0.83317,
+"y0": 0.5892,
+"y1": 0.60386,
+"text": "riage Alleg. (Canterbury), P: 253.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64302,
+"x1": 0.84549,
+"y0": 0.60011,
+"y1": 0.61511,
+"text": "London, 4, o ; Philadelphia, 1, 0.",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.64795,
+"x1": 0.88123,
+"y0": 0.61511,
+"y1": 0.63011,
+"text": "Blatherwick.--Local, ' of Bla-",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.63235,
+"x1": 0.88287,
+"y0": 0.62841,
+"y1": 0.64477,
+"text": "therwycke,' a parish in the dioc. of",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.63276,
+"x1": 0.88246,
+"y0": 0.6417,
+"y1": 0.65841,
+"text": "Peterborough and co. Northamp-",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63235,
+"x1": 0.66233,
+"y0": 0.65977,
+"y1": 0.67068,
+"text": "ton.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.6459,
+"x1": 0.88205,
+"y0": 0.67136,
+"y1": 0.68466,
+"text": "Simon de Blatherwyke, rector of",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.63235,
+"x1": 0.87548,
+"y0": 0.68057,
+"y1": 0.69625,
+"text": "Barton, co. Norfolk, 1314 : FF. vi. 278.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64713,
+"x1": 0.88287,
+"y0": 0.69182,
+"y1": 0.70682,
+"text": "1746. 1 Married-- John Blatherwick and",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.63358,
+"x1": 0.88246,
+"y0": 0.70205,
+"y1": 0.71636,
+"text": "Elinor Brearcliffe : St. Geo. Chap. May-",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63481,
+"x1": 0.696,
+"y0": 0.71523,
+"y1": 0.72716,
+"text": "fair, P. 73.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.65001,
+"x1": 0.88328,
+"y0": 0.72239,
+"y1": 0.73568,
+"text": "785 - Robert Foster and Ann Bla-",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6344,
+"x1": 0.84796,
+"y0": 0.7333,
+"y1": 0.74727,
+"text": "therwick : St. Geo. Han. Sq. i. 369.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.61263,
+"x1": 0.71654,
+"y0": 0.74557,
+"y1": 0.76091,
+"text": "g London, 3.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.61181,
+"x1": 0.88246,
+"y0": 0.75648,
+"y1": 0.77352,
+"text": "ut Blaxter, Blackister, Black-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63522,
+"x1": 0.88246,
+"y0": 0.76977,
+"y1": 0.78682,
+"text": "istor.—- Occup. ‘the bleacher,",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.63686,
+"x1": 0.88369,
+"y0": 0.78375,
+"y1": 0.79977,
+"text": "with fem. suffx -ster; cf. Baxter.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.61345,
+"x1": 0.88369,
+"y0": 0.79568,
+"y1": 0.81477,
+"text": "n  Pleykstare, candidarius'; :whyt-",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.63686,
+"x1": 0.88328,
+"y0": 0.81068,
+"y1": 0.82841,
+"text": "stare or pleykstare, candidarius,",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.61304,
+"x1": 0.88328,
+"y0": 0.82398,
+"y1": 0.84034,
+"text": "A candidaria 'bleystare or wyt-",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.63768,
+"x1": 0.88328,
+"y0": 0.83659,
+"y1": 0.85534,
+"text": "stare (bleykester, or whytstcr),",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.69682,
+"x1": 0.87548,
+"y0": 0.91636,
+"y1": 0.94739,
+"text": "Digitized by Goog",
+"conf": 0.972
+}
+]

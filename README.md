@@ -4,8 +4,9 @@ A searchable database of the people cited in C. W. Bardsley, *A Dictionary of En
 Surnames, with Special American Instances* (1901), from the Internet Archive scan
 [adictionaryengl00goog](https://archive.org/details/adictionaryengl00goog).
 
-Transcribed so far: printed pages 37–90 (4,051 names under 584 surname entries). Next batch starts at p. 91;
-check whether "Bedingham" (last entry on p. 90) continues there.
+Transcribed so far: printed pages 37–110 (5,522 names under 820 surname entries). Next batch starts at p. 111,
+which continues "Blevin, Blethyn, Bliven, ? Bleything": its citation "'William Blethyn, bishop of Landaff,' writes
+to Sir Francis Walsingham," breaks off at the foot of p. 110 (no row yet) and its directory line is on p. 111.
 Each row is one name as printed; people named together in one record each get a row. Surnames not printed
 (wives, parents named in patronymics) are "(unknown)".
 

@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.18162,
+"x1": 0.32668,
+"y0": 0.0767,
+"y1": 0.08864,
+"text": "BNERBREWER",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.14176,
+"x1": 0.37887,
+"y0": 0.10193,
+"y1": 0.11932,
+"text": "London, I2, 4, 1, 6: Plymoath, 4. 0 2.",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.1286,
+"x1": 0.37928,
+"y0": 0.11352,
+"y1": 0.12886,
+"text": "O; Exeter, 6, 0, 0, 0 ; Devonport, 4, 0, 0, 0;",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.12902,
+"x1": 0.26709,
+"y0": 0.12307,
+"y1": 0.14011,
+"text": "New York, 26, 3, 2, 15.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.14422,
+"x1": 0.37846,
+"y0": 0.14352,
+"y1": 0.16091,
+"text": "Beerbrewer. -- Occup. ' the",
+"conf": 0.844
+},
+{
+"column": 1,
+"x0": 0.13025,
+"x1": 0.22518,
+"y0": 0.15886,
+"y1": 0.17216,
+"text": "beer-brewer.'",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.14874,
+"x1": 0.37764,
+"y0": 0.17557,
+"y1": 0.1933,
+"text": "' Chymney-sweepers,  and costerde-",
+"conf": 0.889
+},
+{
+"column": 1,
+"x0": 0.16682,
+"x1": 0.22394,
+"y0": 0.1892,
+"y1": 0.20114,
+"text": "mongers,",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.15367,
+"x1": 0.32421,
+"y0": 0.19705,
+"y1": 0.21102,
+"text": "Lodemen and berebrewera.'",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.23216,
+"x1": 0.36572,
+"y0": 0.2083,
+"y1": 0.21989,
+"text": "Cocke Lorelle's Bote.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.14134,
+"x1": 0.37764,
+"y0": 0.21886,
+"y1": 0.23045,
+"text": "Lambert Beerbruer, co. York. W. 1I.",
+"conf": 0.932
+},
+{
+"column": 1,
+"x0": 0.14217,
+"x1": 0.37928,
+"y0": 0.22875,
+"y1": 0.24136,
+"text": "'Hic jacet Ricardus Lawrence filius",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.12943,
+"x1": 0.37764,
+"y0": 0.24068,
+"y1": 0.25159,
+"text": "Laurentii Berbrewer, alias W'yllyamson.'",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12902,
+"x1": 0.37764,
+"y0": 0.25023,
+"y1": 0.26216,
+"text": "A.D. 15o0 : St. Simon and St. Jude (Nor-",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.1286,
+"x1": 0.24408,
+"y0": 0.26045,
+"y1": 0.27477,
+"text": "wich): FF. iv. 357.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14422,
+"x1": 0.37723,
+"y0": 0.27909,
+"y1": 0.29648,
+"text": "Beeston, Beeson, Beesting.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.32709,
+"x1": 0.37805,
+"y0": 0.29523,
+"y1": 0.30955,
+"text": "village",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12778,
+"x1": 0.37764,
+"y0": 0.30773,
+"y1": 0.32239,
+"text": "near  Leeds. With Beeson,  cf.",
+"conf": 0.896
+},
+{
+"column": 1,
+"x0": 0.12943,
+"x1": 0.30079,
+"y0": 0.3217,
+"y1": 0.33534,
+"text": "Kelson for Kelston, &c.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.14093,
+"x1": 0.35832,
+"y0": 0.33875,
+"y1": 0.35205,
+"text": "Radulphus de Beston, Esquier,",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12696,
+"x1": 0.34147,
+"y0": 0.34898,
+"y1": 0.36364,
+"text": "Beeston, 1379: P. T. Yorks. p. 192.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14093,
+"x1": 0.37805,
+"y0": 0.3592,
+"y1": 0.3742,
+"text": "Willelmus de Beston, 1379 : ibid. p. 201.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.14011,
+"x1": 0.37805,
+"y0": 0.36977,
+"y1": 0.38477,
+"text": "Johannes de Bceston, 1379 : ibid. p. 206.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14011,
+"x1": 0.37682,
+"y0": 0.37966,
+"y1": 0.395,
+"text": "1579. Robert Beistonc, co. York : Reg.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12819,
+"x1": 0.30449,
+"y0": 0.39057,
+"y1": 0.40386,
+"text": "Univ. Oxf. vol. ii pt. ii. p. 88.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.14093,
+"x1": 0.37805,
+"y0": 0.40114,
+"y1": 0.41375,
+"text": "1701. Married-Ralph   Beeston  and",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.12778,
+"x1": 0.37682,
+"y0": 0.41102,
+"y1": 0.42432,
+"text": "Eliza Wellin : St. Jas. Cler kenwell, ii. 223.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.1397,
+"x1": 0.37682,
+"y0": 0.42023,
+"y1": 0.43591,
+"text": "1793. -- Joocph Beeson and Eliz. Killi",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.12737,
+"x1": 0.33449,
+"y0": 0.43182,
+"y1": 0.44477,
+"text": "master : St. Geo. Han. Sq. i. 102.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.13888,
+"x1": 0.34065,
+"y0": 0.44239,
+"y1": 0.4567,
+"text": "London, 8, 0, O; Sheffield, 1,",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.12737,
+"x1": 0.37435,
+"y0": 0.45193,
+"y1": 0.46864,
+"text": "West Riding' Court' Dir., O, 2, 1 ; Phila",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12819,
+"x1": 0.22148,
+"y0": 0.46352,
+"y1": 0.47886,
+"text": "delphia, I, 2, 0.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.14299,
+"x1": 0.37517,
+"y0": 0.4833,
+"y1": 0.49864,
+"text": "Beet.--Bapt. ‘the son of Bca-",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.12819,
+"x1": 0.3764,
+"y0": 0.4958,
+"y1": 0.5125,
+"text": "trice,' from 'the nick. Bete; v.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.22846,
+"x1": 0.37723,
+"y0": 0.51114,
+"y1": 0.52455,
+"text": "Beatson. Bete or",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12819,
+"x1": 0.37476,
+"y0": 0.52443,
+"y1": 0.53705,
+"text": "Beet was a familiar nick. in York-",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12655,
+"x1": 0.3764,
+"y0": 0.53636,
+"y1": 0.55307,
+"text": "shire, where Beatrice was very",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12655,
+"x1": 0.37723,
+"y0": 0.55102,
+"y1": 0.56568,
+"text": "popular as a font-name  in the",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.12819,
+"x1": 0.30942,
+"y0": 0.56568,
+"y1": 0.57898,
+"text": "I3th and 14th centuries.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13929,
+"x1": 0.37599,
+"y0": 0.5817,
+"y1": 0.59705,
+"text": "Alicia Bete, doghter, 1379 : P. T. Yorka.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12614,
+"x1": 0.16764,
+"y0": 0.59432,
+"y1": 0.60557,
+"text": "p. 233.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.1397,
+"x1": 0.36654,
+"y0": 0.60114,
+"y1": 0.61852,
+"text": "Johannes Bete, son, 1379: ibid. p. 13:",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.14011,
+"x1": 0.37558,
+"y0": 0.61375,
+"y1": 0.62636,
+"text": "1687. William'Beet and Rachell 'Sweit :",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.12737,
+"x1": 0.34805,
+"y0": 0.6233,
+"y1": 0.63795,
+"text": "Marriage Alleg. (Canterbury), p. 10.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13847,
+"x1": 0.28723,
+"y0": 0.63352,
+"y1": 0.64852,
+"text": "London, 2; Sheffield, 4.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.14258,
+"x1": 0.37517,
+"y0": 0.655,
+"y1": 0.67102,
+"text": "Beetson; v. Beatson and Beet.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13847,
+"x1": 0.37517,
+"y0": 0.67989,
+"y1": 0.69523,
+"text": "Belcher, Belchier.-- Nick. bel-",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.12696,
+"x1": 0.37682,
+"y0": 0.69386,
+"y1": 0.70989,
+"text": "sire, grandfather, or perhaps  bad",
+"conf": 0.682
+},
+{
+"column": 1,
+"x0": 0.12696,
+"x1": 0.37517,
+"y0": 0.70705,
+"y1": 0.72375,
+"text": "chere, good friend; cf. . Bellamy,",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.12696,
+"x1": 0.29915,
+"y0": 0.72045,
+"y1": 0.7358,
+"text": "Bowsher, and Bonamy.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.1397,
+"x1": 0.37599,
+"y0": 0.73943,
+"y1": 0.75477,
+"text": "' Lo, here is the belschere broght that",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.12532,
+"x1": 0.37558,
+"y0": 0.74966,
+"y1": 0.76636,
+"text": "ye bad bring': York Mystery Playa, p. 262.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13806,
+"x1": 0.3764,
+"y0": 0.75955,
+"y1": 0.77727,
+"text": "Belsyre, or belfather, faders or moders",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12614,
+"x1": 0.3764,
+"y0": 0.7708,
+"y1": 0.78648,
+"text": "fader, avus': Prompt. Parv. See also",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.12655,
+"x1": 0.23216,
+"y0": 0.7817,
+"y1": 0.79466,
+"text": "Belsire (H.E. D.).",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13847,
+"x1": 0.37435,
+"y0": 0.79159,
+"y1": 0.80727,
+"text": "Richard Belechere, co. Glouc., 1273. A.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.14134,
+"x1": 0.30778,
+"y0": 0.80148,
+"y1": 0.81614,
+"text": "John Belsire, co. Kent, ibid.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13929,
+"x1": 0.37476,
+"y0": 0.81205,
+"y1": 0.82841,
+"text": "Lconard Belshyre,. squire bedell, Ox.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.12491,
+"x1": 0.37476,
+"y0": 0.82227,
+"y1": 0.84,
+"text": "ford, 1553 : Reg.'Univ. 'Oxf. vol. i.'pt. i.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.12491,
+"x1": 0.16682,
+"y0": 0.83284,
+"y1": 0.84784,
+"text": "P. 288.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13929,
+"x1": 0.37476,
+"y0": 0.84239,
+"y1": 0.85943,
+"text": "William _ Belsher, sheriff of Bristol,",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.12655,
+"x1": 0.24367,
+"y0": 0.85466,
+"y1": 0.86932,
+"text": "1562 : YYY. p. 685.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.50374,
+"x1": 0.52513,
+"y0": 0.07432,
+"y1": 0.08966,
+"text": "92",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40171,
+"x1": 0.63663,
+"y0": 0.10193,
+"y1": 0.11557,
+"text": "1673. Buried---Katherine Bellshar : St.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38978,
+"x1": 0.61935,
+"y0": 0.11284,
+"y1": 0.12614,
+"text": "Thomas the Apostle (London), P. 140.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.4013,
+"x1": 0.63951,
+"y0": 0.12239,
+"y1": 0.1367,
+"text": "1783._ Married-Walter Belchar and",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.38772,
+"x1": 0.62305,
+"y0": 0.1333,
+"y1": 0.14761,
+"text": "Mary'Ware : St. Geo. Han. Sq. i. 350.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40048,
+"x1": 0.61318,
+"y0": 0.14455,
+"y1": 0.15784,
+"text": "London, 20, 2; Philadelphia, 18, 0.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.40418,
+"x1": 0.63827,
+"y0": 0.15886,
+"y1": 0.17182,
+"text": "Beljambe.--Nick. ‘handsome",
+"conf": 0.912
+},
+{
+"column": 2,
+"x0": 0.38731,
+"x1": 0.53501,
+"y0": 0.1725,
+"y1": 0.18614,
+"text": "legs'; cf. Foljambe.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.4013,
+"x1": 0.63663,
+"y0": 0.18716,
+"y1": 0.2008,
+"text": "Alexa nderBele- Jambe,co.Salop, 1273.A.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.4013,
+"x1": 0.59754,
+"y0": 0.19841,
+"y1": 0.21,
+"text": "Peter Belejambe, .co. Wilts, ibid.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40048,
+"x1": 0.60042,
+"y0": 0.20864,
+"y1": 0.22261,
+"text": "Richard Beljaumbe, c. 1315. M.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.40336,
+"x1": 0.63539,
+"y0": 0.22227,
+"y1": 0.23693,
+"text": "Bell.---(1) Bapt.'the son of Bell,",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.38731,
+"x1": 0.63704,
+"y0": 0.23557,
+"y1": 0.25023,
+"text": "i.e. Isabel ; nick. Bella or Bell ; v.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.38813,
+"x1": 0.44409,
+"y0": 0.24955,
+"y1": 0.26284,
+"text": "Belson.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39965,
+"x1": 0.62182,
+"y0": 0.26455,
+"y1": 0.27852,
+"text": "Bela le Barher, co. Hunts, 1273. . A.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.40048,
+"x1": 0.61647,
+"y0": 0.27511,
+"y1": 0.28807,
+"text": "Bella or Brle Cotty, co. Linc., ibid.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.40048,
+"x1": 0.59836,
+"y0": 0.28557,
+"y1": 0.29818,
+"text": "Nicholas fl. Bele, co. Bedf., ibid.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.40048,
+"x1": 0.59754,
+"y0": 0.29614,
+"y1": 0.30943,
+"text": "Bele Scampeyn, co. Camb., ibid.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.42146,
+"x1": 0.63663,
+"y0": 0.31182,
+"y1": 0.32545,
+"text": ")Nick. ‘le bel,' i.e. the beau-",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.38772,
+"x1": 0.42105,
+"y0": 0.32545,
+"y1": 0.33739,
+"text": "tiful.",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.39965,
+"x1": 0.61976,
+"y0": 0.34011,
+"y1": 0.35511,
+"text": "Ralph Je Bele, co. Camb., 1273. A.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.4013,
+"x1": 0.56463,
+"y0": 0.35136,
+"y1": 0.3633,
+"text": "Hugh le Bel, co. Oxf., ibid.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.40048,
+"x1": 0.57862,
+"y0": 0.36159,
+"y1": 0.37352,
+"text": "Thomas le Bel, co. Suff., ibid.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39965,
+"x1": 0.63704,
+"y0": 0.37114,
+"y1": 0.38545,
+"text": "Robert le Bell, mayor of Bristol, 1239 :",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38896,
+"x1": 0.46754,
+"y0": 0.38205,
+"y1": 0.39568,
+"text": "YYY. p. 669.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.42516,
+"x1": 0.63827,
+"y0": 0.39773,
+"y1": 0.4117,
+"text": "Local, ‘at the Bell,' i.e. an",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38608,
+"x1": 0.63745,
+"y0": 0.41205,
+"y1": 0.42568,
+"text": "inn-sign, or one who dwelt by the",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38731,
+"x1": 0.54694,
+"y0": 0.425,
+"y1": 0.43898,
+"text": "bell, i.e. bell-chamber.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.4013,
+"x1": 0.52349,
+"y0": 0.44,
+"y1": 0.45261,
+"text": "John atte Belle. V.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.5564,
+"x1": 0.57245,
+"y0": 0.45261,
+"y1": 0.46114,
+"text": "M.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.40171,
+"x1": 0.58232,
+"y0": 0.46148,
+"y1": 0.47375,
+"text": "John atte Belle (London). X.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39965,
+"x1": 0.63663,
+"y0": 0.47136,
+"y1": 0.48466,
+"text": "Roger atte Bell, co. Soms., 1 Edw. I11 :",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.38813,
+"x1": 0.51403,
+"y0": 0.48261,
+"y1": 0.49523,
+"text": "Kirby's Quest, p. 81.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.39801,
+"x1": 0.5959,
+"y0": 0.4917,
+"y1": 0.50739,
+"text": "London, 158 ; Philadelphia, 324.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.40212,
+"x1": 0.63457,
+"y0": 0.50705,
+"y1": 0.52205,
+"text": "Bellamy, Bellamey.--Nick.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.38525,
+"x1": 0.63663,
+"y0": 0.52102,
+"y1": 0.5367,
+"text": "a familiar expression, 'my good",
+"conf": 0.886
+},
+{
+"column": 2,
+"x0": 0.38608,
+"x1": 0.63621,
+"y0": 0.53398,
+"y1": 0.54864,
+"text": "friend'; cf. Bonamy. A common",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38525,
+"x1": 0.57985,
+"y0": 0.54727,
+"y1": 0.56295,
+"text": "surname in early registers.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39389,
+"x1": 0.62963,
+"y0": 0.56398,
+"y1": 0.57591,
+"text": "' Feste! fy ! that were a wykyd treson !",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.39842,
+"x1": 0.57409,
+"y0": 0.5742,
+"y1": 0.5875,
+"text": "Belamy, thou shal be smytt.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.5815,
+"x1": 0.62799,
+"y0": 0.59568,
+"y1": 0.60625,
+"text": "he. said.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3943,
+"x1": 0.58026,
+"y0": 0.59432,
+"y1": 0.6083,
+"text": "'Thou bel-amy, thou pardoner,",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.49263,
+"x1": 0.62428,
+"y0": 0.60523,
+"y1": 0.61716,
+"text": "Chancer, C. T. 12252.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.39924,
+"x1": 0.63704,
+"y0": 0.61443,
+"y1": 0.63011,
+"text": "' Belamy, fayre frynde ': Prompt. Parv.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38649,
+"x1": 0.4194,
+"y0": 0.62909,
+"y1": 0.63898,
+"text": "P. 29.",
+"conf": 0.896
+},
+{
+"column": 2,
+"x0": 0.39883,
+"x1": 0.62428,
+"y0": 0.63659,
+"y1": 0.64852,
+"text": "Henry Belamy, Clooe Roll, 2 Edw. I.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.39924,
+"x1": 0.61482,
+"y0": 0.64648,
+"y1": 0.66045,
+"text": "Hugh Belami, co. Camb., i273. A.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39924,
+"x1": 0.57903,
+"y0": 0.6567,
+"y1": 0.67068,
+"text": "Roger Belamy, co. Oxf., ibid.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.40006,
+"x1": 0.63663,
+"y0": 0.66761,
+"y1": 0.68057,
+"text": "John Belamy, co. Soms, I Edw. I1l :",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.38731,
+"x1": 0.51937,
+"y0": 0.6775,
+"y1": 0.69216,
+"text": "Kirby's Quest, P. 233.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.3976,
+"x1": 0.63416,
+"y0": 0.68739,
+"y1": 0.70205,
+"text": "John Bellmy, Norwich, 16o3 : FF.iv. 167.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39801,
+"x1": 0.63621,
+"y0": 0.69761,
+"y1": 0.71193,
+"text": "1634. Bapt.Eliz., d. John Bellamye :",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.38567,
+"x1": 0.55188,
+"y0": 0.70784,
+"y1": 0.7225,
+"text": "St. Jas. Clerkenwell,' i. 127.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.3976,
+"x1": 0.63663,
+"y0": 0.71739,
+"y1": 0.73375,
+"text": "1757: .Married--Charles Parent and",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.38567,
+"x1": 0.62305,
+"y0": 0.72818,
+"y1": 0.74318,
+"text": "Eliz. Bellamy : St. Geo. Han. Sq. i. 71.",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.39801,
+"x1": 0.59302,
+"y0": 0.74045,
+"y1": 0.75375,
+"text": "London, 24, I ; New York, 5, 0.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40171,
+"x1": 0.56216,
+"y0": 0.75614,
+"y1": 0.76807,
+"text": "Bellard ; v. Bellhird.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.4013,
+"x1": 0.63251,
+"y0": 0.77352,
+"y1": 0.78682,
+"text": "Bellchambers, Belchamber.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38772,
+"x1": 0.63457,
+"y0": 0.78784,
+"y1": 0.80011,
+"text": "-Local, 'of Belencombre,’ in the",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.38525,
+"x1": 0.63375,
+"y0": 0.80114,
+"y1": 0.81443,
+"text": "arrondissement of Dieppe, in Nor-",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38608,
+"x1": 0.63539,
+"y0": 0.81545,
+"y1": 0.82773,
+"text": "mandy.  The present forms are",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38525,
+"x1": 0.63292,
+"y0": 0.82773,
+"y1": 0.84102,
+"text": "imitative. There is not the slight-",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38525,
+"x1": 0.63498,
+"y0": 0.83966,
+"y1": 0.85568,
+"text": "est evidence in favour of an origin",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38525,
+"x1": 0.63457,
+"y0": 0.855,
+"y1": 0.86761,
+"text": "akin to Bellhouse.  Dr. Charnock",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.71903,
+"x1": 0.82629,
+"y0": 0.0767,
+"y1": 0.08795,
+"text": "BELLEIRD",
+"conf": 0.849
+},
+{
+"column": 3,
+"x0": 0.64876,
+"x1": 0.89738,
+"y0": 0.10398,
+"y1": 0.11727,
+"text": "has unwisely permitted himself to",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64917,
+"x1": 0.89738,
+"y0": 0.11693,
+"y1": 0.13057,
+"text": "write as follows: ' A friend assures",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64876,
+"x1": 0.89656,
+"y0": 0.13091,
+"y1": 0.14352,
+"text": "me he knows of a William Cham-",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.64876,
+"x1": 0.89779,
+"y0": 0.14455,
+"y1": 0.1575,
+"text": "bers who changed his name to",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64835,
+"x1": 0.8982,
+"y0": 0.15648,
+"y1": 0.17182,
+"text": "Bill-chambers, of which he says",
+"conf": 0.942
+},
+{
+"column": 3,
+"x0": 0.64876,
+"x1": 0.88875,
+"y0": 0.1708,
+"y1": 0.18477,
+"text": "Bellchambers is a corruption",
+"conf": 0.914
+},
+{
+"column": 3,
+"x0": 0.64958,
+"x1": 0.89779,
+"y0": 0.18375,
+"y1": 0.19909,
+"text": "(Ludus Patronymicus, p. 6). éSave",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64712,
+"x1": 0.89738,
+"y0": 0.19773,
+"y1": 0.21273,
+"text": "me from my friends’ receives a",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64794,
+"x1": 0.85218,
+"y0": 0.21136,
+"y1": 0.22466,
+"text": "fresh consecration after this.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66109,
+"x1": 0.89656,
+"y0": 0.22602,
+"y1": 0.24068,
+"text": "John de Belencumbre,co. Essex, 1273: A.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.66109,
+"x1": 0.89697,
+"y0": 0.23625,
+"y1": 0.25023,
+"text": "Robert de Belecumbre, co. Essex, ibid.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.66109,
+"x1": 0.89574,
+"y0": 0.24818,
+"y1": 0.25943,
+"text": "1654. Buried-Mary 1 Belchamber : St.",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.64753,
+"x1": 0.87807,
+"y0": 0.25636,
+"y1": 0.27205,
+"text": "Thomas the Apostle (London), P. 130.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.66027,
+"x1": 0.89697,
+"y0": 0.2683,
+"y1": 0.28023,
+"text": "1677. Thomas Shelbery and Merrian",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64712,
+"x1": 0.89656,
+"y0": 0.27773,
+"y1": 0.29239,
+"text": "Belchamber : Marriage Alleg. (Canter.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64794,
+"x1": 0.72889,
+"y0": 0.28864,
+"y1": 0.30193,
+"text": "bury), p. 265.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.70259,
+"x1": 0.89656,
+"y0": 0.29932,
+"y1": 0.31125,
+"text": "Married--Samuel  Belchambers",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.66068,
+"x1": 0.84725,
+"y0": 0.31966,
+"y1": 0.33364,
+"text": "London, 2, 2; New York, 2, 0.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.66273,
+"x1": 0.8945,
+"y0": 0.33568,
+"y1": 0.35,
+"text": "Bellett, Bellott, Belot.--Bapt.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.66027,
+"x1": 0.89738,
+"y0": 0.34898,
+"y1": 0.36466,
+"text": ")‘the son of Isabel' (l), from the",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64753,
+"x1": 0.89615,
+"y0": 0.36261,
+"y1": 0.37693,
+"text": "nick. Bel, dim. Bel-ot or Bel-et; v.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64753,
+"x1": 0.89738,
+"y0": 0.37557,
+"y1": 0.39159,
+"text": "Bell (1). The writer of the article",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64712,
+"x1": 0.89861,
+"y0": 0.3892,
+"y1": 0.40489,
+"text": "on Hugh Bellot(1542-96), bishop of",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64794,
+"x1": 0.89492,
+"y0": 0.40318,
+"y1": 0.4175,
+"text": "Chester (Dict. Nat. Biog. iv. 195),",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64917,
+"x1": 0.89574,
+"y0": 0.4175,
+"y1": 0.42977,
+"text": "says, 'The Bellots were early seated",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64712,
+"x1": 0.89656,
+"y0": 0.42909,
+"y1": 0.44477,
+"text": "in Norfolk. ... It has been suggested",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64835,
+"x1": 0.89574,
+"y0": 0.44375,
+"y1": 0.45568,
+"text": "that the name is derived from",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.64794,
+"x1": 0.8945,
+"y0": 0.45705,
+"y1": 0.47102,
+"text": "belette, a weasel, or belotte, gentle,",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.6467,
+"x1": 0.89656,
+"y0": 0.46898,
+"y1": 0.48534,
+"text": "pretty... . We find the name spelt",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6467,
+"x1": 0.89492,
+"y0": 0.48364,
+"y1": 0.49761,
+"text": "in various ways : Billet, Bellott, Bil.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.71492,
+"x1": 0.89574,
+"y0": 0.49795,
+"y1": 0.51023,
+"text": "After writing the above",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64629,
+"x1": 0.89574,
+"y0": 0.51011,
+"y1": 0.52409,
+"text": "I find a local origin implied by two",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64588,
+"x1": 0.89656,
+"y0": 0.52375,
+"y1": 0.53636,
+"text": "entries in Blomefield's Hist. of",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.64753,
+"x1": 0.89574,
+"y0": 0.53705,
+"y1": 0.55,
+"text": "Norfolk. If correct, those entries",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64547,
+"x1": 0.8945,
+"y0": 0.55102,
+"y1": 0.56364,
+"text": "are entitled to the frst considera-",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64547,
+"x1": 0.89492,
+"y0": 0.56295,
+"y1": 0.57932,
+"text": "tion. But I strongly suspect a",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64588,
+"x1": 0.74903,
+"y0": 0.57761,
+"y1": 0.59193,
+"text": "double origin.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66068,
+"x1": 0.85999,
+"y0": 0.5933,
+"y1": 0.60591,
+"text": "Adam Belot, co. Hunts, 1273: A",
+"conf": 0.942
+},
+{
+"column": 3,
+"x0": 0.65944,
+"x1": 0.83738,
+"y0": 0.60318,
+"y1": 0.61511,
+"text": "William Belet, co. Norf., ibid.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66027,
+"x1": 0.89368,
+"y0": 0.61409,
+"y1": 0.625,
+"text": "Hervens Belet, co. Oxf., 2o Edw. I. R.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65821,
+"x1": 0.86985,
+"y0": 0.62364,
+"y1": 0.63659,
+"text": "Lawrence de Belet, co. Linc., ibid.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65821,
+"x1": 0.89409,
+"y0": 0.6342,
+"y1": 0.6475,
+"text": "Hervy de Belet, co. Norf., 1236: FF.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64588,
+"x1": 0.68616,
+"y0": 0.64614,
+"y1": 0.65773,
+"text": "v. 143.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65698,
+"x1": 0.89327,
+"y0": 0.65466,
+"y1": 0.66795,
+"text": "Ingelram de Belet, co. Norf., 6 Edw.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64465,
+"x1": 0.75478,
+"y0": 0.66318,
+"y1": 0.67989,
+"text": "II : ibid. vii. 434:",
+"conf": 0.893
+},
+{
+"column": 3,
+"x0": 0.65821,
+"x1": 0.89286,
+"y0": 0.6758,
+"y1": 0.68705,
+"text": "Robert Belet, 8 Edw. 11 : ibid. vi. 288.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65944,
+"x1": 0.89492,
+"y0": 0.68636,
+"y1": 0.69795,
+"text": "I7o8. Married--Charles Davis and Ann",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64465,
+"x1": 0.86163,
+"y0": 0.69591,
+"y1": 0.71023,
+"text": "Bellot : St. Mary Alderinary, p. 38.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65821,
+"x1": 0.8945,
+"y0": 0.70682,
+"y1": 0.72034,
+"text": "17.58. James Bellett‘and. Jane",
+"conf": 0.869
+},
+{
+"column": 3,
+"x0": 0.64547,
+"x1": 0.86286,
+"y0": 0.71727,
+"y1": 0.73023,
+"text": "Thompson : St. Geo. Han. Sq. i. 78.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.71328,
+"x1": 0.89533,
+"y0": 0.7283,
+"y1": 0.74125,
+"text": "1, 1, 0; Crockford, 3, 0, 0 ;",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64506,
+"x1": 0.75807,
+"y0": 0.73807,
+"y1": 0.75239,
+"text": "New York, I, O, I.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.6615,
+"x1": 0.89245,
+"y0": 0.75545,
+"y1": 0.76841,
+"text": "Bellhird, Bellard.--Occup. ‘a",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64506,
+"x1": 0.89409,
+"y0": 0.76909,
+"y1": 0.78273,
+"text": "bull-herd,' a tender of bulls ; A.S.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64424,
+"x1": 0.89409,
+"y0": 0.78205,
+"y1": 0.7967,
+"text": "bellan, to bellow; cf. Coward,",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.64506,
+"x1": 0.89327,
+"y0": 0.79568,
+"y1": 0.81068,
+"text": "Oxhird, Calvert, Stoddart, or Shep-",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64506,
+"x1": 0.68369,
+"y0": 0.81034,
+"y1": 0.82193,
+"text": "herd.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65616,
+"x1": 0.89368,
+"y0": 0.82261,
+"y1": 0.84102,
+"text": "Simon Belhyrd, 1379: P. T. Yorks. p.273.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65657,
+"x1": 0.85177,
+"y0": 0.83523,
+"y1": 0.85125,
+"text": "Henry Bellard, 1379 : ibid. p. 6.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65698,
+"x1": 0.89368,
+"y0": 0.8458,
+"y1": 0.86011,
+"text": "1657. Bapt. --Henry, s. Robert Bellard :",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64342,
+"x1": 0.81273,
+"y0": 0.8567,
+"y1": 0.87102,
+"text": "St. Jas. Clerkenwell, i. 197.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.69643,
+"x1": 0.90067,
+"y0": 0.91534,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.997
+}
+]

@@ -1,0 +1,1649 @@
+[
+{
+"column": 1,
+"x0": 0.15064,
+"x1": 0.29442,
+"y0": 0.07875,
+"y1": 0.09205,
+"text": "BIGGERSTAFE",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.11449,
+"x1": 0.34659,
+"y0": 0.10568,
+"y1": 0.1217,
+"text": "Biggerstaff.-- Local : v. Bicker-",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.09806,
+"x1": 0.34782,
+"y0": 0.11932,
+"y1": 0.13534,
+"text": "staff; cf. Biggadike for Bickerdike.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.11161,
+"x1": 0.1798,
+"y0": 0.13705,
+"y1": 0.14932,
+"text": "London, 1.",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.11449,
+"x1": 0.34782,
+"y0": 0.15409,
+"y1": 0.16909,
+"text": "Biggin, Biggen, Biggins,",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.09847,
+"x1": 0.35028,
+"y0": 0.16705,
+"y1": 0.18307,
+"text": "Biggans.--Local, ‘of Biggin,' a",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.09847,
+"x1": 0.34823,
+"y0": 0.18102,
+"y1": 0.19568,
+"text": "township in the parish of Church",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.09888,
+"x1": 0.35028,
+"y0": 0.19295,
+"y1": 0.21034,
+"text": "Fenton, co. York. No doubt other",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.09723,
+"x1": 0.34905,
+"y0": 0.20625,
+"y1": 0.22534,
+"text": "spots are so called, from bigging,",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.09847,
+"x1": 0.34905,
+"y0": 0.22159,
+"y1": 0.23693,
+"text": "a building, biggins, buildings, i.e. a",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.09806,
+"x1": 0.34864,
+"y0": 0.23386,
+"y1": 0.25125,
+"text": "stead, a habitation, a dwelling ; cf.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.09929,
+"x1": 0.1835,
+"y0": 0.2492,
+"y1": 0.26352,
+"text": "Newbiggin.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.11901,
+"x1": 0.31865,
+"y0": 0.26386,
+"y1": 0.27852,
+"text": "' W'hen hc come to his byggynge,",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.12394,
+"x1": 0.33755,
+"y0": 0.27545,
+"y1": 0.28841,
+"text": "He welcomed fayr that Jady yynge.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.14694,
+"x1": 0.3355,
+"y0": 0.28398,
+"y1": 0.30068,
+"text": "c. 1425 : Emare, 709 (H.E.D.).",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.09888,
+"x1": 0.30386,
+"y0": 0.30636,
+"y1": 0.31966,
+"text": "strucura : Prompt. Parv. p. 35.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.11079,
+"x1": 0.34823,
+"y0": 0.31523,
+"y1": 0.33159,
+"text": "Robertus de Byggyng', i379: P. T.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.18309,
+"y0": 0.32784,
+"y1": 0.34114,
+"text": "Yorks. P. 237.",
+"conf": 0.9
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.26155,
+"y0": 0.35818,
+"y1": 0.37114,
+"text": "Westm. and Cumb., i. 205.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.1112,
+"x1": 0.34905,
+"y0": 0.36773,
+"y1": 0.38205,
+"text": "James Bigines, of Barrowheade, Fur-",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.09847,
+"x1": 0.34905,
+"y0": 0.37693,
+"y1": 0.39364,
+"text": "ness, 1593 : Lancashire Wills at 'Rich.",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.0997,
+"x1": 0.17364,
+"y0": 0.39091,
+"y1": 0.40182,
+"text": "nond, i. 32.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.11038,
+"x1": 0.347,
+"y0": 0.39875,
+"y1": 0.41409,
+"text": "John Biggins, of Ulverston, Furness,",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10052,
+"x1": 0.16871,
+"y0": 0.41,
+"y1": 0.42398,
+"text": "1596 : ibid.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.11079,
+"x1": 0.34905,
+"y0": 0.41852,
+"y1": 0.43489,
+"text": "1727. Married--William Voce and Mary",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.09929,
+"x1": 0.29729,
+"y0": 0.43011,
+"y1": 0.44477,
+"text": "Biggans: St. Geo Han. Sq. i. 3.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.11202,
+"x1": 0.34905,
+"y0": 0.43898,
+"y1": 0.4567,
+"text": "!759. - James Biggins and Jane Bond :",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.1646,
+"y0": 0.45227,
+"y1": 0.46659,
+"text": "ibid. p. 91.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.10093,
+"x1": 0.34987,
+"y0": 0.46045,
+"y1": 0.4775,
+"text": ": London, o, O, 1, O: Weat Riding Court",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.09929,
+"x1": 0.34987,
+"y0": 0.47273,
+"y1": 0.4867,
+"text": "Dir., 8,.1,',1, 0: 'SheMeld, 10, 0, 4. 0;",
+"conf": 0.872
+},
+{
+"column": 1,
+"x0": 0.10052,
+"x1": 0.23978,
+"y0": 0.48364,
+"y1": 0.49864,
+"text": "Philadelphia, 4, O, 2, 1.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.11531,
+"x1": 0.34741,
+"y0": 0.50136,
+"y1": 0.51534,
+"text": "Bigland.--Local, ‘of Bigland,'",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.09888,
+"x1": 0.347,
+"y0": 0.51489,
+"y1": 0.52852,
+"text": "an estate in the parish of Cartmell,",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.09929,
+"x1": 0.34946,
+"y0": 0.52682,
+"y1": 0.54352,
+"text": "North Lancashire. Bigland Hall",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.09806,
+"x1": 0.34823,
+"y0": 0.53977,
+"y1": 0.55648,
+"text": "is still the residence of the Big-",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.14324,
+"y0": 0.55648,
+"y1": 0.56807,
+"text": "lands.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11284,
+"x1": 0.34864,
+"y0": 0.57045,
+"y1": 0.58273,
+"text": "Isabell Bigland, of Bigland, in Cart.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.09929,
+"x1": 0.34905,
+"y0": 0.57966,
+"y1": 0.59466,
+"text": "Imell, 1645 :*Lancashire Wills at Rich.",
+"conf": 0.912
+},
+{
+"column": 1,
+"x0": 0.0997,
+"x1": 0.172,
+"y0": 0.59125,
+"y1": 0.60489,
+"text": "snond, i. 32.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.11284,
+"x1": 0.34864,
+"y0": 0.60182,
+"y1": 0.61477,
+"text": "James Bigland, of the Grange, in Cart.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10052,
+"x1": 0.20322,
+"y0": 0.61273,
+"y1": 0.625,
+"text": "mell, 1623 : ibid.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11326,
+"x1": 0.34864,
+"y0": 0.62193,
+"y1": 0.63591,
+"text": "Henry Bigland, of Cartmell, 1634 : ibid.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11284,
+"x1": 0.34864,
+"y0": 0.63182,
+"y1": 0.64648,
+"text": "1738.\" Married' John Atkinson  and",
+"conf": 0.891
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.34864,
+"y0": 0.64375,
+"y1": 0.65636,
+"text": "Dorothy Bigland : Reg. Ulverston Ch.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10011,
+"x1": 0.13996,
+"y0": 0.6567,
+"y1": 0.66727,
+"text": "p. 379.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.11408,
+"x1": 0.34864,
+"y0": 0.66386,
+"y1": 0.67682,
+"text": "1766. Jamea Bigland, husbandman,",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.09847,
+"x1": 0.29893,
+"y0": 0.67375,
+"y1": 0.68875,
+"text": "and Mary Jackson : ibid. p. 411.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11284,
+"x1": 0.26813,
+"y0": 0.685,
+"y1": 0.69864,
+"text": "London, 2; Liverpool, 4.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.11613,
+"x1": 0.34577,
+"y0": 0.70341,
+"y1": 0.71739,
+"text": "Bignall, Bignell, Bignold.--",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.26114,
+"x1": 0.34905,
+"y0": 0.71739,
+"y1": 0.72932,
+"text": "But Lower",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.10093,
+"x1": 0.34946,
+"y0": 0.72955,
+"y1": 0.74523,
+"text": "says, 'Bignall or Bignold, a town-",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10093,
+"x1": 0.34618,
+"y0": 0.74284,
+"y1": 0.7592,
+"text": "ship in co. Stafford' (Patr. Brit",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.09888,
+"x1": 0.35028,
+"y0": 0.75511,
+"y1": 0.77386,
+"text": "P. 27). The index to the register",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.10134,
+"x1": 0.34905,
+"y0": 0.7708,
+"y1": 0.78409,
+"text": "of St. Michael, Cornhill (Harl.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10216,
+"x1": 0.34987,
+"y0": 0.78409,
+"y1": 0.79807,
+"text": "Soc.), rcfers the reader from Bick-",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10134,
+"x1": 0.34946,
+"y0": 0.79739,
+"y1": 0.81273,
+"text": "nell to Bignall. So does the Reg.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10216,
+"x1": 0.33221,
+"y0": 0.81102,
+"y1": 0.82636,
+"text": "Univ. Oxf. (Index, vol. ii. pt. ii).",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.11613,
+"x1": 0.35028,
+"y0": 0.82943,
+"y1": 0.84136,
+"text": "1726. Bapt. -Mary,. d of Thomas",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.10381,
+"x1": 0.33139,
+"y0": 0.83932,
+"y1": 0.85261,
+"text": "Bignall : St. Michael, Cornhill, p. 169",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.11531,
+"x1": 0.35069,
+"y0": 0.8492,
+"y1": 0.8642,
+"text": "1727. -- Martha, d. of Thomas Bignell :",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10257,
+"x1": 0.13092,
+"y0": 0.85943,
+"y1": 0.87205,
+"text": "ibid.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.46838,
+"x1": 0.49714,
+"y0": 0.07636,
+"y1": 0.09136,
+"text": "101",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.3702,
+"x1": 0.60846,
+"y0": 0.10364,
+"y1": 0.11898,
+"text": "1733. Marricd-Andrew Mills and Ann",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.35747,
+"x1": 0.59614,
+"y0": 0.11591,
+"y1": 0.12852,
+"text": "Bignell : St. Antholin (London), p. 146.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37102,
+"x1": 0.59901,
+"y0": 0.12545,
+"y1": 0.14045,
+"text": "London, 3, 6, 2; Philadclphia, 0, 5, 0.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.3739,
+"x1": 0.60559,
+"y0": 0.14386,
+"y1": 0.15886,
+"text": "Bigod, Bigot.--Nick. or offic.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.35829,
+"x1": 0.60805,
+"y0": 0.1575,
+"y1": 0.1725,
+"text": "Roger le Bygod. A; Alina le",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.35952,
+"x1": 0.60682,
+"y0": 0.17182,
+"y1": 0.18614,
+"text": "Bigod. J; William le Bygot. A;",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.35788,
+"x1": 0.60764,
+"y0": 0.18477,
+"y1": 0.19909,
+"text": "John le Bygot. M; Gundred la",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.35747,
+"x1": 0.60723,
+"y0": 0.19739,
+"y1": 0.21375,
+"text": "Bygote, Close Roll, 5 Edw. l.",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.35911,
+"x1": 0.606,
+"y0": 0.21273,
+"y1": 0.22466,
+"text": "Three of these cntries are of the",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.35829,
+"x1": 0.606,
+"y0": 0.22432,
+"y1": 0.24068,
+"text": "13th century. For the controversy",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.35706,
+"x1": 0.60394,
+"y0": 0.23898,
+"y1": 0.25295,
+"text": "on these terms, Bigod and Bigot,",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.35706,
+"x1": 0.60641,
+"y0": 0.25261,
+"y1": 0.26557,
+"text": "see  Skeat's and Wedgwood's",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.35911,
+"x1": 0.60682,
+"y0": 0.26625,
+"y1": 0.27955,
+"text": "Dictionaries: also reply to Skeat",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.35829,
+"x1": 0.606,
+"y0": 0.27852,
+"y1": 0.2942,
+"text": "by Wedgwood in the Academy,",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.35788,
+"x1": 0.60846,
+"y0": 0.29136,
+"y1": 0.30807,
+"text": "Aug. 9, 1879; see also Freeman's",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.35747,
+"x1": 0.59737,
+"y0": 0.30568,
+"y1": 0.32102,
+"text": "Norm. Conq. ii. 288. That h",
+"conf": 0.918
+},
+{
+"column": 2,
+"x0": 0.35788,
+"x1": 0.606,
+"y0": 0.31932,
+"y1": 0.3333,
+"text": "derisive term ‘bigod' arose from",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.3587,
+"x1": 0.60477,
+"y0": 0.33398,
+"y1": 0.34625,
+"text": "the oath 'by God ' seems probable.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.35952,
+"x1": 0.60723,
+"y0": 0.34625,
+"y1": 0.36091,
+"text": "Pardew' (i.e.‘par Dieu') is a",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.35706,
+"x1": 0.60723,
+"y0": 0.35989,
+"y1": 0.37386,
+"text": "still existent surname with a simi-",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.35706,
+"x1": 0.60764,
+"y0": 0.37284,
+"y1": 0.38852,
+"text": "lar origin. That it was transferred",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.3587,
+"x1": 0.60723,
+"y0": 0.38784,
+"y1": 0.4008,
+"text": "to some religious order seems",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.3587,
+"x1": 0.60477,
+"y0": 0.40045,
+"y1": 0.41443,
+"text": "equally certain (v. Wedgwood),",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.35788,
+"x1": 0.60723,
+"y0": 0.41477,
+"y1": 0.42705,
+"text": "and that through.them it became",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.35747,
+"x1": 0.60723,
+"y0": 0.42739,
+"y1": 0.44102,
+"text": "a term to express religious devotee-",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.35788,
+"x1": 0.52713,
+"y0": 0.4417,
+"y1": 0.45364,
+"text": "ism seems almost clear.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37102,
+"x1": 0.60723,
+"y0": 0.45602,
+"y1": 0.46795,
+"text": "1750. Married-John Bigott and Grace",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.35911,
+"x1": 0.60641,
+"y0": 0.46591,
+"y1": 0.47989,
+"text": "Williams : St. Geo. Chap. Mayfair, p. I59.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.37102,
+"x1": 0.58464,
+"y0": 0.4775,
+"y1": 0.49011,
+"text": "Philadelphia, 0, 2; New York, 0, 3.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.37267,
+"x1": 0.60477,
+"y0": 0.49341,
+"y1": 0.51011,
+"text": "Bilbrough, Bilberry, Bill.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.35911,
+"x1": 0.60271,
+"y0": 0.50807,
+"y1": 0.52273,
+"text": "brough.—-Local, ‘of Bilborough,",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.35706,
+"x1": 0.60805,
+"y0": 0.52136,
+"y1": 0.53739,
+"text": "a village parish near Tadcaster,",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.35706,
+"x1": 0.60846,
+"y0": 0.53466,
+"y1": 0.55034,
+"text": "co. York.  Bilberry seems imita-",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.35829,
+"x1": 0.39197,
+"y0": 0.54864,
+"y1": 0.56295,
+"text": "tive.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37184,
+"x1": 0.60723,
+"y0": 0.56636,
+"y1": 0.5783,
+"text": "Richard de Bilburgh, molendinarius,",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36938,
+"x1": 0.60682,
+"y0": 0.57591,
+"y1": 0.58955,
+"text": "Edw. I : Freemen of York (Surt. Soc.),",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37267,
+"x1": 0.60805,
+"y0": 0.59568,
+"y1": 0.61102,
+"text": "Abraham de Bilbarg (of Biiburgh), 1379:",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.3587,
+"x1": 0.47578,
+"y0": 0.60761,
+"y1": 0.62091,
+"text": "P. T. Yorks. p. 298.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37184,
+"x1": 0.60805,
+"y0": 0.61682,
+"y1": 0.63284,
+"text": "Wilelmus de' Bilburgh, 1379: ibid.",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.35952,
+"x1": 0.40142,
+"y0": 0.6308,
+"y1": 0.64136,
+"text": "P. 301.",
+"conf": 0.916
+},
+{
+"column": 2,
+"x0": 0.37143,
+"x1": 0.60682,
+"y0": 0.63727,
+"y1": 0.65261,
+"text": "1567. Buried Johane Bilbery : St. Jas.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.35993,
+"x1": 0.47085,
+"y0": 0.64955,
+"y1": 0.66148,
+"text": "Clerkenwell, iv. 8.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37184,
+"x1": 0.60887,
+"y0": 0.65875,
+"y1": 0.67273,
+"text": "1625. Buried-- Widow Billbroughe, a",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.35911,
+"x1": 0.60353,
+"y0": 0.67,
+"y1": 0.68364,
+"text": "pentioner : St. Michael, Cornhill, p. 226.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.37308,
+"x1": 0.60805,
+"y0": 0.68193,
+"y1": 0.69284,
+"text": "1632. - Thonas, 8. John Bilborough :",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.35952,
+"x1": 0.53657,
+"y0": 0.68977,
+"y1": 0.70511,
+"text": "St. Jas. Clerkenwell, iv. 205.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.37184,
+"x1": 0.60846,
+"y0": 0.70136,
+"y1": 0.715,
+"text": "1634-5. - Jane Bilbearey : St. Dionis",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.35993,
+"x1": 0.47947,
+"y0": 0.71114,
+"y1": 0.72545,
+"text": "Backchurch, p. 221.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.37308,
+"x1": 0.60805,
+"y0": 0.7217,
+"y1": 0.73568,
+"text": "W'est Riding Court Dir., 5, O, o ; Phila.",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.36034,
+"x1": 0.45441,
+"y0": 0.73261,
+"y1": 0.74795,
+"text": "delphia, 2, 0, 4.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.37472,
+"x1": 0.60764,
+"y0": 0.75102,
+"y1": 0.76602,
+"text": "Bilby, Bilbie, Bilbee.-- Local,",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.36199,
+"x1": 0.60887,
+"y0": 0.765,
+"y1": 0.78102,
+"text": "' of Bilby,' a township in the parish",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36157,
+"x1": 0.50782,
+"y0": 0.77932,
+"y1": 0.7933,
+"text": "of Blythe, co. Notts.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37308,
+"x1": 0.60764,
+"y0": 0.79636,
+"y1": 0.80898,
+"text": "Robertus de Bilby, 1379 : P. T. Yorks.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36363,
+"x1": 0.37267,
+"y0": 0.8117,
+"y1": 0.81818,
+"text": "D.",
+"conf": 0.737
+},
+{
+"column": 2,
+"x0": 0.37267,
+"x1": 0.60969,
+"y0": 0.82636,
+"y1": 0.84239,
+"text": "1544. Ralph Alway and Mary Bylby :",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36075,
+"x1": 0.57971,
+"y0": 0.83659,
+"y1": 0.85193,
+"text": "Marriage Lic. (Facuity OMice), P. 3.",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.37308,
+"x1": 0.60928,
+"y0": 0.84784,
+"y1": 0.8625,
+"text": "163s Bapt.-Anne, d. Francis Bilbye:",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.35911,
+"x1": 0.52548,
+"y0": 0.85841,
+"y1": 0.8717,
+"text": "St. Jas. Clerkenwell, i. 131.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.69866,
+"x1": 0.78866,
+"y0": 0.07636,
+"y1": 0.08966,
+"text": "BILLING",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63044,
+"x1": 0.86838,
+"y0": 0.10295,
+"y1": 0.11864,
+"text": "1730. Married - George. Torrat and",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.61853,
+"x1": 0.86592,
+"y0": 0.11455,
+"y1": 0.12852,
+"text": "Frances Bilby : St. Geo. Chap. Mayfair,",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.6177,
+"x1": 0.6588,
+"y0": 0.1258,
+"y1": 0.13909,
+"text": "P. 318.",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.63086,
+"x1": 0.86715,
+"y0": 0.13432,
+"y1": 0.15102,
+"text": "London, 4, 0, o; MDB. (Somerset), 0,",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.61812,
+"x1": 0.64524,
+"y0": 0.14864,
+"y1": 0.1592,
+"text": "3, 1.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63373,
+"x1": 0.79195,
+"y0": 0.16227,
+"y1": 0.17523,
+"text": "Bilcliffe ; v. Billcliff.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63209,
+"x1": 0.86509,
+"y0": 0.18205,
+"y1": 0.1967,
+"text": "Bill.---Bapt.'the son ofWilliam.'",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.61688,
+"x1": 0.86756,
+"y0": 0.19534,
+"y1": 0.2117,
+"text": "This nick. was very uncommon;",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.61729,
+"x1": 0.86715,
+"y0": 0.20795,
+"y1": 0.225,
+"text": "Will maintaining its hold, as Wil-",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.61565,
+"x1": 0.86633,
+"y0": 0.22227,
+"y1": 0.23795,
+"text": "son, Wilkins, Wilcocks, &c., fully",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.61688,
+"x1": 0.6625,
+"y0": 0.23932,
+"y1": 0.24989,
+"text": "prove.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.62839,
+"x1": 0.86674,
+"y0": 0.25159,
+"y1": 0.2642,
+"text": "John Bille, co. Soms., 1 Edw. I!l :",
+"conf": 0.908
+},
+{
+"column": 3,
+"x0": 0.6177,
+"x1": 0.74921,
+"y0": 0.26216,
+"y1": 0.27614,
+"text": "Kirby's Quest, P I55.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62798,
+"x1": 0.86633,
+"y0": 0.27068,
+"y1": 0.2867,
+"text": "1523. John Hall and Katherine Byll :",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.61688,
+"x1": 0.794,
+"y0": 0.28216,
+"y1": 0.29648,
+"text": "Marriage Lic. (London), i. 3.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.6288,
+"x1": 0.8655,
+"y0": 0.29307,
+"y1": 0.30534,
+"text": "1567-8. William Lucas and Alice Bill :",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.61647,
+"x1": 0.68058,
+"y0": 0.30364,
+"y1": 0.31727,
+"text": "ibid. p..39.",
+"conf": 0.908
+},
+{
+"column": 3,
+"x0": 0.62839,
+"x1": 0.69661,
+"y0": 0.3142,
+"y1": 0.32784,
+"text": "London, 5.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.63209,
+"x1": 0.85893,
+"y0": 0.32955,
+"y1": 0.34352,
+"text": "Bilard.-Occup. : v. Bellhird.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62798,
+"x1": 0.86509,
+"y0": 0.3442,
+"y1": 0.35989,
+"text": "Sheffield, 2; Philadelphia, 2; New",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.61812,
+"x1": 0.66948,
+"y0": 0.35614,
+"y1": 0.36977,
+"text": "York, 4.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63291,
+"x1": 0.86181,
+"y0": 0.37352,
+"y1": 0.38614,
+"text": "Billcliff, Bilcliffe, Bintcliffe,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6177,
+"x1": 0.86098,
+"y0": 0.38716,
+"y1": 0.39943,
+"text": "Bincliff. - Local, ‘of Bilcliff.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.61606,
+"x1": 0.86468,
+"y0": 0.39909,
+"y1": 0.41511,
+"text": "I have not identified the spot.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.61729,
+"x1": 0.86633,
+"y0": 0.41409,
+"y1": 0.42739,
+"text": "Of course they have all one com-",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.61606,
+"x1": 0.86674,
+"y0": 0.42705,
+"y1": 0.44136,
+"text": "mon parent ; cf. bannister and",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.61688,
+"x1": 0.67688,
+"y0": 0.44102,
+"y1": 0.45364,
+"text": "baluster.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63003,
+"x1": 0.86427,
+"y0": 0.45636,
+"y1": 0.46898,
+"text": "1581. Thomas Bilclif : Reg. Univ. Oxf.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.61853,
+"x1": 0.72825,
+"y0": 0.46693,
+"y1": 0.48057,
+"text": "vol. ii. pt. ii. p. 99:",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.63086,
+"x1": 0.86509,
+"y0": 0.47682,
+"y1": 0.48977,
+"text": "1615. Thomas Bilcliffe, co. Berks : ibid.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.61935,
+"x1": 0.63003,
+"y0": 0.4917,
+"y1": 0.4992,
+"text": "P.",
+"conf": 0.852
+},
+{
+"column": 3,
+"x0": 0.6325,
+"x1": 0.8655,
+"y0": 0.49795,
+"y1": 0.50955,
+"text": "1668 Lancelot Griffin and Ann Bilt.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.61812,
+"x1": 0.8655,
+"y0": 0.50773,
+"y1": 0.52205,
+"text": "cliffe : Marriage Alleg.  (Westminster),",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.61729,
+"x1": 0.65757,
+"y0": 0.52102,
+"y1": 0.53193,
+"text": "p. 153.",
+"conf": 0.911
+},
+{
+"column": 3,
+"x0": 0.63044,
+"x1": 0.8655,
+"y0": 0.5275,
+"y1": 0.54318,
+"text": "Manchester, 1, O, 1, 2; London, 0, 1, 0,",
+"conf": 0.942
+},
+{
+"column": 3,
+"x0": 0.6177,
+"x1": 0.79564,
+"y0": 0.53909,
+"y1": 0.55273,
+"text": "O; Boston (U'S.) (Bilclif), 1.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.63332,
+"x1": 0.8655,
+"y0": 0.5558,
+"y1": 0.57182,
+"text": "Biller.---Occup. ‘the biller,",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.61894,
+"x1": 0.86797,
+"y0": 0.57148,
+"y1": 0.58477,
+"text": "probably not a billman, i.e. one",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.61935,
+"x1": 0.86715,
+"y0": 0.58511,
+"y1": 0.59739,
+"text": "who carried a pike or halbert, but",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.61688,
+"x1": 0.83838,
+"y0": 0.59739,
+"y1": 0.61205,
+"text": "a manufacturer of the weapon.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63086,
+"x1": 0.86715,
+"y0": 0.61443,
+"y1": 0.62841,
+"text": "Hugh le Biller, peller、 25. Edw. 1 :",
+"conf": 0.921
+},
+{
+"column": 3,
+"x0": 0.61853,
+"x1": 0.82523,
+"y0": 0.62534,
+"y1": 0.63761,
+"text": "Freemen of York (Surt. Soc.), i. 6.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.63044,
+"x1": 0.86181,
+"y0": 0.63489,
+"y1": 0.64989,
+"text": "Henry le Billere, co. Camb., 1273. A.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63127,
+"x1": 0.79482,
+"y0": 0.64614,
+"y1": 0.65807,
+"text": "John Billere, co.' Suff., ibid.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.63127,
+"x1": 0.86592,
+"y0": 0.65705,
+"y1": 0.66761,
+"text": "1666. Thoinas Terricr and Mary Billier :",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.61894,
+"x1": 0.84455,
+"y0": 0.66625,
+"y1": 0.67989,
+"text": "Marriage. Alleg: (Canterbury), p. 181.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63127,
+"x1": 0.78989,
+"y0": 0.6758,
+"y1": 0.69114,
+"text": "London. 3 : New York, 4.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63332,
+"x1": 0.86468,
+"y0": 0.6942,
+"y1": 0.7092,
+"text": "Billing, Billinge, Billings.--",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.76975,
+"x1": 0.86468,
+"y0": 0.71011,
+"y1": 0.72205,
+"text": " a parish i11",
+"conf": 0.584
+},
+{
+"column": 3,
+"x0": 0.62058,
+"x1": 0.86674,
+"y0": 0.72239,
+"y1": 0.73466,
+"text": "dioc.of Peterboroug'1: also ' of Bil-",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.61935,
+"x1": 0.86797,
+"y0": 0.73534,
+"y1": 0.75034,
+"text": "linge,' a parish in dioc. of Liver-",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.61976,
+"x1": 0.86756,
+"y0": 0.74898,
+"y1": 0.76261,
+"text": "pool. .At first, no doubt, a patro-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62017,
+"x1": 0.86633,
+"y0": 0.76261,
+"y1": 0.77659,
+"text": "nymic, as proved by such place-",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.61976,
+"x1": 0.86674,
+"y0": 0.77659,
+"y1": 0.78886,
+"text": "names as Billingborough (Lincoln-",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.61976,
+"x1": 0.86838,
+"y0": 0.7892,
+"y1": 0.80352,
+"text": "shire), Billingford (Norfolk), Bil-",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.61976,
+"x1": 0.86674,
+"y0": 0.80284,
+"y1": 0.8175,
+"text": "lingham (Durham), Billinghurst,",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.61894,
+"x1": 0.86756,
+"y0": 0.8158,
+"y1": 0.82977,
+"text": "a parish in  dioc.\"of Chichester:",
+"conf": 0.91
+},
+{
+"column": 3,
+"x0": 0.61935,
+"x1": 0.87044,
+"y0": 0.82841,
+"y1": 0.84477,
+"text": "Billingsley, a. parish in dioc. of",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62017,
+"x1": 0.86674,
+"y0": 0.84205,
+"y1": 0.85807,
+"text": "Hereford; and Billington, a parish",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.61894,
+"x1": 0.72661,
+"y0": 0.855,
+"y1": 0.87136,
+"text": "in dioc. of Ely.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.69702,
+"x1": 0.8729,
+"y0": 0.91568,
+"y1": 0.95011,
+"text": "Digitized by Goog",
+"conf": 0.845
+}
+]

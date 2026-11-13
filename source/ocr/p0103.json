@@ -1,0 +1,1739 @@
+[
+{
+"column": 1,
+"x0": 0.1715,
+"x1": 0.29148,
+"y0": 0.07534,
+"y1": 0.08761,
+"text": "BINDLOOSE",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12095,
+"x1": 0.35599,
+"y0": 0.10261,
+"y1": 0.11591,
+"text": "W'illiam Ligator,libror', Oxford, 1273. A.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.12054,
+"x1": 0.30504,
+"y0": 0.1125,
+"y1": 0.12614,
+"text": "William Ligator, Oxford, ibid.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.29436,
+"y0": 0.12307,
+"y1": 0.13636,
+"text": "Simon Ligator, Oxford, ibid.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.1189,
+"x1": 0.3412,
+"y0": 0.13295,
+"y1": 0.14659,
+"text": "Lawrence Ligator, Canbridge, ibid.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35723,
+"y0": 0.14318,
+"y1": 0.15682,
+"text": "1578-g WilliamHammond andJohanna",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.34901,
+"y0": 0.15409,
+"y1": 0.16807,
+"text": "Bynder : Marriage Lic. (London), i. 84.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.11849,
+"x1": 0.35764,
+"y0": 0.16432,
+"y1": 0.17795,
+"text": "1595-6. Edward Byneder and Katherine",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.26272,
+"y0": 0.17523,
+"y1": 0.18818,
+"text": "Raynstropp : ibid. p. 228.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.27751,
+"y0": 0.1858,
+"y1": 0.19841,
+"text": "London, z ; New'York, 6.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.12342,
+"x1": 0.35476,
+"y0": 0.19977,
+"y1": 0.21307,
+"text": "Bindloose, Bindloss, Bind.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10657,
+"x1": 0.33422,
+"y0": 0.21273,
+"y1": 0.22705,
+"text": "lass.--Local, ‘of Bindlows.'",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.10657,
+"x1": 0.35764,
+"y0": 0.22636,
+"y1": 0.24102,
+"text": "cannot find the spot. It is clear",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10698,
+"x1": 0.33668,
+"y0": 0.24034,
+"y1": 0.25432,
+"text": "that the suffix is -low (v. Lowe).",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35682,
+"y0": 0.25432,
+"y1": 0.27068,
+"text": "Robertus Byndlowys, ,1379: P. T.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.10698,
+"x1": 0.1904,
+"y0": 0.26523,
+"y1": 0.27955,
+"text": "Yorks. p. 256.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.1189,
+"x1": 0.32107,
+"y0": 0.2758,
+"y1": 0.29011,
+"text": "Johannes Byndlowys, 1379 : ihid.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35394,
+"y0": 0.28693,
+"y1": 0.2992,
+"text": "1582. Christopher Bindlos (co. Westm.),",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.35599,
+"y0": 0.29693,
+"y1": 0.31057,
+"text": "Queen's Coll. : Reg. Univ. Oxf. vol. ii.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.10698,
+"x1": 0.18423,
+"y0": 0.30773,
+"y1": 0.32,
+"text": "pt. ii. p. 123.",
+"conf": 0.892
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35641,
+"y0": 0.31727,
+"y1": 0.3292,
+"text": "1666. Yhomas  Sutton  and  Grizell",
+"conf": 0.885
+},
+{
+"column": 1,
+"x0": 0.10657,
+"x1": 0.35558,
+"y0": 0.32784,
+"y1": 0.3425,
+"text": "Bindlose : Marriage Alleg. (Canterbury),",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.14848,
+"y0": 0.3408,
+"y1": 0.35102,
+"text": "p. 170.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.12013,
+"x1": 0.35599,
+"y0": 0.34864,
+"y1": 0.36159,
+"text": "MDB. (co. Lanc.), O. 2, 1 ; London,",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.27833,
+"y0": 0.36023,
+"y1": 0.3725,
+"text": "0, 2, O ; Manchester, O, I, 0.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.12342,
+"x1": 0.35682,
+"y0": 0.37182,
+"y1": 0.38784,
+"text": "Bingham.-- Local, ,‘of Bing-",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.35641,
+"y0": 0.38682,
+"y1": 0.4008,
+"text": "ham,  a parish in dioc. of South-",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.26066,
+"y0": 0.4008,
+"y1": 0.41443,
+"text": "well, co. Nottingham.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12054,
+"x1": 0.35599,
+"y0": 0.41648,
+"y1": 0.42841,
+"text": "John de Byngham, co. Soms., I Edw.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.27381,
+"y0": 0.42568,
+"y1": 0.44068,
+"text": "Ilf : Kirby's Quest, p. 194.",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.1189,
+"x1": 0.35682,
+"y0": 0.43591,
+"y1": 0.45091,
+"text": " Joanna de Byngham, co. Soms., I Edw.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.21176,
+"y0": 0.44648,
+"y1": 0.46114,
+"text": "II : ibid. p. 207.",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35682,
+"y0": 0.4567,
+"y1": 0.47068,
+"text": "William de Bingham, co. Soma.. 1273. A.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12013,
+"x1": 0.35353,
+"y0": 0.46761,
+"y1": 0.48125,
+"text": "Geofrey de Bingeham, co. Wilts, ibid.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35271,
+"y0": 0.4775,
+"y1": 0.49216,
+"text": "Robert de Bingeham, co. Dorset, ibid.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.1189,
+"x1": 0.35641,
+"y0": 0.48773,
+"y1": 0.50375,
+"text": "Alicia de Byngham, 1379 : P. T. Yorks.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.14355,
+"y0": 0.50125,
+"y1": 0.51182,
+"text": "p. 40.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.11931,
+"x1": 0.35764,
+"y0": 0.50818,
+"y1": 0.52318,
+"text": "1567-8. Ellis Byngham and Johanna",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.35641,
+"y0": 0.51932,
+"y1": 0.5333,
+"text": "Ellis, widow : Marriage Lic. (London),",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.1378,
+"y0": 0.53125,
+"y1": 0.54318,
+"text": "i. 39.",
+"conf": 0.926
+},
+{
+"column": 1,
+"x0": 0.11972,
+"x1": 0.35641,
+"y0": 0.54011,
+"y1": 0.55375,
+"text": "1610. Buried--Thomas Bingam : St.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.1078,
+"x1": 0.25984,
+"y0": 0.54966,
+"y1": 0.56466,
+"text": "Michael, Cornhill, P. 217.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12136,
+"x1": 0.35641,
+"y0": 0.56193,
+"y1": 0.57386,
+"text": "1645. '- Mighen Bingam: St. Mary",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.10821,
+"x1": 0.22409,
+"y0": 0.57045,
+"y1": 0.58648,
+"text": "Aldermary, p. 173:",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11931,
+"x1": 0.30381,
+"y0": 0.58136,
+"y1": 0.59602,
+"text": "London, 15; Philadelphia, 30.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12301,
+"x1": 0.35558,
+"y0": 0.595,
+"y1": 0.61136,
+"text": "Bingley.-- Local, ‘ of Bingley,'",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.35764,
+"y0": 0.60966,
+"y1": 0.6233,
+"text": "a parish and market town in the",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.10986,
+"x1": 0.23601,
+"y0": 0.6233,
+"y1": 0.63557,
+"text": "West Rid. Yorks.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.12177,
+"x1": 0.35353,
+"y0": 0.63864,
+"y1": 0.65159,
+"text": "(Batts) de Bingelay, co. York, 1273. A",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12095,
+"x1": 0.35887,
+"y0": 0.64716,
+"y1": 0.6642,
+"text": "Willedmus de Byngelay, 1379: P. T.",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.19492,
+"y0": 0.65943,
+"y1": 0.67273,
+"text": "Yorks. P. 294.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12095,
+"x1": 0.35723,
+"y0": 0.67034,
+"y1": 0.68261,
+"text": "1570. Married--Rycharde Caryngton",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.10616,
+"x1": 0.35887,
+"y0": 0.67955,
+"y1": 0.69523,
+"text": "and' Katharyn Byngley : St. 'Dionis",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.10739,
+"x1": 0.21587,
+"y0": 0.69045,
+"y1": 0.70341,
+"text": "Backchurch, p. 6.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12095,
+"x1": 0.35764,
+"y0": 0.70034,
+"y1": 0.71364,
+"text": "1740. - John Richard Brinckman and",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.33833,
+"y0": 0.71045,
+"y1": 0.72511,
+"text": "Ann Bingley: St. Geo. Han. Sq. i. 24.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.12177,
+"x1": 0.35517,
+"y0": 0.72102,
+"y1": 0.73466,
+"text": "West Riding Court Dir., 14 ; London,",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.10821,
+"x1": 0.23026,
+"y0": 0.73136,
+"y1": 0.74466,
+"text": "10; Philadelphia, 4.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12342,
+"x1": 0.35476,
+"y0": 0.74795,
+"y1": 0.76227,
+"text": "Binks, Binkes.-- (?) For Bilks,",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.10821,
+"x1": 0.35764,
+"y0": 0.76159,
+"y1": 0.77659,
+"text": "by change of l to n, very com-",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.35682,
+"y0": 0.77625,
+"y1": 0.78818,
+"text": "mon in nomenclature; cf. Ban-",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.17848,
+"y0": 0.78886,
+"y1": 0.8042,
+"text": "ister, q.v.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12095,
+"x1": 0.35682,
+"y0": 0.80284,
+"y1": 0.81818,
+"text": "William Bilkys, or Bilkcs, co. Linc.,",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.16615,
+"y0": 0.81545,
+"y1": 0.8267,
+"text": "1273. A.",
+"conf": 0.898
+},
+{
+"column": 1,
+"x0": 0.12177,
+"x1": 0.35641,
+"y0": 0.82398,
+"y1": 0.83727,
+"text": "i583. Robert Binks, or Binckes, co.",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.10945,
+"x1": 0.35682,
+"y0": 0.8342,
+"y1": 0.84852,
+"text": "York : Reg. Univ. Oxf. vol ii. pt. ii. p. 131.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.1226,
+"x1": 0.35764,
+"y0": 0.8458,
+"y1": 0.85773,
+"text": "1595. William Baldrye and Alice",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.35764,
+"y0": 0.855,
+"y1": 0.87,
+"text": "Binckes : Marriage Lic. (London), i. 223.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.47787,
+"x1": 0.50706,
+"y0": 0.07398,
+"y1": 0.08932,
+"text": "103",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.3821,
+"x1": 0.61722,
+"y0": 0.1033,
+"y1": 0.11489,
+"text": "1676. Bapt. -- Robert, s. Andrew",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.36689,
+"x1": 0.60284,
+"y0": 0.1125,
+"y1": 0.12682,
+"text": "Binckes : St. Mary Aldermary, P. 104.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.37963,
+"x1": 0.61805,
+"y0": 0.12307,
+"y1": 0.1367,
+"text": "1727.. Married-William Bincks and",
+"conf": 0.935
+},
+{
+"column": 2,
+"x0": 0.36689,
+"x1": 0.61681,
+"y0": 0.1333,
+"y1": 0.14693,
+"text": "Deborah Wrench : St. Antholin (London),",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36648,
+"x1": 0.40882,
+"y0": 0.14591,
+"y1": 0.15716,
+"text": "p. 142.",
+"conf": 0.895
+},
+{
+"column": 2,
+"x0": 0.38127,
+"x1": 0.61722,
+"y0": 0.15375,
+"y1": 0.16773,
+"text": "1749. Thomas Keen and Mary",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36689,
+"x1": 0.58393,
+"y0": 0.16432,
+"y1": 0.1783,
+"text": "Binks': St. Michael, Cornhill, P. 71.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.37881,
+"x1": 0.61928,
+"y0": 0.17489,
+"y1": 0.18955,
+"text": "London, 5, 0; MDB. (Lincoln), 4, 0 :",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.3673,
+"x1": 0.47828,
+"y0": 0.18511,
+"y1": 0.2008,
+"text": "Philadelphia, O, 2.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38292,
+"x1": 0.6201,
+"y0": 0.20216,
+"y1": 0.21784,
+"text": "Binney, Binnie.--Local, ‘of",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.61969,
+"y0": 0.21614,
+"y1": 0.23148,
+"text": "Binnie,' an estate in the parish of",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.36935,
+"x1": 0.61928,
+"y0": 0.22977,
+"y1": 0.24477,
+"text": "Uphall, Linlithgowshire (Lower's",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.36812,
+"x1": 0.49514,
+"y0": 0.24341,
+"y1": 0.25875,
+"text": "Patr. Brit. p. 28).",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37963,
+"x1": 0.61763,
+"y0": 0.25807,
+"y1": 0.27409,
+"text": "Willelmus Bynny, 1379: P. T. Yorks.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.3784,
+"x1": 0.40224,
+"y0": 0.27307,
+"y1": 0.28023,
+"text": "40",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38415,
+"x1": 0.61763,
+"y0": 0.27909,
+"y1": 0.29375,
+"text": "London, 1, 3; West Riding Conrt",
+"conf": 0.917
+},
+{
+"column": 2,
+"x0": 0.3673,
+"x1": 0.55967,
+"y0": 0.28966,
+"y1": 0.30432,
+"text": "Dir., 4, 0; Boston (U.S.), 16, 0.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38292,
+"x1": 0.61887,
+"y0": 0.30705,
+"y1": 0.32239,
+"text": "Binning.Bapt. ‘ the son of",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.36894,
+"x1": 0.61763,
+"y0": 0.32102,
+"y1": 0.33568,
+"text": "Binning v. Benning. . and cf.",
+"conf": 0.768
+},
+{
+"column": 2,
+"x0": 0.3673,
+"x1": 0.54817,
+"y0": 0.33364,
+"y1": 0.35034,
+"text": "Browning and Harding.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38004,
+"x1": 0.59749,
+"y0": 0.34966,
+"y1": 0.3633,
+"text": "William Bining, co. Norf., i273. A",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38045,
+"x1": 0.54817,
+"y0": 0.36125,
+"y1": 0.37352,
+"text": "John Bining, co. Norf., ibid.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.38045,
+"x1": 0.61393,
+"y0": 0.3708,
+"y1": 0.38409,
+"text": "1894: :At_ Arkwood, Spital, Ches..",
+"conf": 0.862
+},
+{
+"column": 2,
+"x0": 0.3673,
+"x1": 0.61517,
+"y0": 0.38034,
+"y1": 0.39568,
+"text": "the wife of T. J. Binning, of a son ' : Daily",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.48198,
+"y0": 0.39159,
+"y1": 0.40489,
+"text": "Telegraph, Feb. 6.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.38086,
+"x1": 0.44746,
+"y0": 0.40216,
+"y1": 0.41545,
+"text": "London, 3.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38292,
+"x1": 0.61681,
+"y0": 0.4192,
+"y1": 0.4342,
+"text": "Binnington.--Local, ‘ of Bin.",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.36935,
+"x1": 0.6164,
+"y0": 0.4342,
+"y1": 0.44682,
+"text": "nington,'a township in the parish",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.36812,
+"x1": 0.61599,
+"y0": 0.44614,
+"y1": 0.46148,
+"text": "of Willerby, East Rid. Yorks, lit.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.61722,
+"y0": 0.46011,
+"y1": 0.47511,
+"text": "the farmstead of Binning ; v. Bin-",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.55269,
+"y0": 0.47409,
+"y1": 0.48841,
+"text": "ning, and cf. Bennington.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.42567,
+"x1": 0.61681,
+"y0": 0.49068,
+"y1": 0.50057,
+"text": "At Gledhow Terrace, South",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.61763,
+"y0": 0.49886,
+"y1": 0.51284,
+"text": "Kensington, the wife of F. W. Binnington,",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.36689,
+"x1": 0.59462,
+"y0": 0.50943,
+"y1": 0.52239,
+"text": "of a son ' : Daily Telegraph, Dec. 16",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38045,
+"x1": 0.55104,
+"y0": 0.51864,
+"y1": 0.53466,
+"text": "MDB. (East Rid. Yorks), 4.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38251,
+"x1": 0.61558,
+"y0": 0.5367,
+"y1": 0.55273,
+"text": "Binnion.--Bapt. ; Welsh, Ap-",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.36853,
+"x1": 0.6127,
+"y0": 0.55136,
+"y1": 0.56636,
+"text": "Ennion ; v. Bennion and Benyon.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38004,
+"x1": 0.46102,
+"y0": 0.5667,
+"y1": 0.58102,
+"text": "Liverpool, 1.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38292,
+"x1": 0.61887,
+"y0": 0.58375,
+"y1": 0.59807,
+"text": "Binns.--? Local. This surname",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.3673,
+"x1": 0.61681,
+"y0": 0.59773,
+"y1": 0.61239,
+"text": "has ramified most strongly in co.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.36976,
+"x1": 0.40799,
+"y0": 0.61205,
+"y1": 0.62398,
+"text": "York.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38045,
+"x1": 0.58639,
+"y0": 0.62636,
+"y1": 0.64034,
+"text": "Robert Binns, co. Linc., 1273. _ A.",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.37963,
+"x1": 0.61722,
+"y0": 0.63659,
+"y1": 0.65227,
+"text": "Johannes de Bynnes, 1379 : 'P. T. Yorks.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.37634,
+"x1": 0.40717,
+"y0": 0.64989,
+"y1": 0.65841,
+"text": ".182.",
+"conf": 0.892
+},
+{
+"column": 2,
+"x0": 0.38127,
+"x1": 0.58927,
+"y0": 0.65841,
+"y1": 0.67102,
+"text": "Willelmus Bynne, 1379 : ibid. p. 8.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38004,
+"x1": 0.55926,
+"y0": 0.66795,
+"y1": 0.6833,
+"text": "Roger Byn, 1379: ibid. p. 44.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38004,
+"x1": 0.50747,
+"y0": 0.67886,
+"y1": 0.69182,
+"text": "Thomas Bynne, ibid.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38086,
+"x1": 0.61722,
+"y0": 0.68943,
+"y1": 0.7017,
+"text": "1780. MarriedJohn Robinson and",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.61722,
+"y0": 0.69795,
+"y1": 0.71364,
+"text": "Hannah Binns : St. Geo. Han. Sg. i. 313.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.38045,
+"x1": 0.61476,
+"y0": 0.70977,
+"y1": 0.72307,
+"text": "West Riding Court Dir., 27; Halifax,",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36689,
+"x1": 0.49021,
+"y0": 0.72,
+"y1": 0.735,
+"text": "5 ; Philadelphia, 13.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38374,
+"x1": 0.61147,
+"y0": 0.73841,
+"y1": 0.75102,
+"text": "Birbeck.--Local ; v. Birkbeck.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38292,
+"x1": 0.61681,
+"y0": 0.75852,
+"y1": 0.7725,
+"text": "Birch, Burch.--Local, ‘at the",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.36894,
+"x1": 0.6164,
+"y0": 0.77318,
+"y1": 0.78545,
+"text": "birch,' from residence by a birch-",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36812,
+"x1": 0.61763,
+"y0": 0.78545,
+"y1": 0.80045,
+"text": "tree (cf. Oak, Ash, Nash, &c.); v.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36812,
+"x1": 0.61763,
+"y0": 0.79773,
+"y1": 0.81375,
+"text": "Birks. In Lancashire, Birch gene-",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36853,
+"x1": 0.61681,
+"y0": 0.81273,
+"y1": 0.8267,
+"text": "rally hails from Birch, a chapelry in",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.36976,
+"x1": 0.61681,
+"y0": 0.82705,
+"y1": 0.84,
+"text": "the parish of Middleton, near Man-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36771,
+"x1": 0.61969,
+"y0": 0.83898,
+"y1": 0.855,
+"text": "chester. Of course, a surname of",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.36812,
+"x1": 0.61722,
+"y0": 0.85432,
+"y1": 0.86659,
+"text": "this class is originated in a hun-",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.68197,
+"x1": 0.82749,
+"y0": 0.07602,
+"y1": 0.08898,
+"text": "BIROUMSHAW",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62894,
+"x1": 0.87805,
+"y0": 0.10398,
+"y1": 0.11795,
+"text": "dred different places. Every di-",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.85256,
+"y0": 0.1183,
+"y1": 0.13125,
+"text": "rectory teems with the llame.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.63922,
+"x1": 0.87846,
+"y0": 0.13398,
+"y1": 0.14932,
+"text": "Hugh de la Byrche, co. Devon, I273. A.",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.64127,
+"x1": 0.84557,
+"y0": 0.1442,
+"y1": 0.15886,
+"text": "John atte Birche, temp. 1300. M",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64127,
+"x1": 0.87805,
+"y0": 0.15511,
+"y1": 0.16841,
+"text": "Henry del Birches, co. Lanc., 1332:",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.81269,
+"y0": 0.16432,
+"y1": 0.18,
+"text": "Lay Subsidy (Rylands), p. 10.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.63963,
+"x1": 0.87887,
+"y0": 0.1742,
+"y1": 0.18989,
+"text": "Robert del Birchea, co. Lanc., 133?:",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.6273,
+"x1": 0.6943,
+"y0": 0.1858,
+"y1": 0.20045,
+"text": "ibid. p. 37.",
+"conf": 0.894
+},
+{
+"column": 3,
+"x0": 0.64004,
+"x1": 0.87805,
+"y0": 0.19534,
+"y1": 0.21034,
+"text": "Wilieimus del Birch, 1379 : P. T. Yorks.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62771,
+"x1": 0.6684,
+"y0": 0.20966,
+"y1": 0.21989,
+"text": "p. 293.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63922,
+"x1": 0.87928,
+"y0": 0.21614,
+"y1": 0.23148,
+"text": "1571-2. Richard Byrche and Margaret",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.86941,
+"y0": 0.22739,
+"y1": 0.24136,
+"text": "Gibson : N'arriage Lic. (London), i.52.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64086,
+"x1": 0.87887,
+"y0": 0.23727,
+"y1": 0.25091,
+"text": "George Birch, of Birch, 16o2 : Wills at",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.62894,
+"x1": 0.79172,
+"y0": 0.24852,
+"y1": 0.2625,
+"text": "Chester (15 45-1620), P. 19:",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.64086,
+"x1": 0.87805,
+"y0": 0.25909,
+"y1": 0.27136,
+"text": "Gllbert  Birch, of' Middleton, 1562 :",
+"conf": 0.913
+},
+{
+"column": 3,
+"x0": 0.62812,
+"x1": 0.69389,
+"y0": 0.26932,
+"y1": 0.28295,
+"text": "ibid. p. 19.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.63963,
+"x1": 0.87599,
+"y0": 0.27943,
+"y1": 0.29205,
+"text": " John Birch, of Manchester, innholder,",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62935,
+"x1": 0.73459,
+"y0": 0.29068,
+"y1": 0.30261,
+"text": "1592: ibid. p. 20.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63963,
+"x1": 0.87846,
+"y0": 0.29955,
+"y1": 0.3142,
+"text": "London, 38, 22; Manchester, 27、 1;",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62935,
+"x1": 0.74651,
+"y0": 0.3108,
+"y1": 0.32511,
+"text": "Philadelphia, 50, 4.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64374,
+"x1": 0.87517,
+"y0": 0.33023,
+"y1": 0.34284,
+"text": "Birchall,--Local, ‘of Birtles.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.62771,
+"x1": 0.87805,
+"y0": 0.34318,
+"y1": 0.35886,
+"text": "Odd as this may seem, it is true.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.85503,
+"y0": 0.35716,
+"y1": 0.37114,
+"text": "For further evidence, v. Birtles.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64086,
+"x1": 0.87722,
+"y0": 0.37489,
+"y1": 0.3858,
+"text": "John de Birchall de Birtlcs, of Gaws-",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6273,
+"x1": 0.8764,
+"y0": 0.38511,
+"y1": 0.39739,
+"text": "worth, co. Ches. : Hist. East Ches. ii.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.66635,
+"y0": 0.39705,
+"y1": 0.40727,
+"text": "587 n.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64045,
+"x1": 0.87435,
+"y0": 0.40557,
+"y1": 0.4175,
+"text": "Richard Birchall, of Parr,. wehster.",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.62812,
+"x1": 0.87681,
+"y0": 0.4158,
+"y1": 0.42909,
+"text": "1581 : Wills at Chester (1545-1620), P. 20.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.6421,
+"x1": 0.87599,
+"y0": 0.42636,
+"y1": 0.43864,
+"text": "James Birchall, of Winwick, 1s9i : ibid.",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.64086,
+"x1": 0.87599,
+"y0": 0.43659,
+"y1": 0.4492,
+"text": "Geoffrey Birchall, of Croft, in Winwick,",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62976,
+"x1": 0.69677,
+"y0": 0.4475,
+"y1": 0.45875,
+"text": "1614 : ibid.",
+"conf": 0.913
+},
+{
+"column": 3,
+"x0": 0.64004,
+"x1": 0.87763,
+"y0": 0.45636,
+"y1": 0.47034,
+"text": "1778. Married -- Edward Frewer and",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62812,
+"x1": 0.87722,
+"y0": 0.46693,
+"y1": 0.48057,
+"text": "Elizabeth Birchall : St. Geo. Han. Sq.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.62812,
+"x1": 0.6647,
+"y0": 0.47784,
+"y1": 0.49148,
+"text": "i. 289.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64333,
+"x1": 0.87229,
+"y0": 0.49,
+"y1": 0.50227,
+"text": "London, 3; Manchester, 6： MDB",
+"conf": 0.776
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.8242,
+"y0": 0.49784,
+"y1": 0.51318,
+"text": "(co. Lanc.), 7'; Philadelphia, 15.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64333,
+"x1": 0.87722,
+"y0": 0.51773,
+"y1": 0.52966,
+"text": "Birchenough,--Local, 'of the",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.87681,
+"y0": 0.53193,
+"y1": 0.54591,
+"text": "birchen-hough,' from residence",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.87681,
+"y0": 0.54557,
+"y1": 0.5592,
+"text": "thereby. Birchen is the adjective",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.62771,
+"x1": 0.87805,
+"y0": 0.5592,
+"y1": 0.5725,
+"text": "of birch, a birch-tree or trees",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62771,
+"x1": 0.87476,
+"y0": 0.57182,
+"y1": 0.58648,
+"text": "(cf. Golden), and hough, like haugh,",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.87681,
+"y0": 0.58545,
+"y1": 0.59909,
+"text": "or how, means a hill or mound.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62935,
+"x1": 0.87722,
+"y0": 0.59977,
+"y1": 0.61205,
+"text": "Hence Birchenhough is simply the",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.87928,
+"y0": 0.6117,
+"y1": 0.62636,
+"text": "mound or hill covered with birches ;",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.87887,
+"y0": 0.62534,
+"y1": 0.64,
+"text": "cf. Goodenough. In both cases the",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.6273,
+"x1": 0.70704,
+"y0": 0.64034,
+"y1": 0.65193,
+"text": "h is elided.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64045,
+"x1": 0.8168,
+"y0": 0.65739,
+"y1": 0.66932,
+"text": "London, I ; Boston (U.S.), 1.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64292,
+"x1": 0.87763,
+"y0": 0.67545,
+"y1": 0.68943,
+"text": "Birchwood.-—Local, ‘at the",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.6273,
+"x1": 0.8764,
+"y0": 0.69011,
+"y1": 0.70341,
+"text": "birchwood,' from residence by a",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.87846,
+"y0": 0.70205,
+"y1": 0.71943,
+"text": "clump or grove of birch-trees;",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62648,
+"x1": 0.87517,
+"y0": 0.71636,
+"y1": 0.73136,
+"text": "cf. Birkinshaw, an exact cquiva-",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62607,
+"x1": 0.66101,
+"y0": 0.72989,
+"y1": 0.74352,
+"text": "lent.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63963,
+"x1": 0.87805,
+"y0": 0.74625,
+"y1": 0.75989,
+"text": "John de Birchewode, of Turton, co.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.62689,
+"x1": 0.87722,
+"y0": 0.7575,
+"y1": 0.7725,
+"text": "Lanc., 1332: Lay Subsidy (Rylands),",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.66347,
+"y0": 0.7708,
+"y1": 0.78,
+"text": "p. 40.",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.63881,
+"x1": 0.87722,
+"y0": 0.77625,
+"y1": 0.79261,
+"text": "Ralph Birchwood, of Ormakirk, co.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62853,
+"x1": 0.85256,
+"y0": 0.7892,
+"y1": 0.80114,
+"text": "Lanc., 16o8 : Wills at Chester, i. 20.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64045,
+"x1": 0.87887,
+"y0": 0.79875,
+"y1": 0.81273,
+"text": "Henry , Birchwood, of Bostock, co.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.63223,
+"x1": 0.73828,
+"y0": 0.81,
+"y1": 0.82193,
+"text": "Lanc., 16i6: ibid.",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.64045,
+"x1": 0.81556,
+"y0": 0.81989,
+"y1": 0.83386,
+"text": "Liverpool, 3 ; Manchester, 2.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64333,
+"x1": 0.87558,
+"y0": 0.8383,
+"y1": 0.85261,
+"text": "Biroumshaw.--Local ; v. Birk-",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.62894,
+"x1": 0.68444,
+"y0": 0.85466,
+"y1": 0.86625,
+"text": "inshaw.",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.69636,
+"x1": 0.88339,
+"y0": 0.91568,
+"y1": 0.94841,
+"text": "Digitized by Googl",
+"conf": 0.996
+}
+]

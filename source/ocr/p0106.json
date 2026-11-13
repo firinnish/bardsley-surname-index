@@ -1,0 +1,1694 @@
+[
+{
+"column": 1,
+"x0": 0.18557,
+"x1": 0.29729,
+"y0": 0.07841,
+"y1": 0.09136,
+"text": "BLACKALL",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.14245,
+"x1": 0.37492,
+"y0": 0.10568,
+"y1": 0.11932,
+"text": "Blackall,  Blackhall.---Local,",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12602,
+"x1": 0.37615,
+"y0": 0.12,
+"y1": 0.13261,
+"text": "'of the Black-hall.' Mr. Lower",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.12602,
+"x1": 0.37574,
+"y0": 0.1333,
+"y1": 0.14761,
+"text": "says that it is a corruption of Black-",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12643,
+"x1": 0.37533,
+"y0": 0.14693,
+"y1": 0.16091,
+"text": "well, but this is not borne out by",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12725,
+"x1": 0.19379,
+"y0": 0.16227,
+"y1": 0.17284,
+"text": "evidence.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13834,
+"x1": 0.37492,
+"y0": 0.17557,
+"y1": 0.18784,
+"text": "Nicholas of the Blakehall, C R , Ric. II.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13916,
+"x1": 0.37615,
+"y0": 0.18614,
+"y1": 0.19909,
+"text": "1702. Married -- George Blackall and",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.37492,
+"y0": 0.19534,
+"y1": 0.21068,
+"text": "Martha Cornish : St. Mary Aldermary,",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12643,
+"x1": 0.16052,
+"y0": 0.21034,
+"y1": 0.21989,
+"text": "p. 37.",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.17407,
+"x1": 0.37533,
+"y0": 0.21852,
+"y1": 0.22943,
+"text": "-- Charles Burrell Massingberd",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.16257,
+"y0": 0.23966,
+"y1": 0.24989,
+"text": "i. 248.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13793,
+"x1": 0.37492,
+"y0": 0.24852,
+"y1": 0.2625,
+"text": "London, 2, 2 ; Boston (U.S.), 2, 0 ; New",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.12725,
+"x1": 0.19338,
+"y0": 0.26045,
+"y1": 0.27273,
+"text": "Yurk, O, 2.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.14122,
+"x1": 0.37492,
+"y0": 0.275,
+"y1": 0.28898,
+"text": "Black-ballock.---Nick.; v. Bal.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12602,
+"x1": 0.23199,
+"y0": 0.28932,
+"y1": 0.3033,
+"text": "lock (H.E.D.).",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13793,
+"x1": 0.3741,
+"y0": 0.30364,
+"y1": 0.31761,
+"text": "Robertns Blacballoc, co. Suff., 1273. A.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.14122,
+"x1": 0.37533,
+"y0": 0.32102,
+"y1": 0.33466,
+"text": "Blackbeard.--Nick.‘ with the",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12602,
+"x1": 0.37451,
+"y0": 0.33568,
+"y1": 0.34795,
+"text": "black beard.'  M.E. berd or berde;",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12561,
+"x1": 0.37492,
+"y0": 0.34932,
+"y1": 0.36159,
+"text": "cf. Brownbeard. Blackbird is an",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.37533,
+"y0": 0.36295,
+"y1": 0.37489,
+"text": "imitative form. Blackberd occurs",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12396,
+"x1": 0.37821,
+"y0": 0.3742,
+"y1": 0.39227,
+"text": "in Yorkshire s0 early as 1379.  It",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.37533,
+"y0": 0.38989,
+"y1": 0.40182,
+"text": "is still to be met with there in the",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12643,
+"x1": 0.27635,
+"y0": 0.40318,
+"y1": 0.41648,
+"text": "shape of Blackbeard.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.13916,
+"x1": 0.34412,
+"y0": 0.41784,
+"y1": 0.43114,
+"text": "John Blacberd, co. Oxf , I273. A.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13875,
+"x1": 0.33837,
+"y0": 0.42841,
+"y1": 0.44034,
+"text": "Richard Blacberd, co Oxf., ibid.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13752,
+"x1": 0.37451,
+"y0": 0.43932,
+"y1": 0.45193,
+"text": "Johannes Blakberd, 1379 : P. T. Yorks.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12479,
+"x1": 0.16627,
+"y0": 0.44989,
+"y1": 0.46216,
+"text": "p.196.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13752,
+"x1": 0.37205,
+"y0": 0.45977,
+"y1": 0.47136,
+"text": "Thomas Blackberd, co. York. W. 18.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.13752,
+"x1": 0.36342,
+"y0": 0.46932,
+"y1": 0.48295,
+"text": "Peter Blackbeard, co.York. W. 20.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.13875,
+"x1": 0.37492,
+"y0": 0.48125,
+"y1": 0.49318,
+"text": "John Blackbird, co. Cumb., 16i2 : VVV.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.16832,
+"y0": 0.49307,
+"y1": 0.50432,
+"text": "p. 490.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13793,
+"x1": 0.37492,
+"y0": 0.50057,
+"y1": 0.5142,
+"text": "1721. Bapt. -- Henry,. son of Henry",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.36712,
+"y0": 0.51091,
+"y1": 0.52523,
+"text": "Blackbird : St. Jas. Clerkenwell, ii. 123.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13875,
+"x1": 0.37574,
+"y0": 0.5217,
+"y1": 0.53466,
+"text": "'Mr. J. Blackbeard, of 1i9 Brompton-",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.37615,
+"y0": 0.53295,
+"y1": 0.54489,
+"text": "road, applied to Mr. Biron for advice re-",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12561,
+"x1": 0.37615,
+"y0": 0.54284,
+"y1": 0.55545,
+"text": "specting the action of the Chelsea Water",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.37451,
+"y0": 0.55239,
+"y1": 0.56773,
+"text": "Coinpany,' &c. : Standard, Sept. 21, 1888,",
+"conf": 0.926
+},
+{
+"column": 1,
+"x0": 0.13629,
+"x1": 0.37656,
+"y0": 0.57045,
+"y1": 0.5892,
+"text": "Exeter, I; London, I ; MDB. (N. Ridl.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.12438,
+"x1": 0.21063,
+"y0": 0.58443,
+"y1": 0.59807,
+"text": "ing Yorks), I.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.14039,
+"x1": 0.37287,
+"y0": 0.59977,
+"y1": 0.61443,
+"text": "Blackburn, Blackborn,",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12479,
+"x1": 0.3741,
+"y0": 0.61273,
+"y1": 0.62807,
+"text": "Blackborne, Blackbourn,",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.37451,
+"y0": 0.6267,
+"y1": 0.64136,
+"text": "Blackburne.-Local, ‘ of Black-",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.12438,
+"x1": 0.37574,
+"y0": 0.64,
+"y1": 0.65602,
+"text": "burn.' a large and thriving town in",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.12438,
+"x1": 0.37656,
+"y0": 0.6533,
+"y1": 0.67,
+"text": "co. Lanc. There is no negro taint",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12479,
+"x1": 0.22254,
+"y0": 0.66727,
+"y1": 0.68057,
+"text": "in Blackborn.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13711,
+"x1": 0.37533,
+"y0": 0.68193,
+"y1": 0.6983,
+"text": "Willelmus de Blakbum, 1379 : P. T.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12561,
+"x1": 0.23158,
+"y0": 0.69352,
+"y1": 0.70818,
+"text": "Yorks. pp. 252-3.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.1367,
+"x1": 0.36671,
+"y0": 0.70375,
+"y1": 0.71875,
+"text": "Cristoforus de Blakeburn, 1379: ibid.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13875,
+"x1": 0.35685,
+"y0": 0.71398,
+"y1": 0.72932,
+"text": "Johannes de Bla keburn, 1379 : ibid.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13875,
+"x1": 0.37574,
+"y0": 0.72386,
+"y1": 0.74057,
+"text": "John de Blakcburne, ‘1397 : Preston",
+"conf": 0.906
+},
+{
+"column": 1,
+"x0": 0.12602,
+"x1": 0.23281,
+"y0": 0.73432,
+"y1": 0.74864,
+"text": "Guild Rolls, p. 4.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13711,
+"x1": 0.37369,
+"y0": 0.74455,
+"y1": 0.75989,
+"text": "1593. Edward Blackburne, of Leyland,",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12438,
+"x1": 0.33549,
+"y0": 0.75511,
+"y1": 0.76943,
+"text": "co. Lanc. : Wills at Chester, i. 21.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.13793,
+"x1": 0.37369,
+"y0": 0.76568,
+"y1": 0.78102,
+"text": "160s. William Blackburne, of Billing-",
+"conf": 0.906
+},
+{
+"column": 1,
+"x0": 0.12602,
+"x1": 0.25129,
+"y0": 0.77727,
+"y1": 0.78852,
+"text": "ton, co. Lanc. : ibid.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13752,
+"x1": 0.37287,
+"y0": 0.78716,
+"y1": 0.80114,
+"text": "Manchester, 1!,O,0, 0, 0: London, 20,",
+"conf": 0.928
+},
+{
+"column": 1,
+"x0": 0.1252,
+"x1": 0.35397,
+"y0": 0.79705,
+"y1": 0.81307,
+"text": "1, 1, 4, 2; Philadelphia, 41, 0, 0, 0, 9.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14163,
+"x1": 0.37122,
+"y0": 0.81341,
+"y1": 0.82739,
+"text": "Blackcow, Blacow,Blackoe",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12479,
+"x1": 0.36958,
+"y0": 0.82739,
+"y1": 0.84102,
+"text": "Blakoe.--Local, ‘of Blackhall,",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.12479,
+"x1": 0.37328,
+"y0": 0.84,
+"y1": 0.85432,
+"text": "co. Lanc. This looks like a nick-",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.12561,
+"x1": 0.37492,
+"y0": 0.85568,
+"y1": 0.86795,
+"text": "namc or sign.board name, but it is",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.49423,
+"x1": 0.52421,
+"y0": 0.0767,
+"y1": 0.09205,
+"text": "106",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38744,
+"x1": 0.63511,
+"y0": 0.10602,
+"y1": 0.11966,
+"text": "from Black-hall, near Preston ; pro-",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38744,
+"x1": 0.63634,
+"y0": 0.12034,
+"y1": 0.13227,
+"text": "nounced Blackow (cf. Lindow for",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38744,
+"x1": 0.63552,
+"y0": 0.13261,
+"y1": 0.14693,
+"text": "Lindale, Picthaw for Pickthall, &c).",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.38703,
+"x1": 0.63593,
+"y0": 0.14625,
+"y1": 0.1592,
+"text": "This name has taken the imitative",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38744,
+"x1": 0.6347,
+"y0": 0.16057,
+"y1": 0.17182,
+"text": "form of Blackcow : William Black-",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38662,
+"x1": 0.63552,
+"y0": 0.1725,
+"y1": 0.18784,
+"text": "cow (Proctor's Manchester Strects).",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.39894,
+"x1": 0.6347,
+"y0": 0.18818,
+"y1": 0.20148,
+"text": "Henry Hartley, of Blacow, co. Lanc.,",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38908,
+"x1": 0.63552,
+"y0": 0.19841,
+"y1": 0.21273,
+"text": "1615 : Wills at Chester(1545-1620), P. 85.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.63593,
+"y0": 0.20966,
+"y1": 0.22295,
+"text": "Margaret Blacow, of Sarniesbury, i611 :",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.38621,
+"x1": 0.4511,
+"y0": 0.21989,
+"y1": 0.23318,
+"text": "ibid. p. 21.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.63634,
+"y0": 0.23011,
+"y1": 0.24273,
+"text": "Antonius Blacoll, 1562 : Preston Guild",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38662,
+"x1": 0.46137,
+"y0": 0.24102,
+"y1": 0.25398,
+"text": "Rolls, p. 22.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.63511,
+"y0": 0.25023,
+"y1": 0.2642,
+"text": "Antonius Blakecowe, 1582 : ibid. p. 24.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.40099,
+"x1": 0.63634,
+"y0": 0.26591,
+"y1": 0.28057,
+"text": "In this same serics of rccords",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.38498,
+"x1": 0.63511,
+"y0": 0.27989,
+"y1": 0.29455,
+"text": "the surname is variously spelled",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.63552,
+"y0": 0.29341,
+"y1": 0.30705,
+"text": "Blacoll, Blacoe, Blackowe, Blake.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.6002,
+"y0": 0.30739,
+"y1": 0.32068,
+"text": "cowe, and Blakow ; v. Index.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39771,
+"x1": 0.63593,
+"y0": 0.3217,
+"y1": 0.33773,
+"text": "Manchester, O, 1, O, O; Preston, O, 1,",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.41249,
+"y0": 0.33534,
+"y1": 0.34523,
+"text": "2, 2.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.40058,
+"x1": 0.63799,
+"y0": 0.3483,
+"y1": 0.36364,
+"text": "Blacker.—-(r) Bapt.‘ the son of",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.38662,
+"x1": 0.53612,
+"y0": 0.36227,
+"y1": 0.37727,
+"text": "Blacre' (Domesday).",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.63511,
+"y0": 0.37761,
+"y1": 0.39091,
+"text": "Ric. fl. Blacker, 1zth century : FFF.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.39853,
+"x1": 0.63634,
+"y0": 0.39568,
+"y1": 0.41205,
+"text": "Baidwin  fl. Blacker, l2th century :",
+"conf": 0.909
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.41332,
+"y0": 0.40898,
+"y1": 0.41989,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39894,
+"x1": 0.63511,
+"y0": 0.41886,
+"y1": 0.43148,
+"text": "Walterus fl. Godfridi fl. Blaker, 12th",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.50943,
+"y0": 0.42943,
+"y1": 0.44307,
+"text": "century : ibid. p. 21.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40223,
+"x1": 0.63716,
+"y0": 0.44375,
+"y1": 0.45875,
+"text": "() Occup. ‘the bleacher '; for a",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.57186,
+"y0": 0.45739,
+"y1": 0.47102,
+"text": "feminine form, v. Blaxter.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39935,
+"x1": 0.57761,
+"y0": 0.47307,
+"y1": 0.48534,
+"text": "Roger le Blackere, 13i2. M.",
+"conf": 0.92
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.585,
+"y0": 0.48261,
+"y1": 0.49761,
+"text": "Geoffrey le Blakere, i313. M.",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.39853,
+"x1": 0.63552,
+"y0": 0.49273,
+"y1": 0.50705,
+"text": "Walter'le Blacker, co.'Soms., I Edw.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.55173,
+"y0": 0.50159,
+"y1": 0.5183,
+"text": "IIl : Kirby's Quent, p. 225.",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.39771,
+"x1": 0.63552,
+"y0": 0.51352,
+"y1": 0.52784,
+"text": "Stephen' le Blakar, co. Soms., I Edw.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38703,
+"x1": 0.48766,
+"y0": 0.52375,
+"y1": 0.53739,
+"text": "11l : ibid. P. 263.",
+"conf": 0.934
+},
+{
+"column": 2,
+"x0": 0.3973,
+"x1": 0.63675,
+"y0": 0.53295,
+"y1": 0.54966,
+"text": "1605. William Blacker, co. Wilts : Reg.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38703,
+"x1": 0.5698,
+"y0": 0.54523,
+"y1": 0.55852,
+"text": "Univ. Oxf. vol. i. pt. i. p. 28z.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.39894,
+"x1": 0.6347,
+"y0": 0.5558,
+"y1": 0.56807,
+"text": "1610. Edward Blacker, co. Wilts : ibid.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38662,
+"x1": 0.4281,
+"y0": 0.56909,
+"y1": 0.57966,
+"text": "P. 314.",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.39689,
+"x1": 0.63757,
+"y0": 0.57455,
+"y1": 0.59227,
+"text": "London, 3; Crockford, 3; Boston",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.44535,
+"y0": 0.58682,
+"y1": 0.59909,
+"text": "(U.S.), 6.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.4014,
+"x1": 0.63347,
+"y0": 0.60284,
+"y1": 0.61614,
+"text": "Blackett,Blacket.--(1) Local,",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38826,
+"x1": 0.63552,
+"y0": 0.61716,
+"y1": 0.62943,
+"text": "' at the Blackhead,' the dark head-",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.63593,
+"y0": 0.62977,
+"y1": 0.64375,
+"text": "land, from residence thereby; cf.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38703,
+"x1": 0.63634,
+"y0": 0.64341,
+"y1": 0.65568,
+"text": "Birket and Becket, for Birkhead",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38498,
+"x1": 0.63552,
+"y0": 0.65636,
+"y1": 0.67102,
+"text": "and Beckhead (v. Rcdhead).  (2)",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.38703,
+"x1": 0.6347,
+"y0": 0.67068,
+"y1": 0.68295,
+"text": "Nick. ‘with the black head'; cf.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.38703,
+"x1": 0.63552,
+"y0": 0.6833,
+"y1": 0.69795,
+"text": "Whitehead. In any case the origi-",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.38744,
+"x1": 0.5468,
+"y0": 0.69761,
+"y1": 0.70955,
+"text": "nal form is Blackhead.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.40099,
+"x1": 0.63634,
+"y0": 0.71148,
+"y1": 0.72511,
+"text": ": The Blacketts of co. Northumb., trace",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.63511,
+"y0": 0.72273,
+"y1": 0.73432,
+"text": "to William de Black-heved (i.c. Black.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.63511,
+"y0": 0.73239,
+"y1": 0.74466,
+"text": "head), forester of Stanhope, 1350' : Lower,",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38539,
+"x1": 0.48519,
+"y0": 0.7425,
+"y1": 0.75648,
+"text": "Patr. Brit. p. 29.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.63716,
+"y0": 0.75307,
+"y1": 0.76636,
+"text": ":Mr. John Blackhead, merchant _(of",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.38498,
+"x1": 0.63675,
+"y0": 0.76364,
+"y1": 0.77864,
+"text": "Norwich), gave 4 acres of land,' &c. : FF.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.4281,
+"y0": 0.77625,
+"y1": 0.78648,
+"text": "iv.222.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.39812,
+"x1": 0.63552,
+"y0": 0.78443,
+"y1": 0.79841,
+"text": "Michael Blacket, of Newcastlc, temp.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38662,
+"x1": 0.50203,
+"y0": 0.795,
+"y1": 0.80864,
+"text": "1720 : ibid. iii. 591.",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.39853,
+"x1": 0.63675,
+"y0": 0.80591,
+"y1": 0.81784,
+"text": "1608. Henry  Blackhead, co. Herts :",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.38498,
+"x1": 0.60595,
+"y0": 0.81477,
+"y1": 0.8308,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii.P: 300.",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.39771,
+"x1": 0.63675,
+"y0": 0.825,
+"y1": 0.84034,
+"text": "Dismicsion for Edward West, defen-",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.3858,
+"x1": 0.63347,
+"y0": 0.83659,
+"y1": 0.85023,
+"text": "dant, v. W'illiam Blackhead, complainant,",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.38498,
+"x1": 0.63593,
+"y0": 0.84682,
+"y1": 0.86148,
+"text": "Dec.. I, .l591 : Cal. State Papers (Do.",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.38456,
+"x1": 0.48355,
+"y0": 0.85773,
+"y1": 0.87205,
+"text": "mestic), ii. 135.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.69979,
+"x1": 0.8419,
+"y0": 0.07773,
+"y1": 0.09068,
+"text": "BLACKLEDGE",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65954,
+"x1": 0.89653,
+"y0": 0.10432,
+"y1": 0.11795,
+"text": "1786. Married -- Arthur Blackett and",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64804,
+"x1": 0.88791,
+"y0": 0.11557,
+"y1": 0.12852,
+"text": "Mary Barlow : St. Geo. Han. Sq. i. 386.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65872,
+"x1": 0.89735,
+"y0": 0.12614,
+"y1": 0.13875,
+"text": "London, 8, O; MDB. (co. Northumber.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.64516,
+"x1": 0.89776,
+"y0": 0.13602,
+"y1": 0.15102,
+"text": "land), 3. 1; New York, 1, o; Boston",
+"conf": 0.906
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.71827,
+"y0": 0.14625,
+"y1": 0.16057,
+"text": "(U.s'), i, o.",
+"conf": 0.902
+},
+{
+"column": 3,
+"x0": 0.66242,
+"x1": 0.89694,
+"y0": 0.16398,
+"y1": 0.17864,
+"text": "Blackeyee.--? Nick. ‘ with the",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.6464,
+"x1": 0.89735,
+"y0": 0.1783,
+"y1": 0.19227,
+"text": "black or very dark eyes.' But it",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.89694,
+"y0": 0.19261,
+"y1": 0.20489,
+"text": "may be local; v. my first instance",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64516,
+"x1": 0.7729,
+"y0": 0.20455,
+"y1": 0.2192,
+"text": "and cf. Birdseye.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65913,
+"x1": 0.89612,
+"y0": 0.22057,
+"y1": 0.2325,
+"text": "162s. Buried --- Marke Blackseye: St.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64722,
+"x1": 0.79508,
+"y0": 0.23011,
+"y1": 0.24375,
+"text": "Jas. Cler kenwell, ii. 185.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65831,
+"x1": 0.89735,
+"y0": 0.24034,
+"y1": 0.255,
+"text": "1752. Married -- Thomas Blackeyes and",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.8953,
+"y0": 0.25159,
+"y1": 0.26455,
+"text": "Elizabeth Bridge: Canterbury' Cath.,",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64475,
+"x1": 0.68131,
+"y0": 0.26386,
+"y1": 0.27648,
+"text": "p. 92.",
+"conf": 0.915
+},
+{
+"column": 3,
+"x0": 0.66283,
+"x1": 0.89571,
+"y0": 0.27943,
+"y1": 0.2917,
+"text": "Blackford. --Local, 'of Black-",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.89612,
+"y0": 0.29216,
+"y1": 0.30886,
+"text": "ford.' (1) a parish in co. Soms.,",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64558,
+"x1": 0.89653,
+"y0": 0.3067,
+"y1": 0.32136,
+"text": "near Wincanton ; (2) a chapelry in",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.6464,
+"x1": 0.89612,
+"y0": 0.32034,
+"y1": 0.33364,
+"text": "the parish of Wedmore, co. Soms.,",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.75606,
+"y0": 0.33466,
+"y1": 0.34693,
+"text": "near Axbridge.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65872,
+"x1": 0.89571,
+"y0": 0.34932,
+"y1": 0.36091,
+"text": "Rohert de Blakeford, co. Soms., I Edw.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64722,
+"x1": 0.81192,
+"y0": 0.3592,
+"y1": 0.37216,
+"text": "IlI : Kirby's Quest, P. 123.",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.65995,
+"x1": 0.8953,
+"y0": 0.37011,
+"y1": 0.38239,
+"text": "Adam de Blakeford, co. Soms., I Edw.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.75072,
+"y0": 0.38102,
+"y1": 0.39227,
+"text": "II : ibid. p. 18o.",
+"conf": 0.931
+},
+{
+"column": 3,
+"x0": 0.65913,
+"x1": 0.89571,
+"y0": 0.39023,
+"y1": 0.40216,
+"text": "1689. Buried-Margrett Blackford : St.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64516,
+"x1": 0.81028,
+"y0": 0.40045,
+"y1": 0.41443,
+"text": "Dionis Backchurch, p. 257.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.6579,
+"x1": 0.89694,
+"y0": 0.4083,
+"y1": 0.42602,
+"text": "1753. Married-- John Baptist Blackford",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64475,
+"x1": 0.89612,
+"y0": 0.42023,
+"y1": 0.43489,
+"text": "and Betty New Tinling : St. Geo. Chap.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.74538,
+"y0": 0.43182,
+"y1": 0.44682,
+"text": "Mayfair, p. 244.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.65872,
+"x1": 0.89694,
+"y0": 0.44102,
+"y1": 0.45534,
+"text": "London,, 8; MDB. (co. Soms.), 1 ;",
+"conf": 0.903
+},
+{
+"column": 3,
+"x0": 0.64722,
+"x1": 0.74251,
+"y0": 0.45193,
+"y1": 0.46727,
+"text": "Philadelphia, 4.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.662,
+"x1": 0.89612,
+"y0": 0.46932,
+"y1": 0.48398,
+"text": "Blackhall. -- Local ; v. Blackall.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.66283,
+"x1": 0.89407,
+"y0": 0.49114,
+"y1": 0.50341,
+"text": "Blackham.--- Local, ‘of Blaken-",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.64558,
+"x1": 0.89489,
+"y0": 0.5033,
+"y1": 0.51795,
+"text": "ham.' Probably the same as Blak-",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.8189,
+"x1": 0.89612,
+"y0": 0.51841,
+"y1": 0.52864,
+"text": "Great and",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64722,
+"x1": 0.89448,
+"y0": 0.53057,
+"y1": 0.54455,
+"text": "Little Blakenham, near Ipswich.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64845,
+"x1": 0.86162,
+"y0": 0.54489,
+"y1": 0.55818,
+"text": "My instances all point to this.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65995,
+"x1": 0.89489,
+"y0": 0.5592,
+"y1": 0.57284,
+"text": "Alan de Blakeham, co. Camb.. I273. A.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65954,
+"x1": 0.88585,
+"y0": 0.57045,
+"y1": 0.58239,
+"text": "Richard de Blakeham, co. Suff., ibid.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.65831,
+"x1": 0.88462,
+"y0": 0.58,
+"y1": 0.5933,
+"text": "Thonas de Bla keham, co. Suff., ibid.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65872,
+"x1": 0.86326,
+"y0": 0.58989,
+"y1": 0.60455,
+"text": "Benedict de Blakeham, 1279. M.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65913,
+"x1": 0.89694,
+"y0": 0.60148,
+"y1": 0.61341,
+"text": "1626. John. Griffyn and Margaret",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.8953,
+"y0": 0.6117,
+"y1": 0.62534,
+"text": "Blackham : Marriage  Lic. (London),",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.68788,
+"y0": 0.62295,
+"y1": 0.63352,
+"text": "ii. 180.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65954,
+"x1": 0.89653,
+"y0": 0.6308,
+"y1": 0.64511,
+"text": "1669. Benjamin Blackham and Ellinor",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.89571,
+"y0": 0.64239,
+"y1": 0.65636,
+"text": "Preston : Marriage Allcg. (Westminster),",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.68665,
+"y0": 0.65568,
+"y1": 0.66557,
+"text": "p. 164.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65954,
+"x1": 0.8838,
+"y0": 0.6625,
+"y1": 0.67682,
+"text": "MDB. (co. Sufolk), I ; New York, 2.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.66118,
+"x1": 0.89448,
+"y0": 0.68091,
+"y1": 0.69591,
+"text": "Blaokistor.---Occup. ‘ the blea-",
+"conf": 0.932
+},
+{
+"column": 3,
+"x0": 0.64722,
+"x1": 0.7803,
+"y0": 0.69455,
+"y1": 0.70886,
+"text": "cher'; v. Blaxter.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.66283,
+"x1": 0.89612,
+"y0": 0.71523,
+"y1": 0.72784,
+"text": "Blacklamb.-- Nick. 'the black",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.89735,
+"y0": 0.7275,
+"y1": 0.7442,
+"text": "lamb,' the naughty, the bad ; Wil.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.6464,
+"x1": 0.89571,
+"y0": 0.74182,
+"y1": 0.75648,
+"text": "liam Blacklambe(Ciose Roll,8Edw.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64804,
+"x1": 0.89612,
+"y0": 0.7558,
+"y1": 0.77011,
+"text": "I11). Cf. “Ba, ba, blacksheep, have",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.64516,
+"x1": 0.89242,
+"y0": 0.76773,
+"y1": 0.78511,
+"text": "you any wooll' also 'black sheep.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64558,
+"x1": 0.8953,
+"y0": 0.78205,
+"y1": 0.79807,
+"text": "for a man of exceptionallybad quali-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.67884,
+"y0": 0.79636,
+"y1": 0.81034,
+"text": "ties.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.66159,
+"x1": 0.89201,
+"y0": 0.81409,
+"y1": 0.82977,
+"text": "Blackledge,- Blackleach.--",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64804,
+"x1": 0.89653,
+"y0": 0.82773,
+"y1": 0.84205,
+"text": "Local, ‘of the Black-lake,' cor-",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64763,
+"x1": 0.89571,
+"y0": 0.84068,
+"y1": 0.85602,
+"text": "rupted by imitation into Blackleach.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.64763,
+"x1": 0.89694,
+"y0": 0.855,
+"y1": 0.87068,
+"text": "Probably thc spot mentioned in a",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.6961,
+"x1": 0.90064,
+"y0": 0.91568,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.985
+}
+]

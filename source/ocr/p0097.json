@@ -1,0 +1,1685 @@
+[
+{
+"column": 1,
+"x0": 0.17317,
+"x1": 0.26853,
+"y0": 0.07705,
+"y1": 0.08932,
+"text": "BERRETT",
+"conf": 0.76
+},
+{
+"column": 1,
+"x0": 0.09919,
+"x1": 0.34539,
+"y0": 0.10398,
+"y1": 0.11966,
+"text": "Of the others I can say nothing,",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.09919,
+"x1": 0.34375,
+"y0": 0.1183,
+"y1": 0.13295,
+"text": "because I cannot identify the spot.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.11193,
+"x1": 0.3458,
+"y0": 0.13568,
+"y1": 0.15068,
+"text": "Robert de Birhulle, co. Linc., 2o Edw.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.1144,
+"x1": 0.13741,
+"y0": 0.15068,
+"y1": 0.15955,
+"text": "R.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11193,
+"x1": 0.31128,
+"y0": 0.15545,
+"y1": 0.1742,
+"text": "Jobn Berhull, co. Oxf., 1273. A.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.11275,
+"x1": 0.34663,
+"y0": 0.1667,
+"y1": 0.18273,
+"text": "Richard de Borhulle, co. Soms., I Edw.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.09919,
+"x1": 0.26154,
+"y0": 0.17864,
+"y1": 0.19364,
+"text": "111 : Kirby's Quest, P. 236.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.11152,
+"x1": 0.3495,
+"y0": 0.18716,
+"y1": 0.20386,
+"text": "Adam Berhull, co. Soms., 1 Edw. I1I :",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.10042,
+"x1": 0.12755,
+"y0": 0.20182,
+"y1": 0.21205,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11275,
+"x1": 0.3495,
+"y0": 0.20795,
+"y1": 0.2233,
+"text": "1607-8. Tristram Berrill, co. Devon :",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10042,
+"x1": 0.31868,
+"y0": 0.2192,
+"y1": 0.23489,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 300.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11275,
+"x1": 0.35033,
+"y0": 0.22875,
+"y1": 0.2458,
+"text": "1632. Married--Thomas Decping and",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.10042,
+"x1": 0.34909,
+"y0": 0.23966,
+"y1": 0.255,
+"text": "Mary Berrill : St. Jas. Clerkenwell, lii. 63.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11398,
+"x1": 0.35074,
+"y0": 0.24989,
+"y1": 0.26523,
+"text": "1742. - Benjamin Berrell and Agnes",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.10083,
+"x1": 0.32155,
+"y0": 0.2608,
+"y1": 0.2758,
+"text": "Hill : St. Geo. Chap. Mayfair, p. 16.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.11357,
+"x1": 0.29977,
+"y0": 0.27273,
+"y1": 0.2867,
+"text": "London, 2, 2; New York, 1, 1.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.11686,
+"x1": 0.32361,
+"y0": 0.29045,
+"y1": 0.30545,
+"text": "Berrett.--Bapt. ; v. Barrat.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.11563,
+"x1": 0.3495,
+"y0": 0.30977,
+"y1": 0.32716,
+"text": "Berrier.-Occup. ‘ the berrier,",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.10124,
+"x1": 0.33717,
+"y0": 0.32477,
+"y1": 0.33977,
+"text": "i.c. thc t thresher. ‘Berrier,",
+"conf": 0.916
+},
+{
+"column": 1,
+"x0": 0.10165,
+"x1": 0.35197,
+"y0": 0.33739,
+"y1": 0.35409,
+"text": "thrasher, North.' ‘Berry, to thrash",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10248,
+"x1": 0.29525,
+"y0": 0.35136,
+"y1": 0.36841,
+"text": "corn, North.' (Halliwell.)",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.14235,
+"x1": 0.34868,
+"y0": 0.36909,
+"y1": 0.38341,
+"text": "plewmen, j berryer, and j hird,",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.10453,
+"x1": 0.34868,
+"y0": 0.37932,
+"y1": 0.39602,
+"text": "1573: Wills and Inv. N. C. 399 (H.E.D.)",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.11398,
+"x1": 0.34991,
+"y0": 0.38886,
+"y1": 0.40761,
+"text": "Johannes Wacher, berier, i379 : P. T.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10412,
+"x1": 0.22455,
+"y0": 0.40284,
+"y1": 0.41545,
+"text": "Howdenshire, P. 30.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.11357,
+"x1": 0.35115,
+"y0": 0.40966,
+"y1": 0.42807,
+"text": "Johannes Beryar, laborer, 1379: ibid.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.11522,
+"x1": 0.35156,
+"y0": 0.43045,
+"y1": 0.44818,
+"text": "Willelmus Beryar, laborer, 1379: ibid.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11481,
+"x1": 0.35156,
+"y0": 0.44102,
+"y1": 0.45943,
+"text": "David Beryer, 1379: P. T. Yorks. p. 296.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.11522,
+"x1": 0.33224,
+"y0": 0.45193,
+"y1": 0.46898,
+"text": "Johannes Berier, 1379 : ibid. p. 232.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.11522,
+"x1": 0.3532,
+"y0": 0.46114,
+"y1": 0.47989,
+"text": "1585. Gregory. Bermier, co. Oxf. : Reg.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.10412,
+"x1": 0.28949,
+"y0": 0.47375,
+"y1": 0.48943,
+"text": "Univ. Oxf. vol. ii. pt. ii. p. 148.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.11933,
+"x1": 0.35238,
+"y0": 0.4908,
+"y1": 0.50852,
+"text": "Berringer, Berenger, Bar-",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.10494,
+"x1": 0.35238,
+"y0": 0.50466,
+"y1": 0.5217,
+"text": "ringer.---Bapt. ' the son of Beren.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.10494,
+"x1": 0.13782,
+"y0": 0.52273,
+"y1": 0.53636,
+"text": "ger.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.11727,
+"x1": 0.29895,
+"y0": 0.53398,
+"y1": 0.55068,
+"text": "Berenger Gifard : Domesday.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11727,
+"x1": 0.27387,
+"y0": 0.54523,
+"y1": 0.56193,
+"text": "Berenger de Todeni, ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11974,
+"x1": 0.35361,
+"y0": 0.55511,
+"y1": 0.56909,
+"text": "Reinerus Berengarii, , Pipe Roll,",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.11563,
+"x1": 0.1666,
+"y0": 0.56841,
+"y1": 0.58068,
+"text": "Hen. 11.",
+"conf": 0.928
+},
+{
+"column": 1,
+"x0": 0.11892,
+"x1": 0.29319,
+"y0": 0.57693,
+"y1": 0.59193,
+"text": "Berengarius fil. Gervase. c.",
+"conf": 0.781
+},
+{
+"column": 1,
+"x0": 0.12179,
+"x1": 0.35279,
+"y0": 0.59125,
+"y1": 0.60761,
+"text": "Barengaria was fem: form",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.10576,
+"x1": 0.3532,
+"y0": 0.60455,
+"y1": 0.62023,
+"text": "familiar to English history. Freneh,",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.10741,
+"x1": 0.35485,
+"y0": 0.61784,
+"y1": 0.6342,
+"text": "Beranger ; Germ. Berangar ;",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.10782,
+"x1": 0.3421,
+"y0": 0.63216,
+"y1": 0.64784,
+"text": "Span. Berenger (Yonge, ii. 275).",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.11933,
+"x1": 0.35361,
+"y0": 0.64648,
+"y1": 0.66114,
+"text": "Berenger le Moine, co. Northampt.,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.107,
+"x1": 0.16495,
+"y0": 0.65909,
+"y1": 0.67239,
+"text": "1273.. A.",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.11974,
+"x1": 0.32279,
+"y0": 0.66625,
+"y1": 0.68295,
+"text": "Robert Beringer, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.11933,
+"x1": 0.35649,
+"y0": 0.67614,
+"y1": 0.6942,
+"text": "William Berenger, co. Soms., I Edw.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10741,
+"x1": 0.27264,
+"y0": 0.68841,
+"y1": 0.70375,
+"text": "I1I : Kirby's Quest, p. 186.",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.11892,
+"x1": 0.35608,
+"y0": 0.69795,
+"y1": 0.71364,
+"text": "1614. William Barringer : Reg. Univ.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.10864,
+"x1": 0.2562,
+"y0": 0.71125,
+"y1": 0.72216,
+"text": "Oxf. vol. ii. pt. ii. p. 334.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12097,
+"x1": 0.35608,
+"y0": 0.71795,
+"y1": 0.73432,
+"text": "1694. Bapt.--Andrew._son of Simon",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10823,
+"x1": 0.35608,
+"y0": 0.72886,
+"y1": 0.74455,
+"text": "Beranger : St. Antholin (London), p. 108.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11974,
+"x1": 0.34909,
+"y0": 0.73977,
+"y1": 0.75545,
+"text": "London, 1, 0, 3; Philadelphia, 4, 0, 3.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12303,
+"x1": 0.3569,
+"y0": 0.75784,
+"y1": 0.7742,
+"text": "Berry.--Local, ‘at the Bury,'",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.10823,
+"x1": 0.35731,
+"y0": 0.77114,
+"y1": 0.78852,
+"text": "i.e. borough; v. Bury, Burrows,",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.1107,
+"x1": 0.23277,
+"y0": 0.78716,
+"y1": 0.8025,
+"text": "Burroughes, &c.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12262,
+"x1": 0.35608,
+"y0": 0.80284,
+"y1": 0.81955,
+"text": "1513. John Bery, or Bury: Reg. Univ.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.11193,
+"x1": 0.16742,
+"y0": 0.81477,
+"y1": 0.82636,
+"text": "Oxf. i. 88.",
+"conf": 0.828
+},
+{
+"column": 1,
+"x0": 0.12303,
+"x1": 0.3569,
+"y0": 0.82227,
+"y1": 0.84068,
+"text": "1575-6. Henry Berrie, co. Kent : ibid.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.1107,
+"x1": 0.22208,
+"y0": 0.83591,
+"y1": 0.85057,
+"text": "Vol. ii. pt. ii. p. 66.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.12344,
+"x1": 0.3569,
+"y0": 0.84409,
+"y1": 0.86011,
+"text": "1609. James Berrie, of the Hey, parish",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11193,
+"x1": 0.31498,
+"y0": 0.85636,
+"y1": 0.87,
+"text": "of Wigan : W'ills at Chester, i. 18.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.47283,
+"x1": 0.49376,
+"y0": 0.07227,
+"y1": 0.08761,
+"text": "97",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37433,
+"x1": 0.60745,
+"y0": 0.10159,
+"y1": 0.11489,
+"text": "The Yorkshire folk have a strong",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.35792,
+"x1": 0.60868,
+"y0": 0.11318,
+"y1": 0.13125,
+"text": "propensity for quaint and humorous",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36038,
+"x1": 0.60704,
+"y0": 0.12818,
+"y1": 0.14352,
+"text": "baptismal names.  Father and son",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.35792,
+"x1": 0.60868,
+"y0": 0.13977,
+"y1": 0.15648,
+"text": "are thus described in the West",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.35915,
+"x1": 0.60704,
+"y0": 0.15443,
+"y1": 0.1708,
+"text": "Riding Directory (Stainland) : John",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.35833,
+"x1": 0.60909,
+"y0": 0.16705,
+"y1": 0.18511,
+"text": "Berry, shopkeeper; Young John",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.35915,
+"x1": 0.61032,
+"y0": 0.18136,
+"y1": 0.19807,
+"text": "Berry, clogger.  Young John was",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36038,
+"x1": 0.51798,
+"y0": 0.19636,
+"y1": 0.20966,
+"text": "the son's fontal name.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37146,
+"x1": 0.56189,
+"y0": 0.21,
+"y1": 0.22466,
+"text": "London, 85 ; Philadelphia, 150.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37598,
+"x1": 0.60786,
+"y0": 0.22466,
+"y1": 0.24136,
+"text": "Berryman, Berriman, Bor.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.35874,
+"x1": 0.60827,
+"y0": 0.23795,
+"y1": 0.25636,
+"text": "rowman, Berghman.--(1) Oc.",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.35997,
+"x1": 0.60868,
+"y0": 0.25023,
+"y1": 0.26966,
+"text": "cup. ‘the bury-man,' i.e. borough-",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.36079,
+"x1": 0.60991,
+"y0": 0.26489,
+"y1": 0.28261,
+"text": "man, a man dwelling within the",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3612,
+"x1": 0.60909,
+"y0": 0.27818,
+"y1": 0.29693,
+"text": "borough; v. Berry. (2) Possibly",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36243,
+"x1": 0.60991,
+"y0": 0.29239,
+"y1": 0.30739,
+"text": "official from the bearer of the name",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.3612,
+"x1": 0.61073,
+"y0": 0.30534,
+"y1": 0.32307,
+"text": "occupying some position akin to",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.36161,
+"x1": 0.61032,
+"y0": 0.31864,
+"y1": 0.33534,
+"text": "a borough-reeve. As a rule a West-",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36202,
+"x1": 0.46462,
+"y0": 0.33636,
+"y1": 0.3483,
+"text": "country name.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37475,
+"x1": 0.6095,
+"y0": 0.3483,
+"y1": 0.36261,
+"text": "Robert Buryman, co. Soms, I Edw.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36243,
+"x1": 0.51757,
+"y0": 0.35989,
+"y1": 0.37318,
+"text": "II : Kirby's Quest, p. 83.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.37433,
+"x1": 0.61114,
+"y0": 0.36807,
+"y1": 0.38443,
+"text": "William Buryinan, co. Soms., I Edw.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36284,
+"x1": 0.45806,
+"y0": 0.3817,
+"y1": 0.39398,
+"text": "11l : ibid. P. 96.",
+"conf": 0.884
+},
+{
+"column": 2,
+"x0": 0.37516,
+"x1": 0.61073,
+"y0": 0.38852,
+"y1": 0.40455,
+"text": "1587-8. Samuel Beriman, or Berriman,",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36161,
+"x1": 0.61073,
+"y0": 0.40011,
+"y1": 0.41511,
+"text": "co. Glouc. : Reg. Univ. Oxf. vol. ii. pt. ii.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.36284,
+"x1": 0.40306,
+"y0": 0.41273,
+"y1": 0.42568,
+"text": "p. 162.",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.37516,
+"x1": 0.61237,
+"y0": 0.42057,
+"y1": 0.43557,
+"text": "1615. Hugh Birriman, or Berriman, co.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.36243,
+"x1": 0.47899,
+"y0": 0.4325,
+"y1": 0.44682,
+"text": "Soms., ibid. p. 341.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.37557,
+"x1": 0.61278,
+"y0": 0.43966,
+"y1": 0.45739,
+"text": "1732: Mr. John Berryman : St. Antholin",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36366,
+"x1": 0.4675,
+"y0": 0.45364,
+"y1": 0.46727,
+"text": "(London), p. 145.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.37598,
+"x1": 0.61319,
+"y0": 0.46045,
+"y1": 0.47852,
+"text": "1774. Married-John Shaw and Eliz.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36325,
+"x1": 0.58405,
+"y0": 0.47307,
+"y1": 0.48705,
+"text": "Berriman : St. Geo. Han. Sq. i. 242.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37639,
+"x1": 0.61401,
+"y0": 0.48295,
+"y1": 0.4983,
+"text": "1784. -- Gerard Maley and Eliz. Berry-",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.36284,
+"x1": 0.47447,
+"y0": 0.49455,
+"y1": 0.50818,
+"text": "man : ibid. p. 367.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3768,
+"x1": 0.61278,
+"y0": 0.5033,
+"y1": 0.5183,
+"text": "1807. -- George Richards and Margaret",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36366,
+"x1": 0.60334,
+"y0": 0.51432,
+"y1": 0.52898,
+"text": "Borrowman : St. Geo. Han. Sq. ii. 373.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37598,
+"x1": 0.61237,
+"y0": 0.52477,
+"y1": 0.53875,
+"text": "London, 6,.I, I,.O; MDB. (co. Soms.),",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.36243,
+"x1": 0.57584,
+"y0": 0.53432,
+"y1": 0.5517,
+"text": "2, 1, 0, 1 ;' Philadelphia, 15, 4, 0, 0.",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.38049,
+"x1": 0.61237,
+"y0": 0.55273,
+"y1": 0.5667,
+"text": "Bertenshaw.--Local; v. Birk-",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36407,
+"x1": 0.42153,
+"y0": 0.56807,
+"y1": 0.58068,
+"text": "inshaw.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38049,
+"x1": 0.61442,
+"y0": 0.58545,
+"y1": 0.6008,
+"text": "Bertin, Bertie.--Bapt. ‘ the",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.36531,
+"x1": 0.61483,
+"y0": 0.59841,
+"y1": 0.61477,
+"text": "son of Bertin.' St. Bertin of France",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36531,
+"x1": 0.6173,
+"y0": 0.61102,
+"y1": 0.62909,
+"text": "made the font-name feriliar fn'that",
+"conf": 0.925
+},
+{
+"column": 2,
+"x0": 0.36654,
+"x1": 0.61648,
+"y0": 0.62602,
+"y1": 0.64307,
+"text": "country, and as a French surname",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36613,
+"x1": 0.61606,
+"y0": 0.64034,
+"y1": 0.655,
+"text": "it occurs in the Lon. Dir. We must",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.36654,
+"x1": 0.61648,
+"y0": 0.65364,
+"y1": 0.6683,
+"text": "ascribe the English surname to the",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.36572,
+"x1": 0.61648,
+"y0": 0.66727,
+"y1": 0.68261,
+"text": "same source, although there seems",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.36736,
+"x1": 0.61648,
+"y0": 0.68023,
+"y1": 0.69625,
+"text": "strong evidence in favour of its",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36695,
+"x1": 0.61606,
+"y0": 0.69284,
+"y1": 0.71125,
+"text": "being a pet form of Bertram, nick.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.36777,
+"x1": 0.61565,
+"y0": 0.70784,
+"y1": 0.72307,
+"text": "Bert, dim. Bert-in. The early",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36695,
+"x1": 0.61689,
+"y0": 0.72102,
+"y1": 0.7367,
+"text": "Bertie was evidently a popular",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.36859,
+"x1": 0.47858,
+"y0": 0.73602,
+"y1": 0.7483,
+"text": "form of Bertin.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.3809,
+"x1": 0.58857,
+"y0": 0.74932,
+"y1": 0.7633,
+"text": "Bertin de Boyuill, C. R. Hen. 111.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.3809,
+"x1": 0.61565,
+"y0": 0.75955,
+"y1": 0.77489,
+"text": "154!. Bertyn Flecchar, Bury, Lanc.:",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.36859,
+"x1": 0.61565,
+"y0": 0.7708,
+"y1": 0.78443,
+"text": "Rec. Soc. Lanc. and Ches. vol. xi. p. 144.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.37967,
+"x1": 0.60991,
+"y0": 0.78034,
+"y1": 0.79602,
+"text": "Berton Venator, co. Glouc., 1273. A.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38049,
+"x1": 0.61812,
+"y0": 0.79057,
+"y1": 0.80625,
+"text": "Bartin de Verdun, 1432:  Historiae",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36818,
+"x1": 0.55984,
+"y0": 0.80114,
+"y1": 0.81682,
+"text": "Dunelmensis (Surt. Soc.), p. Ixi.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3809,
+"x1": 0.61319,
+"y0": 0.8117,
+"y1": 0.82568,
+"text": "Bertram de Burgo, co. Staff., I273. A",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.3493,
+"x1": 0.57708,
+"y0": 0.82159,
+"y1": 0.83795,
+"text": "1 Bertin de. Burgo, co. Salop, ibid.",
+"conf": 0.711
+},
+{
+"column": 2,
+"x0": 0.38418,
+"x1": 0.61565,
+"y0": 0.83625,
+"y1": 0.85023,
+"text": "Bertram and Bertin are probably",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.36859,
+"x1": 0.57297,
+"y0": 0.84955,
+"y1": 0.86455,
+"text": "one and the same individual.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.48391,
+"x1": 0.50279,
+"y0": 0.86932,
+"y1": 0.8833,
+"text": "H",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.70131,
+"x1": 0.78431,
+"y0": 0.06989,
+"y1": 0.08352,
+"text": "BUSANT",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.62982,
+"x1": 0.8669,
+"y0": 0.09682,
+"y1": 0.11216,
+"text": "Berty Fleschar, co. Northumb., 1541 .",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.61708,
+"x1": 0.68652,
+"y0": 0.10943,
+"y1": 0.12341,
+"text": "TTT. p. li.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63311,
+"x1": 0.86648,
+"y0": 0.11795,
+"y1": 0.135,
+"text": "Compare this also with Bertyn",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.61873,
+"x1": 0.8669,
+"y0": 0.1333,
+"y1": 0.14761,
+"text": "Flecchar, above recorded, same",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.61832,
+"x1": 0.65447,
+"y0": 0.14761,
+"y1": 0.16159,
+"text": "date.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63105,
+"x1": 0.86813,
+"y0": 0.15818,
+"y1": 0.17557,
+"text": "1578-9. William Dade and Lucy Bertie:",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.61832,
+"x1": 0.80198,
+"y0": 0.17045,
+"y1": 0.18614,
+"text": "Marriage Lic. (London), i. 86.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6327,
+"x1": 0.86772,
+"y0": 0.18068,
+"y1": 0.19534,
+"text": "1691. Isaie Dupre and Ann Bertin:",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.61914,
+"x1": 0.84594,
+"y0": 0.19261,
+"y1": 0.20591,
+"text": "Marriage Alleg. (Canterbury', p. 205.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.63064,
+"x1": 0.82006,
+"y0": 0.20216,
+"y1": 0.21818,
+"text": "London, 5, O; New York, i, '1.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.63516,
+"x1": 0.86731,
+"y0": 0.21989,
+"y1": 0.23523,
+"text": "Bertram, Bertrand.--Bapt.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.61914,
+"x1": 0.86895,
+"y0": 0.23318,
+"y1": 0.24886,
+"text": "'the son of Bertram'; v. Bartram",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.61996,
+"x1": 0.70255,
+"y0": 0.24955,
+"y1": 0.26148,
+"text": "and Bertin.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63187,
+"x1": 0.86977,
+"y0": 0.2608,
+"y1": 0.27648,
+"text": "Richard Bertram, co. Northumb., 1168 :",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.62078,
+"x1": 0.69926,
+"y0": 0.27375,
+"y1": 0.28602,
+"text": "KKK. vi. 13.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.63146,
+"x1": 0.86977,
+"y0": 0.28091,
+"y1": 0.29864,
+"text": "Berteram le Barbur, co. Salop, I273. A.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6327,
+"x1": 0.86936,
+"y0": 0.29239,
+"y1": 0.30705,
+"text": "Bertramus de Verdun, 7 Hen. 11 : Pipe",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62078,
+"x1": 0.69309,
+"y0": 0.30568,
+"y1": 0.31727,
+"text": "Roll, iv. 41.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.6327,
+"x1": 0.86977,
+"y0": 0.31216,
+"y1": 0.3292,
+"text": "Ricardus Bartrem, 1379: P. T. Yorks.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.6368,
+"x1": 0.65365,
+"y0": 0.32818,
+"y1": 0.33636,
+"text": "84.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63434,
+"x1": 0.8217,
+"y0": 0.33364,
+"y1": 0.34898,
+"text": "Johannes Bartrem : ibid. p. 88.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.6327,
+"x1": 0.87142,
+"y0": 0.34284,
+"y1": 0.36023,
+"text": "1741. Married-Benjamin' Bertram and",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.6216,
+"x1": 0.84676,
+"y0": 0.35511,
+"y1": 0.36875,
+"text": "Sarah Mills : St. Gco.'Han. Sq. i. 27.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6327,
+"x1": 0.87142,
+"y0": 0.36534,
+"y1": 0.38068,
+"text": "London, 2, 6; Philadelphia, 10, 0;",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62201,
+"x1": 0.73336,
+"y0": 0.37727,
+"y1": 0.39159,
+"text": "New York, i3. 12.",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.63722,
+"x1": 0.871,
+"y0": 0.39261,
+"y1": 0.40898,
+"text": "Berwick.--Local, ' of Berwick-",
+"conf": 0.913
+},
+{
+"column": 3,
+"x0": 0.62201,
+"x1": 0.87265,
+"y0": 0.40625,
+"y1": 0.42295,
+"text": "on-Tweed.' But v. Barwick, and",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.62242,
+"x1": 0.87265,
+"y0": 0.41955,
+"y1": 0.43795,
+"text": "cf. Derby and Darby, or Clerke and",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62242,
+"x1": 0.85169,
+"y0": 0.43386,
+"y1": 0.45057,
+"text": "Clarke, or Perkins and Parkins.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.63598,
+"x1": 0.87142,
+"y0": 0.4492,
+"y1": 0.46523,
+"text": "William de Berwyk, cotoler, 18 Edw.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.62407,
+"x1": 0.79171,
+"y0": 0.46318,
+"y1": 0.47477,
+"text": "II : Freemen of York, i. 22.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.62407,
+"x1": 0.7083,
+"y0": 0.48432,
+"y1": 0.49727,
+"text": "Yorks. p. 252.",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.63598,
+"x1": 0.87183,
+"y0": 0.49114,
+"y1": 0.5075,
+"text": "1616.' Michael Berwicke, co. Notts:",
+"conf": 0.942
+},
+{
+"column": 3,
+"x0": 0.62366,
+"x1": 0.84142,
+"y0": 0.50295,
+"y1": 0.51761,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 354:.",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.63557,
+"x1": 0.87306,
+"y0": 0.51148,
+"y1": 0.52886,
+"text": "1621. Samuel Berwicke, 'co. Notts :",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.62366,
+"x1": 0.69351,
+"y0": 0.52545,
+"y1": 0.53807,
+"text": "ibid. p. 398.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62366,
+"x1": 0.82006,
+"y0": 0.54455,
+"y1": 0.55852,
+"text": "Berwick: St. Geo. Han. Sq. i. 1.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62366,
+"x1": 0.87306,
+"y0": 0.56568,
+"y1": 0.58989,
+"text": "Berwick : ibid. p. 47. Court Dir., 3; Phila-",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.6368,
+"x1": 0.7235,
+"y0": 0.57625,
+"y1": 0.59023,
+"text": "West Riding",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.62489,
+"x1": 0.6894,
+"y0": 0.5875,
+"y1": 0.60216,
+"text": "delphia, 4.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.64009,
+"x1": 0.87018,
+"y0": 0.60114,
+"y1": 0.6175,
+"text": "Besant, Bezart: Bessant",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62448,
+"x1": 0.87799,
+"y0": 0.6158,
+"y1": 0.63591,
+"text": "Beasant, - Bes\"snt, 1 'th",
+"conf": 0.746
+},
+{
+"column": 3,
+"x0": 0.83896,
+"x1": 0.87799,
+"y0": 0.63864,
+"y1": 0.6492,
+"text": "repre",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62694,
+"x1": 0.82581,
+"y0": 0.64443,
+"y1": 0.6608,
+"text": "(!). 'To oone he gave fyve f",
+"conf": 0.916
+},
+{
+"column": 3,
+"x0": 0.62653,
+"x1": 0.87799,
+"y0": 0.66011,
+"y1": 0.67545,
+"text": "or besauntis, `mes a",
+"conf": 0.887
+},
+{
+"column": 3,
+"x0": 0.60804,
+"x1": 0.61462,
+"y0": 0.67136,
+"y1": 0.6775,
+"text": "S",
+"conf": 0.549
+},
+{
+"column": 3,
+"x0": 0.62571,
+"x1": 0.87593,
+"y0": 0.68432,
+"y1": 0.70034,
+"text": "instances. ‘A bisaunt, bezanl, r",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.62653,
+"x1": 0.87552,
+"y0": 0.69727,
+"y1": 0.71364,
+"text": "bizantine was an old coin both in",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62777,
+"x1": 0.87552,
+"y0": 0.70875,
+"y1": 0.72818,
+"text": "gold and silver, and so called from",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.62735,
+"x1": 0.87347,
+"y0": 0.72375,
+"y1": 0.74114,
+"text": "having bcen minted at Byzantium.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62818,
+"x1": 0.87676,
+"y0": 0.73773,
+"y1": 0.75341,
+"text": "The silver bezant passed current",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62777,
+"x1": 0.87347,
+"y0": 0.75102,
+"y1": 0.7667,
+"text": "for 2s. or thereabouts' (Pipe Rolls,",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62653,
+"x1": 0.87552,
+"y0": 0.76261,
+"y1": 0.78409,
+"text": "vol. ii. p. 74: Pipe Roll Soc.).",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62735,
+"x1": 0.87758,
+"y0": 0.77693,
+"y1": 0.79534,
+"text": "As almost every other coin has its",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.62777,
+"x1": 0.87511,
+"y0": 0.79091,
+"y1": 0.80795,
+"text": "representative in our nomenclature",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.62653,
+"x1": 0.87388,
+"y0": 0.80523,
+"y1": 0.82125,
+"text": "So may this. More probably, how-",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62735,
+"x1": 0.8747,
+"y0": 0.81784,
+"y1": 0.83489,
+"text": "ever, like Turk and Saracen, it is",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62612,
+"x1": 0.87593,
+"y0": 0.83011,
+"y1": 0.84989,
+"text": "local, denoting an immigrant from",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62941,
+"x1": 0.70953,
+"y0": 0.8492,
+"y1": 0.86148,
+"text": "Byzantium.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.6972,
+"x1": 0.87429,
+"y0": 0.91568,
+"y1": 0.94909,
+"text": "Digitized by G00g",
+"conf": 0.87
+}
+]

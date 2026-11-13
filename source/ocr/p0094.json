@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.20308,
+"x1": 0.30991,
+"y0": 0.08318,
+"y1": 0.09477,
+"text": "BELSTEAD",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.14884,
+"x1": 0.37894,
+"y0": 0.1108,
+"y1": 0.12239,
+"text": "Belstead.---Local,'of Belstead,",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.1324,
+"x1": 0.38141,
+"y0": 0.12273,
+"y1": 0.13773,
+"text": "a parish in the dioc. of Norwich",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13158,
+"x1": 0.38305,
+"y0": 0.13739,
+"y1": 0.15034,
+"text": "and co. Suffolk. This surname is",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.1324,
+"x1": 0.36127,
+"y0": 0.15239,
+"y1": 0.16466,
+"text": "in general lost in Benstead, q.v.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.14596,
+"x1": 0.38346,
+"y0": 0.16602,
+"y1": 0.17898,
+"text": "Walter de Bellestede, co. Bucks, 20",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13281,
+"x1": 0.21047,
+"y0": 0.17693,
+"y1": 0.18818,
+"text": "Edw. I. R.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.14637,
+"x1": 0.33991,
+"y0": 0.18648,
+"y1": 0.19977,
+"text": "John de Belstede, co. Suff., ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.1472,
+"x1": 0.3662,
+"y0": 0.19534,
+"y1": 0.2117,
+"text": "John de Belatede, co. Suff., 1273. A",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.14555,
+"x1": 0.3473,
+"y0": 0.20761,
+"y1": 0.22091,
+"text": "Robert de Belsted, co. Suf., ibid.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.14637,
+"x1": 0.21458,
+"y0": 0.21784,
+"y1": 0.23182,
+"text": "London, I.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14966,
+"x1": 0.38141,
+"y0": 0.23455,
+"y1": 0.25057,
+"text": "Belter. -- Occup. 'α bell-",
+"conf": 0.579
+},
+{
+"column": 1,
+"x0": 0.13569,
+"x1": 0.2869,
+"y0": 0.25057,
+"y1": 0.2625,
+"text": "founder'; v. Billiter.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.14514,
+"x1": 0.38264,
+"y0": 0.26523,
+"y1": 0.2775,
+"text": "' John Belletor, _ or Belter, secular",
+"conf": 0.927
+},
+{
+"column": 1,
+"x0": 0.13405,
+"x1": 0.38346,
+"y0": 0.27614,
+"y1": 0.28909,
+"text": "chaplaio, sup. for' B.A., 20 May, 1522' :",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.27087,
+"y0": 0.28557,
+"y1": 0.29989,
+"text": "Reg. Univ. Oxf. i. 125.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.14555,
+"x1": 0.2302,
+"y0": 0.29545,
+"y1": 0.31011,
+"text": "New York, 2.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14925,
+"x1": 0.38017,
+"y0": 0.31352,
+"y1": 0.32682,
+"text": "Belton.--Local, ‘ of Belton,",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.38141,
+"y0": 0.32716,
+"y1": 0.3408,
+"text": "parishes  in diocs. of Norwich,",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13364,
+"x1": 0.38305,
+"y0": 0.34045,
+"y1": 0.35477,
+"text": "Lincoln, and Peterborough. The",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13405,
+"x1": 0.38141,
+"y0": 0.35443,
+"y1": 0.36841,
+"text": "Lincoln Beltons have strongly",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.1324,
+"x1": 0.30991,
+"y0": 0.36705,
+"y1": 0.38205,
+"text": "ramifed in that county.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.14678,
+"x1": 0.38099,
+"y0": 0.38307,
+"y1": 0.39534,
+"text": "Hamon de Belton, co. Norf., 1257: FF.",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.17678,
+"y0": 0.395,
+"y1": 0.40455,
+"text": "iv.398.",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.14473,
+"x1": 0.38182,
+"y0": 0.40318,
+"y1": 0.41648,
+"text": "Joln de Belton,rector of Ovington, co.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13364,
+"x1": 0.28485,
+"y0": 0.41477,
+"y1": 0.42568,
+"text": "Norf.,1366:ibid.ii.206.",
+"conf": 0.878
+},
+{
+"column": 1,
+"x0": 0.14432,
+"x1": 0.38223,
+"y0": 0.42432,
+"y1": 0.43693,
+"text": "Henry de Belton, pistor, 17 Edw.I1:",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.13405,
+"x1": 0.27663,
+"y0": 0.43523,
+"y1": 0.44682,
+"text": "Freemen ofYork,i.22,",
+"conf": 0.927
+},
+{
+"column": 1,
+"x0": 0.14473,
+"x1": 0.36538,
+"y0": 0.44477,
+"y1": 0.45773,
+"text": "John de Beletun, co. Suf., I273.A.",
+"conf": 0.902
+},
+{
+"column": 1,
+"x0": 0.14473,
+"x1": 0.34977,
+"y0": 0.45534,
+"y1": 0.46795,
+"text": "Gervase de Belton, co. Suff.,ihid.",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.14555,
+"x1": 0.35182,
+"y0": 0.46523,
+"y1": 0.47818,
+"text": "Nicholas de Belton,co. Suff., ibid.",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.14473,
+"x1": 0.38099,
+"y0": 0.4758,
+"y1": 0.48943,
+"text": "Willian Belton, 157o: Marriage Lic.",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.13405,
+"x1": 0.25362,
+"y0": 0.4867,
+"y1": 0.49898,
+"text": "(Westminster),p.3.",
+"conf": 0.897
+},
+{
+"column": 1,
+"x0": 0.14473,
+"x1": 0.38264,
+"y0": 0.49477,
+"y1": 0.51148,
+"text": "1775. Married-David Belton and Mary",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.1324,
+"x1": 0.34073,
+"y0": 0.50614,
+"y1": 0.52011,
+"text": "Nichols: St. Geo.Han. Sq.i. 251.",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.14596,
+"x1": 0.38346,
+"y0": 0.51761,
+"y1": 0.53023,
+"text": "1782.- John Lewis and Ann Bellton :",
+"conf": 0.913
+},
+{
+"column": 1,
+"x0": 0.1324,
+"x1": 0.20719,
+"y0": 0.52784,
+"y1": 0.54216,
+"text": "jbid. p. 331.",
+"conf": 0.921
+},
+{
+"column": 1,
+"x0": 0.13569,
+"x1": 0.38387,
+"y0": 0.53739,
+"y1": 0.55239,
+"text": " London, 6; MDB. (co. Lincoln), 28 ;",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13405,
+"x1": 0.21869,
+"y0": 0.54932,
+"y1": 0.56125,
+"text": "New York, 6.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14432,
+"x1": 0.38099,
+"y0": 0.56602,
+"y1": 0.58034,
+"text": "Beman.--(1) Occup. ‘abee-man,",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.13158,
+"x1": 0.38387,
+"y0": 0.57966,
+"y1": 0.59398,
+"text": "a ' custos avium.' (2) Local, a cor-",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.38387,
+"y0": 0.5933,
+"y1": 0.60693,
+"text": "ruption of Beaumont; v. Beaman.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.13364,
+"x1": 0.38551,
+"y0": 0.60693,
+"y1": 0.61989,
+"text": "For want of proof in favour of",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.38387,
+"y0": 0.62057,
+"y1": 0.63318,
+"text": "(1) it is manifest that (2) is the",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.13364,
+"x1": 0.38593,
+"y0": 0.63386,
+"y1": 0.64682,
+"text": "chief parent. The occurrence of",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.1324,
+"x1": 0.38223,
+"y0": 0.64545,
+"y1": 0.66216,
+"text": "Beaman in Yorkshire is strongly",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.23307,
+"y0": 0.66148,
+"y1": 0.67273,
+"text": "corroborative.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14514,
+"x1": 0.38305,
+"y0": 0.67477,
+"y1": 0.68943,
+"text": "Johannes Beman, 1379 : P. T. Yorks.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13281,
+"x1": 0.17226,
+"y0": 0.68739,
+"y1": 0.69864,
+"text": "p. 156.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.14596,
+"x1": 0.34812,
+"y0": 0.69489,
+"y1": 0.71057,
+"text": "Alicia Beman, 1379 : ibid. p. 157.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.14637,
+"x1": 0.38387,
+"y0": 0.70682,
+"y1": 0.71966,
+"text": "1674.1 Bapt.-John, son \"of Richard",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.35716,
+"y0": 0.71659,
+"y1": 0.73023,
+"text": "Bemon : St. Jas. Clerkenwell, i. 265.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.1472,
+"x1": 0.3851,
+"y0": 0.72659,
+"y1": 0.74091,
+"text": "1793. Married--Thomas   Ellsey.. and",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.13364,
+"x1": 0.38346,
+"y0": 0.73636,
+"y1": 0.75239,
+"text": "Amelia Beman : St. Geo. Han. Sq. ii. 95.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14555,
+"x1": 0.30744,
+"y0": 0.74761,
+"y1": 0.76227,
+"text": "London, 2; New York, 3.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.14925,
+"x1": 0.38141,
+"y0": 0.76602,
+"y1": 0.77966,
+"text": "Bemand, Bement.---Local ; 'v.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13446,
+"x1": 0.37113,
+"y0": 0.77932,
+"y1": 0.79364,
+"text": "Beman, Beaman, and Beaumont.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14555,
+"x1": 0.3851,
+"y0": 0.79398,
+"y1": 0.80795,
+"text": "1797. Marriced-William Bement and",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.13446,
+"x1": 0.38346,
+"y0": 0.80386,
+"y1": 0.8192,
+"text": "Mary Roberts : St. Geo. Han. Sq. i. 167.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14555,
+"x1": 0.3473,
+"y0": 0.81545,
+"y1": 0.83011,
+"text": "London, 2, I ; Philadelphia, 0, 6.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.14884,
+"x1": 0.38428,
+"y0": 0.83284,
+"y1": 0.84716,
+"text": "Bembridg3.--Local, ‘of Bem-",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.38634,
+"y0": 0.84614,
+"y1": 0.86284,
+"text": "bridge,' a chapelry in the parish of",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.3851,
+"y0": 0.85943,
+"y1": 0.87614,
+"text": "Brading, Isle of Wight. Some-",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.50858,
+"x1": 0.52994,
+"y0": 0.08148,
+"y1": 0.09682,
+"text": "94",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39311,
+"x1": 0.63965,
+"y0": 0.10943,
+"y1": 0.12443,
+"text": "times probably a variant of Bain-",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.3927,
+"x1": 0.64253,
+"y0": 0.12307,
+"y1": 0.13909,
+"text": "bridge, q.v. _ T'he following entries",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.39311,
+"x1": 0.64006,
+"y0": 0.13739,
+"y1": 0.15,
+"text": "will show the tendency to varia-",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.43133,
+"y0": 0.15136,
+"y1": 0.16295,
+"text": "tion :",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.40626,
+"x1": 0.64212,
+"y0": 0.16705,
+"y1": 0.17795,
+"text": "16oo. Buried-Eliz., wife of Edward",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.3927,
+"x1": 0.63801,
+"y0": 0.17659,
+"y1": 0.18955,
+"text": "Bembricke : St. Jas. Clerkenwell, iv. 67.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.40708,
+"x1": 0.64088,
+"y0": 0.1858,
+"y1": 0.20182,
+"text": "1637. John Bembrigge : ibid. p. 233.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40708,
+"x1": 0.64088,
+"y0": 0.19841,
+"y1": 0.21102,
+"text": "1664.- Jane Benbridge: ibid. p. 356.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.40955,
+"x1": 0.64253,
+"y0": 0.21273,
+"y1": 0.22568,
+"text": "These, no doubt, were all related",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.50406,
+"y0": 0.22739,
+"y1": 0.23864,
+"text": "t oone another.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.40585,
+"x1": 0.47406,
+"y0": 0.2417,
+"y1": 0.25432,
+"text": "London, 1.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.40832,
+"x1": 0.63883,
+"y0": 0.25705,
+"y1": 0.27136,
+"text": "Benbow, : Benbough.--Nick.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.40339,
+"x1": 0.63801,
+"y0": 0.27534,
+"y1": 0.28455,
+"text": "Bendbow,' a complimentary sobri",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.64088,
+"y0": 0.28466,
+"y1": 0.29864,
+"text": "quet for a stout archer ; cf. Stiff bow,",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.64253,
+"y0": 0.2975,
+"y1": 0.3125,
+"text": "Strongbow, Sharparrow, &c. ‘Let",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.64047,
+"y0": 0.31182,
+"y1": 0.32409,
+"text": "the archer bend his bow.'--Jer. li.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.39188,
+"x1": 0.5246,
+"y0": 0.32477,
+"y1": 0.33977,
+"text": "3 (Auth. Version).",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40544,
+"x1": 0.52748,
+"y0": 0.34011,
+"y1": 0.35205,
+"text": "Roger Benbow. F.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40626,
+"x1": 0.61294,
+"y0": 0.35068,
+"y1": 0.36261,
+"text": "William Bendebowe, London. X.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.40544,
+"x1": 0.64253,
+"y0": 0.35989,
+"y1": 0.37557,
+"text": "John Bentbow, 1440, co. York. W. 11.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.40544,
+"x1": 0.64253,
+"y0": 0.3708,
+"y1": 0.38477,
+"text": "Robert Benbowe, cantator Ecclesiae",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.64047,
+"y0": 0.38205,
+"y1": 0.39466,
+"text": "Christi : Reg. Univ. Oxf. vol. ii. pt i. p. 288.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.40544,
+"x1": 0.64088,
+"y0": 0.39193,
+"y1": 0.40489,
+"text": "' Vice-AdiniralJohn Benbow (1653-1702)",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.3927,
+"x1": 0.64129,
+"y0": 0.40352,
+"y1": 0.41477,
+"text": "was son of a tanner at Shewsbury'': Dict.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39435,
+"x1": 0.5057,
+"y0": 0.41409,
+"y1": 0.42568,
+"text": "Nat. Biog. iv. 207.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.40585,
+"x1": 0.63965,
+"y0": 0.42295,
+"y1": 0.43523,
+"text": "158s. \"Nicholas Benbowe. and Eliz.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39311,
+"x1": 0.64006,
+"y0": 0.43386,
+"y1": 0.4458,
+"text": "Welforde : Marriage Lic. (London), i. 142.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40544,
+"x1": 0.64129,
+"y0": 0.44477,
+"y1": 0.45568,
+"text": "16o7. Married--Robert Bendbowe and",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39147,
+"x1": 0.64253,
+"y0": 0.45398,
+"y1": 0.46795,
+"text": "Jone Bowers: St. Mary Alderinary, p. I1.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.40503,
+"x1": 0.64294,
+"y0": 0.46523,
+"y1": 0.47784,
+"text": "1622-3.-LconardKnightandConsiance",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.63636,
+"y0": 0.47545,
+"y1": 0.48773,
+"text": "Benbowe : St. Dionis Backchurch, p. 21.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.40503,
+"x1": 0.48762,
+"y0": 0.48568,
+"y1": 0.49932,
+"text": "London, 6, 1.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.40873,
+"x1": 0.64088,
+"y0": 0.50159,
+"y1": 0.51557,
+"text": "Bence.--Bapt. ‘ the son of Ben-",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.64253,
+"y0": 0.51557,
+"y1": 0.52852,
+"text": "nett'; v. Benns; cf. Evance for",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.4416,
+"y0": 0.52886,
+"y1": 0.54318,
+"text": "Evans.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40914,
+"x1": 0.64335,
+"y0": 0.54659,
+"y1": 0.56057,
+"text": "Bencher, Banker.---Offic. ‘the",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.64212,
+"y0": 0.55989,
+"y1": 0.57523,
+"text": "bencher,' the'banker. Very early",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.39311,
+"x1": 0.64294,
+"y0": 0.5742,
+"y1": 0.58818,
+"text": "instances of some office in legal",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39311,
+"x1": 0.64253,
+"y0": 0.58818,
+"y1": 0.60148,
+"text": "or exchequer matters, although the",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39311,
+"x1": 0.64253,
+"y0": 0.60045,
+"y1": 0.61648,
+"text": "instances given in  the H.E.D.",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.59158,
+"y0": 0.61511,
+"y1": 0.62909,
+"text": "belong to the 16th century.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.40626,
+"x1": 0.63267,
+"y0": 0.62977,
+"y1": 0.64341,
+"text": "Roger de Bencher, co. Oxf., 1273. A",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.40708,
+"x1": 0.63184,
+"y0": 0.64068,
+"y1": 0.6533,
+"text": "John le. Bancker (London), 1300. M.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.40626,
+"x1": 0.57884,
+"y0": 0.65091,
+"y1": 0.6642,
+"text": "Robert le Banker, 1298. M.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40667,
+"x1": 0.51556,
+"y0": 0.66114,
+"y1": 0.67511,
+"text": "Philadelphia, O, 5.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.40791,
+"x1": 0.64047,
+"y0": 0.67648,
+"y1": 0.69182,
+"text": "Benedict, Benedictus.--Bapt.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.39352,
+"x1": 0.64253,
+"y0": 0.68943,
+"y1": 0.70648,
+"text": "' the son of Benedict,' more gener-",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39558,
+"x1": 0.64376,
+"y0": 0.70477,
+"y1": 0.71864,
+"text": "ally Bennet, q.v. One of the most",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.64376,
+"y0": 0.71705,
+"y1": 0.73341,
+"text": "popular personal names of the sur-",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.64458,
+"y0": 0.73125,
+"y1": 0.74625,
+"text": "name epoch, owing its favour to",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39476,
+"x1": 0.64376,
+"y0": 0.74489,
+"y1": 0.75784,
+"text": "the Benedictines. Several of its",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39476,
+"x1": 0.64253,
+"y0": 0.75886,
+"y1": 0.77148,
+"text": "derivatives, such as Bennet, Ben-",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39394,
+"x1": 0.64458,
+"y0": 0.77182,
+"y1": 0.78614,
+"text": "nett, and Benson, are among the",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39476,
+"x1": 0.64171,
+"y0": 0.7858,
+"y1": 0.79875,
+"text": "most familiar of English surnames.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40626,
+"x1": 0.64253,
+"y0": 0.80045,
+"y1": 0.81511,
+"text": "Benedict_ de Pennington, co. Cumb.,",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.39517,
+"x1": 0.51063,
+"y0": 0.81136,
+"y1": 0.82398,
+"text": "1185 : RRR. P.39.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.40626,
+"x1": 0.64335,
+"y0": 0.81955,
+"y1": 0.83591,
+"text": "Benedictus Willeson, 1379: P. T. Yorks.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.39558,
+"x1": 0.43379,
+"y0": 0.83557,
+"y1": 0.84375,
+"text": "p. 232.",
+"conf": 0.939
+},
+{
+"column": 2,
+"x0": 0.40667,
+"x1": 0.63102,
+"y0": 0.8417,
+"y1": 0.85568,
+"text": "Benedictus Colier, 1379 : jbid. p. 233.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.40791,
+"x1": 0.64212,
+"y0": 0.85364,
+"y1": 0.86591,
+"text": "Reginald fl. Benedici,co. Hunts, 1273. A.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.40832,
+"x1": 0.63226,
+"y0": 0.86386,
+"y1": 0.87545,
+"text": "Cleinens fl. Benedicti, co. York, ibid.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.73515,
+"x1": 0.82181,
+"y0": 0.0825,
+"y1": 0.0958,
+"text": "BENNET",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66614,
+"x1": 0.90109,
+"y0": 0.10977,
+"y1": 0.12205,
+"text": "George Benedick, co. Norf. : FF. v. 211.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.66573,
+"x1": 0.85796,
+"y0": 0.12,
+"y1": 0.13364,
+"text": "London, I, I ; New York, 66, 0.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.66861,
+"x1": 0.76472,
+"y0": 0.13261,
+"y1": 0.14693,
+"text": "Benger. ?-",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.66491,
+"x1": 0.90027,
+"y0": 0.14523,
+"y1": 0.1592,
+"text": "Robert Benyger, co. Soms., I Edw.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.653,
+"x1": 0.81689,
+"y0": 0.15545,
+"y1": 0.1708,
+"text": "Ill : Kirby's Quest, p. 185.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.66614,
+"x1": 0.75527,
+"y0": 0.16705,
+"y1": 0.17932,
+"text": "Manchester, I.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.66861,
+"x1": 0.90396,
+"y0": 0.18068,
+"y1": 0.195,
+"text": "Benjamin.-Bapt. ‘the son of",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.90273,
+"y0": 0.19398,
+"y1": 0.20795,
+"text": "Benjamin.'1 Most of the instances",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.65587,
+"x1": 0.90191,
+"y0": 0.20727,
+"y1": 0.22193,
+"text": "in the  London Directory  are",
+"conf": 0.871
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.90273,
+"y0": 0.22193,
+"y1": 0.23489,
+"text": "modern Jewish, but several, no",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65382,
+"x1": 0.90273,
+"y0": 0.23455,
+"y1": 0.24955,
+"text": "doubt, represent a period when",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65464,
+"x1": 0.90355,
+"y0": 0.24886,
+"y1": 0.2625,
+"text": "Benjamin, like Joseph, was not",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.65505,
+"x1": 0.81935,
+"y0": 0.26216,
+"y1": 0.27511,
+"text": "unpopular in England.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.66532,
+"x1": 0.90109,
+"y0": 0.2767,
+"y1": 0.29,
+"text": "Caterina fl. Benjamini,co.Suff.,1273. A.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66532,
+"x1": 0.86617,
+"y0": 0.28693,
+"y1": 0.30057,
+"text": "Robert Benjamin, co. Bedf., ibid.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.66655,
+"x1": 0.69982,
+"y0": 0.29898,
+"y1": 0.30955,
+"text": "1892.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65218,
+"x1": 0.90027,
+"y0": 0.30773,
+"y1": 0.3217,
+"text": "prematurely, of a son ': Daily Telegraph,",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.70639,
+"y0": 0.31864,
+"y1": 0.33125,
+"text": "Aug. 18.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.66573,
+"x1": 0.73967,
+"y0": 0.32818,
+"y1": 0.3425,
+"text": "London, 32.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.66737,
+"x1": 0.90273,
+"y0": 0.34318,
+"y1": 0.35784,
+"text": "Benn.-Bapt.‘the son of Ben-",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.9015,
+"y0": 0.35784,
+"y1": 0.37045,
+"text": "net,' i.e. Benedict, from the nick.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.90191,
+"y0": 0.37045,
+"y1": 0.38443,
+"text": "Benn ; it has nothingtodo with Ben.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.90191,
+"y0": 0.38477,
+"y1": 0.39739,
+"text": "jamin.  Benn is a familiar surname",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.90232,
+"y0": 0.39773,
+"y1": 0.41034,
+"text": "wherever the Benedictine monks",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65094,
+"x1": 0.90355,
+"y0": 0.40795,
+"y1": 0.4267,
+"text": "had a convent. Furness Abbey,",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.653,
+"x1": 0.90314,
+"y0": 0.42432,
+"y1": 0.43795,
+"text": "founded in the l2th century, has",
+"conf": 0.929
+},
+{
+"column": 3,
+"x0": 0.65177,
+"x1": 0.90314,
+"y0": 0.43625,
+"y1": 0.4533,
+"text": "made Benn and Benson (q.v.) a",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65218,
+"x1": 0.90314,
+"y0": 0.45091,
+"y1": 0.46489,
+"text": "common surname in Furness and",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.78937,
+"y0": 0.46489,
+"y1": 0.47716,
+"text": "south Cumberland.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66614,
+"x1": 0.8863,
+"y0": 0.47886,
+"y1": 0.4942,
+"text": "Eborard Benne, co. Norf., I273. A.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.66573,
+"x1": 0.84646,
+"y0": 0.49,
+"y1": 0.50398,
+"text": "Robert Bennc, co. Norf., ibid.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.6645,
+"x1": 0.90273,
+"y0": 0.4992,
+"y1": 0.51591,
+"text": "Ricardus Benne, 1379 : P. T. Yorks.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.65382,
+"x1": 0.69407,
+"y0": 0.51318,
+"y1": 0.52239,
+"text": "p. 190.",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.66532,
+"x1": 0.87151,
+"y0": 0.52034,
+"y1": 0.53568,
+"text": "Thormas Benne, 1379: ibid. p. 218.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.66696,
+"x1": 0.90314,
+"y0": 0.53125,
+"y1": 0.54591,
+"text": "William Benne, vicar of Castor, co.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.80621,
+"y0": 0.54216,
+"y1": 0.55511,
+"text": "Norf., 1410 : FF. xi. 211.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.66614,
+"x1": 0.90314,
+"y0": 0.5517,
+"y1": 0.56602,
+"text": "Peter 'Benne, vicar of Rowdhan, co.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.80374,
+"y0": 0.56125,
+"y1": 0.57727,
+"text": "Norf., 143o : ibid. i. 435.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.66491,
+"x1": 0.90355,
+"y0": 0.57318,
+"y1": 0.58682,
+"text": "1634. Married-Anthony Beomont and",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.90314,
+"y0": 0.58273,
+"y1": 0.59739,
+"text": "Eliz. 'Benn: St. Thomas the Apostle",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.75322,
+"y0": 0.59364,
+"y1": 0.6083,
+"text": "(London), p. 15.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.66737,
+"x1": 0.90314,
+"y0": 0.60489,
+"y1": 0.61682,
+"text": "1662. 'Tempest Milner and Rebecca",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.90232,
+"y0": 0.61443,
+"y1": 0.62875,
+"text": "Benn : Marriage Alleg.(Canterbury),p. 78.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.66491,
+"x1": 0.90396,
+"y0": 0.62466,
+"y1": 0.6383,
+"text": "1771. Married-Richard Brooks and",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.65341,
+"x1": 0.88137,
+"y0": 0.6342,
+"y1": 0.6492,
+"text": "Sally Benn : St. Geo. Han. Sq. i. 205.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.66409,
+"x1": 0.9052,
+"y0": 0.64375,
+"y1": 0.66148,
+"text": "London, 3; MDB. (co. Cumb.), 9;",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65382,
+"x1": 0.75692,
+"y0": 0.65602,
+"y1": 0.66966,
+"text": "Philadelphia, 10.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.66861,
+"x1": 0.90355,
+"y0": 0.6717,
+"y1": 0.68602,
+"text": "Bennet, Bennett.--Bapt. ‘ the",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.65259,
+"x1": 0.90355,
+"y0": 0.68364,
+"y1": 0.70136,
+"text": "son of Bennet,' i.e. Benedict, q.v.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.90314,
+"y0": 0.69932,
+"y1": 0.71295,
+"text": "Bennet was the usual English form.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65464,
+"x1": 0.90273,
+"y0": 0.71148,
+"y1": 0.7275,
+"text": "While Furness Abbey was admin-",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65382,
+"x1": 0.90314,
+"y0": 0.72648,
+"y1": 0.73841,
+"text": "istrated under  the   Benedictine",
+"conf": 0.949
+},
+{
+"column": 3,
+"x0": 0.65505,
+"x1": 0.90273,
+"y0": 0.73977,
+"y1": 0.75239,
+"text": "Order, Bennet was one of the",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65464,
+"x1": 0.90273,
+"y0": 0.75375,
+"y1": 0.76534,
+"text": "commonest of baptismal names in",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.90191,
+"y0": 0.765,
+"y1": 0.78102,
+"text": "the surrounding district (v. Benn).",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65546,
+"x1": 0.90314,
+"y0": 0.7783,
+"y1": 0.795,
+"text": "West, in his Hist. of Furness (pp.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65464,
+"x1": 0.90479,
+"y0": 0.79295,
+"y1": 0.80864,
+"text": "188, 6o, 29), records, anongst the",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65423,
+"x1": 0.90273,
+"y0": 0.80523,
+"y1": 0.82125,
+"text": "benefactors of  the  Abbey and",
+"conf": 0.947
+},
+{
+"column": 3,
+"x0": 0.65546,
+"x1": 0.9052,
+"y0": 0.81989,
+"y1": 0.83386,
+"text": "Conishead Priory, ‘Benct, son of",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.65587,
+"x1": 0.89945,
+"y0": 0.83352,
+"y1": 0.84784,
+"text": "Alan,’‘Benet Penington' (1290),",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65505,
+"x1": 0.90232,
+"y0": 0.84716,
+"y1": 0.86148,
+"text": "Benet de Rotington' (i256), and",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.65752,
+"x1": 0.90396,
+"y0": 0.85875,
+"y1": 0.87682,
+"text": "Benet, son of William' (ia56).",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.69695,
+"x1": 0.90027,
+"y0": 0.91568,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.993
+}
+]

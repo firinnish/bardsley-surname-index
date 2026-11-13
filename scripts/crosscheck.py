@@ -18,10 +18,12 @@ def name_words(name):
     return [w for w in re.findall(r"[^\W\d_]+", name) if w.lower() not in SKIP and len(w) > 1]
 
 
-def years(text):
-    # OCR often reads old-style figures as letters: 18o2, 161o, 157!
-    t = text.translate(str.maketrans({"o": "0", "O": "0", "l": "1", "I": "1", "!": "1", "z": "2", "S": "5"}))
-    return set(re.findall(r"\b1[0-9]{3}\b", t))
+def years(text, ocr=False):
+    # OCR often reads old-style figures as letters (18o2, 161o, 157!), so only OCR text gets that repair;
+    # applying it to the transcription would turn ordinary words into false "years".
+    if ocr:
+        text = text.translate(str.maketrans({"o": "0", "O": "0", "l": "1", "I": "1", "!": "1", "z": "2", "S": "5"}))
+    return set(re.findall(r"\b1[0-9]{3}\b", text))
 
 
 CONFUSIONS = [("rn", "m"), ("vv", "w"), ("li", "h"), ("c", "e"), ("h", "b"), ("i", "l"), ("I", "l"), ("1", "l"),
@@ -70,10 +72,13 @@ for path in sorted(glob.glob(os.path.join(ROOT, "data", "raw", "p*.json"))):
             # The OCR read a similar but genuinely different word (not just a letter it often confuses).
             if score >= 0.6 and len(best) >= len(w) - 1 and blur(best) != blur(w):
                 issues.append((page, r["column"], name, "name", w, best, r["record_text"]))
-        printed = years(r["record_text"])  # skip "ibid." lines whose year is inherited, not printed
-        for y in printed - years(text):
-            if years(text):
-                issues.append((page, r["column"], name, "year", y, " ".join(sorted(years(text))), r["record_text"]))
+        # The record's own date, where it is actually printed on the line ("ibid." lines inherit theirs;
+        # other years in the line, such as a source's date range, are not the record's date).
+        printed = years(r["date"]) & years(r["record_text"])
+        seen = years(text, ocr=True)
+        for y in printed - seen:
+            if seen:
+                issues.append((page, r["column"], name, "year", y, " ".join(sorted(seen)), r["record_text"]))
 
 with open(os.path.join(ROOT, "data", "review.csv"), "w", encoding="utf-8-sig", newline="") as f:
     w = csv.writer(f)

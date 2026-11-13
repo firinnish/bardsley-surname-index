@@ -1,0 +1,1739 @@
+[
+{
+"column": 1,
+"x0": 0.19976,
+"x1": 0.30704,
+"y0": 0.07705,
+"y1": 0.08898,
+"text": "BENTHAM",
+"conf": 0.921
+},
+{
+"column": 1,
+"x0": 0.14303,
+"x1": 0.3761,
+"y0": 0.105,
+"y1": 0.11727,
+"text": "Bentham.-Local, ‘of Ben-",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.12741,
+"x1": 0.37692,
+"y0": 0.11727,
+"y1": 0.13227,
+"text": "tham,' a parish in West Rid. Yorks,",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.12864,
+"x1": 0.37775,
+"y0": 0.13227,
+"y1": 0.14386,
+"text": "twelve miles from Settle. Most of",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12741,
+"x1": 0.37692,
+"y0": 0.14557,
+"y1": 0.1575,
+"text": "the Benthams in the Dict. Nat.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.37651,
+"y0": 0.15852,
+"y1": 0.17284,
+"text": "Biog. are referred back to a York-",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.127,
+"x1": 0.24497,
+"y0": 0.17318,
+"y1": 0.18648,
+"text": "shire parentage.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.37733,
+"y0": 0.18682,
+"y1": 0.20148,
+"text": "Johannes de Bentham, 1379: P. T.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.127,
+"x1": 0.21127,
+"y0": 0.19841,
+"y1": 0.21068,
+"text": "Yorks. p. 28g.",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.3465,
+"y0": 0.20795,
+"y1": 0.22227,
+"text": "Ricardus de Bentham, 1379 : ibid.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.34363,
+"y0": 0.21886,
+"y1": 0.23386,
+"text": "Thomas de Bentham, 1379 : ibid.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14262,
+"x1": 0.3798,
+"y0": 0.23455,
+"y1": 0.24852,
+"text": "All three were inhabitants of",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.19647,
+"y0": 0.24886,
+"y1": 0.2625,
+"text": "Bentham.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13933,
+"x1": 0.3798,
+"y0": 0.26352,
+"y1": 0.27648,
+"text": "1576. Buried-Margaret, _doughter of",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.37816,
+"y0": 0.27443,
+"y1": 0.28636,
+"text": "Sir Edwarde Bentaine: St. Dionis Back.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12741,
+"x1": 0.21579,
+"y0": 0.28489,
+"y1": 0.29818,
+"text": "church, P. 194.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.1381,
+"x1": 0.37939,
+"y0": 0.2925,
+"y1": 0.30955,
+"text": "1758. Married-- Matthew Bentham and",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.15659,
+"x1": 0.35349,
+"y0": 0.30682,
+"y1": 0.31364,
+"text": "oahTayle Han. SS丫",
+"conf": 0.523
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.37733,
+"y0": 0.31557,
+"y1": 0.3292,
+"text": "London, ? : West Riding Court Dir., 3:",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12535,
+"x1": 0.23059,
+"y0": 0.32477,
+"y1": 0.34045,
+"text": "Boston (U.S.), 2.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.1418,
+"x1": 0.37446,
+"y0": 0.34523,
+"y1": 0.36023,
+"text": "Bentley.Local, ‘of Bentley,",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.127,
+"x1": 0.37775,
+"y0": 0.35989,
+"y1": 0.37318,
+"text": "parishes in cos. Suffolk, Hants,",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12905,
+"x1": 0.37898,
+"y0": 0.3725,
+"y1": 0.38716,
+"text": "Warwick, Derby, and Essex ; also",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.37816,
+"y0": 0.38545,
+"y1": 0.4008,
+"text": "many small hamlets  in i various",
+"conf": 0.857
+},
+{
+"column": 1,
+"x0": 0.127,
+"x1": 0.37857,
+"y0": 0.40011,
+"y1": 0.41307,
+"text": "counties. In general the surname",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.37775,
+"y0": 0.41341,
+"y1": 0.4267,
+"text": "is literally Benet-legh, i.e.' the feld",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.37733,
+"y0": 0.42705,
+"y1": 0.44068,
+"text": "of Benedict,' the first occupier ; v.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12741,
+"x1": 0.18496,
+"y0": 0.44034,
+"y1": 0.4533,
+"text": "Bennet.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.37816,
+"y0": 0.45398,
+"y1": 0.47102,
+"text": "John de Bentelege, co. Derby, 1273. A.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.35555,
+"y0": 0.46489,
+"y1": 0.4792,
+"text": "Roger de Benetleye, co. York, ibid.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.37651,
+"y0": 0.47511,
+"y1": 0.4908,
+"text": "William de Benetleg, co. Salop, Hen.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.22689,
+"y0": 0.4867,
+"y1": 0.49864,
+"text": "I11-Edw. I. K.",
+"conf": 0.883
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.35432,
+"y0": 0.49659,
+"y1": 0.50989,
+"text": "William de Bentlee, co. Salop, ibid.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.33993,
+"y0": 0.50682,
+"y1": 0.52011,
+"text": "Simon de Benetl', co. York, ibid.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.37487,
+"y0": 0.51693,
+"y1": 0.53159,
+"text": "Alicia de Benteley, 1379: P. T. Yorks.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.16769,
+"y0": 0.53057,
+"y1": 0.54011,
+"text": "p. 300.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.1381,
+"x1": 0.37446,
+"y0": 0.53773,
+"y1": 0.55205,
+"text": "Richari dc Benteley, co. York, 20 Edw.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.12577,
+"x1": 0.1644,
+"y0": 0.54898,
+"y1": 0.56023,
+"text": "1.  R.",
+"conf": 0.873
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.36829,
+"y0": 0.55852,
+"y1": 0.5725,
+"text": "Willian dc Benetely, co. Bucks, ibid.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.13933,
+"x1": 0.37528,
+"y0": 0.56977,
+"y1": 0.58375,
+"text": "Ricardus de Benteky, carpeniar, 1379 :",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.24826,
+"y0": 0.57966,
+"y1": 0.59364,
+"text": "P. T. Yorks. p. 194.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.37651,
+"y0": 0.59057,
+"y1": 0.60284,
+"text": "158o. Edward 'Bentley, co. Warw. :",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.33869,
+"y0": 0.60045,
+"y1": 0.61477,
+"text": "Reg. Univ. Orf. vol. ii. pt. ii. p. 91.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.13892,
+"x1": 0.37651,
+"y0": 0.61205,
+"y1": 0.62398,
+"text": "1786. Married-- John Ostler and Abigail",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12577,
+"x1": 0.33664,
+"y0": 0.62125,
+"y1": 0.63489,
+"text": "Bentley : St. Geo. Han. Sq. i. 385.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.1381,
+"x1": 0.37569,
+"y0": 0.63182,
+"y1": 0.64511,
+"text": "London, 29: West Riding Court Dir.,",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12577,
+"x1": 0.24456,
+"y0": 0.64273,
+"y1": 0.6567,
+"text": "24 ; New York, 25.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.14262,
+"x1": 0.37446,
+"y0": 0.66148,
+"y1": 0.67477,
+"text": "Benwell.--Local, ‘of Benwell,",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.37692,
+"y0": 0.67545,
+"y1": 0.68977,
+"text": "a township in the parish of St. John,",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.27498,
+"y0": 0.68807,
+"y1": 0.70273,
+"text": "Newcastle-on-Tyne.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13769,
+"x1": 0.37857,
+"y0": 0.7017,
+"y1": 0.71909,
+"text": "1543-4. Walter Benwell and Johanna",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.37569,
+"y0": 0.71489,
+"y1": 0.72784,
+"text": "Barnes : Marriage Lic. (Facuity Office),",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12535,
+"x1": 0.15454,
+"y0": 0.72614,
+"y1": 0.73909,
+"text": "p. 2.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.2943,
+"x1": 0.37651,
+"y0": 0.7358,
+"y1": 0.74432,
+"text": "Benwell and",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.3761,
+"y0": 0.74591,
+"y1": 0.75989,
+"text": "Margaret Alsop: St. Geo. Chap. Mayfair,",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.16687,
+"y0": 0.7592,
+"y1": 0.76875,
+"text": "P.249.",
+"conf": 0.91
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.31773,
+"y0": 0.76705,
+"y1": 0.78,
+"text": "London, 9; Boston (U.S.), 1.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.14139,
+"x1": 0.37446,
+"y0": 0.7875,
+"y1": 0.8025,
+"text": "Benyon, Binyon, Pinnion,",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12618,
+"x1": 0.37692,
+"y0": 0.80182,
+"y1": 0.81648,
+"text": "Pinyon.-Bapt. Ap-Eignion, or",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.12741,
+"x1": 0.37692,
+"y0": 0.8158,
+"y1": 0.82943,
+"text": "Eignon, or Enion, i.e. ‘the son of",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.12659,
+"x1": 0.37651,
+"y0": 0.82943,
+"y1": 0.84341,
+"text": "Eignion,' &c. A once popular name",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12453,
+"x1": 0.37569,
+"y0": 0.8417,
+"y1": 0.85636,
+"text": "in the Principality. 'St. Einiawn",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12577,
+"x1": 0.3761,
+"y0": 0.85602,
+"y1": 0.87,
+"text": "was one of the early saints of the",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.50451,
+"x1": 0.52629,
+"y0": 0.07534,
+"y1": 0.09068,
+"text": "96",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.63888,
+"y0": 0.10398,
+"y1": 0.11898,
+"text": "Cymry, after whom is named a",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38658,
+"x1": 0.63601,
+"y0": 0.11761,
+"y1": 0.13227,
+"text": "spring at Llanvareth, in Radnor-",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38658,
+"x1": 0.63559,
+"y0": 0.13193,
+"y1": 0.14625,
+"text": "shire (Yonge, ii. 161); v. Eynon",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.63724,
+"y0": 0.14523,
+"y1": 0.15886,
+"text": "and Baynham, and cf. Bevan for",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.38864,
+"x1": 0.61793,
+"y0": 0.15852,
+"y1": 0.17216,
+"text": "Ap-Evan, Bowen for Ap-Owen.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40055,
+"x1": 0.63601,
+"y0": 0.17386,
+"y1": 0.18648,
+"text": "Joane Howell ap Eignion : Visit. Glonc.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38699,
+"x1": 0.42808,
+"y0": 0.18443,
+"y1": 0.19739,
+"text": "p. 188.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.40055,
+"x1": 0.57971,
+"y0": 0.19432,
+"y1": 0.20727,
+"text": "Raffe ap Eignon : ibid. p. 12.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40055,
+"x1": 0.63724,
+"y0": 0.20455,
+"y1": 0.21852,
+"text": "Ennian'fl. Kenewrec, 7 Hen. I1l : Pipe",
+"conf": 0.916
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.46014,
+"y0": 0.21443,
+"y1": 0.22943,
+"text": "Roll, iv. 39.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39932,
+"x1": 0.5719,
+"y0": 0.22432,
+"y1": 0.24102,
+"text": "David ap Eynon, 1313. M.",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.40137,
+"x1": 0.58875,
+"y0": 0.23489,
+"y1": 0.25023,
+"text": "Meredith ap Eynon, i322, ibid.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40014,
+"x1": 0.62738,
+"y0": 0.2458,
+"y1": 0.26045,
+"text": "Rwrith ab Eynon, 23 Edw. I.  BBB.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.40179,
+"x1": 0.63683,
+"y0": 0.25773,
+"y1": 0.26864,
+"text": "162o-1. Married--George Benyon and",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.38987,
+"x1": 0.63765,
+"y0": 0.26625,
+"y1": 0.28057,
+"text": "Alice Weste: St. Dionis Backchurch, p. 20.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.40137,
+"x1": 0.63929,
+"y0": 0.27784,
+"y1": 0.29011,
+"text": "166s. Bapt.-Robert, 8. of Thomas",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38823,
+"x1": 0.62902,
+"y0": 0.28693,
+"y1": 0.30193,
+"text": "Byneyon': St. Mary Aldermary, p. 101.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.40589,
+"x1": 0.63683,
+"y0": 0.29864,
+"y1": 0.31227,
+"text": "Sunday Preachers, Finsbury Park",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38905,
+"x1": 0.63765,
+"y0": 0.30841,
+"y1": 0.32136,
+"text": "ChapelRev. T. Enyon Davies, 6.30':",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38864,
+"x1": 0.63724,
+"y0": 0.31898,
+"y1": 0.33125,
+"text": "Pall Mall Gazette, Saturday, June I1, 1887.",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.39891,
+"x1": 0.6397,
+"y0": 0.32784,
+"y1": 0.3442,
+"text": "London, I, 2.1,I: MDB. (Denbigh;",
+"conf": 0.885
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.63847,
+"y0": 0.33943,
+"y1": 0.35341,
+"text": "Bennion, 2;'(Flint) Benyon, 1; Boston",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38864,
+"x1": 0.49095,
+"y0": 0.35,
+"y1": 0.36466,
+"text": "(U.S.), 1, 0, 0, 0.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.40343,
+"x1": 0.63642,
+"y0": 0.36739,
+"y1": 0.38068,
+"text": "Bereeford.-Local, ‘ of Beres-",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.3874,
+"x1": 0.63847,
+"y0": 0.38,
+"y1": 0.39636,
+"text": "ford,' a manor and township in",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38905,
+"x1": 0.63724,
+"y0": 0.39466,
+"y1": 0.40864,
+"text": "Astonfield, co. Stafford, possessed",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38905,
+"x1": 0.63765,
+"y0": 0.4083,
+"y1": 0.42193,
+"text": "by the ancestors of the several",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.3874,
+"x1": 0.63683,
+"y0": 0.42091,
+"y1": 0.43557,
+"text": "noble families of this name (Lower,",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.51602,
+"y0": 0.4342,
+"y1": 0.44989,
+"text": "Patr. Brit. p. 26).",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.40014,
+"x1": 0.63642,
+"y0": 0.45057,
+"y1": 0.46216,
+"text": "William de Boreaforde, co. Soms., 1",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.3874,
+"x1": 0.58423,
+"y0": 0.45977,
+"y1": 0.47443,
+"text": "Edw. Ill : Kirby's Quest, p. 233.",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.40055,
+"x1": 0.63477,
+"y0": 0.47102,
+"y1": 0.4833,
+"text": "William de \"Beresford, co. Camb.,",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.38699,
+"x1": 0.44411,
+"y0": 0.48227,
+"y1": 0.49523,
+"text": "1273. A.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39932,
+"x1": 0.63518,
+"y0": 0.49216,
+"y1": 0.50409,
+"text": "1612. Michael Beresford, co. Herts,",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.60272,
+"y0": 0.50159,
+"y1": 0.51625,
+"text": "Reg. Univ. Oxf. yol. ii. pt. ji. p. 327.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39891,
+"x1": 0.63642,
+"y0": 0.51216,
+"y1": 0.52614,
+"text": "1647. Christopher Beresford and Mary",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.63559,
+"y0": 0.52273,
+"y1": 0.53739,
+"text": "Morgan : Marriage Lic. (Faculty Ofice),",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.3948,
+"x1": 0.41863,
+"y0": 0.53807,
+"y1": 0.54693,
+"text": "·37.",
+"conf": 0.859
+},
+{
+"column": 2,
+"x0": 0.39891,
+"x1": 0.56985,
+"y0": 0.54284,
+"y1": 0.55818,
+"text": "London, 8 ; Philadelphia, 3.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.4022,
+"x1": 0.63765,
+"y0": 0.56125,
+"y1": 0.57591,
+"text": "Berger, Bercher.--Occup. ‘a",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.63806,
+"y0": 0.57455,
+"y1": 0.5892,
+"text": "shepherd'; Fr. berger. 'Bercaria or",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.63559,
+"y0": 0.58818,
+"y1": 0.60386,
+"text": "Berceria (Old Law), a sheep-pen,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38576,
+"x1": 0.63559,
+"y0": 0.60148,
+"y1": 0.61716,
+"text": "or sheep-fold '(Bailey's Dict. 1742).",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.62984,
+"y0": 0.61545,
+"y1": 0.63045,
+"text": ": Bergeret, a  pastoral song",
+"conf": 0.534
+},
+{
+"column": 2,
+"x0": 0.38987,
+"x1": 0.63724,
+"y0": 0.62773,
+"y1": 0.64409,
+"text": "(Chaucer). A statute, 37 Edw.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38699,
+"x1": 0.63765,
+"y0": 0.64102,
+"y1": 0.65909,
+"text": "111, c. 14 (1363), speaks of * bovers,",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.38781,
+"x1": 0.63436,
+"y0": 0.6567,
+"y1": 0.66966,
+"text": "vachers, berchers, porchers, &c.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.38905,
+"x1": 0.61423,
+"y0": 0.67,
+"y1": 0.68295,
+"text": "(v. full quctation under * Day').",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.40055,
+"x1": 0.63929,
+"y0": 0.68227,
+"y1": 0.7,
+"text": "Henry. le Bercher, Close Roll, 45",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.38864,
+"x1": 0.4437,
+"y0": 0.69557,
+"y1": 0.70682,
+"text": "Hen. I11.",
+"conf": 0.906
+},
+{
+"column": 2,
+"x0": 0.39973,
+"x1": 0.63477,
+"y0": 0.70568,
+"y1": 0.71898,
+"text": "Thomas le Bercher, co. Lanc., 2o Edw.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.40836,
+"x1": 0.42562,
+"y0": 0.71727,
+"y1": 0.72648,
+"text": "R.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39891,
+"x1": 0.63642,
+"y0": 0.72511,
+"y1": 0.74011,
+"text": "Dorken le Bercher, co. Camb., I273. A.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40014,
+"x1": 0.60601,
+"y0": 0.73602,
+"y1": 0.74932,
+"text": "Richard le Bercher, co. Oxf., ibid.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39973,
+"x1": 0.58998,
+"y0": 0.74727,
+"y1": 0.75989,
+"text": "Ivo Ie Bercher, co. Camb., ibid.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.39973,
+"x1": 0.63518,
+"y0": 0.7575,
+"y1": 0.77045,
+"text": "Walter le Bercher, co. Soins., 1 Edw.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38699,
+"x1": 0.55136,
+"y0": 0.76739,
+"y1": 0.78136,
+"text": "I1I : Kirby's Quest, p. 148.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.3985,
+"x1": 0.63724,
+"y0": 0.77727,
+"y1": 0.79193,
+"text": "1753. Married--John Paul Berger and",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.63559,
+"y0": 0.78784,
+"y1": 0.80352,
+"text": "Betty Billington : St. Geo. Chap. Mayfair,",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.42726,
+"y0": 0.8008,
+"y1": 0.81273,
+"text": "P. 256.",
+"conf": 0.918
+},
+{
+"column": 2,
+"x0": 0.39809,
+"x1": 0.63683,
+"y0": 0.80898,
+"y1": 0.82466,
+"text": "London, 13, 0 ; Crockford, 2, 0; Boston",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.45726,
+"y0": 0.82023,
+"y1": 0.83455,
+"text": "(U.S.), 6, 0.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.40137,
+"x1": 0.60272,
+"y0": 0.83625,
+"y1": 0.85159,
+"text": "Berghman; v. Berryman.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.40261,
+"x1": 0.57149,
+"y0": 0.85398,
+"y1": 0.87034,
+"text": "Berkeley ; v. Barclay.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.72336,
+"x1": 0.82078,
+"y0": 0.0767,
+"y1": 0.08898,
+"text": "BERRALL",
+"conf": 0.868
+},
+{
+"column": 3,
+"x0": 0.66375,
+"x1": 0.896,
+"y0": 0.10364,
+"y1": 0.11864,
+"text": "Bernard,  Bernardin.--Bapt.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.64895,
+"x1": 0.89682,
+"y0": 0.11761,
+"y1": 0.13193,
+"text": "'the son of Bernard,' dim. Ber-",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64936,
+"x1": 0.7957,
+"y0": 0.13261,
+"y1": 0.14352,
+"text": "nard-in ; v. Barnard.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.89518,
+"y0": 0.14591,
+"y1": 0.16091,
+"text": "Walter fl. Bernardi, 1214. RRR.p. 156.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65964,
+"x1": 0.84873,
+"y0": 0.1558,
+"y1": 0.17216,
+"text": "William fil. Bernard, 1273. A.",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.65964,
+"x1": 0.81173,
+"y0": 0.16739,
+"y1": 0.18034,
+"text": "Bernard Coronator, ibid.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.89682,
+"y0": 0.17591,
+"y1": 0.1933,
+"text": "1581. Abel Bernarde, co. Oxf.: Reg.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64772,
+"x1": 0.83023,
+"y0": 0.18784,
+"y1": 0.20148,
+"text": "Univ. Oxf. vol. ii. pt. i. p. 106.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.89518,
+"y0": 0.19807,
+"y1": 0.21205,
+"text": "1595. Benjamin' Bernarde or Barnarde,",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.78995,
+"y0": 0.2083,
+"y1": 0.22159,
+"text": "of London, ibid. p. 110.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.65964,
+"x1": 0.89723,
+"y0": 0.21886,
+"y1": 0.23216,
+"text": "1753. Married---Francis Bernard and",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.6469,
+"x1": 0.89559,
+"y0": 0.22909,
+"y1": 0.24375,
+"text": "Sarah Bleamire: St. Geo. Chap. Mayfair,",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64772,
+"x1": 0.68924,
+"y0": 0.24239,
+"y1": 0.25261,
+"text": "P. 245.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.66005,
+"x1": 0.86147,
+"y0": 0.24989,
+"y1": 0.26455,
+"text": "London, 10, I ; New York, 36, 0.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.66375,
+"x1": 0.89765,
+"y0": 0.26591,
+"y1": 0.28023,
+"text": "Berner, Burner.--Occup.' the",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64813,
+"x1": 0.89806,
+"y0": 0.27909,
+"y1": 0.29443,
+"text": "Berner' (cf. Ventrer), one who had",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64895,
+"x1": 0.89723,
+"y0": 0.29273,
+"y1": 0.30807,
+"text": "chargc of fresh relays of dogs in",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64854,
+"x1": 0.89682,
+"y0": 0.30636,
+"y1": 0.32136,
+"text": "hunting, a huntsman. O.F. brenier,",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64895,
+"x1": 0.89682,
+"y0": 0.31932,
+"y1": 0.335,
+"text": "bermier, berner ; Godefroy, i. 727",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64895,
+"x1": 0.89641,
+"y0": 0.33295,
+"y1": 0.34966,
+"text": "A). Notes and Queries, p. 370, 1885).",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.65019,
+"x1": 0.89847,
+"y0": 0.34727,
+"y1": 0.36091,
+"text": "Special mention of the ‘berner ' is",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.64813,
+"x1": 0.89682,
+"y0": 0.35989,
+"y1": 0.37455,
+"text": "made in a hunting record, 5 Hen.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.64936,
+"x1": 0.89682,
+"y0": 0.37318,
+"y1": 0.38784,
+"text": "III (Rot. Litt. Claus. i. 462; N. and",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.67074,
+"x1": 0.89682,
+"y0": 0.38784,
+"y1": 0.40114,
+"text": "above). The ‘yeoman-berner '",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.64608,
+"x1": 0.89682,
+"y0": 0.39909,
+"y1": 0.4158,
+"text": "is mentioned in the Parliamentary",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64895,
+"x1": 0.69335,
+"y0": 0.41409,
+"y1": 0.42636,
+"text": "Rolls.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.89518,
+"y0": 0.42841,
+"y1": 0.44375,
+"text": "Richard le Berner, co. Linc., 20 Edw.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.6691,
+"x1": 0.68513,
+"y0": 0.44034,
+"y1": 0.44989,
+"text": "R.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65882,
+"x1": 0.89025,
+"y0": 0.44886,
+"y1": 0.46523,
+"text": "Geoffrey Berner, co. Bucks 1273., A.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.66005,
+"x1": 0.86887,
+"y0": 0.45977,
+"y1": 0.47409,
+"text": "Reginald le Birner, co. Wilts, ibid.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65841,
+"x1": 0.85407,
+"y0": 0.46864,
+"y1": 0.48602,
+"text": "Walter le Berner, co. Oxf., ibid.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.66046,
+"x1": 0.83763,
+"y0": 0.48057,
+"y1": 0.49523,
+"text": "Hugh Berner, co. Linc., ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.71308,
+"x1": 0.896,
+"y0": 0.49216,
+"y1": 0.50511,
+"text": "Brynner, Patent Roll, 20",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64772,
+"x1": 0.70157,
+"y0": 0.50057,
+"y1": 0.5142,
+"text": "Edw. 11.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.74062,
+"x1": 0.89477,
+"y0": 0.51841,
+"y1": 0.52966,
+"text": "account of this word",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.79858,
+"y0": 0.53295,
+"y1": 0.54523,
+"text": "and name, v. H.E.D.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.77515,
+"y0": 0.54727,
+"y1": 0.56261,
+"text": "Philadelphia, 10, 2.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.66211,
+"x1": 0.89888,
+"y0": 0.56364,
+"y1": 0.57898,
+"text": "Berney, Burney.--Local, ‘of",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64525,
+"x1": 0.90011,
+"y0": 0.57455,
+"y1": 0.59364,
+"text": "Berney,' a town in the hundred of",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.8438,
+"y0": 0.59091,
+"y1": 0.60591,
+"text": "North Greenhow, co. Norf.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65841,
+"x1": 0.896,
+"y0": 0.60864,
+"y1": 0.62227,
+"text": "Henry de Berney, co. Norf., 1268 : FF.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64731,
+"x1": 0.69047,
+"y0": 0.61989,
+"y1": 0.63216,
+"text": "xi. 123.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.66005,
+"x1": 0.89559,
+"y0": 0.62943,
+"y1": 0.64307,
+"text": "Adam de Berney, co. Norf., 15 Edw. I :",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64731,
+"x1": 0.72253,
+"y0": 0.64034,
+"y1": 0.65227,
+"text": "ibid. ix. 213.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.89641,
+"y0": 0.6492,
+"y1": 0.66455,
+"text": "Richard' de Berney, ，co.Norf.，48",
+"conf": 0.885
+},
+{
+"column": 3,
+"x0": 0.6469,
+"x1": 0.7883,
+"y0": 0.65909,
+"y1": 0.67409,
+"text": "Edw. 11I : ibid. xi. 124.",
+"conf": 0.912
+},
+{
+"column": 3,
+"x0": 0.65841,
+"x1": 0.89477,
+"y0": 0.67034,
+"y1": 0.68534,
+"text": "Sir Thomas de Berney, of Reedham,",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64567,
+"x1": 0.80392,
+"y0": 0.67989,
+"y1": 0.69557,
+"text": "co. Norf., 1389: ibid. 125.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65964,
+"x1": 0.89395,
+"y0": 0.69182,
+"y1": 0.70511,
+"text": "Roger Barney, vicar of Holm-by-the.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.84955,
+"y0": 0.7017,
+"y1": 0.71602,
+"text": "Sea, co. Norf., 1451 : ibid. x.334.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.65841,
+"x1": 0.89518,
+"y0": 0.71182,
+"y1": 0.72784,
+"text": "1591. Henry Barney, co. Norf. : Reg.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.83475,
+"y0": 0.7217,
+"y1": 0.73705,
+"text": "Univ. Ozf. vol. i. pt. ii. p. 184.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65923,
+"x1": 0.89559,
+"y0": 0.73375,
+"y1": 0.74693,
+"text": "1759. Toft and",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.89395,
+"y0": 0.74284,
+"y1": 0.75716,
+"text": "Ellenor Berney : St. Geo. Han. Sq. i. 83.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65964,
+"x1": 0.89353,
+"y0": 0.75443,
+"y1": 0.76705,
+"text": "1697. Bapt.Ann, d. John Burney: St.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.6469,
+"x1": 0.79899,
+"y0": 0.76432,
+"y1": 0.77727,
+"text": "Michael, Cornhill, p. 158.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66005,
+"x1": 0.89559,
+"y0": 0.77489,
+"y1": 0.78852,
+"text": "London, 0, 5; Crockford, I, 6; MDB.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.64731,
+"x1": 0.74021,
+"y0": 0.78511,
+"y1": 0.79977,
+"text": "(Norfolk), 3, 0.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.66211,
+"x1": 0.89723,
+"y0": 0.80045,
+"y1": 0.81443,
+"text": "Berrall, Berrill.--Local, ‘of",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.6469,
+"x1": 0.89395,
+"y0": 0.81545,
+"y1": 0.82841,
+"text": "Burghill,' a parish in co. Hereford,",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64731,
+"x1": 0.896,
+"y0": 0.82773,
+"y1": 0.8417,
+"text": "four miles : from Hereford. This",
+"conf": 0.94
+},
+{
+"column": 3,
+"x0": 0.64649,
+"x1": 0.89436,
+"y0": 0.84205,
+"y1": 0.85568,
+"text": "probably is also the source of the",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.64484,
+"x1": 0.89312,
+"y0": 0.855,
+"y1": 0.86932,
+"text": "Teferences to cos. Soms. and Devon.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.69705,
+"x1": 0.90011,
+"y0": 0.91568,
+"y1": 0.94841,
+"text": "Digitized by Google",
+"conf": 0.971
+}
+]

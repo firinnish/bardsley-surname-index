@@ -1,0 +1,1730 @@
+[
+{
+"column": 1,
+"x0": 0.22191,
+"x1": 0.2757,
+"y0": 0.075,
+"y1": 0.08864,
+"text": "BIRD",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13937,
+"x1": 0.37301,
+"y0": 0.10227,
+"y1": 0.11727,
+"text": "Bird.--Nick.'the bird, perhaps",
+"conf": 0.908
+},
+{
+"column": 1,
+"x0": 0.12377,
+"x1": 0.37589,
+"y0": 0.11625,
+"y1": 0.13261,
+"text": "from the singing propensities of",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12254,
+"x1": 0.37383,
+"y0": 0.12818,
+"y1": 0.14591,
+"text": "the original bearer ; cf. : He sings",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.37137,
+"y0": 0.14284,
+"y1": 0.15784,
+"text": "like a bird.' Also cf. Nightingale,",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12459,
+"x1": 0.31881,
+"y0": 0.15682,
+"y1": 0.17114,
+"text": "Sparrow, Finch, Lark, &c.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13568,
+"x1": 0.3377,
+"y0": 0.17182,
+"y1": 0.18614,
+"text": "David le Brid, co. Oxf.,1273. A.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.13814,
+"x1": 0.30321,
+"y0": 0.18307,
+"y1": 0.195,
+"text": "John le Brid, co. Oxf., ibid.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13609,
+"x1": 0.2991,
+"y0": 0.19227,
+"y1": 0.20591,
+"text": "Stefan Brid, 'co. Suff., ibid.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13691,
+"x1": 0.32333,
+"y0": 0.20318,
+"y1": 0.21648,
+"text": "Geoffrey Bryd, , co. Salop, ibid.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13609,
+"x1": 0.37301,
+"y0": 0.21375,
+"y1": 0.22602,
+"text": "Henry le Brid, co. Soms., 1 Edw. I11 :",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.12541,
+"x1": 0.25229,
+"y0": 0.22466,
+"y1": 0.23795,
+"text": "Kirby's Quest, P..92.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13322,
+"x1": 0.37425,
+"y0": 0.23352,
+"y1": 0.24955,
+"text": "Johannes Bridde, 1379: P. T. Yorks.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12541,
+"x1": 0.16442,
+"y0": 0.24886,
+"y1": 0.25739,
+"text": "p.204.",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.1365,
+"x1": 0.37425,
+"y0": 0.25398,
+"y1": 0.26898,
+"text": "1764. Married--George Bird and Ann",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.12295,
+"x1": 0.33318,
+"y0": 0.26455,
+"y1": 0.27955,
+"text": "Skinner : St. Geo. Han. Sq. i. 137.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13609,
+"x1": 0.32169,
+"y0": 0.27648,
+"y1": 0.28943,
+"text": "London, 92 ; Philadelphia, 70.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.1402,
+"x1": 0.37137,
+"y0": 0.29386,
+"y1": 0.3058,
+"text": "Birdsall, Beardsell, Beard.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12377,
+"x1": 0.37301,
+"y0": 0.30636,
+"y1": 0.32068,
+"text": "sall. -- Local,‘of Birstall' (?), a vil.",
+"conf": 0.907
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.37219,
+"y0": 0.31966,
+"y1": 0.335,
+"text": "lage parish near Dewsbury, Yorks.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13609,
+"x1": 0.37178,
+"y0": 0.33568,
+"y1": 0.3483,
+"text": "Robert de Bridsall, 1379 : P. T. Yorks.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12295,
+"x1": 0.16524,
+"y0": 0.34625,
+"y1": 0.36125,
+"text": "p. 236.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13568,
+"x1": 0.37342,
+"y0": 0.35511,
+"y1": 0.37011,
+"text": "1769.  John Beardsall and  Elizabeth",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.32867,
+"y0": 0.36602,
+"y1": 0.38,
+"text": "Austin : St. Geo. Han. Sq. i. 192.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.1365,
+"x1": 0.37383,
+"y0": 0.37795,
+"y1": 0.38989,
+"text": "Church Fenton (Yorks), 1, 0 o: West",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.12377,
+"x1": 0.37301,
+"y0": 0.38818,
+"y1": 0.40114,
+"text": "Riding Court Dir., O, 2, O ; Sheffield, O,",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.12295,
+"x1": 0.2872,
+"y0": 0.39739,
+"y1": 0.41273,
+"text": "O, I ; Philadelphia, 3, 0, 0.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.13896,
+"x1": 0.37055,
+"y0": 0.41511,
+"y1": 0.43045,
+"text": "Birdseye, Birdsey.-- Local,",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.37383,
+"y0": 0.42909,
+"y1": 0.44375,
+"text": "'of Birdsey.' cannot find the",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.12418,
+"x1": 0.37178,
+"y0": 0.44341,
+"y1": 0.45705,
+"text": "spot.  Manifestly Birdseye is imi-",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.12459,
+"x1": 0.37466,
+"y0": 0.45636,
+"y1": 0.47136,
+"text": "tative. But the meaning seems",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.37383,
+"y0": 0.46898,
+"y1": 0.48466,
+"text": "clear, the ‘Birdseye, i.c. the",
+"conf": 0.878
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.3726,
+"y0": 0.48295,
+"y1": 0.49795,
+"text": "islet or cyot in the stream fre-",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.125,
+"x1": 0.25517,
+"y0": 0.49716,
+"y1": 0.51045,
+"text": "quented by birds.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13691,
+"x1": 0.3726,
+"y0": 0.51182,
+"y1": 0.52443,
+"text": "166s. William Wakeling _and Mary",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.3726,
+"y0": 0.5217,
+"y1": 0.53705,
+"text": "Birdsey : Marriage Alleg. (Canterbury),",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12418,
+"x1": 0.16565,
+"y0": 0.53398,
+"y1": 0.54557,
+"text": "p. 134.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.1365,
+"x1": 0.37342,
+"y0": 0.5425,
+"y1": 0.55648,
+"text": "1675. Bapt. -- Edward Birdsey: St.",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.12459,
+"x1": 0.29007,
+"y0": 0.55341,
+"y1": 0.56568,
+"text": "Dionis Backchurch, p. l21.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13691,
+"x1": 0.37342,
+"y0": 0.56227,
+"y1": 0.5783,
+"text": "1687. Buried--Anne Birdsey : ibid.p.254.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13979,
+"x1": 0.37342,
+"y0": 0.57932,
+"y1": 0.5933,
+"text": "The index under'Birdsey' refers",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.12295,
+"x1": 0.29623,
+"y0": 0.59159,
+"y1": 0.60898,
+"text": "the reader to ' Budsey.'",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13814,
+"x1": 0.37342,
+"y0": 0.60898,
+"y1": 0.62091,
+"text": "1652. Married - Francis Burgis and",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12377,
+"x1": 0.37301,
+"y0": 0.61852,
+"y1": 0.6325,
+"text": "Eliza Budsey: St. Dionis Backchurch,",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12459,
+"x1": 0.15867,
+"y0": 0.63045,
+"y1": 0.64239,
+"text": "p. 28.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.13568,
+"x1": 0.37383,
+"y0": 0.63795,
+"y1": 0.65364,
+"text": "1753. - William Birdseye and Eliz.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12418,
+"x1": 0.36644,
+"y0": 0.64955,
+"y1": 0.6642,
+"text": "Drane : St. Geo. Chap. Mayfair, P. 231.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.13609,
+"x1": 0.37342,
+"y0": 0.65943,
+"y1": 0.67443,
+"text": "London, 3 I ; MDB. (co. Bedford), 0,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.125,
+"x1": 0.36193,
+"y0": 0.67068,
+"y1": 0.68466,
+"text": "2 ; New York, 4, o; Philadelphia, 1, 0.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.14102,
+"x1": 0.37383,
+"y0": 0.6867,
+"y1": 0.69966,
+"text": "Birdwhistle.--Local. A some-",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12459,
+"x1": 0.37589,
+"y0": 0.70068,
+"y1": 0.715,
+"text": "what pretty imitative corruption of",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12459,
+"x1": 0.24203,
+"y0": 0.71216,
+"y1": 0.72955,
+"text": "Birtwhistle, q.v.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13773,
+"x1": 0.22725,
+"y0": 0.7292,
+"y1": 0.74216,
+"text": "Manchester, 1.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13979,
+"x1": 0.37178,
+"y0": 0.7442,
+"y1": 0.75818,
+"text": "Birkbeck, Birbeck.--Local,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.12418,
+"x1": 0.37425,
+"y0": 0.75784,
+"y1": 0.77284,
+"text": "'of Birkbeck,’ so called from the",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.125,
+"x1": 0.37301,
+"y0": 0.77114,
+"y1": 0.7858,
+"text": "beckorstreamlet that fowed through",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.125,
+"x1": 0.37342,
+"y0": 0.78511,
+"y1": 0.79875,
+"text": "the birks or birch-trees (v. Birks",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12377,
+"x1": 0.37425,
+"y0": 0.79841,
+"y1": 0.81273,
+"text": "and Beck). A Cumberland sur-",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.12336,
+"x1": 0.37466,
+"y0": 0.8117,
+"y1": 0.82636,
+"text": "name. Of course, Birkbeck was",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12295,
+"x1": 0.37342,
+"y0": 0.82398,
+"y1": 0.8417,
+"text": "too big a mouthful for ordinary",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12377,
+"x1": 0.37466,
+"y0": 0.83898,
+"y1": 0.855,
+"text": "and current usage, and Birbeck",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12541,
+"x1": 0.23176,
+"y0": 0.8533,
+"y1": 0.86659,
+"text": "took its place.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.49388,
+"x1": 0.52426,
+"y0": 0.07398,
+"y1": 0.09034,
+"text": "104",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39742,
+"x1": 0.63344,
+"y0": 0.10227,
+"y1": 0.11489,
+"text": "Adam Byrkbeke、 sup. for M.A., 16",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38429,
+"x1": 0.63015,
+"y0": 0.11216,
+"y1": 0.1275,
+"text": "June, 1507: Reg. Univ. Oxf. vol. i. p. 54.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.39824,
+"x1": 0.63262,
+"y0": 0.12341,
+"y1": 0.13636,
+"text": "1583.. Humphrey Byrkbecke (co.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.38388,
+"x1": 0.61127,
+"y0": 0.13261,
+"y1": 0.14761,
+"text": "Westm.), Queen's Coll. : ibid. p. I27.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.3966,
+"x1": 0.63057,
+"y0": 0.14318,
+"y1": 0.15682,
+"text": "160o. Symond Birkebecke(co. Westm.),",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.55052,
+"y0": 0.15341,
+"y1": 0.16841,
+"text": "Queen's Coll. : ibid. p. 243.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.3966,
+"x1": 0.63344,
+"y0": 0.16364,
+"y1": 0.17761,
+"text": "1771. Married--Thomas Birkbeck and",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38429,
+"x1": 0.63221,
+"y0": 0.1742,
+"y1": 0.18852,
+"text": "Susannah Evratt: St. Geo. Han. Sq.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38388,
+"x1": 0.42041,
+"y0": 0.18614,
+"y1": 0.19875,
+"text": "i. 213.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.39496,
+"x1": 0.63344,
+"y0": 0.19432,
+"y1": 0.21273,
+"text": "London, 3: 5; MDB.(co. Cumberland),",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38306,
+"x1": 0.51605,
+"y0": 0.20591,
+"y1": 0.21955,
+"text": "O, +; New York, I, I.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.4003,
+"x1": 0.63057,
+"y0": 0.22227,
+"y1": 0.23489,
+"text": "Birkenhead.--Local,  of Birk-",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38552,
+"x1": 0.63303,
+"y0": 0.23557,
+"y1": 0.24989,
+"text": "enhcad,' co. Chester. The meaning",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.63015,
+"y0": 0.24989,
+"y1": 0.26182,
+"text": "is ‘the head of the birch-trees'",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.63385,
+"y0": 0.2625,
+"y1": 0.27648,
+"text": "cf. Aikenhead, and v. Birkett and",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38511,
+"x1": 0.45612,
+"y0": 0.27602,
+"y1": 0.28864,
+"text": "Birkhead.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39742,
+"x1": 0.63385,
+"y0": 0.29102,
+"y1": 0.30432,
+"text": "Edward Birkenhead,ofRuncom,16o7:",
+"conf": 0.92
+},
+{
+"column": 2,
+"x0": 0.38552,
+"x1": 0.59855,
+"y0": 0.30205,
+"y1": 0.31398,
+"text": "Wills atChester（1545-1620,P.20.",
+"conf": 0.885
+},
+{
+"column": 2,
+"x0": 0.3966,
+"x1": 0.63385,
+"y0": 0.31216,
+"y1": 0.32545,
+"text": "Richard Birchenhead,ofAshton,1617:",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.38388,
+"x1": 0.41343,
+"y0": 0.32273,
+"y1": 0.33398,
+"text": "ibid.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39742,
+"x1": 0.63221,
+"y0": 0.3333,
+"y1": 0.34625,
+"text": "John Birkenhead,of Manley, 1620:",
+"conf": 0.915
+},
+{
+"column": 2,
+"x0": 0.38429,
+"x1": 0.4122,
+"y0": 0.34386,
+"y1": 0.35409,
+"text": "ibid.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39619,
+"x1": 0.63426,
+"y0": 0.35307,
+"y1": 0.36636,
+"text": "Sir John Birkenhead,or Berkenhead",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.38429,
+"x1": 0.63426,
+"y0": 0.36432,
+"y1": 0.37761,
+"text": "（1616-79）.authorofthe Mercurius",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.38429,
+"x1": 0.6162,
+"y0": 0.37455,
+"y1": 0.38784,
+"text": "Aulicus and satirical poems, is said",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.38511,
+"x1": 0.6162,
+"y0": 0.38511,
+"y1": 0.39841,
+"text": "Anthonya Wood to have beenson",
+"conf": 0.92
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.6318,
+"y0": 0.39534,
+"y1": 0.40693,
+"text": "Randall Birkenhead, ofNorthwich in",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.59444,
+"y0": 0.40591,
+"y1": 0.41784,
+"text": "Cheshire':Dict.Nat.Biog.v.81.",
+"conf": 0.925
+},
+{
+"column": 2,
+"x0": 0.39824,
+"x1": 0.63221,
+"y0": 0.41648,
+"y1": 0.42841,
+"text": "16i7.HenryBirkened, co. Ches. :",
+"conf": 0.639
+},
+{
+"column": 2,
+"x0": 0.38429,
+"x1": 0.59937,
+"y0": 0.42466,
+"y1": 0.44034,
+"text": "Reg.Univ.Oxf.vol.ii pt ii.p.364.",
+"conf": 0.884
+},
+{
+"column": 2,
+"x0": 0.39783,
+"x1": 0.5653,
+"y0": 0.43659,
+"y1": 0.45125,
+"text": "Liverpool1;New York,1.",
+"conf": 0.915
+},
+{
+"column": 2,
+"x0": 0.39988,
+"x1": 0.6281,
+"y0": 0.45261,
+"y1": 0.46625,
+"text": "Birkett, Birkhead.--Local",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.38552,
+"x1": 0.62728,
+"y0": 0.46591,
+"y1": 0.48091,
+"text": "North English, ‘of the birk-head,",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.63303,
+"y0": 0.47989,
+"y1": 0.49352,
+"text": "i.e. the head of the birches; cf.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38634,
+"x1": 0.63385,
+"y0": 0.49273,
+"y1": 0.50636,
+"text": "Birkenhead and   Beckett. The",
+"conf": 0.934
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.63344,
+"y0": 0.50739,
+"y1": 0.51932,
+"text": "surname Haslefoot is of the same",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.42328,
+"y0": 0.52,
+"y1": 0.5333,
+"text": "class.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.39742,
+"x1": 0.63221,
+"y0": 0.53466,
+"y1": 0.54864,
+"text": "Stephen Birkhcade, of Borwicke, 16o7 :",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.38511,
+"x1": 0.5809,
+"y0": 0.5442,
+"y1": 0.55955,
+"text": "Lanc. Wills at Richmond, i. 33.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.39578,
+"x1": 0.63344,
+"y0": 0.55511,
+"y1": 0.5708,
+"text": "Stephen Birket, of Warton, 1573 : ibid.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39742,
+"x1": 0.63303,
+"y0": 0.56636,
+"y1": 0.57966,
+"text": "Myles Birkheade, of Winster, 1623:",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.41384,
+"y0": 0.57727,
+"y1": 0.58818,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39824,
+"x1": 0.62523,
+"y0": 0.5875,
+"y1": 0.59943,
+"text": "Miles Birkett, of Winster, 1646 : ibid.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.39701,
+"x1": 0.63344,
+"y0": 0.59739,
+"y1": 0.61136,
+"text": "Adam Birkeued, 1379: 'P. T. Yorks.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39332,
+"x1": 0.4241,
+"y0": 0.61034,
+"y1": 0.62125,
+"text": ".233.",
+"conf": 0.811
+},
+{
+"column": 2,
+"x0": 0.39865,
+"x1": 0.63057,
+"y0": 0.6192,
+"y1": 0.63045,
+"text": "John Byrkheved, vicar of Giggleswick.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.38716,
+"x1": 0.60512,
+"y0": 0.62807,
+"y1": 0.64239,
+"text": "in Craven, 1425: Whittaker, p. 166.",
+"conf": 0.767
+},
+{
+"column": 2,
+"x0": 0.39824,
+"x1": 0.63344,
+"y0": 0.63898,
+"y1": 0.65261,
+"text": "Christopher 'Birkhed, vicar of Long",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.38552,
+"x1": 0.55094,
+"y0": 0.64886,
+"y1": 0.66318,
+"text": "Preston, i636 : ibid. p. 145.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39701,
+"x1": 0.62933,
+"y0": 0.65943,
+"y1": 0.67409,
+"text": "Georgius Byrkett, i5o3 : HHH. p. 38.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.39783,
+"x1": 0.63303,
+"y0": 0.67,
+"y1": 0.685,
+"text": "Georgius Byrkehede, i507 : ibid. p. 47.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39906,
+"x1": 0.63426,
+"y0": 0.68466,
+"y1": 0.7017,
+"text": "The three references following",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38552,
+"x1": 0.58706,
+"y0": 0.70034,
+"y1": 0.715,
+"text": "concern the same person :--",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.39701,
+"x1": 0.63303,
+"y0": 0.715,
+"y1": 0.72966,
+"text": "Bridgitt Birkett, 1634 : St. Peter, Corm-",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.4278,
+"x1": 0.44504,
+"y0": 0.7283,
+"y1": 0.73784,
+"text": "85.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.3966,
+"x1": 0.62112,
+"y0": 0.735,
+"y1": 0.75102,
+"text": "Bndget Birkhead, 1638: ibid. p. 197.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39701,
+"x1": 0.63262,
+"y0": 0.74659,
+"y1": 0.76159,
+"text": "Bridggett Birkehead, 1653 : ibid. p. 207.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39701,
+"x1": 0.63344,
+"y0": 0.75886,
+"y1": 0.77216,
+"text": "' Petition of John Birked, vicar of Christ",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.3847,
+"x1": 0.63385,
+"y0": 0.76943,
+"y1": 0.78477,
+"text": "Church, Sep. 9,' 1550 : Cal. State Papers",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.38552,
+"x1": 0.48567,
+"y0": 0.78136,
+"y1": 0.79261,
+"text": "(Domestic), i. 29.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.39701,
+"x1": 0.6203,
+"y0": 0.79023,
+"y1": 0.80386,
+"text": "William Byrkhed, C. R.,3 Edw. IV.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3966,
+"x1": 0.63303,
+"y0": 0.8008,
+"y1": 0.81511,
+"text": "London, 16, I ; New York, 1, o; Phila.",
+"conf": 0.916
+},
+{
+"column": 2,
+"x0": 0.38511,
+"x1": 0.46556,
+"y0": 0.8117,
+"y1": 0.825,
+"text": "delphia, 0, 8.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39865,
+"x1": 0.63057,
+"y0": 0.825,
+"y1": 0.84,
+"text": "Birkinshaw, Birkenshaw,",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38388,
+"x1": 0.62974,
+"y0": 0.83898,
+"y1": 0.85295,
+"text": "Burtenshaw, Bertenshaw,",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38347,
+"x1": 0.63139,
+"y0": 0.85261,
+"y1": 0.86659,
+"text": "Bircumshaw.---Local, ‘ of Birk-",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.72643,
+"x1": 0.81881,
+"y0": 0.07534,
+"y1": 0.0883,
+"text": "BIRTLES",
+"conf": 0.91
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.89355,
+"y0": 0.10193,
+"y1": 0.11693,
+"text": "enshaw,' a chapelry in the parish",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.89519,
+"y0": 0.11455,
+"y1": 0.13159,
+"text": "of Birstall, co. York. The meaning",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64184,
+"x1": 0.89519,
+"y0": 0.12784,
+"y1": 0.14523,
+"text": "is ‘the birch-wood, birken being",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64389,
+"x1": 0.89313,
+"y0": 0.1442,
+"y1": 0.15648,
+"text": "the adjective (v. Birkenhead, Aken.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.89355,
+"y0": 0.1575,
+"y1": 0.1708,
+"text": "head, &c.). . The variants are curi-",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.6443,
+"x1": 0.89437,
+"y0": 0.17011,
+"y1": 0.18409,
+"text": "ous, but only found at a distance",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.81307,
+"y0": 0.18477,
+"y1": 0.1967,
+"text": "from their native home.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65498,
+"x1": 0.89478,
+"y0": 0.20045,
+"y1": 0.21443,
+"text": "John Birchynshaw, Hen. Vill : Cal.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.72725,
+"y0": 0.2117,
+"y1": 0.22398,
+"text": "State Papers.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65539,
+"x1": 0.89272,
+"y0": 0.22125,
+"y1": 0.23625,
+"text": "Thomas Birkyschaghe, 1379 : P. T.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.64389,
+"x1": 0.73176,
+"y0": 0.23216,
+"y1": 0.24511,
+"text": "Yorks. P. 163.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65703,
+"x1": 0.89231,
+"y0": 0.24341,
+"y1": 0.25432,
+"text": "1634. Bapt.--Humphrey Birchenshaw :",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64389,
+"x1": 0.84222,
+"y0": 0.25261,
+"y1": 0.26625,
+"text": "Prestbury Ch. (Cheshire), P. 292.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.6558,
+"x1": 0.89478,
+"y0": 0.26284,
+"y1": 0.27682,
+"text": "Robert Birkenshaw, ‘1587 : Wills at",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.64512,
+"x1": 0.73135,
+"y0": 0.27443,
+"y1": 0.28568,
+"text": "Chester, i. 21.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65662,
+"x1": 0.89067,
+"y0": 0.28386,
+"y1": 0.2958,
+"text": "Ambrosc Birtenshaw, of Manchester,",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.64554,
+"x1": 0.71411,
+"y0": 0.29375,
+"y1": 0.30739,
+"text": "1584 : ibid.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65867,
+"x1": 0.70097,
+"y0": 0.30648,
+"y1": 0.31432,
+"text": "Robert",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.64554,
+"x1": 0.71247,
+"y0": 0.31557,
+"y1": 0.3275,
+"text": "1609 : ibid.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65621,
+"x1": 0.89396,
+"y0": 0.32409,
+"y1": 0.33875,
+"text": "1782. Married - William Fligg .and",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64471,
+"x1": 0.89396,
+"y0": 0.33636,
+"y1": 0.3483,
+"text": "Isabella Burckingshaw: St. Geo. Han.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64471,
+"x1": 0.70959,
+"y0": 0.34659,
+"y1": 0.36193,
+"text": "Sq. P. 339.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.66114,
+"x1": 0.89067,
+"y0": 0.36261,
+"y1": 0.37489,
+"text": "The Standard of Oct. 12, 1886,",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.89396,
+"y0": 0.37386,
+"y1": 0.39159,
+"text": "p. 3, reports Emma Bircumshaw",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64266,
+"x1": 0.89313,
+"y0": 0.38784,
+"y1": 0.40489,
+"text": "as appearing in court at Nottingham",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.89355,
+"y0": 0.4025,
+"y1": 0.41614,
+"text": "in a legal case. This spelling is a",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.89355,
+"y0": 0.4158,
+"y1": 0.43045,
+"text": "manifest corruption of Birkinshaw.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.65498,
+"x1": 0.89437,
+"y0": 0.42977,
+"y1": 0.44648,
+"text": "London, 1, 0, 3. 0, 0 ; MDB. (West",
+"conf": 0.926
+},
+{
+"column": 3,
+"x0": 0.64225,
+"x1": 0.89355,
+"y0": 0.44068,
+"y1": 0.45773,
+"text": "Rid. Yorks), 2, 5 0, 0, 0; (co. Notts), 0,",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.86439,
+"y0": 0.45432,
+"y1": 0.46591,
+"text": "O, O, O, 2; Manchester, 0, O, 0, 1, 0.",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.65867,
+"x1": 0.89108,
+"y0": 0.46932,
+"y1": 0.48398,
+"text": "Birks.-Local, ‘at the hirks,",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.89437,
+"y0": 0.48364,
+"y1": 0.49625,
+"text": "from residence beside a clump of",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64389,
+"x1": 0.89313,
+"y0": 0.49716,
+"y1": 0.51011,
+"text": "birch-trees. North English birk, a",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.6443,
+"x1": 0.89272,
+"y0": 0.51057,
+"y1": 0.52386,
+"text": "birch-tree ; v. Birkenhead, Birkett,",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64389,
+"x1": 0.85331,
+"y0": 0.52341,
+"y1": 0.53841,
+"text": "Birkbeck, &c.; and v. Birch.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65498,
+"x1": 0.89313,
+"y0": 0.53739,
+"y1": 0.55409,
+"text": "Johannes del Byrkes, 1372: P. T.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64512,
+"x1": 0.72848,
+"y0": 0.55,
+"y1": 0.56295,
+"text": "Yorks. P. 215.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.6558,
+"x1": 0.89313,
+"y0": 0.55886,
+"y1": 0.57284,
+"text": "Cf. John del Byrches, Pardons Roll, 17",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64389,
+"x1": 0.84386,
+"y0": 0.56977,
+"y1": 0.58341,
+"text": "Ric. II : Reg. Univ. Oxf. ii. 267.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.65662,
+"x1": 0.89231,
+"y0": 0.58068,
+"y1": 0.59261,
+"text": "1607. Richard Birkea, Jesus  Coll. :",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.67264,
+"y0": 0.59159,
+"y1": 0.6025,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65539,
+"x1": 0.89355,
+"y0": 0.59943,
+"y1": 0.61477,
+"text": "1741. Married -- Edward Birkes and",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.88903,
+"y0": 0.61136,
+"y1": 0.62432,
+"text": "Susanna Selby : St. Geo. Han. Sg. i. 27.",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.65662,
+"x1": 0.89231,
+"y0": 0.62227,
+"y1": 0.63591,
+"text": "1753. -] Benjamin Birks and Mary",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.88615,
+"y0": 0.6325,
+"y1": 0.64545,
+"text": "Slater : St. Geo. Chap. Mayfair, P: 239.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.6558,
+"x1": 0.89108,
+"y0": 0.64239,
+"y1": 0.65534,
+"text": "London, 2 ; MDB. (West Rid. Yorks),",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64471,
+"x1": 0.76626,
+"y0": 0.65364,
+"y1": 0.66693,
+"text": "17 ; Philadelphia, 2.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65991,
+"x1": 0.89313,
+"y0": 0.67136,
+"y1": 0.68466,
+"text": "Birley.—Local, ‘of Birley' or",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64595,
+"x1": 0.89272,
+"y0": 0.68398,
+"y1": 0.7,
+"text": "'Burley, several  places  in co.",
+"conf": 0.87
+},
+{
+"column": 3,
+"x0": 0.64471,
+"x1": 0.86603,
+"y0": 0.69795,
+"y1": 0.71295,
+"text": "York ; v. Burley and Burleigh.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65662,
+"x1": 0.89355,
+"y0": 0.71455,
+"y1": 0.7292,
+"text": "Robert de Berlay, mercer, 19 Edw. I1 :",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.6443,
+"x1": 0.78596,
+"y0": 0.72443,
+"y1": 0.73875,
+"text": "Frcemen of York, i. 23.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65539,
+"x1": 0.89149,
+"y0": 0.73534,
+"y1": 0.75034,
+"text": "Johannes de Berlay, 1379 : P. T. Yorks.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64266,
+"x1": 0.70918,
+"y0": 0.76636,
+"y1": 0.78,
+"text": "ibid. p. 36.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65539,
+"x1": 0.84263,
+"y0": 0.77591,
+"y1": 0.79227,
+"text": "Rogerus de Birlay, 1379 : ibid.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65498,
+"x1": 0.89313,
+"y0": 0.78614,
+"y1": 0.80216,
+"text": "Evan Birley, webster, 1622 : Preston",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.64307,
+"x1": 0.7564,
+"y0": 0.79739,
+"y1": 0.8117,
+"text": "Guild Rolls, p.'88.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.65539,
+"x1": 0.89108,
+"y0": 0.8083,
+"y1": 0.82193,
+"text": "Manchester, 4 ; Preston, 2 ; London, 2.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65867,
+"x1": 0.89272,
+"y0": 0.82534,
+"y1": 0.84034,
+"text": "Birtle8.--Local, ‘of Birtles,' a",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.64266,
+"x1": 0.89272,
+"y0": 0.83966,
+"y1": 0.85432,
+"text": "township in the parish of Prest-",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.64348,
+"x1": 0.8919,
+"y0": 0.8533,
+"y1": 0.8683,
+"text": "bury, co. Cheshire, formerly spelt",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.69645,
+"x1": 0.89929,
+"y0": 0.91568,
+"y1": 0.94773,
+"text": "Digitized by Google",
+"conf": 0.993
+}
+]

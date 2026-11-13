@@ -64,6 +64,10 @@ def year_range(date):
         if c:
             return (c - 1) * 100, (c - 1) * 100 + 99
     years = []
+    # A year with a damaged digit ("15?7") still narrows the range: 1507-1597.
+    for m in re.finditer(r"\b(1[0-9?]{3})\b", date):
+        if "?" in m.group(1):
+            years += [int(m.group(1).replace("?", "0")), int(m.group(1).replace("?", "9"))]
     for m in REIGN_RE.finditer(date):
         if not (m.group(3) and (m.group(4) or m.group(3) in ("John", "Mary", "Anne", "Steph", "Stephen", "Eliz", "Elizabeth"))):
             continue
