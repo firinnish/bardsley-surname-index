@@ -1,0 +1,1721 @@
+[
+{
+"column": 1,
+"x0": 0.18631,
+"x1": 0.27961,
+"y0": 0.08932,
+"y1": 0.10159,
+"text": "ANDRBW",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10658,
+"x1": 0.35524,
+"y0": 0.11693,
+"y1": 0.13159,
+"text": "Anderton, near Bolton, in Lanca-",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.10616,
+"x1": 0.35606,
+"y0": 0.13023,
+"y1": 0.14625,
+"text": "shire, Oct. 5, 1756, .. . and estab-",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.10616,
+"x1": 0.35647,
+"y0": 0.14386,
+"y1": 0.15886,
+"text": "lished a large muslin manufactory",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10699,
+"x1": 0.35729,
+"y0": 0.15784,
+"y1": 0.17148,
+"text": "at Stockport t in j784': v. East",
+"conf": 0.896
+},
+{
+"column": 1,
+"x0": 0.1074,
+"x1": 0.35565,
+"y0": 0.16943,
+"y1": 0.1875,
+"text": "Cheshire, ii. 54. Probably, how.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10699,
+"x1": 0.35606,
+"y0": 0.18409,
+"y1": 0.19909,
+"text": "ever, the same place is meant. (2)",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.10699,
+"x1": 0.35606,
+"y0": 0.19807,
+"y1": 0.2117,
+"text": "Local, ‘of Anderton,’ a township",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10575,
+"x1": 0.35647,
+"y0": 0.21102,
+"y1": 0.22602,
+"text": "in the parish of Great Budworth,",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.1074,
+"x1": 0.19494,
+"y0": 0.22534,
+"y1": 0.23795,
+"text": "co. Chester.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12055,
+"x1": 0.35606,
+"y0": 0.24136,
+"y1": 0.25432,
+"text": "Peter Anderton, of Anderton, 2 Eliz. :",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10781,
+"x1": 0.23645,
+"y0": 0.25193,
+"y1": 0.26523,
+"text": "Baines' Lanc. i. 165.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12055,
+"x1": 0.35565,
+"y0": 0.26148,
+"y1": 0.2758,
+"text": "William Anderton, of Little Lever,",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12055,
+"x1": 0.35647,
+"y0": 0.29352,
+"y1": 0.30682,
+"text": "1661. Bapt.-Jane,. d. Christopher",
+"conf": 0.88
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.18179,
+"y0": 0.30409,
+"y1": 0.31466,
+"text": "Anderton :",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12096,
+"x1": 0.35688,
+"y0": 0.3142,
+"y1": 0.32648,
+"text": "1772. Married---Thomas Anderton and",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.10822,
+"x1": 0.34414,
+"y0": 0.32477,
+"y1": 0.3367,
+"text": "Eliz. Brittan : St. Geo. Han. Sq. i. 218.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12014,
+"x1": 0.35688,
+"y0": 0.33466,
+"y1": 0.34932,
+"text": "Manchester, 9; London, 2;' Philadel.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.10945,
+"x1": 0.15425,
+"y0": 0.34659,
+"y1": 0.35852,
+"text": "phia, I.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.12425,
+"x1": 0.35688,
+"y0": 0.36023,
+"y1": 0.37625,
+"text": "Andrew, Andrewes, An-",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.35811,
+"y0": 0.37455,
+"y1": 0.3892,
+"text": "drews.---Bapt. ‘the son of An-",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.10945,
+"x1": 0.35852,
+"y0": 0.38886,
+"y1": 0.40182,
+"text": "drew'; v. Anderson. This name",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10945,
+"x1": 0.3577,
+"y0": 0.40114,
+"y1": 0.41716,
+"text": "was very popular in the 13th",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.3577,
+"y0": 0.41545,
+"y1": 0.43045,
+"text": "century. As  the nane of the",
+"conf": 0.877
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.35729,
+"y0": 0.42841,
+"y1": 0.44341,
+"text": "patron saint and knightly cham-",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.35894,
+"y0": 0.44102,
+"y1": 0.4567,
+"text": "pion of Scotland, as title of the",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.10986,
+"x1": 0.35935,
+"y0": 0.45705,
+"y1": 0.46898,
+"text": "primatial see, no wonder that the",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.35935,
+"y0": 0.46864,
+"y1": 0.4833,
+"text": "Scotch have tried to monopolize",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.10986,
+"x1": 0.35811,
+"y0": 0.48295,
+"y1": 0.49557,
+"text": "Andrew, and no wonder that An.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.10945,
+"x1": 0.3577,
+"y0": 0.49511,
+"y1": 0.51011,
+"text": "derson has followed Scotch emigra.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.35935,
+"y0": 0.50943,
+"y1": 0.52205,
+"text": "tion till Canada and the United",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.10904,
+"x1": 0.35976,
+"y0": 0.52239,
+"y1": 0.53602,
+"text": "States are fooded with it.  But",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10863,
+"x1": 0.36099,
+"y0": 0.535,
+"y1": 0.55273,
+"text": "Andrew was very popular in its",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.35976,
+"y0": 0.54966,
+"y1": 0.56364,
+"text": "day in England, as our Andrews",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10945,
+"x1": 0.36058,
+"y0": 0.56364,
+"y1": 0.57932,
+"text": "can testify. In any casc, as an",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.10986,
+"x1": 0.36099,
+"y0": 0.57591,
+"y1": 0.59159,
+"text": "apostolic name it was bound to",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.10986,
+"x1": 0.30674,
+"y0": 0.58955,
+"y1": 0.60489,
+"text": "be popular all over Europe.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12219,
+"x1": 0.35976,
+"y0": 0.60523,
+"y1": 0.62227,
+"text": "Willelmus Anderewe, 1379: P. T.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.19823,
+"y0": 0.61716,
+"y1": 0.63148,
+"text": "Yorks. p. 219.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12219,
+"x1": 0.35154,
+"y0": 0.62705,
+"y1": 0.64307,
+"text": "Robert Andreu, co. Camb., 1273 . ,A.",
+"conf": 0.939
+},
+{
+"column": 1,
+"x0": 0.12219,
+"x1": 0.34085,
+"y0": 0.63727,
+"y1": 0.6533,
+"text": "Nicholas fl. Andree, co. Salop, ibid.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12384,
+"x1": 0.29852,
+"y0": 0.64818,
+"y1": 0.66148,
+"text": "John Andre, co. Camb., ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12425,
+"x1": 0.31044,
+"y0": 0.65875,
+"y1": 0.67205,
+"text": "Henry fl. A'ndr', co. Oxf., ibid.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.12302,
+"x1": 0.35976,
+"y0": 0.6683,
+"y1": 0.68466,
+"text": "Thomas Andreu, viar of Briston, co.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.26481,
+"y0": 0.6792,
+"y1": 0.69352,
+"text": "Norf., 144? : FF. ix. 376.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12384,
+"x1": 0.35935,
+"y0": 0.68943,
+"y1": 0.70273,
+"text": "1619. Thomas Fulier_ and Eliz. An.",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.35113,
+"y0": 0.69932,
+"y1": 0.71432,
+"text": "drewes : Marriage Lic. (London), ii. 74.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12384,
+"x1": 0.3614,
+"y0": 0.71023,
+"y1": 0.72386,
+"text": "1623. Baried-Benjamin Andrewes, of",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.3129,
+"y0": 0.71898,
+"y1": 0.73602,
+"text": "Norwich, merchant :' FF. iv. 365:",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12343,
+"x1": 0.35852,
+"y0": 0.73091,
+"y1": 0.74625,
+"text": "London, 26, 2, 107; Philadciphia, 18, 0,",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11151,
+"x1": 0.13617,
+"y0": 0.74352,
+"y1": 0.75511,
+"text": "127.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12754,
+"x1": 0.36017,
+"y0": 0.75886,
+"y1": 0.77557,
+"text": "Angel, Angell.--(1) Bapt. the",
+"conf": 0.926
+},
+{
+"column": 1,
+"x0": 0.11027,
+"x1": 0.36017,
+"y0": 0.77284,
+"y1": 0.78784,
+"text": "son of Angel '; in later days An-",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.11151,
+"x1": 0.36099,
+"y0": 0.78716,
+"y1": 0.8008,
+"text": "gela and Angelina. For the full",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.11151,
+"x1": 0.36058,
+"y0": 0.80011,
+"y1": 0.81511,
+"text": "history of this once-popular name,",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.11151,
+"x1": 0.36058,
+"y0": 0.81375,
+"y1": 0.82841,
+"text": "v. Yonge, i. 126-7. The Puritans",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.11151,
+"x1": 0.36017,
+"y0": 0.82602,
+"y1": 0.84239,
+"text": "could not oust this name, though",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11233,
+"x1": 0.27673,
+"y0": 0.84034,
+"y1": 0.85568,
+"text": "bitterly hated by them.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12548,
+"x1": 0.36017,
+"y0": 0.85739,
+"y1": 0.87239,
+"text": "1645. Buried--Angela Boyce: Canter.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.11438,
+"x1": 0.21097,
+"y0": 0.86727,
+"y1": 0.88091,
+"text": "bury Catbedral.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.48532,
+"x1": 0.50546,
+"y0": 0.08795,
+"y1": 0.10227,
+"text": "53",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.3801,
+"x1": 0.61685,
+"y0": 0.11625,
+"y1": 0.12818,
+"text": "1682. Bapt.-Angel, d. Sir Nicholas",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36819,
+"x1": 0.59876,
+"y0": 0.12716,
+"y1": 0.13875,
+"text": "Butler, Knt. : St. Helen's, Bishopgate.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.37846,
+"x1": 0.61644,
+"y0": 0.13636,
+"y1": 0.15068,
+"text": "'Weymouth, March 20, i625. Embarked",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36695,
+"x1": 0.61561,
+"y0": 0.14795,
+"y1": 0.15989,
+"text": "for New England, Angell Holland, aged",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36654,
+"x1": 0.60205,
+"y0": 0.15818,
+"y1": 0.17114,
+"text": "21 years': Hotten's Emigrants, p. 285.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38298,
+"x1": 0.61602,
+"y0": 0.17489,
+"y1": 0.19023,
+"text": "(2) Local, 'at the Angle'; v.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.36736,
+"x1": 0.61726,
+"y0": 0.18886,
+"y1": 0.20318,
+"text": "Angle. Most probably the source",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.36695,
+"x1": 0.61685,
+"y0": 0.2025,
+"y1": 0.21682,
+"text": "of the majority of our Angels and",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36777,
+"x1": 0.61808,
+"y0": 0.21545,
+"y1": 0.23045,
+"text": "Angells.  The font-name was un.",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.36695,
+"x1": 0.61644,
+"y0": 0.22943,
+"y1": 0.24375,
+"text": "known in England, so far as I can",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36819,
+"x1": 0.6152,
+"y0": 0.24341,
+"y1": 0.25739,
+"text": "discover,  in the 13th and 14th",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.36736,
+"x1": 0.44011,
+"y0": 0.2567,
+"y1": 0.26966,
+"text": "centuries.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37887,
+"x1": 0.61644,
+"y0": 0.27341,
+"y1": 0.28943,
+"text": "Robert Angel, 7 Jas. I, co. Norf. : FF.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36736,
+"x1": 0.41011,
+"y0": 0.28557,
+"y1": 0.29716,
+"text": "vi. 236.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37846,
+"x1": 0.61602,
+"y0": 0.29409,
+"y1": 0.31011,
+"text": "1578. Michael Angell, co. Glouc. : Reg.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36819,
+"x1": 0.5441,
+"y0": 0.30568,
+"y1": 0.31864,
+"text": "Univ. Oxf. vol. ii. pt. ii. p. 8o.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38052,
+"x1": 0.61685,
+"y0": 0.31625,
+"y1": 0.32818,
+"text": "1618-9. John Angell and Anne Palmer:",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36736,
+"x1": 0.55355,
+"y0": 0.3258,
+"y1": 0.34011,
+"text": "Marriage Lic. (London), ii. 70.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.38093,
+"x1": 0.61685,
+"y0": 0.33705,
+"y1": 0.34932,
+"text": "1667. Robert Mellish and Frances",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.3686,
+"x1": 0.61602,
+"y0": 0.34659,
+"y1": 0.36193,
+"text": "Angell: Marriage Alleg. (Canterbury),",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36777,
+"x1": 0.41052,
+"y0": 0.3592,
+"y1": 0.3708,
+"text": "p. 143.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.37928,
+"x1": 0.61849,
+"y0": 0.36636,
+"y1": 0.38239,
+"text": "1751. Married-—James Angel and Ann",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.36736,
+"x1": 0.57081,
+"y0": 0.37761,
+"y1": 0.39125,
+"text": "Lownds : St. Geo. Han. Sq. i. 46.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37887,
+"x1": 0.61808,
+"y0": 0.3875,
+"y1": 0.4042,
+"text": "London,9 is; Philadelphia, 3, 1;",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36819,
+"x1": 0.49026,
+"y0": 0.39773,
+"y1": 0.41375,
+"text": "Boston (U'S.), o, I3.",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.38421,
+"x1": 0.61561,
+"y0": 0.41648,
+"y1": 0.43182,
+"text": "Auger, Angier, Aungier.--",
+"conf": 0.935
+},
+{
+"column": 2,
+"x0": 0.37024,
+"x1": 0.61849,
+"y0": 0.43114,
+"y1": 0.44511,
+"text": "(1) Bapt.'the son of Aunger.' This",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.3686,
+"x1": 0.61931,
+"y0": 0.44511,
+"y1": 0.45705,
+"text": "is the probable origin of most of",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.3686,
+"x1": 0.61767,
+"y0": 0.45739,
+"y1": 0.47102,
+"text": "the variants 3found in  modern",
+"conf": 0.837
+},
+{
+"column": 2,
+"x0": 0.36901,
+"x1": 0.44998,
+"y0": 0.47068,
+"y1": 0.48466,
+"text": "directories.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38257,
+"x1": 0.61644,
+"y0": 0.49034,
+"y1": 0.5033,
+"text": "Anger le. Venator, co. Berks, Hen. I1I-",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.37065,
+"x1": 0.44546,
+"y0": 0.50057,
+"y1": 0.51114,
+"text": "Edw.1. K.",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.38134,
+"x1": 0.61808,
+"y0": 0.50875,
+"y1": 0.52545,
+"text": "William fil. Aunger, co. Camb., I273. A.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.38134,
+"x1": 0.57862,
+"y0": 0.52068,
+"y1": 0.53466,
+"text": "Beatrix Aunger, co. Hunts, ibid.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38175,
+"x1": 0.5552,
+"y0": 0.53159,
+"y1": 0.54386,
+"text": "Peter Aunger, London, ibid.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38175,
+"x1": 0.61644,
+"y0": 0.54148,
+"y1": 0.55614,
+"text": "Anger or Aunger le Rus, co. Camb.,",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37065,
+"x1": 0.39655,
+"y0": 0.55307,
+"y1": 0.56295,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38216,
+"x1": 0.59753,
+"y0": 0.56227,
+"y1": 0.57557,
+"text": "Onger de Leycestre, co. Devon, ibid.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.38134,
+"x1": 0.61808,
+"y0": 0.57182,
+"y1": 0.58784,
+"text": "Robert Aunger : Kirby's Quest, p. 186.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38134,
+"x1": 0.61931,
+"y0": 0.58239,
+"y1": 0.59807,
+"text": "Roger Anger, co. Soms., 20 Edw. I11 :",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.36983,
+"x1": 0.44299,
+"y0": 0.5933,
+"y1": 0.60727,
+"text": "ibid. p. 240.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.38175,
+"x1": 0.62055,
+"y0": 0.60284,
+"y1": 0.61852,
+"text": "'Angier de la Strille, a French mer.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.37147,
+"x1": 0.61767,
+"y0": 0.61477,
+"y1": 0.62773,
+"text": "chant,  prisoner at Dover, May 25. I564':",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.36983,
+"x1": 0.61767,
+"y0": 0.62432,
+"y1": 0.63864,
+"text": "Rec. Office, Cal. State Papers (Domestic),",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.3686,
+"x1": 0.40805,
+"y0": 0.63557,
+"y1": 0.64852,
+"text": "i. 241.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38257,
+"x1": 0.61849,
+"y0": 0.6458,
+"y1": 0.65841,
+"text": "1702. Married - Henry Anger and",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.37024,
+"x1": 0.61438,
+"y0": 0.655,
+"y1": 0.67034,
+"text": "Anne Jones : St. Peter'x, Cornhill, p. 64.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38627,
+"x1": 0.62137,
+"y0": 0.67545,
+"y1": 0.69114,
+"text": "(2) Local, ‘of Angers,' a city of",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.37065,
+"x1": 0.41997,
+"y0": 0.69011,
+"y1": 0.70443,
+"text": "Anjou.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.38298,
+"x1": 0.50053,
+"y0": 0.70705,
+"y1": 0.72,
+"text": "Hugh de Angiers...",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38298,
+"x1": 0.50916,
+"y0": 0.71807,
+"y1": 0.73102,
+"text": "Robert Angier. XX",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38257,
+"x1": 0.50628,
+"y0": 0.7275,
+"y1": 0.74045,
+"text": "Jsabella Anger. H.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38298,
+"x1": 0.61972,
+"y0": 0.73705,
+"y1": 0.75273,
+"text": "'A quarter of a fce in Bumham held by",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.37106,
+"x1": 0.55109,
+"y0": 0.74864,
+"y1": 0.76159,
+"text": "William Angre ': FF. v. 246.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.38134,
+"x1": 0.62137,
+"y0": 0.75784,
+"y1": 0.7742,
+"text": " John Angere, parson of Southacre':",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37106,
+"x1": 0.44463,
+"y0": 0.76977,
+"y1": 0.7817,
+"text": "ibid. vi. 220.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.3838,
+"x1": 0.62055,
+"y0": 0.78,
+"y1": 0.7933,
+"text": "1633. John Hercy and Mary Aungier:",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37065,
+"x1": 0.563,
+"y0": 0.79023,
+"y1": 0.80386,
+"text": "Marriage Lic. (London), i. 213.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38216,
+"x1": 0.62055,
+"y0": 0.79875,
+"y1": 0.81545,
+"text": "I702.Gcorge Angier and Judith Sey.",
+"conf": 0.934
+},
+{
+"column": 2,
+"x0": 0.37024,
+"x1": 0.4845,
+"y0": 0.81102,
+"y1": 0.825,
+"text": "mour: ibid. p. 328.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38257,
+"x1": 0.62013,
+"y0": 0.82193,
+"y1": 0.83591,
+"text": "London, O, 5. I ; Boston (U.S.), 0, 11, 0.",
+"conf": 0.935
+},
+{
+"column": 2,
+"x0": 0.38627,
+"x1": 0.62055,
+"y0": 0.8383,
+"y1": 0.85432,
+"text": "Angle.--Local, ‘in the Angle,",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.37024,
+"x1": 0.62055,
+"y0": 0.85398,
+"y1": 0.86625,
+"text": "i.c. nook, corner; from residence",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36983,
+"x1": 0.62055,
+"y0": 0.86727,
+"y1": 0.8792,
+"text": "in some nook or corner of the road.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.70662,
+"x1": 0.8044,
+"y0": 0.0883,
+"y1": 0.10193,
+"text": "ANGUIBH",
+"conf": 0.927
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.87507,
+"y0": 0.11557,
+"y1": 0.13227,
+"text": "'Go, run, search, pry in cvery",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.62691,
+"x1": 0.87754,
+"y0": 0.12989,
+"y1": 0.1442,
+"text": "nook  and angle of the kitchens,",
+"conf": 0.917
+},
+{
+"column": 3,
+"x0": 0.62609,
+"x1": 0.87589,
+"y0": 0.14386,
+"y1": 0.15716,
+"text": "larders, and pastries' : The Woman",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.6265,
+"x1": 0.87466,
+"y0": 0.15614,
+"y1": 0.17216,
+"text": "Hater, i. 2; v. Nangle, and cf.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62691,
+"x1": 0.75633,
+"y0": 0.16909,
+"y1": 0.18545,
+"text": "Herne and Wray.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63924,
+"x1": 0.86234,
+"y0": 0.1858,
+"y1": 0.19875,
+"text": "Henry in the Angle, C. R., 8 Edw. I.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.63883,
+"x1": 0.85658,
+"y0": 0.19534,
+"y1": 0.21068,
+"text": "Alice in Angulo, co. Oxf., 1273: . A.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64006,
+"x1": 0.8459,
+"y0": 0.20761,
+"y1": 0.21955,
+"text": "Roger in Angulo, co. Camb., ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64253,
+"x1": 0.87589,
+"y0": 0.22398,
+"y1": 0.23864,
+"text": "The English portion of the An-",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.6265,
+"x1": 0.87507,
+"y0": 0.23761,
+"y1": 0.25227,
+"text": "gels and Angells in the London",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.6265,
+"x1": 0.87589,
+"y0": 0.25193,
+"y1": 0.26591,
+"text": "Directory are probably from this",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62404,
+"x1": 0.75387,
+"y0": 0.26523,
+"y1": 0.27989,
+"text": "source; v. Angel.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63801,
+"x1": 0.87548,
+"y0": 0.28057,
+"y1": 0.29455,
+"text": "Elias Angel, 1379: P. T. Yorks. p. 200.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6376,
+"x1": 0.87589,
+"y0": 0.29,
+"y1": 0.30466,
+"text": "1570. Biried-Danyell Angell, son of",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62609,
+"x1": 0.87589,
+"y0": 0.30091,
+"y1": 0.31523,
+"text": "Mr. Angell : St. Dionis Backchurch, p. 192.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.63883,
+"x1": 0.87466,
+"y0": 0.3125,
+"y1": 0.32511,
+"text": "1722. Married-John Angil and' Eliz.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62609,
+"x1": 0.85535,
+"y0": 0.3217,
+"y1": 0.3367,
+"text": "Beale : St. Antholin (London), P. 137.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.63842,
+"x1": 0.8763,
+"y0": 0.33295,
+"y1": 0.34693,
+"text": "1744. Bapt.--Thomas, son of George",
+"conf": 0.931
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.85206,
+"y0": 0.3425,
+"y1": 0.35784,
+"text": "Angie : St. Michael, Cornhill, p. 174.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.63883,
+"x1": 0.81468,
+"y0": 0.35341,
+"y1": 0.36705,
+"text": "London, 2: Boston (U.S.), 2.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64417,
+"x1": 0.87589,
+"y0": 0.37182,
+"y1": 0.38511,
+"text": "Angold, Angood.-Bapt. ' the",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.62568,
+"x1": 0.82618,
+"y0": 0.38443,
+"y1": 0.39909,
+"text": "son of Angold' or'Angod.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.63924,
+"x1": 0.87589,
+"y0": 0.40148,
+"y1": 0.41375,
+"text": "Nicholas Hanegod, co. Soms., 1 Edw.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.7929,
+"y0": 0.41205,
+"y1": 0.425,
+"text": "I1! : Kinby's Quest, p. 198.",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.63842,
+"x1": 0.87589,
+"y0": 0.42193,
+"y1": 0.43523,
+"text": "John Angod, co.'Soms., I Edw. 11I :",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.62856,
+"x1": 0.69799,
+"y0": 0.43386,
+"y1": 0.4458,
+"text": "ibi 1. p. 213.",
+"conf": 0.923
+},
+{
+"column": 3,
+"x0": 0.64006,
+"x1": 0.8763,
+"y0": 0.44341,
+"y1": 0.45568,
+"text": "Geofrey fl. Angodi, co. Oxf., Hen. I11-",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.62979,
+"x1": 0.70292,
+"y0": 0.45364,
+"y1": 0.46489,
+"text": "Edw. I. K.",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.64047,
+"x1": 0.83152,
+"y0": 0.46318,
+"y1": 0.47716,
+"text": "Henry Angod, co. Backs, 1273.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.6417,
+"x1": 0.82454,
+"y0": 0.47443,
+"y1": 0.48636,
+"text": "Richard Angot, co. Suff., ibid.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64088,
+"x1": 0.87548,
+"y0": 0.48432,
+"y1": 0.49693,
+"text": "Stephen Angoide. vicar of Rowdham,",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.79578,
+"y0": 0.49386,
+"y1": 0.50852,
+"text": "co. Norf., 1589 : FF.i. 435.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64047,
+"x1": 0.87795,
+"y0": 0.50466,
+"y1": 0.51864,
+"text": "London, 2, 'o: MDB. (Norfolk), 1, 0:",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.63225,
+"x1": 0.73826,
+"y0": 0.51523,
+"y1": 0.52955,
+"text": "Cambridge), O, 5.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.64458,
+"x1": 0.87302,
+"y0": 0.53193,
+"y1": 0.54727,
+"text": "Anguish.--Local, ‘of Angus,",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62938,
+"x1": 0.87672,
+"y0": 0.54625,
+"y1": 0.56091,
+"text": "N.B. Although 1 most of the in-",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.87713,
+"y0": 0.55989,
+"y1": 0.57352,
+"text": "stances occur in co. Norfolk, it will",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.62938,
+"x1": 0.87713,
+"y0": 0.57386,
+"y1": 0.58716,
+"text": "be scen that they are of compara-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.87836,
+"y0": 0.58511,
+"y1": 0.60216,
+"text": "tively modern date. They repre-",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62815,
+"x1": 0.87548,
+"y0": 0.60011,
+"y1": 0.61409,
+"text": "sent an immigration from the north.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.6302,
+"x1": 0.87754,
+"y0": 0.61443,
+"y1": 0.62636,
+"text": "There can be no doubt about the",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.62856,
+"x1": 0.87836,
+"y0": 0.62705,
+"y1": 0.6417,
+"text": "origin. It is simply imitative, as",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.62897,
+"x1": 0.87589,
+"y0": 0.6417,
+"y1": 0.65466,
+"text": "was the custom in spelling or even",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62897,
+"x1": 0.7966,
+"y0": 0.655,
+"y1": 0.66864,
+"text": "pronouncing surnames.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64088,
+"x1": 0.87754,
+"y0": 0.67034,
+"y1": 0.68295,
+"text": "David, Erl of Anguyshe (Angus): Visi.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62773,
+"x1": 0.81961,
+"y0": 0.68023,
+"y1": 0.69489,
+"text": "tation o Yorkshire, 1563, p. 18.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64253,
+"x1": 0.87713,
+"y0": 0.69216,
+"y1": 0.70341,
+"text": "Elsabeth, Countess of ' Anguysh : ibid.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.62938,
+"x1": 0.67087,
+"y0": 0.70307,
+"y1": 0.71568,
+"text": "p. 242.",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.63924,
+"x1": 0.87877,
+"y0": 0.71193,
+"y1": 0.72455,
+"text": "* Item : to my lady Margaret Anguisshe",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.63554,
+"x1": 0.87877,
+"y0": 0.72205,
+"y1": 0.73466,
+"text": ". . for to disporte her withall this Christ.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.62938,
+"x1": 0.87836,
+"y0": 0.73261,
+"y1": 0.74591,
+"text": "maa, 6 13s. Dc. 1530: Privy",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.62897,
+"x1": 0.81714,
+"y0": 0.74284,
+"y1": 0.75682,
+"text": "Purse Exp., Henry, VIll, p. 98.",
+"conf": 0.911
+},
+{
+"column": 3,
+"x0": 0.64253,
+"x1": 0.87836,
+"y0": 0.75136,
+"y1": 0.76841,
+"text": "Richard Anguish, , rector 'of Scarning,",
+"conf": 0.919
+},
+{
+"column": 3,
+"x0": 0.62979,
+"x1": 0.79331,
+"y0": 0.76295,
+"y1": 0.77727,
+"text": "co. Norf., 1639 : FF. x. 44.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64376,
+"x1": 0.87877,
+"y0": 0.77352,
+"y1": 0.78818,
+"text": "William Anguish, gent., died July 6,",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.62938,
+"x1": 0.80523,
+"y0": 0.78375,
+"y1": 0.79807,
+"text": "1668, Norwich : ibid. iv. 365.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64335,
+"x1": 0.88041,
+"y0": 0.79398,
+"y1": 0.80932,
+"text": "Thomas   Angaish, of Norwich, 1633 :",
+"conf": 0.92
+},
+{
+"column": 3,
+"x0": 0.63061,
+"x1": 0.84015,
+"y0": 0.80523,
+"y1": 0.8192,
+"text": "Visitation of London, 1634, p. 227:",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64211,
+"x1": 0.88041,
+"y0": 0.81375,
+"y1": 0.83045,
+"text": "1749. John Anguishand Deborah",
+"conf": 0.933
+},
+{
+"column": 3,
+"x0": 0.6302,
+"x1": 0.82906,
+"y0": 0.82568,
+"y1": 0.84,
+"text": "Tupper : 'St. Geo. Han. Sq. i. 43.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64253,
+"x1": 0.88123,
+"y0": 0.83557,
+"y1": 0.85091,
+"text": "William Anguish appeared in court as",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63102,
+"x1": 0.87877,
+"y0": 0.8475,
+"y1": 0.85943,
+"text": "defendant ': Manchester Evening Mail,",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.63102,
+"x1": 0.71319,
+"y0": 0.85909,
+"y1": 0.86966,
+"text": "Feb. 15, 1888.",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.64253,
+"x1": 0.69881,
+"y0": 0.86864,
+"y1": 0.88159,
+"text": "Leeds, 1.",
+"conf": 0.921
+},
+{
+"column": 3,
+"x0": 0.69717,
+"x1": 0.87507,
+"y0": 0.91602,
+"y1": 0.94807,
+"text": "Digitized by Goog",
+"conf": 0.975
+}
+]

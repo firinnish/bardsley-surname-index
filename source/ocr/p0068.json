@@ -1,0 +1,1766 @@
+[
+{
+"column": 1,
+"x0": 0.21351,
+"x1": 0.28295,
+"y0": 0.09341,
+"y1": 0.10602,
+"text": "AUBIN",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13832,
+"x1": 0.37335,
+"y0": 0.12136,
+"y1": 0.13636,
+"text": "Aubin.—Bapt. ‘the son of",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.37417,
+"y0": 0.135,
+"y1": 0.14966,
+"text": "Aubin.' I presumc a variant of",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.37129,
+"y0": 0.14864,
+"y1": 0.16432,
+"text": "Alban or Albin, q.v. ; cf. St. Albyn",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12188,
+"x1": 0.22132,
+"y0": 0.16295,
+"y1": 0.17557,
+"text": "for St. Alban.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.1338,
+"x1": 0.34171,
+"y0": 0.17659,
+"y1": 0.19057,
+"text": "Sarra Auhin, co. Hunts, I27.. .A.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13503,
+"x1": 0.33185,
+"y0": 0.18784,
+"y1": 0.20114,
+"text": "W'illiam Aubyn, co. Sons.. ibid.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13421,
+"x1": 0.32117,
+"y0": 0.19841,
+"y1": 0.21136,
+"text": "Felicia Aubyn, co. Hunts, ibid.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13421,
+"x1": 0.37253,
+"y0": 0.20795,
+"y1": 0.22295,
+"text": "John Aubyn, 'co. Norf.,'2 Edw. IHI :",
+"conf": 0.928
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.20488,
+"y0": 0.2192,
+"y1": 0.23114,
+"text": "FF. vili. 461.",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.13544,
+"x1": 0.36965,
+"y0": 0.22977,
+"y1": 0.24205,
+"text": "William Aubyn, rector of West Walton,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12147,
+"x1": 0.29774,
+"y0": 0.24,
+"y1": 0.25295,
+"text": "co. Norf., 1388 : ibid. ix. 141.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13585,
+"x1": 0.37212,
+"y0": 0.25091,
+"y1": 0.26352,
+"text": "1699. Bapt. -- Abraham Harcy, s.",
+"conf": 0.891
+},
+{
+"column": 1,
+"x0": 0.12147,
+"x1": 0.37212,
+"y0": 0.25943,
+"y1": 0.27511,
+"text": "Abraham Aubin: St. Mary Aldermary,",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.16133,
+"y0": 0.27409,
+"y1": 0.28364,
+"text": "p. 113.",
+"conf": 0.927
+},
+{
+"column": 1,
+"x0": 0.13708,
+"x1": 0.37335,
+"y0": 0.28011,
+"y1": 0.29545,
+"text": "London._ I ; MDB (Cambridge), 5 :",
+"conf": 0.908
+},
+{
+"column": 1,
+"x0": 0.12106,
+"x1": 0.22378,
+"y0": 0.29068,
+"y1": 0.30534,
+"text": "Boston (U.S.). 3.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13832,
+"x1": 0.37047,
+"y0": 0.30636,
+"y1": 0.32205,
+"text": "Aubrey, Aubery, Aubury,",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12311,
+"x1": 0.37417,
+"y0": 0.32068,
+"y1": 0.33398,
+"text": "Aubreyson.-Bapt. ‘the son of",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.12435,
+"x1": 0.37212,
+"y0": 0.33398,
+"y1": 0.34795,
+"text": "Aubrey'( (Domesday. Albericus) ;",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.37294,
+"y0": 0.34557,
+"y1": 0.36295,
+"text": "fem. Albreda. whence Aubrey,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.26816,
+"y0": 0.36159,
+"y1": 0.37352,
+"text": "both masc. and fem.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.33596,
+"y0": 0.37625,
+"y1": 0.38989,
+"text": "Anbri Bunt, co. Camb.. I73. ..A.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.33966,
+"y0": 0.38784,
+"y1": 0.39875,
+"text": "Johannes fil. Aubre, co. Oxf., ibid.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.33021,
+"y0": 0.39773,
+"y1": 0.40898,
+"text": "Geoffrev Aubri, co. Camh., ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.35198,
+"y0": 0.40795,
+"y1": 0.41955,
+"text": "Richard Gl. Albrici, co. Camb., ibid.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13544,
+"x1": 0.27473,
+"y0": 0.41852,
+"y1": 0.42977,
+"text": "Alhericus Bnlister.  C.",
+"conf": 0.701
+},
+{
+"column": 1,
+"x0": 0.13503,
+"x1": 0.26898,
+"y0": 0.42875,
+"y1": 0.44,
+"text": "Albricus Ie. Child. T.",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.37129,
+"y0": 0.43898,
+"y1": 0.45227,
+"text": "Ralph Aubre, rector of Antingham, co.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12147,
+"x1": 0.27556,
+"y0": 0.4492,
+"y1": 0.46216,
+"text": "Norf.. 1305 : FF. yili. 76.",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.13421,
+"x1": 0.37212,
+"y0": 0.45909,
+"y1": 0.47409,
+"text": "Rohertus Ley, Aubray uxor ejus, 1379 :",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12065,
+"x1": 0.23488,
+"y0": 0.46966,
+"y1": 0.48398,
+"text": "P. T. Yorks. p. 44.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13256,
+"x1": 0.37171,
+"y0": 0.48023,
+"y1": 0.4942,
+"text": " John Aubrayson, C. R., 6 Hen. VI : FF.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12229,
+"x1": 0.16831,
+"y0": 0.49045,
+"y1": 0.50375,
+"text": "iii. 165.",
+"conf": 0.915
+},
+{
+"column": 1,
+"x0": 0.13133,
+"x1": 0.37088,
+"y0": 0.49955,
+"y1": 0.51523,
+"text": " John Anbery. or Awberry, or Aubry,",
+"conf": 0.922
+},
+{
+"column": 1,
+"x0": 0.12188,
+"x1": 0.35075,
+"y0": 0.51114,
+"y1": 0.52511,
+"text": "sheriff of Noruich, 146o : ib'd. p. 171.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.37129,
+"y0": 0.5217,
+"y1": 0.53466,
+"text": "I576. Married.- John Awherie and",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.12188,
+"x1": 0.37129,
+"y0": 0.53261,
+"y1": 0.54625,
+"text": "Margaret Walles: St. Mary Aldermary,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12106,
+"x1": 0.14982,
+"y0": 0.5425,
+"y1": 0.55648,
+"text": "p. 6.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13462,
+"x1": 0.37294,
+"y0": 0.55239,
+"y1": 0.56739,
+"text": "1695. Charles Gibbon and Frideswid",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12188,
+"x1": 0.37171,
+"y0": 0.56364,
+"y1": 0.57727,
+"text": "Aubrey : Marriage Lic. (Westminster),",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.12147,
+"x1": 0.15681,
+"y0": 0.57625,
+"y1": 0.5875,
+"text": "p. 47.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.13544,
+"x1": 0.37253,
+"y0": 0.58477,
+"y1": 0.59705,
+"text": "1771. Married-- John Aubrey and Mary",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.1227,
+"x1": 0.35486,
+"y0": 0.59534,
+"y1": 0.60659,
+"text": "Colebrooke.: St. Geo. Hvn. Sq. i. 206.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.13256,
+"x1": 0.37335,
+"y0": 0.60455,
+"y1": 0.62057,
+"text": "London, 4, 0, 1, 0; New York, 1, 1,",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.12147,
+"x1": 0.21762,
+"y0": 0.6158,
+"y1": 0.62909,
+"text": "0, O, (Aubry) 7.",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.13873,
+"x1": 0.37294,
+"y0": 0.63045,
+"y1": 0.64511,
+"text": "Aucher.--Bapt. ‘the son of",
+"conf": 0.928
+},
+{
+"column": 1,
+"x0": 0.12352,
+"x1": 0.26693,
+"y0": 0.64409,
+"y1": 0.65909,
+"text": "Aucher' ; v. Auger.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.13996,
+"x1": 0.37376,
+"y0": 0.66114,
+"y1": 0.67443,
+"text": "Auden.--Bapt. ‘tre son of",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.12352,
+"x1": 0.37253,
+"y0": 0.67409,
+"y1": 0.68909,
+"text": "Aldwin.' The ordinary and natural",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12311,
+"x1": 0.37171,
+"y0": 0.68875,
+"y1": 0.70102,
+"text": "modification, v. Alden : cf. Bawden",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12311,
+"x1": 0.34623,
+"y0": 0.7017,
+"y1": 0.71466,
+"text": "and other forms from Baldwin.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13503,
+"x1": 0.21803,
+"y0": 0.71693,
+"y1": 0.73125,
+"text": "Crockford, 3.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13832,
+"x1": 0.3754,
+"y0": 0.73102,
+"y1": 0.74466,
+"text": "Audley. Audlay.--Local, ‘of",
+"conf": 0.918
+},
+{
+"column": 1,
+"x0": 0.12311,
+"x1": 0.37253,
+"y0": 0.74625,
+"y1": 0.76125,
+"text": "Audley, a parish in dioc. Lichfeld",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.1227,
+"x1": 0.37171,
+"y0": 0.76057,
+"y1": 0.77318,
+"text": "and co Stafford, formerly Aldithe-",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.12188,
+"x1": 0.37253,
+"y0": 0.77318,
+"y1": 0.78784,
+"text": "ley; Aldith no doubt being the",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.1227,
+"x1": 0.37212,
+"y0": 0.78852,
+"y1": 0.8008,
+"text": "name of the original proprietor; v.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12352,
+"x1": 0.17571,
+"y0": 0.80114,
+"y1": 0.81273,
+"text": "Aldith.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.13503,
+"x1": 0.37335,
+"y0": 0.8158,
+"y1": 0.82977,
+"text": "Eva de Audley, 45 Edw. I11, co. Norf. :",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.1227,
+"x1": 0.19297,
+"y0": 0.8267,
+"y1": 0.83932,
+"text": "FF. x. 434.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.1338,
+"x1": 0.37253,
+"y0": 0.83557,
+"y1": 0.85057,
+"text": "Jacob de Aldithelegh, co. Salop. 1273. A.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.13585,
+"x1": 0.36226,
+"y0": 0.84716,
+"y1": 0.86045,
+"text": "Henry de Aldithlegh, co. Salop, ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13544,
+"x1": 0.37335,
+"y0": 0.85705,
+"y1": 0.8717,
+"text": "Hugo de Audeleygh, co. Staff., 2o Edw.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12352,
+"x1": 0.16051,
+"y0": 0.86898,
+"y1": 0.8792,
+"text": "I. R.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12476,
+"x1": 0.35938,
+"y0": 0.87784,
+"y1": 0.89182,
+"text": "Nicholas de Audeley, co. Salop, ibid.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.49518,
+"x1": 0.51942,
+"y0": 0.09,
+"y1": 0.10705,
+"text": "'68",
+"conf": 0.837
+},
+{
+"column": 2,
+"x0": 0.3941,
+"x1": 0.63036,
+"y0": 0.12102,
+"y1": 0.13466,
+"text": "Robert Awdelye, co. Norf., 3+ Hen.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.38341,
+"x1": 0.49353,
+"y0": 0.13125,
+"y1": 0.1442,
+"text": "VII1 : FF. ii. 369.",
+"conf": 0.903
+},
+{
+"column": 2,
+"x0": 0.39492,
+"x1": 0.63159,
+"y0": 0.14216,
+"y1": 0.15477,
+"text": "1674-5. Matthew Audley. and Alice",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.38218,
+"x1": 0.62995,
+"y0": 0.15273,
+"y1": 0.165,
+"text": "Hale : MarTiageAllrg.(Canterbnry), n. 238.",
+"conf": 0.925
+},
+{
+"column": 2,
+"x0": 0.39533,
+"x1": 0.63242,
+"y0": 0.1633,
+"y1": 0.17523,
+"text": "178o. Married-—John Fardell and Ann",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38177,
+"x1": 0.58968,
+"y0": 0.17182,
+"y1": 0.18784,
+"text": "Audley : St. Geo. Han. Sq. i. 307.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39492,
+"x1": 0.49436,
+"y0": 0.18307,
+"y1": 0.19773,
+"text": "New York, 3, 1.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.39862,
+"x1": 0.61105,
+"y0": 0.20011,
+"y1": 0.21477,
+"text": "Audrey.-Bapt. ; v. Awdry.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63283,
+"y0": 0.21852,
+"y1": 0.23182,
+"text": "Audus, Awdas.--Bapt. ‘the",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.63159,
+"y0": 0.23318,
+"y1": 0.24545,
+"text": "son of Aldus,' a natural modifica-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38382,
+"x1": 0.52024,
+"y0": 0.24682,
+"y1": 0.25875,
+"text": "tion ; v. Aldhouse.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39451,
+"x1": 0.63324,
+"y0": 0.25909,
+"y1": 0.27375,
+"text": "1799. Married--William Guntrip and",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38218,
+"x1": 0.62995,
+"y0": 0.27,
+"y1": 0.28432,
+"text": "Mary Andass : St. Geo. Han. Sq. ii. 195.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.39492,
+"x1": 0.63324,
+"y0": 0.2808,
+"y1": 0.29477,
+"text": "Sheffield, 0, 4; West Riding Court",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.44299,
+"y0": 0.29148,
+"y1": 0.30511,
+"text": "Dir., 2, 0.",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.39821,
+"x1": 0.62954,
+"y0": 0.3033,
+"y1": 0.32068,
+"text": "Aufrere.--Occup. ‘ le Orfevre,",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.38506,
+"x1": 0.55969,
+"y0": 0.32,
+"y1": 0.33227,
+"text": "the goldsmith ; v. Offer.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63077,
+"y0": 0.33773,
+"y1": 0.35273,
+"text": "Auger, Augier. Augur,",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.38382,
+"x1": 0.63283,
+"y0": 0.34966,
+"y1": 0.365,
+"text": "Aucher.--Bapt. ‘the son of",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.38341,
+"x1": 0.63201,
+"y0": 0.365,
+"y1": 0.37864,
+"text": "Auger' or ‘Aucher, probably a",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.63283,
+"y0": 0.3783,
+"y1": 0.39227,
+"text": "French form of Oger, whence",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38177,
+"x1": 0.63283,
+"y0": 0.39125,
+"y1": 0.40795,
+"text": "Odger, q.v. Auger and Aucher",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38177,
+"x1": 0.63201,
+"y0": 0.40557,
+"y1": 0.41955,
+"text": "are treated as the same name in the",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38218,
+"x1": 0.63077,
+"y0": 0.41818,
+"y1": 0.43386,
+"text": "Visitation of Essex (1541), Pp. 36,",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38341,
+"x1": 0.48285,
+"y0": 0.43318,
+"y1": 0.4475,
+"text": "181, 211, 753.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.39574,
+"x1": 0.63159,
+"y0": 0.44716,
+"y1": 0.45943,
+"text": "Henry Auger, alias Henry fl. Aucher,",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38177,
+"x1": 0.5112,
+"y0": 0.45705,
+"y1": 0.47136,
+"text": "co. Camb., 1273. A.",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.39615,
+"x1": 0.59503,
+"y0": 0.46761,
+"y1": 0.47989,
+"text": "Auger fl. Eudon, co. Salop, ibid.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39533,
+"x1": 0.6016,
+"y0": 0.47784,
+"y1": 0.4908,
+"text": "John fil. Aucheri, co. Camb., ibid.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.39574,
+"x1": 0.63283,
+"y0": 0.48841,
+"y1": 0.50102,
+"text": "1581. Nicholas Awger_and Elizabeth",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.383,
+"x1": 0.63201,
+"y0": 0.49818,
+"y1": 0.51182,
+"text": "Russe!l : Marriage Lic. (London), i. 103.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39656,
+"x1": 0.63242,
+"y0": 0.50977,
+"y1": 0.5217,
+"text": "1674. Buried-Elizabeth Ancher, onely",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.59831,
+"x1": 0.62584,
+"y0": 0.52216,
+"y1": 0.5283,
+"text": "Bart",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.63242,
+"y0": 0.53023,
+"y1": 0.54318,
+"text": "co. Kent : St. Mary Aldermary (London),",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.383,
+"x1": 0.4245,
+"y0": 0.54148,
+"y1": 0.55307,
+"text": "p. 189.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.39574,
+"x1": 0.63242,
+"y0": 0.55068,
+"y1": 0.56364,
+"text": "London, I, 1, 1,o; Boston (U.S.), 6,0,1,0.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63694,
+"y0": 0.56432,
+"y1": 0.57966,
+"text": "August.--Bapt. ‘the son of",
+"conf": 0.925
+},
+{
+"column": 2,
+"x0": 0.38547,
+"x1": 0.63159,
+"y0": 0.57864,
+"y1": 0.59227,
+"text": "Auguste.' Probably an importa-",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38341,
+"x1": 0.63447,
+"y0": 0.59227,
+"y1": 0.60523,
+"text": "tion from the ILow Countries or",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.38382,
+"x1": 0.63406,
+"y0": 0.60489,
+"y1": 0.61886,
+"text": "France, as I find few traces of the",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38218,
+"x1": 0.63283,
+"y0": 0.61852,
+"y1": 0.63318,
+"text": "name in England as a font-name,",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38341,
+"x1": 0.63283,
+"y0": 0.63148,
+"y1": 0.64682,
+"text": "except in the form of Austin, q.v.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.63201,
+"y0": 0.64443,
+"y1": 0.65977,
+"text": "The Boston (U.S.) Directory has",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.38424,
+"x1": 0.63118,
+"y0": 0.65909,
+"y1": 0.67375,
+"text": "August, Auguste, Augusta, Augus.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38465,
+"x1": 0.63324,
+"y0": 0.67375,
+"y1": 0.6867,
+"text": "tine, and Augustus among its list",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38341,
+"x1": 0.63077,
+"y0": 0.68568,
+"y1": 0.70102,
+"text": "of surnames ; cf. German August,",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38424,
+"x1": 0.47545,
+"y0": 0.7,
+"y1": 0.71398,
+"text": "Fr. Auguste.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39533,
+"x1": 0.63077,
+"y0": 0.71364,
+"y1": 0.72761,
+"text": "1663.. Francis August, of Greenwich,",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.38095,
+"x1": 0.63159,
+"y0": 0.72284,
+"y1": 0.7392,
+"text": "and  Mary Fisher : Marriage Alleg.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.38424,
+"x1": 0.50298,
+"y0": 0.735,
+"y1": 0.7483,
+"text": "(Canterbury), p. 93.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39533,
+"x1": 0.63242,
+"y0": 0.74489,
+"y1": 0.75818,
+"text": "Francis August, 1693: Reg. St. Mary",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.38424,
+"x1": 0.5564,
+"y0": 0.7558,
+"y1": 0.76807,
+"text": "Aldermary (London), p. I!!.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39492,
+"x1": 0.63324,
+"y0": 0.76534,
+"y1": 0.77898,
+"text": "1772. Married-Ieaac Augustus and",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.63242,
+"y0": 0.77625,
+"y1": 0.78852,
+"text": "Rebecca Rawlings : St. Gro. Han. Sq.i.221.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39533,
+"x1": 0.5753,
+"y0": 0.78716,
+"y1": 0.80011,
+"text": "London, 2; Boston (U.S.), 4.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.39903,
+"x1": 0.63529,
+"y0": 0.8008,
+"y1": 0.81477,
+"text": "Augustine.-Bapt. ‘ the son of",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.38588,
+"x1": 0.63324,
+"y0": 0.81477,
+"y1": 0.82807,
+"text": "Augustine.' Popularly known in",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38424,
+"x1": 0.63283,
+"y0": 0.82773,
+"y1": 0.84273,
+"text": "England as Austin, q.v. Augustine",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38259,
+"x1": 0.55804,
+"y0": 0.84102,
+"y1": 0.85602,
+"text": "is a dim. of August, q.v.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39697,
+"x1": 0.63159,
+"y0": 0.85568,
+"y1": 0.86864,
+"text": "Augustin Acerisis, co. Hunta, I273. A.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39615,
+"x1": 0.62625,
+"y0": 0.86591,
+"y1": 0.8792,
+"text": "Mariota fl. Augustin, co. Huntg, ibid.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.39738,
+"x1": 0.59297,
+"y0": 0.87614,
+"y1": 0.89114,
+"text": "John Augustyn, co. Camb., ibid.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.74027,
+"x1": 0.79903,
+"y0": 0.09341,
+"y1": 0.10705,
+"text": "AUTY",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65399,
+"x1": 0.89354,
+"y0": 0.12068,
+"y1": 0.13466,
+"text": "1596. Married--Guilbart Wylkison and",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.64207,
+"x1": 0.88943,
+"y0": 0.13091,
+"y1": 0.14625,
+"text": "Geritrude Augustin : St. Antholin, P. 38.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.6544,
+"x1": 0.89395,
+"y0": 0.14148,
+"y1": 0.15614,
+"text": "1613. Bapt.--Thomazin. d. John Augus-",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64207,
+"x1": 0.83807,
+"y0": 0.15205,
+"y1": 0.16636,
+"text": "tine : 'St. Jas. Clerkenwell, i. 67.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.89313,
+"y0": 0.1633,
+"y1": 0.17591,
+"text": "1667-8. Nicholas Reeics _and Sarah",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.89189,
+"y0": 0.17352,
+"y1": 0.18784,
+"text": "Augustin : Marriage Alleg. (Canterhury),",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.68234,
+"y0": 0.18716,
+"y1": 0.19568,
+"text": "p. 232.",
+"conf": 0.92
+},
+{
+"column": 3,
+"x0": 0.65604,
+"x1": 0.83355,
+"y0": 0.19432,
+"y1": 0.20727,
+"text": "London, I ; Boston (U.S.), 1.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.65933,
+"x1": 0.89066,
+"y0": 0.2083,
+"y1": 0.22261,
+"text": "Auld, Ault, Aulde.--Nick.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.64371,
+"x1": 0.89231,
+"y0": 0.22227,
+"y1": 0.23625,
+"text": "' the old,' a North English form : v.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64248,
+"x1": 0.89436,
+"y0": 0.23455,
+"y1": 0.25159,
+"text": "Ould ; cf. Young, Yonge. The",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64412,
+"x1": 0.81218,
+"y0": 0.2492,
+"y1": 0.26455,
+"text": "following is curious :--",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.65481,
+"x1": 0.89477,
+"y0": 0.26284,
+"y1": 0.27886,
+"text": "1608. : July. 7, was. delivered unto",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.89313,
+"y0": 0.27477,
+"y1": 0.2867,
+"text": "Christcs hoepitall a child that was laid",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64248,
+"x1": 0.89354,
+"y0": 0.28466,
+"y1": 0.2983,
+"text": "at Sir William Paddie's dore, who is",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64248,
+"x1": 0.89354,
+"y0": 0.29523,
+"y1": 0.30886,
+"text": "named Elizabeth Alde ': St. Mary Alder-",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.71726,
+"y0": 0.30773,
+"y1": 0.31795,
+"text": "marv. p. 70.",
+"conf": 0.949
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.89354,
+"y0": 0.31455,
+"y1": 0.32989,
+"text": "1788. Married-John Ault and Mary",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.85779,
+"y0": 0.3258,
+"y1": 0.33909,
+"text": "Williams : St. Gco. Han. Sq. ii. 16.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65645,
+"x1": 0.89313,
+"y0": 0.33705,
+"y1": 0.34932,
+"text": "1805. Grorge Slemaker and Ann",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64371,
+"x1": 0.75753,
+"y0": 0.34659,
+"y1": 0.36023,
+"text": "Auld : ibid. p. 333.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.66878,
+"x1": 0.89189,
+"y0": 0.3575,
+"y1": 0.37011,
+"text": " -- James Ault and Sarah Poucher :",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.6696,
+"y0": 0.36739,
+"y1": 0.3783,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65399,
+"x1": 0.89354,
+"y0": 0.37761,
+"y1": 0.39227,
+"text": "London, 2, 0. 0; Manchester, 3, 2, 0;",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64166,
+"x1": 0.76534,
+"y0": 0.38784,
+"y1": 0.40352,
+"text": "Philadelphia, 7, 2, 1.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65933,
+"x1": 0.89025,
+"y0": 0.40284,
+"y1": 0.41614,
+"text": "Aust, Austen, Austin, Aus-",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.64207,
+"x1": 0.89272,
+"y0": 0.4158,
+"y1": 0.43114,
+"text": "ting, Asten, Astin, Astins.---",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.89272,
+"y0": 0.42909,
+"y1": 0.44409,
+"text": "Bapt. ‘the son of Augustine';",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64371,
+"x1": 0.89231,
+"y0": 0.44341,
+"y1": 0.45807,
+"text": "O.E. Austin. Very popular in the",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64412,
+"x1": 0.74151,
+"y0": 0.45807,
+"y1": 0.47102,
+"text": "13th century.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.68152,
+"x1": 0.8204,
+"y0": 0.47136,
+"y1": 0.48398,
+"text": "' Til he foundede. freres",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.6885,
+"x1": 0.8052,
+"y0": 0.48261,
+"y1": 0.49455,
+"text": "Of Austynes ordre.'",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.73288,
+"x1": 0.87957,
+"y0": 0.49205,
+"y1": 0.50602,
+"text": "Piers Plowman, 10193-4.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64536,
+"x1": 0.89272,
+"y0": 0.50466,
+"y1": 0.51898,
+"text": "A whole column of Austin appears",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64536,
+"x1": 0.89189,
+"y0": 0.51909,
+"y1": 0.53091,
+"text": "in the London Directory The",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64412,
+"x1": 0.89148,
+"y0": 0.53295,
+"y1": 0.54523,
+"text": "name was madc  common by the",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64536,
+"x1": 0.89313,
+"y0": 0.54591,
+"y1": 0.55852,
+"text": "Austin Friars, or Black Canons, as",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64454,
+"x1": 0.89313,
+"y0": 0.55886,
+"y1": 0.5725,
+"text": "they were often styled from their",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.64412,
+"x1": 0.89313,
+"y0": 0.57284,
+"y1": 0.58545,
+"text": "black cloaks, who were established",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.89354,
+"y0": 0.58511,
+"y1": 0.6008,
+"text": "early in the 12th century in Eng-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.89313,
+"y0": 0.59841,
+"y1": 0.61375,
+"text": "land, and possessed of about 170",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.64371,
+"x1": 0.89272,
+"y0": 0.61341,
+"y1": 0.62568,
+"text": "houses. Astin (q.v.), confounded",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64248,
+"x1": 0.89477,
+"y0": 0.62466,
+"y1": 0.64102,
+"text": "often with the local Aston, was",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.75096,
+"y0": 0.64068,
+"y1": 0.65295,
+"text": "an early form.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.89189,
+"y0": 0.65125,
+"y1": 0.66591,
+"text": "Astin de Bennington, (m, Linc., 1273. A.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65563,
+"x1": 0.79944,
+"y0": 0.6625,
+"y1": 0.67477,
+"text": "Wilekin fl. Austin. C.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.85286,
+"y0": 0.67307,
+"y1": 0.68568,
+"text": "Austin Trim, C. R , 41 Hen. III.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.65645,
+"x1": 0.89354,
+"y0": 0.68261,
+"y1": 0.6983,
+"text": "Augustinus Mewhird,  1379 : P. T.",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.7263,
+"y0": 0.69489,
+"y1": 0.70716,
+"text": "York?. p. 286.",
+"conf": 0.929
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.89107,
+"y0": 0.70477,
+"y1": 0.71773,
+"text": "Willelmus Austyn-man, i. e. servant,",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.70946,
+"y0": 0.71455,
+"y1": 0.7292,
+"text": "1379: ibid.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65399,
+"x1": 0.89066,
+"y0": 0.72443,
+"y1": 0.73875,
+"text": "John Austen, or Austyn, or Augustyne,",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.82081,
+"y0": 0.735,
+"y1": 0.74966,
+"text": "1538 : Rrg. Univ. Oxf. i. 100.",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.89272,
+"y0": 0.74489,
+"y1": 0.7592,
+"text": "1557: Buried-Austin Clark: St. Dionis",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64371,
+"x1": 0.78054,
+"y0": 0.7575,
+"y1": 0.76841,
+"text": "Backchurch (London).",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65522,
+"x1": 0.89272,
+"y0": 0.76602,
+"y1": 0.78,
+"text": "1570. -- Alice. d. of Austyn Pawmer :",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64289,
+"x1": 0.8204,
+"y0": 0.77761,
+"y1": 0.78989,
+"text": "St. Michael, Cornhill, p. 191.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65481,
+"x1": 0.89354,
+"y0": 0.78614,
+"y1": 0.8025,
+"text": "1777.  Married--Gcorge Stanser and",
+"conf": 0.883
+},
+{
+"column": 3,
+"x0": 0.64412,
+"x1": 0.86395,
+"y0": 0.79739,
+"y1": 0.81068,
+"text": "Ann' Aust : St. Gco. Han. Sq. i. 273:",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.6544,
+"x1": 0.89066,
+"y0": 0.80761,
+"y1": 0.82227,
+"text": "London, 3. 18, 89, 2, 1,0, 1 ; New' York,",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.64248,
+"x1": 0.75712,
+"y0": 0.82091,
+"y1": 0.83284,
+"text": "2, 4, 94, 1, 11, 1, 0.",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.65892,
+"x1": 0.89231,
+"y0": 0.8308,
+"y1": 0.84682,
+"text": "Auty, Awty.--Bapt. ‘the son",
+"conf": 0.949
+},
+{
+"column": 3,
+"x0": 0.6433,
+"x1": 0.89025,
+"y0": 0.84614,
+"y1": 0.86011,
+"text": "of Auty'( (？).  Seemingly an early",
+"conf": 0.809
+},
+{
+"column": 3,
+"x0": 0.64371,
+"x1": 0.89107,
+"y0": 0.85807,
+"y1": 0.87375,
+"text": "personal name. A well-known",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64002,
+"x1": 0.79246,
+"y0": 0.87102,
+"y1": 0.88807,
+"text": "surname in co. York.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.69672,
+"x1": 0.89929,
+"y0": 0.91568,
+"y1": 0.94705,
+"text": "Digitized by Google",
+"conf": 0.992
+}
+]

@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.22534,
+"x1": 0.28821,
+"y0": 0.08761,
+"y1": 0.10125,
+"text": "AMOR",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13248,
+"x1": 0.38107,
+"y0": 0.11693,
+"y1": 0.12989,
+"text": "i.e. almoner, a distributor of alms",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13207,
+"x1": 0.38231,
+"y0": 0.12989,
+"y1": 0.14455,
+"text": "in a religious house or houschold.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.1333,
+"x1": 0.38066,
+"y0": 0.14352,
+"y1": 0.15784,
+"text": ":Was Jesu Crist ammoner ?' 1300,",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.38148,
+"y0": 0.15716,
+"y1": 0.1725,
+"text": "Cursor Mundi, 15219. ‘Dr Fox the",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.38313,
+"y0": 0.17045,
+"y1": 0.18614,
+"text": "Kynges Amner made an eloquent",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.38272,
+"y0": 0.18239,
+"y1": 0.20011,
+"text": "oracion  in Latin': 1548, Hall,",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.1333,
+"x1": 0.28903,
+"y0": 0.19773,
+"y1": 0.21307,
+"text": "Chron. 79o (H.E.D.).",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.37368,
+"y0": 0.21307,
+"y1": 0.22636,
+"text": "John le Aumoner, C. R., 56 Hen. I1.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.38231,
+"y0": 0.2233,
+"y1": 0.23693,
+"text": "William le Aumoner, Fines Roll, 14",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.18672,
+"y0": 0.23455,
+"y1": 0.2458,
+"text": "Edw. II.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.14481,
+"x1": 0.38272,
+"y0": 0.24307,
+"y1": 0.25909,
+"text": "Richard Aumoner, co. Hunta, I273. A.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.14727,
+"x1": 0.34615,
+"y0": 0.25568,
+"y1": 0.26795,
+"text": "Alan le Anmener, co. Linc., ibid.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.38354,
+"y0": 0.26523,
+"y1": 0.2792,
+"text": "William Aumoner, co. Northampt, 20",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.20768,
+"y0": 0.27602,
+"y1": 0.28727,
+"text": "Edw. I. R.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14604,
+"x1": 0.38066,
+"y0": 0.28591,
+"y1": 0.29818,
+"text": "Peter Aumener, rector of Mileham, co.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.13289,
+"x1": 0.28944,
+"y0": 0.29614,
+"y1": 0.30977,
+"text": "Norf., 1427 : FF. x. P. 25.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.38354,
+"y0": 0.3067,
+"y1": 0.32102,
+"text": "1697. 1 Married -- John  Spencer and",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.38148,
+"y0": 0.31761,
+"y1": 0.32886,
+"text": "Elizabeth Amner : St. Dionis Backchurch,",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13412,
+"x1": 0.22411,
+"y0": 0.32716,
+"y1": 0.34148,
+"text": "London, P: 45.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14563,
+"x1": 0.38395,
+"y0": 0.33636,
+"y1": 0.35205,
+"text": "1773. 'Richard Amner and Frances",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.1333,
+"x1": 0.33012,
+"y0": 0.34727,
+"y1": 0.36227,
+"text": "Owen : St. Geo. Han. Sq. i. 234.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.21343,
+"y0": 0.3592,
+"y1": 0.37148,
+"text": "London, I.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.15015,
+"x1": 0.38272,
+"y0": 0.37148,
+"y1": 0.38477,
+"text": "Amor, Amoore, Amore.--",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.38313,
+"y0": 0.38477,
+"y1": 0.39739,
+"text": "Local, 'at the Moor.' Abbreviated",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13371,
+"x1": 0.38107,
+"y0": 0.39875,
+"y1": 0.41136,
+"text": "to A'Moor ; cf. A'Beckett, Abrook,",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13454,
+"x1": 0.24096,
+"y0": 0.41136,
+"y1": 0.42568,
+"text": "A'Wood, &c.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.35888,
+"y0": 0.42636,
+"y1": 0.44102,
+"text": "John Atte Mor, co. Norf., 1273: A",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.14727,
+"x1": 0.33629,
+"y0": 0.43761,
+"y1": 0.44989,
+"text": "Adam Ate More, co. Oxf., ibid.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.14727,
+"x1": 0.333,
+"y0": 0.44818,
+"y1": 0.46011,
+"text": "Oliva Ate More, co. Oxf., ibid.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.14686,
+"x1": 0.33546,
+"y0": 0.45841,
+"y1": 0.47102,
+"text": "John Amour, C. R., 1o Ric. 1I.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.14645,
+"x1": 0.38313,
+"y0": 0.46761,
+"y1": 0.48261,
+"text": " In 1528, Richard Amore, of Norwich,",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.33916,
+"y0": 0.47955,
+"y1": 0.4925,
+"text": "priest, gave 3 acres' : FF. v. 108.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.14851,
+"x1": 0.38395,
+"y0": 0.49,
+"y1": 0.50193,
+"text": "1766. Marricd-John Amor and Ann",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.34615,
+"y0": 0.49886,
+"y1": 0.51318,
+"text": "Howard : St. Geo. Han. Sq. i. 155.",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.14768,
+"x1": 0.38559,
+"y0": 0.5092,
+"y1": 0.52352,
+"text": "1767. -William Amor and Catherine",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.24671,
+"y0": 0.52136,
+"y1": 0.53193,
+"text": "Rrchet: ibid. 168.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.14768,
+"x1": 0.38395,
+"y0": 0.53091,
+"y1": 0.54352,
+"text": "London, 8, 2, O; New York (Amore), 1.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.15262,
+"x1": 0.38477,
+"y0": 0.54386,
+"y1": 0.55716,
+"text": "Amos, Amoss.-Bapt. ‘the",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.38518,
+"y0": 0.5558,
+"y1": 0.5708,
+"text": "son of Amys.' Without doubt a",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.386,
+"y0": 0.57114,
+"y1": 0.58375,
+"text": "variant, and one more instance of",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.38559,
+"y0": 0.58341,
+"y1": 0.59841,
+"text": "the great popularity ofAmice. The",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13495,
+"x1": 0.38477,
+"y0": 0.59705,
+"y1": 0.6117,
+"text": "name of the Old Test. prophet was",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.38272,
+"y0": 0.61136,
+"y1": 0.62466,
+"text": "unknown in the 13th century.",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.386,
+"y0": 0.6233,
+"y1": 0.63932,
+"text": "There is not a single trace of its",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.137,
+"x1": 0.38436,
+"y0": 0.6383,
+"y1": 0.65091,
+"text": "existence. Amos, like Amias or",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.38559,
+"y0": 0.65193,
+"y1": 0.66557,
+"text": "Amyas, represents· popular forms",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13577,
+"x1": 0.38518,
+"y0": 0.66386,
+"y1": 0.67886,
+"text": "of the Norman-French Aimee, or",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13618,
+"x1": 0.386,
+"y0": 0.67818,
+"y1": 0.69318,
+"text": "Amys, now generally known as",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.38518,
+"y0": 0.69148,
+"y1": 0.70648,
+"text": "Amy; v. Ames.  I do not suppose",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13536,
+"x1": 0.38683,
+"y0": 0.70477,
+"y1": 0.71977,
+"text": "there were any Amos's previous",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.13618,
+"x1": 0.38641,
+"y0": 0.71841,
+"y1": 0.73205,
+"text": "to the Reformation. This variant",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.13618,
+"x1": 0.386,
+"y0": 0.73239,
+"y1": 0.74432,
+"text": "has arisen since the Bible, in the",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.137,
+"x1": 0.38518,
+"y0": 0.74625,
+"y1": 0.75852,
+"text": "vulgar tongue, became familiar to",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13659,
+"x1": 0.38518,
+"y0": 0.75886,
+"y1": 0.77318,
+"text": "the people. It is simply imitative.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14933,
+"x1": 0.38518,
+"y0": 0.77386,
+"y1": 0.7875,
+"text": "Thomas Amys, co. Soms., 1 Edw. IIl :",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.13782,
+"x1": 0.2689,
+"y0": 0.78443,
+"y1": 0.79841,
+"text": "Kirby's Quest, p. 209.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.14974,
+"x1": 0.38559,
+"y0": 0.79432,
+"y1": 0.80795,
+"text": "1677-8. Aaron Amos and Eliz. Potter:",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13741,
+"x1": 0.3634,
+"y0": 0.80557,
+"y1": 0.8192,
+"text": "Marriage Alleg. (Canterbury), p. 215.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.15303,
+"x1": 0.38518,
+"y0": 0.81852,
+"y1": 0.8325,
+"text": "The above AaronAmos may have",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.137,
+"x1": 0.2237,
+"y0": 0.8325,
+"y1": 0.84545,
+"text": "been a Jew.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.15056,
+"x1": 0.38683,
+"y0": 0.8458,
+"y1": 0.85943,
+"text": "1767. Married - James Amos and",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.13741,
+"x1": 0.38641,
+"y0": 0.855,
+"y1": 0.87068,
+"text": "Eleanor Jinks : St. Geo. Han. S 1. i. 163.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.15015,
+"x1": 0.36094,
+"y0": 0.86761,
+"y1": 0.88091,
+"text": "London, 10, I ; Philadelphia, 3i, 0.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.5103,
+"x1": 0.52591,
+"y0": 0.08898,
+"y1": 0.09886,
+"text": "52",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40757,
+"x1": 0.64055,
+"y0": 0.11557,
+"y1": 0.13057,
+"text": "Amphlett.- Local, ‘of Am-",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.64137,
+"y0": 0.13023,
+"y1": 0.14386,
+"text": "fleet, one of many local names",
+"conf": 0.919
+},
+{
+"column": 2,
+"x0": 0.39114,
+"x1": 0.63932,
+"y0": 0.1425,
+"y1": 0.15852,
+"text": "found on the east coast of Eng-",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.39073,
+"x1": 0.63932,
+"y0": 0.15682,
+"y1": 0.1708,
+"text": "land, from Durham to Suffolk,",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.64055,
+"y0": 0.17148,
+"y1": 0.18375,
+"text": "which have -fleet for their sufix, a",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.64137,
+"y0": 0.18443,
+"y1": 0.19841,
+"text": "shallow creek. I have not yet",
+"conf": 0.939
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.64137,
+"y0": 0.19739,
+"y1": 0.21239,
+"text": "identified the place. [Since writing",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.64261,
+"y0": 0.21102,
+"y1": 0.22568,
+"text": "the above I find my statement as",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.64261,
+"y0": 0.22534,
+"y1": 0.23727,
+"text": "to sufix confirmed, but not that",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.64137,
+"y0": 0.23898,
+"y1": 0.25091,
+"text": "relating to the locality. Mr. Lower",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39155,
+"x1": 0.64261,
+"y0": 0.25057,
+"y1": 0.26659,
+"text": "quotes   Lambarde's  Dictionary :",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.64096,
+"y0": 0.26455,
+"y1": 0.27955,
+"text": "Amflete, Amfleot, et aliis Ampleot,",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39114,
+"x1": 0.64178,
+"y0": 0.27682,
+"y1": 0.29318,
+"text": "a haven in France, as I gesse,",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.64096,
+"y0": 0.2917,
+"y1": 0.30568,
+"text": "near Boloigne'; v. Patr. Brit. p.8.]",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40552,
+"x1": 0.64178,
+"y0": 0.3067,
+"y1": 0.32068,
+"text": "1516. Robert Amfet, mayor of Lynn",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.58385,
+"y0": 0.31659,
+"y1": 0.33193,
+"text": "Regis, co. Norf. : FF. viii. 533.",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.40511,
+"x1": 0.64384,
+"y0": 0.32716,
+"y1": 0.34182,
+"text": "1517. William Amflete, rector of West",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.57563,
+"y0": 0.33807,
+"y1": 0.3517,
+"text": "Lexham, co. Norf. : ibid. x. 5.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.40634,
+"x1": 0.64343,
+"y0": 0.34966,
+"y1": 0.36159,
+"text": "1692. Bapt.--Eliz., d. Joseph AmAitt :",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39237,
+"x1": 0.56043,
+"y0": 0.35784,
+"y1": 0.37386,
+"text": "St. Jas. Clerkenwell, i. 345.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.40552,
+"x1": 0.64096,
+"y0": 0.37011,
+"y1": 0.38273,
+"text": "1695. - Sarah, d. Joseph  Ampbleete:",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.39278,
+"x1": 0.4651,
+"y0": 0.38,
+"y1": 0.39398,
+"text": "ibid. p. 363.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.40511,
+"x1": 0.64302,
+"y0": 0.38886,
+"y1": 0.40489,
+"text": "1797. Married - Edward  Weigh  and",
+"conf": 0.936
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.64178,
+"y0": 0.40045,
+"y1": 0.41477,
+"text": "Mary' Amphlett: St. Geo. Han. Sq. i. 163.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40634,
+"x1": 0.47496,
+"y0": 0.4117,
+"y1": 0.42466,
+"text": "London, 2.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.40922,
+"x1": 0.64261,
+"y0": 0.42705,
+"y1": 0.44102,
+"text": "Amps.--? Bapt. ' the son of",
+"conf": 0.719
+},
+{
+"column": 2,
+"x0": 0.3936,
+"x1": 0.64343,
+"y0": 0.43966,
+"y1": 0.455,
+"text": "Ampe. This has been a Cam-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.64548,
+"y0": 0.45398,
+"y1": 0.46864,
+"text": "bridgeshire surname for six cen-",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.64507,
+"y0": 0.46864,
+"y1": 0.48057,
+"text": "turies.. It is possible that it is of",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.39319,
+"x1": 0.64507,
+"y0": 0.48057,
+"y1": 0.49591,
+"text": "local origin, but there is no local",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.64425,
+"y0": 0.49511,
+"y1": 0.50773,
+"text": "prefix in my references from the",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.64384,
+"y0": 0.50784,
+"y1": 0.52284,
+"text": "Hundred Rolls, and the patronymic",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.64261,
+"y0": 0.5217,
+"y1": 0.53602,
+"text": "form Amps (cf. Williams, Jones,",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.64302,
+"y0": 0.53466,
+"y1": 0.55,
+"text": "Wilkins,&c.)is confirmatory proof.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.6311,
+"y0": 0.54932,
+"y1": 0.56432,
+"text": "Richard Ampe, co. Camb., I273. A.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.4084,
+"x1": 0.58755,
+"y0": 0.56057,
+"y1": 0.57352,
+"text": "Elena Ampe. , co. Camb., ibid.",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.64507,
+"y0": 0.57011,
+"y1": 0.58409,
+"text": "1567-8. William Smcethe and Joanna",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.63069,
+"y0": 0.58102,
+"y1": 0.595,
+"text": "Ampes : Marriage Lic. (London). , i. 38.",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.40675,
+"x1": 0.64548,
+"y0": 0.59125,
+"y1": 0.60591,
+"text": "1674-5. Tbomas Brace and Joane",
+"conf": 0.887
+},
+{
+"column": 2,
+"x0": 0.39484,
+"x1": 0.64466,
+"y0": 0.60182,
+"y1": 0.61682,
+"text": "Amps, ,co.、Camb.: Marriage Alleg.",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.5255,
+"y0": 0.61239,
+"y1": 0.62636,
+"text": "(Canterbury), P. 235.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40716,
+"x1": 0.64466,
+"y0": 0.62295,
+"y1": 0.63591,
+"text": "1779. John 'Amps and Ann Jones:",
+"conf": 0.936
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.55262,
+"y0": 0.63318,
+"y1": 0.64682,
+"text": "St.'Geo. Han. Sq. i. 296.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40552,
+"x1": 0.64384,
+"y0": 0.64307,
+"y1": 0.65841,
+"text": "Crockford, 3;' MDB. (Cambridge-",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.39525,
+"x1": 0.45031,
+"y0": 0.65432,
+"y1": 0.66761,
+"text": "shire), 2.",
+"conf": 0.922
+},
+{
+"column": 2,
+"x0": 0.41127,
+"x1": 0.64466,
+"y0": 0.67034,
+"y1": 0.68432,
+"text": "Amyot, Amyatt.-Bapt. ‘the",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39442,
+"x1": 0.64425,
+"y0": 0.6833,
+"y1": 0.69795,
+"text": "son of Amiot,' from Amy, O.F.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.64466,
+"y0": 0.69693,
+"y1": 0.71023,
+"text": "Ame or Aimee, dim. Ami-ot. We",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.64384,
+"y0": 0.70977,
+"y1": 0.72409,
+"text": "find Aimee in north England at an",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.58179,
+"y0": 0.72375,
+"y1": 0.73841,
+"text": "early period in the entry :",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.40798,
+"x1": 0.64343,
+"y0": 0.73875,
+"y1": 0.75307,
+"text": "Amya del Stable, I379: P. T. Yorks.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.39607,
+"x1": 0.43675,
+"y0": 0.75205,
+"y1": 0.76227,
+"text": "P. 241.",
+"conf": 0.922
+},
+{
+"column": 2,
+"x0": 0.4084,
+"x1": 0.64466,
+"y0": 0.75955,
+"y1": 0.77284,
+"text": "Cf. also : Ammya de Wydecombe, co.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39566,
+"x1": 0.64425,
+"y0": 0.76977,
+"y1": 0.78409,
+"text": "Soms., I Edw. Ill': Kirby's Quest, p. 119.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.4084,
+"x1": 0.62124,
+"y0": 0.78341,
+"y1": 0.79807,
+"text": "Willian Amiot, co. Oxf., 1273. A.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.40922,
+"x1": 0.64343,
+"y0": 0.79432,
+"y1": 0.80693,
+"text": "Amiot de Pontefracto. DD. (v. inder).",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.40922,
+"x1": 0.6196,
+"y0": 0.80489,
+"y1": 0.81716,
+"text": "Walter fil. Amiot. GG. (v. index).",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.40963,
+"x1": 0.64425,
+"y0": 0.81614,
+"y1": 0.82807,
+"text": "1564. James Amott : Wills at Chester,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.40922,
+"x1": 0.64507,
+"y0": 0.83557,
+"y1": 0.84955,
+"text": "i612. Robert Amott, of West Derby :",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.3973,
+"x1": 0.42483,
+"y0": 0.84716,
+"y1": 0.85739,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.41004,
+"x1": 0.64302,
+"y0": 0.85705,
+"y1": 0.86898,
+"text": "1622. John Amatt, co. Essex, and Eliz.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39689,
+"x1": 0.63603,
+"y0": 0.86727,
+"y1": 0.88023,
+"text": "Wood : Marriage Lic. (London), ii. 117.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.72006,
+"x1": 0.83429,
+"y0": 0.0883,
+"y1": 0.10057,
+"text": "ANDERTON",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66212,
+"x1": 0.90085,
+"y0": 0.1142,
+"y1": 0.12989,
+"text": "London, 1, O; Crockford, o, I ; Liver-",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.65144,
+"x1": 0.71307,
+"y0": 0.12716,
+"y1": 0.13841,
+"text": "pool, 1, 0.",
+"conf": 0.932
+},
+{
+"column": 3,
+"x0": 0.66705,
+"x1": 0.89962,
+"y0": 0.14216,
+"y1": 0.15545,
+"text": "Ancell, Ancill, Ansell, Ansel.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.89962,
+"y0": 0.15545,
+"y1": 0.17045,
+"text": "-(r) Bapt. ‘the son of Ancel,",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65103,
+"x1": 0.89962,
+"y0": 0.16943,
+"y1": 0.18205,
+"text": "whence dims. Ancelot and Ancelin;",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65103,
+"x1": 0.89921,
+"y0": 0.18205,
+"y1": 0.19636,
+"text": "v. Lancelot and Lancelin. (2) Bapt.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65021,
+"x1": 0.90044,
+"y0": 0.19534,
+"y1": 0.21034,
+"text": "‘the son of Anselm' (!). I merely",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.65021,
+"x1": 0.90208,
+"y0": 0.20932,
+"y1": 0.225,
+"text": "suggest this as a possibility. No",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65185,
+"x1": 0.90044,
+"y0": 0.22227,
+"y1": 0.23693,
+"text": "doubt the final m in Anselm might",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65144,
+"x1": 0.90249,
+"y0": 0.23659,
+"y1": 0.25057,
+"text": "be casily dropped. But of course",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90167,
+"y0": 0.24989,
+"y1": 0.26352,
+"text": "(1) is the true and natural solution",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65226,
+"x1": 0.82689,
+"y0": 0.26489,
+"y1": 0.27716,
+"text": "in the majority of cases.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66664,
+"x1": 0.89921,
+"y0": 0.27989,
+"y1": 0.2908,
+"text": "Ansell' deSeleden, Hen. HII-Edw. I. K.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.81867,
+"y0": 0.29068,
+"y1": 0.30159,
+"text": "Brianus fl. Aunselli, ibid.",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.81908,
+"y0": 0.29989,
+"y1": 0.3142,
+"text": "William Ansel, 1273. ,A.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.80511,
+"y0": 0.31045,
+"y1": 0.32375,
+"text": "Ansellus de Bray, ibid.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.8084,
+"y0": 0.3217,
+"y1": 0.33398,
+"text": "Aunsellus de. Bray, ibid.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.665,
+"x1": 0.82853,
+"y0": 0.33193,
+"y1": 0.34386,
+"text": "Ansellus de Braytem, ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.66335,
+"x1": 0.90003,
+"y0": 0.34045,
+"y1": 0.35614,
+"text": "1545._ BuriedAnsell Bonyam : St.",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.65226,
+"x1": 0.81621,
+"y0": 0.35273,
+"y1": 0.36466,
+"text": "Dionis Backchurch, P. 181.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90291,
+"y0": 0.36159,
+"y1": 0.37659,
+"text": "1667. Nowell Ansell and Mary Snipe :",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.8725,
+"y0": 0.37284,
+"y1": 0.38682,
+"text": "Marriage Lic. (Westminster), P. 44.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.66582,
+"x1": 0.90249,
+"y0": 0.38409,
+"y1": 0.39636,
+"text": "1693. Buried- John Ansell, of Norwich :",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.7254,
+"y0": 0.39432,
+"y1": 0.40659,
+"text": "FF. iv. 239.",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90291,
+"y0": 0.40352,
+"y1": 0.41784,
+"text": "1727: Bapt.-Thomas, 8.. of Thomas",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.87538,
+"y0": 0.41239,
+"y1": 0.42909,
+"text": "Anceli : St. Jas. Clerkenwell, i. 173.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.66459,
+"x1": 0.90373,
+"y0": 0.42364,
+"y1": 0.44068,
+"text": "London,2, 1, 27, 0; Boston (U.S.),0,0,2,3.",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.66952,
+"x1": 0.90578,
+"y0": 0.44239,
+"y1": 0.45705,
+"text": "Ancock.—Bapt. ‘the son of",
+"conf": 0.942
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.90085,
+"y0": 0.4567,
+"y1": 0.47,
+"text": "John, a vile variant of Hancock,",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90414,
+"y0": 0.46864,
+"y1": 0.485,
+"text": "q.v. ; cf. the common United States",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65308,
+"x1": 0.90414,
+"y0": 0.48295,
+"y1": 0.49693,
+"text": "surname, Arrison. It is interest-",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.90373,
+"y0": 0.49648,
+"y1": 0.51011,
+"text": "ing to note that Ancock is found",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65267,
+"x1": 0.90414,
+"y0": 0.51023,
+"y1": 0.5242,
+"text": "in the county which hnd so closc",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65103,
+"x1": 0.90249,
+"y0": 0.52205,
+"y1": 0.53943,
+"text": "a connexion with .the_ Flemings,",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.88688,
+"y0": 0.53602,
+"y1": 0.55136,
+"text": "who introduced Han, Hans, &c.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.66705,
+"x1": 0.90291,
+"y0": 0.55375,
+"y1": 0.565,
+"text": "1619. Married-Davie Evans and Annis",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65431,
+"x1": 0.87496,
+"y0": 0.56364,
+"y1": 0.57795,
+"text": "Ancocke : St. Peter, Cornhill, i. 250.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.66993,
+"x1": 0.87948,
+"y0": 0.57864,
+"y1": 0.59636,
+"text": "Annis represents Agnes ;",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.65514,
+"x1": 0.7028,
+"y0": 0.59295,
+"y1": 0.60659,
+"text": "Annis.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66705,
+"x1": 0.78457,
+"y0": 0.60727,
+"y1": 0.62295,
+"text": "MDB. (Lincoln), 3.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.67034,
+"x1": 0.90208,
+"y0": 0.62466,
+"y1": 0.6417,
+"text": "Anderson, Anders. -- Bapt.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65555,
+"x1": 0.90496,
+"y0": 0.63864,
+"y1": 0.655,
+"text": "'the son of Andrew,' q.v. It was",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.90455,
+"y0": 0.65295,
+"y1": 0.66727,
+"text": "of course inevitable that Andrew-",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65349,
+"x1": 0.90455,
+"y0": 0.66625,
+"y1": 0.68091,
+"text": "son should become toned down to",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.90455,
+"y0": 0.68023,
+"y1": 0.6942,
+"text": "Anderson. Even Andrews has",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6539,
+"x1": 0.90537,
+"y0": 0.6942,
+"y1": 0.70716,
+"text": "occasionally  assumed the form of",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.71102,
+"y0": 0.70705,
+"y1": 0.72,
+"text": "Anders.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66541,
+"x1": 0.90496,
+"y0": 0.72136,
+"y1": 0.73739,
+"text": "Rogerus Andreweson, 1379: P. T.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.65431,
+"x1": 0.74594,
+"y0": 0.73261,
+"y1": 0.74727,
+"text": "Yorks. p. 237.,",
+"conf": 0.929
+},
+{
+"column": 3,
+"x0": 0.66623,
+"x1": 0.90373,
+"y0": 0.7425,
+"y1": 0.75716,
+"text": "Martin Aunderson, 1495, Yorks. W. I1.",
+"conf": 0.949
+},
+{
+"column": 3,
+"x0": 0.66705,
+"x1": 0.90373,
+"y0": 0.75341,
+"y1": 0.7667,
+"text": "1611. Richard Anderson and Eliz.",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.65514,
+"x1": 0.90373,
+"y0": 0.76398,
+"y1": 0.77591,
+"text": "Hawkins : Marriage Lic. (London), i. 8.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.66746,
+"x1": 0.90496,
+"y0": 0.77318,
+"y1": 0.78784,
+"text": "1769. Frederick? Anders and \"Mary",
+"conf": 0.928
+},
+{
+"column": 3,
+"x0": 0.65555,
+"x1": 0.85976,
+"y0": 0.78443,
+"y1": 0.79773,
+"text": "Harper : St. Geo. Han. Sq.i. 185.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66664,
+"x1": 0.89674,
+"y0": 0.79466,
+"y1": 0.80932,
+"text": "London, 138, 2; Boston (U.S.) 271, 1.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.67116,
+"x1": 0.90496,
+"y0": 0.81034,
+"y1": 0.82534,
+"text": "Anderton.--( 1) Local, ‘of An-",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.65596,
+"x1": 0.90701,
+"y0": 0.825,
+"y1": 0.8383,
+"text": "derton,'a township in the parish of",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65637,
+"x1": 0.9066,
+"y0": 0.83761,
+"y1": 0.85193,
+"text": "Standish, co. Lanc. There seems",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65555,
+"x1": 0.90496,
+"y0": 0.85193,
+"y1": 0.86455,
+"text": "to bc a sccond Anderton. Samuel",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65472,
+"x1": 0.90701,
+"y0": 0.8642,
+"y1": 0.8792,
+"text": "Oldknow, of Mellor, was 'born at",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.69705,
+"x1": 0.90003,
+"y0": 0.91534,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.992
+}
+]

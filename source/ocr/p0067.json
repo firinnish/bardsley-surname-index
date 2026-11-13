@@ -1,0 +1,1811 @@
+[
+{
+"column": 1,
+"x0": 0.18904,
+"x1": 0.29999,
+"y0": 0.07227,
+"y1": 0.08591,
+"text": "ATTESLOW",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.36819,
+"y0": 0.09989,
+"y1": 0.1125,
+"text": "Alicia · de Attebarwe, co. Camb.,",
+"conf": 0.868
+},
+{
+"column": 1,
+"x0": 0.12001,
+"x1": 0.17959,
+"y0": 0.11045,
+"y1": 0.12545,
+"text": "1273. A.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13522,
+"x1": 0.36737,
+"y0": 0.12068,
+"y1": 0.1333,
+"text": "Margaret de Atteburwe, co. Camb.,",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.12084,
+"x1": 0.14837,
+"y0": 0.13193,
+"y1": 0.14216,
+"text": "ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13275,
+"x1": 0.3645,
+"y0": 0.14114,
+"y1": 0.15375,
+"text": "Richard de Atleborw, co. Camb., ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13152,
+"x1": 0.36943,
+"y0": 0.15136,
+"y1": 0.16636,
+"text": "Ralf de Atlcburgh, temp. Edw. I11,",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.11919,
+"x1": 0.25725,
+"y0": 0.16193,
+"y1": 0.17523,
+"text": "co. Norf. : FF. iv. 225.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13111,
+"x1": 0.36943,
+"y0": 0.1725,
+"y1": 0.18614,
+"text": "Joha de Atlebergh, , co. Norf, 1256:",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.1196,
+"x1": 0.19767,
+"y0": 0.18273,
+"y1": 0.19568,
+"text": "ibid. ii. 489.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13111,
+"x1": 0.29423,
+"y0": 0.19261,
+"y1": 0.20761,
+"text": "John Atte-bury, 1306. M.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13193,
+"x1": 0.36819,
+"y0": 0.20352,
+"y1": 0.21648,
+"text": "1661. Laurence Atterbury and Eliz",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.11755,
+"x1": 0.36737,
+"y0": 0.21443,
+"y1": 0.22739,
+"text": "Poynter : Marriage Alleg. (Canterbury),",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.11878,
+"x1": 0.15412,
+"y0": 0.22602,
+"y1": 0.2383,
+"text": "p. 65.",
+"conf": 0.918
+},
+{
+"column": 1,
+"x0": 0.13152,
+"x1": 0.36861,
+"y0": 0.23352,
+"y1": 0.24886,
+"text": "1769. Married-- Louis Gouyn and Eliz.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.11919,
+"x1": 0.34108,
+"y0": 0.24545,
+"y1": 0.25841,
+"text": "Atterbury : St. Geo. Han. Sq. i. 184.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13111,
+"x1": 0.32957,
+"y0": 0.25534,
+"y1": 0.27068,
+"text": "London, 1o, 3: New York, 0, 9.",
+"conf": 0.932
+},
+{
+"column": 1,
+"x0": 0.2441,
+"x1": 0.33121,
+"y0": 0.27636,
+"y1": 0.28352,
+"text": "Local at",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12084,
+"x1": 0.37066,
+"y0": 0.28557,
+"y1": 0.29886,
+"text": "slough ' ; v. Slough, where manifest",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.11919,
+"x1": 0.36943,
+"y0": 0.2992,
+"y1": 0.31318,
+"text": "proof is given; cf. Attwood, Att-",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12001,
+"x1": 0.18576,
+"y0": 0.31318,
+"y1": 0.3258,
+"text": "well, &c.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13275,
+"x1": 0.32916,
+"y0": 0.32682,
+"y1": 0.3408,
+"text": "Peter Atteslo, co. Oxf., 1273: A",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13234,
+"x1": 0.34724,
+"y0": 0.33705,
+"y1": 0.3517,
+"text": "William Atteslont, co. Camb, ibid.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.13275,
+"x1": 0.36819,
+"y0": 0.3483,
+"y1": 0.36159,
+"text": "Edward Attislow, or Atslow, adm. B.A.,",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.1196,
+"x1": 0.35012,
+"y0": 0.35818,
+"y1": 0.37284,
+"text": "June 26, 1555 : Reg. Univ. Oxf. i. 229.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.13152,
+"x1": 0.36737,
+"y0": 0.36807,
+"y1": 0.38273,
+"text": "Luke Atteslowe, or Atsloe, adm. B.A.,",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.11919,
+"x1": 0.30492,
+"y0": 0.37966,
+"y1": 0.39364,
+"text": "Jan. 24, 1559-60 : 'ibid. p. 241.",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.13604,
+"x1": 0.36532,
+"y0": 0.39534,
+"y1": 0.41034,
+"text": "Attfleld.--Local, ‘at the field,",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.12001,
+"x1": 0.36737,
+"y0": 0.40932,
+"y1": 0.42364,
+"text": "from residence thercby; cf. Att-",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12042,
+"x1": 0.33163,
+"y0": 0.42398,
+"y1": 0.43591,
+"text": "wood, Attwell, &c.; v. Field.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13234,
+"x1": 0.36532,
+"y0": 0.43795,
+"y1": 0.45159,
+"text": "Richard Ate Felde, co. Oxf.,I273. A.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13234,
+"x1": 0.32341,
+"y0": 0.44818,
+"y1": 0.46182,
+"text": "Linot Ate Felde, co. Oxf., ibid.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.30533,
+"y0": 0.45943,
+"y1": 0.47102,
+"text": "John Atefelde, co. Oxf., ibid.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13357,
+"x1": 0.36984,
+"y0": 0.46932,
+"y1": 0.48295,
+"text": "John Attefeld, co. Norf., 1o Hen. IV :",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12001,
+"x1": 0.1911,
+"y0": 0.47886,
+"y1": 0.49318,
+"text": "FF. vii. 49.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.37025,
+"y0": 0.48875,
+"y1": 0.50375,
+"text": "1675. John Attfeild and Elizabeth Hall :",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12001,
+"x1": 0.34477,
+"y0": 0.50023,
+"y1": 0.51523,
+"text": "Marriage Lic. (Westminster), P: 239.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13275,
+"x1": 0.37066,
+"y0": 0.5108,
+"y1": 0.52409,
+"text": "1785. Married - James _Attbeld  and",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.1196,
+"x1": 0.36984,
+"y0": 0.52068,
+"y1": 0.53602,
+"text": "Mary Colburm : St. Geo. Han. Sq. i. 372.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.20178,
+"y0": 0.53159,
+"y1": 0.54557,
+"text": "London, 7.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13768,
+"x1": 0.3645,
+"y0": 0.54761,
+"y1": 0.56159,
+"text": "Atthill.—-Local, 'at the hill,",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.12042,
+"x1": 0.36326,
+"y0": 0.56125,
+"y1": 0.57557,
+"text": "from residcnce thereon; v. Hill",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.37025,
+"y0": 0.57557,
+"y1": 0.58852,
+"text": "cf. Attwell, Attwood, &c. This",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.11919,
+"x1": 0.36943,
+"y0": 0.5892,
+"y1": 0.60148,
+"text": "surname has existed in co. Norfolk",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11837,
+"x1": 0.30368,
+"y0": 0.6025,
+"y1": 0.61614,
+"text": "for at Jeast five centuries.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13234,
+"x1": 0.36326,
+"y0": 0.61614,
+"y1": 0.63182,
+"text": "Bateman Attehil, co. Camb., !273. A",
+"conf": 0.929
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.33697,
+"y0": 0.62841,
+"y1": 0.64034,
+"text": "Everard Attehyl, co. Camb., i jbid.",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.13234,
+"x1": 0.32669,
+"y0": 0.6383,
+"y1": 0.65057,
+"text": "Henry Attehul, , co. Camb., ibid.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.36778,
+"y0": 0.64852,
+"y1": 0.6625,
+"text": "Gregory Attehill. rector of Ingworth,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.11919,
+"x1": 0.29382,
+"y0": 0.65875,
+"y1": 0.67273,
+"text": "co. Norf., 1356 : FF. vi. 369.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13152,
+"x1": 0.36861,
+"y0": 0.66932,
+"y1": 0.6833,
+"text": "John Athill, co. Norf., 1384 : ibid. vi. 501.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13193,
+"x1": 0.36984,
+"y0": 0.67955,
+"y1": 0.69352,
+"text": "1558. Edward Dixson and Margaret",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12042,
+"x1": 0.35299,
+"y0": 0.68977,
+"y1": 0.70409,
+"text": "Athill : Marriage Lic. (London), i. i8.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.36285,
+"y0": 0.69966,
+"y1": 0.71602,
+"text": "Crockford, 2 : MDB. (co. Norfolk), 3.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13809,
+"x1": 0.29177,
+"y0": 0.71727,
+"y1": 0.73023,
+"text": "Atthow ; v. Athow.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.13727,
+"x1": 0.36696,
+"y0": 0.73534,
+"y1": 0.74966,
+"text": "Attley, Attlee, Atlay, Atlee.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12207,
+"x1": 0.36902,
+"y0": 0.74864,
+"y1": 0.76432,
+"text": "--Local, 'at the lee, from resi-",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.36902,
+"y0": 0.76295,
+"y1": 0.77727,
+"text": "dence thereby ; v. Lee ; cf.Attwood",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12248,
+"x1": 0.21082,
+"y0": 0.77727,
+"y1": 0.78852,
+"text": "and Attwell.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.36737,
+"y0": 0.79227,
+"y1": 0.80523,
+"text": " John Atte Lee, co. Northampt., 20 Edw.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.12042,
+"x1": 0.15905,
+"y0": 0.8025,
+"y1": 0.81375,
+"text": "1. R.",
+"conf": 0.871
+},
+{
+"column": 1,
+"x0": 0.13316,
+"x1": 0.323,
+"y0": 0.81273,
+"y1": 0.82636,
+"text": "Roger Atteleye, co.' Kent, ibid.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.13357,
+"x1": 0.32752,
+"y0": 0.82091,
+"y1": 0.83795,
+"text": "William Attelan, co. Oxf., 1273.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13234,
+"x1": 0.31108,
+"y0": 0.83284,
+"y1": 0.84716,
+"text": "John Attele, co. Berks, ibid. .",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13398,
+"x1": 0.37066,
+"y0": 0.84239,
+"y1": 0.85875,
+"text": "1588. Bapt. John, 8. Francis Attley :",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.11591,
+"x1": 0.29834,
+"y0": 0.85398,
+"y1": 0.8683,
+"text": ".St. Dionis Backchurch, p. 86.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.49413,
+"x1": 0.51509,
+"y0": 0.07057,
+"y1": 0.08455,
+"text": "67",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39264,
+"x1": 0.62767,
+"y0": 0.09955,
+"y1": 0.11148,
+"text": "1687. William Att Lee and Elizabeth",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.3799,
+"x1": 0.62767,
+"y0": 0.10977,
+"y1": 0.12341,
+"text": "Bonfoy, Marriage Lic. (Faculty Ofice),",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.37949,
+"x1": 0.4214,
+"y0": 0.12034,
+"y1": 0.1333,
+"text": "p. 186.",
+"conf": 0.926
+},
+{
+"column": 2,
+"x0": 0.39305,
+"x1": 0.62767,
+"y0": 0.13091,
+"y1": 0.14352,
+"text": "1751. Bapt. - Charles, 8. Benjamin",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.38031,
+"x1": 0.59973,
+"y0": 0.14045,
+"y1": 0.15511,
+"text": "Atlce : St. Mary Aldermary, P. I3!.",
+"conf": 0.925
+},
+{
+"column": 2,
+"x0": 0.39223,
+"x1": 0.62767,
+"y0": 0.1517,
+"y1": 0.16466,
+"text": "London, I, I, O, 2; Crockford (Atlay),",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.37949,
+"x1": 0.54508,
+"y0": 0.16193,
+"y1": 0.17489,
+"text": "2 ; Philadelphia (Atlee), 12.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39634,
+"x1": 0.62973,
+"y0": 0.17523,
+"y1": 0.18886,
+"text": "Attmore, Atmore.--Local,'at",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38072,
+"x1": 0.62932,
+"y0": 0.1892,
+"y1": 0.20182,
+"text": "the moor,' from residence thercon ;",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38031,
+"x1": 0.44195,
+"y0": 0.2025,
+"y1": 0.21545,
+"text": "v. Moor.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.39223,
+"x1": 0.60672,
+"y0": 0.21545,
+"y1": 0.23011,
+"text": "Adam Ate Mor, co. Oxf., I273. A.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39223,
+"x1": 0.57097,
+"y0": 0.2267,
+"y1": 0.23932,
+"text": "Oliva Ate Mor, co. Oxf., ibid.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39223,
+"x1": 0.57138,
+"y0": 0.23727,
+"y1": 0.24989,
+"text": "Ralph Atemor, London, ibid.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39223,
+"x1": 0.62973,
+"y0": 0.2475,
+"y1": 0.26011,
+"text": "Beatrix Attemore, Norwich, 7 Ric. I1 :",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.38114,
+"x1": 0.46003,
+"y0": 0.25807,
+"y1": 0.27034,
+"text": "FF. viii. 270.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.62767,
+"y0": 0.26795,
+"y1": 0.28125,
+"text": "Simon Attemore, vicar of Crimplesham,",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37867,
+"x1": 0.56357,
+"y0": 0.27807,
+"y1": 0.29205,
+"text": "co. Norf., 1398: ibid. vii. 314.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.60466,
+"x1": 0.62973,
+"y0": 0.29045,
+"y1": 0.30034,
+"text": "and",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.3799,
+"x1": 0.62028,
+"y0": 0.29886,
+"y1": 0.31216,
+"text": "Mary Atmore : St. Geo. Han. Sq. i. 40.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.63014,
+"y0": 0.30943,
+"y1": 0.32375,
+"text": "Philadelphia, 6, 12 ; MDB. (Norfolk), 0,4.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39593,
+"x1": 0.63178,
+"y0": 0.32341,
+"y1": 0.33807,
+"text": "Attridge, Attrich.—Local,‘at",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.37908,
+"x1": 0.63178,
+"y0": 0.33705,
+"y1": 0.35239,
+"text": "the ridge,'from residence thereby ;",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.37949,
+"x1": 0.63137,
+"y0": 0.35136,
+"y1": 0.36534,
+"text": "v. Rigg or Ridge ; cf. Attwood or",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.3799,
+"x1": 0.43866,
+"y0": 0.36466,
+"y1": 0.37727,
+"text": "Attwcll.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39059,
+"x1": 0.61781,
+"y0": 0.37898,
+"y1": 0.39261,
+"text": "Jacob Atteriche, Co. Berks, I273. A.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39141,
+"x1": 0.63137,
+"y0": 0.38852,
+"y1": 0.40352,
+"text": "1777. Married-William Fowier and",
+"conf": 0.925
+},
+{
+"column": 2,
+"x0": 0.3799,
+"x1": 0.61987,
+"y0": 0.40045,
+"y1": 0.41239,
+"text": "Jane Atridge: St. Geo. Han. Sq. i. 282.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.39141,
+"x1": 0.62973,
+"y0": 0.41034,
+"y1": 0.42295,
+"text": "18oo. --- Edward Walker and Sarah",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.37867,
+"x1": 0.51714,
+"y0": 0.42023,
+"y1": 0.4342,
+"text": "Attridge : ibid. ii. 225.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39018,
+"x1": 0.63014,
+"y0": 0.43045,
+"y1": 0.44614,
+"text": "London, 2, 0; Philadelphia, 2, 0; New",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38031,
+"x1": 0.44647,
+"y0": 0.44136,
+"y1": 0.45534,
+"text": "York, 5, 1.",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.39634,
+"x1": 0.62767,
+"y0": 0.45534,
+"y1": 0.46932,
+"text": "Attwell, . Atwell,  Atwill,",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.38114,
+"x1": 0.62603,
+"y0": 0.46898,
+"y1": 0.48261,
+"text": "Attiwell, Attwill, Attewell.--",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.38072,
+"x1": 0.62973,
+"y0": 0.48261,
+"y1": 0.49659,
+"text": "Local, 'at the well,'from residence",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38031,
+"x1": 0.62028,
+"y0": 0.49545,
+"y1": 0.5108,
+"text": "thereby ; v. Wells ; cf. Attwood.",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.39264,
+"x1": 0.6174,
+"y0": 0.50989,
+"y1": 0.52557,
+"text": "Adam Ate Welle, co. Oxf., .1?73. A.",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.39387,
+"x1": 0.5833,
+"y0": 0.52136,
+"y1": 0.5333,
+"text": "John Atewelle, co. Camb., ibid.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3947,
+"x1": 0.62891,
+"y0": 0.53091,
+"y1": 0.5442,
+"text": "John Atte-Well, co. Kent, 2o Edw. I. R.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39141,
+"x1": 0.6248,
+"y0": 0.54045,
+"y1": 0.55648,
+"text": "Simon Atte We!l, C. R., 43 Edw. I11.",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.391,
+"x1": 0.57467,
+"y0": 0.55068,
+"y1": 0.56739,
+"text": "William Atte Well, 1313. M.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39387,
+"x1": 0.50934,
+"y0": 0.56295,
+"y1": 0.57386,
+"text": "John Atwelle, ibid.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39387,
+"x1": 0.62808,
+"y0": 0.57216,
+"y1": 0.58614,
+"text": "Willelmus Attewell, 1379 : P. T. Yorks.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38114,
+"x1": 0.39059,
+"y0": 0.58784,
+"y1": 0.59432,
+"text": "p",
+"conf": 0.534
+},
+{
+"column": 2,
+"x0": 0.39428,
+"x1": 0.62767,
+"y0": 0.59193,
+"y1": 0.60795,
+"text": "Jefr At-welle, rector of Erpingham,",
+"conf": 0.851
+},
+{
+"column": 2,
+"x0": 0.37949,
+"x1": 0.55494,
+"y0": 0.6042,
+"y1": 0.61648,
+"text": "co. Norf., 1448 : FF. vi. 411.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.62973,
+"y0": 0.61341,
+"y1": 0.62773,
+"text": "1663-4. Married- William Atwell and",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.37867,
+"x1": 0.63096,
+"y0": 0.62295,
+"y1": 0.64068,
+"text": "Mary Tyrell : St Dionis Backchurch, P. 37.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39552,
+"x1": 0.63055,
+"y0": 0.63693,
+"y1": 0.65261,
+"text": "The variant Atwill is found as",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37908,
+"x1": 0.62849,
+"y0": 0.65159,
+"y1": 0.66693,
+"text": "early as the beginning of the 17th",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.37908,
+"x1": 0.4403,
+"y0": 0.66693,
+"y1": 0.6792,
+"text": "century.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.391,
+"x1": 0.62932,
+"y0": 0.67852,
+"y1": 0.69455,
+"text": "Hugh Attwyll, parson of Cawverly, co.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.37867,
+"x1": 0.53769,
+"y0": 0.68943,
+"y1": 0.70375,
+"text": "Devon, 1602 :'FF. iii. 358.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.39018,
+"x1": 0.63014,
+"y0": 0.69966,
+"y1": 0.7167,
+"text": "New York, 6 4 I, 0, 0, o; Boston (U.S.)",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.38114,
+"x1": 0.63014,
+"y0": 0.7108,
+"y1": 0.72716,
+"text": "(Attwill), 2; London, 13. 5, 1, 0, 0, 0 ;",
+"conf": 0.921
+},
+{
+"column": 2,
+"x0": 0.37908,
+"x1": 0.51386,
+"y0": 0.72102,
+"y1": 0.73432,
+"text": "Sheffield'(Attiwell), 1.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39675,
+"x1": 0.62726,
+"y0": 0.73432,
+"y1": 0.74864,
+"text": "Attwood, ,  Atwood.--Local,",
+"conf": 0.899
+},
+{
+"column": 2,
+"x0": 0.37949,
+"x1": 0.62891,
+"y0": 0.74898,
+"y1": 0.76227,
+"text": "‘at the wood,1 from residence",
+"conf": 0.918
+},
+{
+"column": 2,
+"x0": 0.37908,
+"x1": 0.62808,
+"y0": 0.76193,
+"y1": 0.77591,
+"text": "thereby ; cf. Attwell, and v. Wood.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.3799,
+"x1": 0.62685,
+"y0": 0.77489,
+"y1": 0.79159,
+"text": "Every English county has repre-",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37785,
+"x1": 0.57713,
+"y0": 0.78852,
+"y1": 0.80318,
+"text": "sentatives of this surname.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.62726,
+"y0": 0.80318,
+"y1": 0.81682,
+"text": "Gcofrey Ate W'ode, co. Hunts, I273. A.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.39223,
+"x1": 0.60425,
+"y0": 0.81409,
+"y1": 0.82636,
+"text": "Matheus Atewode, co. Camb., ibid.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.58289,
+"y0": 0.82398,
+"y1": 0.83693,
+"text": "Agnes Attewode, co. Oxf., ibid.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.61124,
+"y0": 0.83352,
+"y1": 0.8475,
+"text": "Gilbert Atte Wode, co. Sussex, ibid.",
+"conf": 0.947
+},
+{
+"column": 2,
+"x0": 0.39182,
+"x1": 0.62767,
+"y0": 0.84443,
+"y1": 0.85943,
+"text": "John Attewode, co. Norf., 139i: FF.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.38031,
+"x1": 0.43209,
+"y0": 0.85534,
+"y1": 0.86932,
+"text": "viii. 170.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.48591,
+"x1": 0.52125,
+"y0": 0.87239,
+"y1": 0.88773,
+"text": "F 2",
+"conf": 0.848
+},
+{
+"column": 3,
+"x0": 0.71458,
+"x1": 0.821,
+"y0": 0.07091,
+"y1": 0.08489,
+"text": "ATWORTH",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.6513,
+"x1": 0.89126,
+"y0": 0.09716,
+"y1": 0.11386,
+"text": "William Attewood, co. Norf., 1439 :",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.69567,
+"y0": 0.10909,
+"y1": 0.12239,
+"text": "ibid. 171.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.89003,
+"y0": 0.12034,
+"y1": 0.13159,
+"text": "1726. Marricd--George Atwood and",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.89085,
+"y0": 0.12852,
+"y1": 0.14455,
+"text": "Sarah Laurence: St. Mary Aldermary,",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.67472,
+"y0": 0.14284,
+"y1": 0.15341,
+"text": "P. 47.",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.65623,
+"x1": 0.89044,
+"y0": 0.15273,
+"y1": 0.16807,
+"text": "Atwood has ramified strongly in",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64061,
+"x1": 0.81114,
+"y0": 0.16636,
+"y1": 0.18034,
+"text": "Boston and the district.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65376,
+"x1": 0.89085,
+"y0": 0.18068,
+"y1": 0.19466,
+"text": ": Philip Atwood sailed for New England",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.89003,
+"y0": 0.19193,
+"y1": 0.2042,
+"text": "in the Suzan and Ellin in 1625' : Hotten's",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.79593,
+"y0": 0.20045,
+"y1": 0.21716,
+"text": "Lists of Emigranta, P. 59.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.65171,
+"x1": 0.8814,
+"y0": 0.2117,
+"y1": 0.22739,
+"text": "London, 13, 4; Boston (U.S.), 3, 123.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65705,
+"x1": 0.88715,
+"y0": 0.22705,
+"y1": 0.24034,
+"text": "Atty.--Bapt. ' the son of Adam,",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64144,
+"x1": 0.89085,
+"y0": 0.24,
+"y1": 0.25534,
+"text": "from the colloquial Addy, q.v.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64144,
+"x1": 0.88962,
+"y0": 0.25295,
+"y1": 0.26864,
+"text": "This was sharpened into Atty.",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.64144,
+"x1": 0.88921,
+"y0": 0.26761,
+"y1": 0.28023,
+"text": "Similarly Addison became Attison.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65335,
+"x1": 0.88921,
+"y0": 0.28193,
+"y1": 0.29591,
+"text": "1624-5. Christopher Attye and Eliz.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.88962,
+"y0": 0.2925,
+"y1": 0.30648,
+"text": "Richardson : Matriage Lic. (London;, ii.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.64185,
+"x1": 0.66609,
+"y0": 0.30364,
+"y1": 0.31489,
+"text": "148.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65376,
+"x1": 0.89085,
+"y0": 0.31216,
+"y1": 0.3275,
+"text": "1639.  Bapt.--Leah, d. Thomas Aty:",
+"conf": 0.918
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.82552,
+"y0": 0.32239,
+"y1": 0.33909,
+"text": "St. Dionis Backchurch, p. 106.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.88879,
+"y0": 0.33432,
+"y1": 0.34625,
+"text": "1640-I. - Mary, d. Edward Atye : ibid.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65376,
+"x1": 0.89003,
+"y0": 0.34284,
+"y1": 0.35886,
+"text": "·'Here lyeth the body of Richard Atty.",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.64144,
+"x1": 0.89003,
+"y0": 0.35545,
+"y1": 0.36739,
+"text": "son, late pastor of Cley, who departed 7th",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.88838,
+"y0": 0.36364,
+"y1": 0.38068,
+"text": "Nov. 1659., Cley, co. Norf. : FF. ix. 379.",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65376,
+"x1": 0.89085,
+"y0": 0.37557,
+"y1": 0.38886,
+"text": "1711. Married-William Attey. and",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.89167,
+"y0": 0.38375,
+"y1": 0.40114,
+"text": "Frances Parr : St. Jas. Clerkenwell ii. 233.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.72156,
+"y0": 0.39636,
+"y1": 0.40966,
+"text": "London, I.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65582,
+"x1": 0.89044,
+"y0": 0.41,
+"y1": 0.425,
+"text": "Atwater, Attwater.--Local,",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.64267,
+"x1": 0.89126,
+"y0": 0.42432,
+"y1": 0.43932,
+"text": "'at the water'; cf. Bywater, Att-",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64102,
+"x1": 0.89003,
+"y0": 0.43727,
+"y1": 0.45261,
+"text": "Wood, Attwell, &c.; v. Waters.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.89249,
+"y0": 0.44955,
+"y1": 0.46727,
+"text": "This surname, having crossed the",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.64185,
+"x1": 0.88879,
+"y0": 0.46455,
+"y1": 0.47886,
+"text": "Atlantic, i 3 more strongly repre-",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.64061,
+"x1": 0.88962,
+"y0": 0.47852,
+"y1": 0.4908,
+"text": "sented in Ncw York than London.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.65212,
+"x1": 0.89044,
+"y0": 0.49273,
+"y1": 0.5067,
+"text": "John Atte Watere, co. Surrey, 20 Edw.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.6628,
+"x1": 0.67883,
+"y0": 0.50443,
+"y1": 0.51398,
+"text": "R.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.89085,
+"y0": 0.51318,
+"y1": 0.52716,
+"text": "William Ate W attere. co. Oxf., 1273. A.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65458,
+"x1": 0.84401,
+"y0": 0.52477,
+"y1": 0.53705,
+"text": "John Ate Water, co. Suf., ibid.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65335,
+"x1": 0.84935,
+"y0": 0.53364,
+"y1": 0.54795,
+"text": "Elias Atewater, ca. Camb., ibid.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65335,
+"x1": 0.87893,
+"y0": 0.54489,
+"y1": 0.55784,
+"text": "Thoinas atte Watyr, C.R., 4 Hcn. V.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65417,
+"x1": 0.89085,
+"y0": 0.55682,
+"y1": 0.56705,
+"text": "1430. Robert atte W'atre: Cal. of",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.82634,
+"y0": 0.565,
+"y1": 0.57932,
+"text": "Wills in Court of Husting. Z.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65376,
+"x1": 0.89003,
+"y0": 0.57727,
+"y1": 0.5875,
+"text": "16o5. Married--Thomas Attwater and",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.88715,
+"y0": 0.58477,
+"y1": 0.6008,
+"text": "Jane Page: St. Antholin (London), p. 43.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65212,
+"x1": 0.89085,
+"y0": 0.59636,
+"y1": 0.61068,
+"text": "Crocktord, 1, o; Philadelphia, 1, 0;",
+"conf": 0.921
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.86989,
+"y0": 0.60693,
+"y1": 0.62159,
+"text": "Boston (U.S'), i, o; New Yor'k, 15, 1.",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.65664,
+"x1": 0.88797,
+"y0": 0.62159,
+"y1": 0.63557,
+"text": "Atwick.--Local, ‘ at the wick';",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64842,
+"x1": 0.87976,
+"y0": 0.63557,
+"y1": 0.64818,
+"text": ". Wick; cf. Attwood or Attwell.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65253,
+"x1": 0.88879,
+"y0": 0.65091,
+"y1": 0.6642,
+"text": "Geoffrey Attewyk, co. Esaex, 1273.. A.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.65253,
+"x1": 0.87441,
+"y0": 0.66045,
+"y1": 0.67511,
+"text": "Geoffrey Attewyche, co. Essex, ibid.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65417,
+"x1": 0.84277,
+"y0": 0.67136,
+"y1": 0.68398,
+"text": "John Attewich, 'co. Camb., ibid.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.88921,
+"y0": 0.68193,
+"y1": 0.69489,
+"text": "Gervase Att-wyke, rector of Aylmer-",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.84072,
+"y0": 0.69182,
+"y1": 0.70716,
+"text": "ton, co. Norf., 1379: FF. vii. 82.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.65089,
+"x1": 0.89126,
+"y0": 0.70102,
+"y1": 0.71705,
+"text": "1779. MarricdThomas Cotton and",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.88838,
+"y0": 0.71295,
+"y1": 0.72659,
+"text": "Mary Attwick : St. Geo. Han. Sg. i. 304.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.66897,
+"x1": 0.89003,
+"y0": 0.72409,
+"y1": 0.735,
+"text": "- John Doratt and Elizabeth At.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.70882,
+"y0": 0.73409,
+"y1": 0.74466,
+"text": "wick : ibid.",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.65623,
+"x1": 0.89085,
+"y0": 0.74795,
+"y1": 0.76261,
+"text": "Still cxisting  on authority of",
+"conf": 0.947
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.74457,
+"y0": 0.76125,
+"y1": 0.77693,
+"text": "Lower (1860).",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65623,
+"x1": 0.88838,
+"y0": 0.77932,
+"y1": 0.79125,
+"text": "Atworth.-- Local,'ofAtworth';",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.88797,
+"y0": 0.79125,
+"y1": 0.80727,
+"text": "not a compound of ‘atte'  and",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64554,
+"x1": 0.88756,
+"y0": 0.80557,
+"y1": 0.82023,
+"text": "worth,' but from a parish in dioc.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.71211,
+"y0": 0.81989,
+"y1": 0.8325,
+"text": "of Sarum.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65212,
+"x1": 0.88715,
+"y0": 0.83318,
+"y1": 0.84784,
+"text": "Geoffrey de  Attewurth,  co.  Wilts,",
+"conf": 0.941
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.6965,
+"y0": 0.84511,
+"y1": 0.85875,
+"text": "1273. A.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.65171,
+"x1": 0.88674,
+"y0": 0.85432,
+"y1": 0.86864,
+"text": "William de Attewurthe, co. Wilta, ib:d.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.6965,
+"x1": 0.89907,
+"y0": 0.915,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.991
+}
+]

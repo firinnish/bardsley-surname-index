@@ -1,0 +1,1658 @@
+[
+{
+"column": 1,
+"x0": 0.19921,
+"x1": 0.29506,
+"y0": 0.08216,
+"y1": 0.09477,
+"text": "ANTIOCH",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13956,
+"x1": 0.37158,
+"y0": 0.10977,
+"y1": 0.12341,
+"text": "Antioch.--Local, ‘of Antioch';",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.37282,
+"y0": 0.12307,
+"y1": 0.13773,
+"text": "cf. Veness, Janeway, &c. Pro-",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.12269,
+"x1": 0.37199,
+"y0": 0.13636,
+"y1": 0.15102,
+"text": "bably imported as the result of the",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12228,
+"x1": 0.32509,
+"y0": 0.14966,
+"y1": 0.165,
+"text": "spicery trade with the East.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13503,
+"x1": 0.37035,
+"y0": 0.16636,
+"y1": 0.17864,
+"text": "Godard de Antioche, Sheriff of London,",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12146,
+"x1": 0.29218,
+"y0": 0.17557,
+"y1": 0.19091,
+"text": "1195: www. pp. 187, 190.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13421,
+"x1": 0.37282,
+"y0": 0.18511,
+"y1": 0.20182,
+"text": "Wiliam de Antioche, co. Soms., Hen.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.12351,
+"x1": 0.22348,
+"y0": 0.19773,
+"y1": 0.20932,
+"text": "HI-Edw. I. K.",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.13544,
+"x1": 0.30946,
+"y0": 0.20625,
+"y1": 0.22193,
+"text": "Nicholas Antioch, 1309. M.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13585,
+"x1": 0.28478,
+"y0": 0.21852,
+"y1": 0.2308,
+"text": "Robert de Antiocha. E.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13627,
+"x1": 0.37323,
+"y0": 0.23284,
+"y1": 0.24989,
+"text": "I cannot discover any modern",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12351,
+"x1": 0.23788,
+"y0": 0.24989,
+"y1": 0.26216,
+"text": "representatives.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.13997,
+"x1": 0.37158,
+"y0": 0.2683,
+"y1": 0.28159,
+"text": "Antliff, Antcliff, Antcliffe.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12434,
+"x1": 0.37323,
+"y0": 0.28091,
+"y1": 0.29727,
+"text": "-Local, 'of Arncliff,' a village",
+"conf": 0.937
+},
+{
+"column": 1,
+"x0": 0.12392,
+"x1": 0.37199,
+"y0": 0.29477,
+"y1": 0.30943,
+"text": "and parish, W. Rid. of Yorkshire,",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.37323,
+"y0": 0.30875,
+"y1": 0.32341,
+"text": "sixteen miles north of Shipton. In",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.12351,
+"x1": 0.37199,
+"y0": 0.32307,
+"y1": 0.33568,
+"text": "local names, whose suffix is -clif,",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.12351,
+"x1": 0.37487,
+"y0": 0.33602,
+"y1": 0.35068,
+"text": "there is a tendency to elide the",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12598,
+"x1": 0.37405,
+"y0": 0.34966,
+"y1": 0.36261,
+"text": "c； cf. Cunliffe or Topliff for",
+"conf": 0.509
+},
+{
+"column": 1,
+"x0": 0.12516,
+"x1": 0.37405,
+"y0": 0.3633,
+"y1": 0.37557,
+"text": "Cuncliff and Topcliff.  This sur-",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.12392,
+"x1": 0.37446,
+"y0": 0.37557,
+"y1": 0.39023,
+"text": "name has crossed the Atlantic. No",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12516,
+"x1": 0.3724,
+"y0": 0.39023,
+"y1": 0.40318,
+"text": "doubt the meaning is the eagle-cliff.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13709,
+"x1": 0.37323,
+"y0": 0.40489,
+"y1": 0.41784,
+"text": "Thomas Arneclyff, 1379: P. T. Yorks.",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.16589,
+"y0": 0.4158,
+"y1": 0.42909,
+"text": "p. 269.",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.13668,
+"x1": 0.37446,
+"y0": 0.42534,
+"y1": 0.43864,
+"text": "1748. Married- Lukc Antcliff and Mary",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.12434,
+"x1": 0.37405,
+"y0": 0.43591,
+"y1": 0.4492,
+"text": "Tallance : St. Geo. Chap. Mayfair, p. 114.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13709,
+"x1": 0.37611,
+"y0": 0.44614,
+"y1": 0.4608,
+"text": "Ulverston, 1, 0, O; Manchester, 0, 1, 0 ;",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.12434,
+"x1": 0.25721,
+"y0": 0.45602,
+"y1": 0.47068,
+"text": "Boston (U.S.), o, O, 2.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.1412,
+"x1": 0.37487,
+"y0": 0.47477,
+"y1": 0.48875,
+"text": "Anton, Antoine.--Bapt. ‘the",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.12516,
+"x1": 0.37446,
+"y0": 0.48807,
+"y1": 0.50273,
+"text": "son of Antony'; Fr. Antoine, Ger.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.12598,
+"x1": 0.37569,
+"y0": 0.50295,
+"y1": 0.51557,
+"text": "Anton, M.E. Antoyn. Of course",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12475,
+"x1": 0.37652,
+"y0": 0.51534,
+"y1": 0.52966,
+"text": "many of the United States repre-",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12557,
+"x1": 0.37528,
+"y0": 0.52955,
+"y1": 0.54148,
+"text": "sentatives are of French and Ger-",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12598,
+"x1": 0.23952,
+"y0": 0.54455,
+"y1": 0.55511,
+"text": "man extraction.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.13709,
+"x1": 0.37734,
+"y0": 0.5575,
+"y1": 0.57386,
+"text": "Robertus Antoynson, 1379: P. T.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.12516,
+"x1": 0.21608,
+"y0": 0.56875,
+"y1": 0.58205,
+"text": "Yorks. p. 265.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13873,
+"x1": 0.32633,
+"y0": 0.57864,
+"y1": 0.5933,
+"text": "Antoyn Tailliour : ibid. p. 267.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.14038,
+"x1": 0.37611,
+"y0": 0.59023,
+"y1": 0.60318,
+"text": "1613. Gregory   Roberts and Ursala",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.12639,
+"x1": 0.37652,
+"y0": 0.60011,
+"y1": 0.61375,
+"text": "Antunn : Marriage Lic. (Westminster),",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.1268,
+"x1": 0.16013,
+"y0": 0.61205,
+"y1": 0.6233,
+"text": "p. 21.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13873,
+"x1": 0.37611,
+"y0": 0.62057,
+"y1": 0.63489,
+"text": "London, 2, O; Liverpool, 1, O; Phila-",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.1268,
+"x1": 0.21278,
+"y0": 0.63114,
+"y1": 0.64614,
+"text": "delphia, I1, 3.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.1449,
+"x1": 0.37652,
+"y0": 0.64989,
+"y1": 0.66216,
+"text": "Antrobus.--Local, 'of Antro-",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.12763,
+"x1": 0.37734,
+"y0": 0.6642,
+"y1": 0.67716,
+"text": "bus,'  a township in the parish",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.12845,
+"x1": 0.37652,
+"y0": 0.6775,
+"y1": 0.68943,
+"text": "of Great Budworth, co. Cheshire.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12886,
+"x1": 0.37693,
+"y0": 0.68977,
+"y1": 0.70375,
+"text": "Apart from the well-known family",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.12886,
+"x1": 0.37857,
+"y0": 0.705,
+"y1": 0.71795,
+"text": "of that name and  placc, many",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12845,
+"x1": 0.37981,
+"y0": 0.71693,
+"y1": 0.73159,
+"text": "Antrobus's may be scen in the",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.22142,
+"x1": 0.28807,
+"y0": 0.73205,
+"y1": 0.74261,
+"text": "Cheshire",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12886,
+"x1": 0.38063,
+"y0": 0.74318,
+"y1": 0.76023,
+"text": "They may represent junior branches",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.12927,
+"x1": 0.37981,
+"y0": 0.75682,
+"y1": 0.77318,
+"text": "of centuries ago or separate stocks.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12968,
+"x1": 0.37981,
+"y0": 0.77114,
+"y1": 0.78443,
+"text": "This surname has crossed the At-",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.12886,
+"x1": 0.17411,
+"y0": 0.78443,
+"y1": 0.79705,
+"text": "lantic.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14367,
+"x1": 0.38063,
+"y0": 0.80011,
+"y1": 0.81136,
+"text": "16oo-I. Thomas Antrobus, co. Cumb. :",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.13009,
+"x1": 0.34813,
+"y0": 0.80966,
+"y1": 0.82398,
+"text": "Reg. Univ. Oxf. vol. ii. pt. ii. p. 246.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.14285,
+"x1": 0.38022,
+"y0": 0.81886,
+"y1": 0.83523,
+"text": "William Antrobus, of Over Peover,",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.13051,
+"x1": 0.37775,
+"y0": 0.82977,
+"y1": 0.84545,
+"text": "1596 : W'ills at Chester (1545-1620), P: 5.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.14285,
+"x1": 0.38104,
+"y0": 0.84136,
+"y1": 0.85534,
+"text": "Henry Antrobus, of Knutaford, i620 :",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.13092,
+"x1": 0.15725,
+"y0": 0.85261,
+"y1": 0.86284,
+"text": "Ibid.",
+"conf": 0.927
+},
+{
+"column": 1,
+"x0": 0.14367,
+"x1": 0.37981,
+"y0": 0.8625,
+"y1": 0.87545,
+"text": "1635. Joan Antrobuss ‘imbarqued in",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.49791,
+"x1": 0.51968,
+"y0": 0.08011,
+"y1": 0.0958,
+"text": "56",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38289,
+"x1": 0.631,
+"y0": 0.10909,
+"y1": 0.12136,
+"text": "the Planter' for New England : Hotten's",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38289,
+"x1": 0.48846,
+"y0": 0.11966,
+"y1": 0.1333,
+"text": "Emigrants, p. 45.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39562,
+"x1": 0.63223,
+"y0": 0.12818,
+"y1": 0.14386,
+"text": "1660. Gcorge Antrobus  and Anna",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.38289,
+"x1": 0.63018,
+"y0": 0.14045,
+"y1": 0.15273,
+"text": "Franklin: Marriage Lic. (Westminster),",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.38207,
+"x1": 0.41616,
+"y0": 0.15273,
+"y1": 0.165,
+"text": "P. 53.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39398,
+"x1": 0.63182,
+"y0": 0.15886,
+"y1": 0.17557,
+"text": "London, 4: Manchester, 5: Phila.",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.38248,
+"x1": 0.44738,
+"y0": 0.1708,
+"y1": 0.18545,
+"text": "delphia, 2.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.39727,
+"x1": 0.63018,
+"y0": 0.18852,
+"y1": 0.20216,
+"text": "Anvers. --Local,'ofAnvers,' i.c.",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.3833,
+"x1": 0.631,
+"y0": 0.20182,
+"y1": 0.21682,
+"text": "Antwerp. This surname seemingly",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38248,
+"x1": 0.63264,
+"y0": 0.21511,
+"y1": 0.2308,
+"text": "did not last long. I find no repre-",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38248,
+"x1": 0.63429,
+"y0": 0.22943,
+"y1": 0.24341,
+"text": "sentatives during the last three",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.38371,
+"x1": 0.45601,
+"y0": 0.24341,
+"y1": 0.25602,
+"text": "centuries.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.3948,
+"x1": 0.61909,
+"y0": 0.25636,
+"y1": 0.27273,
+"text": "Ralph de Anvers, co. Oxf., 1273.. A.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39521,
+"x1": 0.63429,
+"y0": 0.26795,
+"y1": 0.28227,
+"text": "Thomas de Anvers, co. Berks, 20",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.38412,
+"x1": 0.45847,
+"y0": 0.27875,
+"y1": 0.29034,
+"text": "Edw. I. R.",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.40014,
+"x1": 0.63388,
+"y0": 0.2958,
+"y1": 0.31011,
+"text": "Anwyl, Anwell.--Bapt. ‘ the",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.38371,
+"x1": 0.63347,
+"y0": 0.30977,
+"y1": 0.32307,
+"text": "son of Anwyl.' This is a Welsh",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.38371,
+"x1": 0.63305,
+"y0": 0.32409,
+"y1": 0.33705,
+"text": "surname,and as at least ninety-five",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.38371,
+"x1": 0.63552,
+"y0": 0.33602,
+"y1": 0.35136,
+"text": "per cent. of its nomenclature is",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.38576,
+"x1": 0.63429,
+"y0": 0.35102,
+"y1": 0.36398,
+"text": "baptismal, I feel bound to place it",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38412,
+"x1": 0.6347,
+"y0": 0.36432,
+"y1": 0.37693,
+"text": "under that class ; but I have not",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38453,
+"x1": 0.63223,
+"y0": 0.37761,
+"y1": 0.39057,
+"text": "met with the name in early records.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.3985,
+"x1": 0.63264,
+"y0": 0.3933,
+"y1": 0.40693,
+"text": "1794. L. Married--Ellis Anw. 1 and Pris",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.38494,
+"x1": 0.6195,
+"y0": 0.40386,
+"y1": 0.4175,
+"text": "cilla'Ryder : St. Geo. Han. Sq. i. 110.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39768,
+"x1": 0.63429,
+"y0": 0.41545,
+"y1": 0.42875,
+"text": "MDB. (co. Montgomery), 2, O; (co.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38576,
+"x1": 0.63388,
+"y0": 0.42602,
+"y1": 0.43898,
+"text": "Denbigh), 1, O ; (co. Flint), i, o: (co. Car.",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.63347,
+"y0": 0.43659,
+"y1": 0.44989,
+"text": "narvon)!, 0;  London, 1, o ; Liverpool,",
+"conf": 0.898
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.52995,
+"y0": 0.4475,
+"y1": 0.46011,
+"text": "1, I ; Philadelphia, 2, 0.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40178,
+"x1": 0.6347,
+"y0": 0.46455,
+"y1": 0.47818,
+"text": "Anyon.- Bapt. ‘the son of",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.38659,
+"x1": 0.63511,
+"y0": 0.47716,
+"y1": 0.49182,
+"text": "Eignion' or 'Enion,' a Welsh sur-",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.38576,
+"x1": 0.60142,
+"y0": 0.4925,
+"y1": 0.50477,
+"text": "name ; v. Benyon and Eynon.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39932,
+"x1": 0.63552,
+"y0": 0.5075,
+"y1": 0.51875,
+"text": "1640. John Annyon_ and Martha",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38494,
+"x1": 0.63511,
+"y0": 0.51602,
+"y1": 0.52966,
+"text": "Lownds : Marriage Lic.(London), ii. 253.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3985,
+"x1": 0.63511,
+"y0": 0.5275,
+"y1": 0.53977,
+"text": "1648. Married-Rcginald Baxter and",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.38617,
+"x1": 0.63511,
+"y0": 0.53705,
+"y1": 0.55136,
+"text": "Martha Annion : St. Thomas the Apostle",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38741,
+"x1": 0.4823,
+"y0": 0.54932,
+"y1": 0.56057,
+"text": "(London), p. 18.",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.40014,
+"x1": 0.63593,
+"y0": 0.55886,
+"y1": 0.57182,
+"text": "1791. 1 Married--David  Williams  and",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.38782,
+"x1": 0.63511,
+"y0": 0.56943,
+"y1": 0.5817,
+"text": "Frances Anyon : St. Geo. Han. Sq. ii. 66.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.40137,
+"x1": 0.4901,
+"y0": 0.58034,
+"y1": 0.59227,
+"text": "Manchester, 1.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.40343,
+"x1": 0.63757,
+"y0": 0.59773,
+"y1": 0.61068,
+"text": "Ape.--Nick. ‘the ape.' For a",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.38782,
+"x1": 0.63675,
+"y0": 0.61136,
+"y1": 0.62398,
+"text": "reason that can be well understood",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38782,
+"x1": 0.63593,
+"y0": 0.625,
+"y1": 0.63693,
+"text": "this surname has not come down",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38782,
+"x1": 0.63757,
+"y0": 0.63625,
+"y1": 0.65193,
+"text": "to modern t times.‘Wilde beris",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.38741,
+"x1": 0.6384,
+"y0": 0.6492,
+"y1": 0.66693,
+"text": "and apes, 1350 : Will. Palerne,",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38864,
+"x1": 0.49709,
+"y0": 0.66455,
+"y1": 0.67955,
+"text": "2298 (H.E.D.).",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40219,
+"x1": 0.56404,
+"y0": 0.68295,
+"y1": 0.69591,
+"text": "John lc Ape, co. Oxf, 1273:",
+"conf": 0.927
+},
+{
+"column": 2,
+"x0": 0.40096,
+"x1": 0.56692,
+"y0": 0.69011,
+"y1": 0.70784,
+"text": "Alured Ape, co. Nort., ibid.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.37056,
+"x1": 0.63757,
+"y0": 0.70852,
+"y1": 0.72352,
+"text": "y Aplin,Applin.--(1) Bapt.‘the",
+"conf": 0.576
+},
+{
+"column": 2,
+"x0": 0.39028,
+"x1": 0.63634,
+"y0": 0.72307,
+"y1": 0.73807,
+"text": "son The homily",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.3681,
+"x1": 0.63059,
+"y0": 0.73443,
+"y1": 0.75136,
+"text": "S  Against the perils s of Idolatry",
+"conf": 0.537
+},
+{
+"column": 2,
+"x0": 0.37098,
+"x1": 0.63963,
+"y0": 0.74864,
+"y1": 0.76398,
+"text": "9 ‘All diseases have  their",
+"conf": 0.62
+},
+{
+"column": 2,
+"x0": 0.3911,
+"x1": 0.42602,
+"y0": 0.75409,
+"y1": 0.765,
+"text": "says,",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39069,
+"x1": 0.63963,
+"y0": 0.76398,
+"y1": 0.77898,
+"text": "special saints as gods, the curers",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39069,
+"x1": 0.63675,
+"y0": 0.77795,
+"y1": 0.79125,
+"text": "of them : the toothache, St. Appo.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.38946,
+"x1": 0.6384,
+"y0": 0.79057,
+"y1": 0.80523,
+"text": "line. This was the usual English",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38987,
+"x1": 0.64045,
+"y0": 0.80523,
+"y1": 0.8192,
+"text": "form of Appolonia, a martyr at",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39234,
+"x1": 0.63922,
+"y0": 0.81955,
+"y1": 0.83182,
+"text": "Alexandria, 1 who,  among other",
+"conf": 0.919
+},
+{
+"column": 2,
+"x0": 0.3911,
+"x1": 0.63963,
+"y0": 0.83148,
+"y1": 0.84545,
+"text": "tortures, had all her teeth beaten",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38946,
+"x1": 0.63963,
+"y0": 0.84409,
+"y1": 0.86011,
+"text": "out. It was a popular girl's name,",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38987,
+"x1": 0.60923,
+"y0": 0.85841,
+"y1": 0.87239,
+"text": "and survived the Reformation.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.72034,
+"x1": 0.81441,
+"y0": 0.08182,
+"y1": 0.09341,
+"text": "APPLEBY",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65297,
+"x1": 0.89081,
+"y0": 0.1067,
+"y1": 0.12307,
+"text": "1593. Bapt.-Apeline, d. John Morria,",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64147,
+"x1": 0.84481,
+"y0": 0.1183,
+"y1": 0.13159,
+"text": "clothworker : St. Peter, Cornhill.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.6542,
+"x1": 0.89164,
+"y0": 0.12955,
+"y1": 0.1425,
+"text": "1609. -- Apoline, d.' William Burton,",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64229,
+"x1": 0.74006,
+"y0": 0.14011,
+"y1": 0.15205,
+"text": "merchant : ibid.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65667,
+"x1": 0.80291,
+"y0": 0.15034,
+"y1": 0.16193,
+"text": "Appolonia Cotton. TT.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65708,
+"x1": 0.89205,
+"y0": 0.16057,
+"y1": 0.1742,
+"text": "Aplin 1 Thomas : ] Reg. St. Columb",
+"conf": 0.887
+},
+{
+"column": 3,
+"x0": 0.64311,
+"x1": 0.72773,
+"y0": 0.17114,
+"y1": 0.18648,
+"text": "Major, p. 174.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65954,
+"x1": 0.89287,
+"y0": 0.18818,
+"y1": 0.2025,
+"text": "(2) Bapt. ‘ the son of Abel,' from",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.64311,
+"x1": 0.8941,
+"y0": 0.20148,
+"y1": 0.2158,
+"text": "dim. Abelin, sharpened to Apelin ;",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64311,
+"x1": 0.8941,
+"y0": 0.21477,
+"y1": 0.2308,
+"text": "cf. Apps for Abbs, or Epps for",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64435,
+"x1": 0.6846,
+"y0": 0.22841,
+"y1": 0.24205,
+"text": "Ebbs.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65667,
+"x1": 0.87397,
+"y0": 0.24375,
+"y1": 0.25773,
+"text": "Thomas Abelyn, co. Kent, 1273. A",
+"conf": 0.888
+},
+{
+"column": 3,
+"x0": 0.65872,
+"x1": 0.89451,
+"y0": 0.26045,
+"y1": 0.27648,
+"text": "(3) Bapt. ‘the son of Lyon, a",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.64393,
+"x1": 0.89451,
+"y0": 0.27409,
+"y1": 0.29045,
+"text": "Welsh personal name, whence the",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64558,
+"x1": 0.89205,
+"y0": 0.28841,
+"y1": 0.30261,
+"text": "patr. ap-Lyon. This undoubtedly",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64517,
+"x1": 0.89451,
+"y0": 0.30239,
+"y1": 0.31466,
+"text": "became Applin, and represents the",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64476,
+"x1": 0.8941,
+"y0": 0.31455,
+"y1": 0.32955,
+"text": "Applins of cos. Somerset, Hereford,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64352,
+"x1": 0.89451,
+"y0": 0.32886,
+"y1": 0.34284,
+"text": "and south-west England generally ;",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.64476,
+"x1": 0.74663,
+"y0": 0.34318,
+"y1": 0.3558,
+"text": "cf. Applejohn.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65749,
+"x1": 0.8941,
+"y0": 0.35989,
+"y1": 0.3725,
+"text": "Ap-lln-ap-Gwyll, 149o: Hist. and Ant.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64435,
+"x1": 0.77374,
+"y0": 0.36977,
+"y1": 0.38443,
+"text": "of St. Davids, P: 376.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.65708,
+"x1": 0.89328,
+"y0": 0.38034,
+"y1": 0.39398,
+"text": "Joneda fl. Aplyon : Visitation of Glouc.,",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.64476,
+"x1": 0.71377,
+"y0": 0.39125,
+"y1": 0.40591,
+"text": "1623, p. 98.",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.65626,
+"x1": 0.89574,
+"y0": 0.39943,
+"y1": 0.4158,
+"text": "1734. Anne, d. of Edmund Aplin : St.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64476,
+"x1": 0.79428,
+"y0": 0.41034,
+"y1": 0.42534,
+"text": "Jas. Clerkenwell, ii. 217.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.6579,
+"x1": 0.89657,
+"y0": 0.42227,
+"y1": 0.43455,
+"text": "18o2. Married-Samuel Ramsey and",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64558,
+"x1": 0.87685,
+"y0": 0.43182,
+"y1": 0.44545,
+"text": "Eliz. Aplin : St. Geo. Han. Sq. ii. 271.",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.65667,
+"x1": 0.89492,
+"y0": 0.44239,
+"y1": 0.45705,
+"text": "London, 5, I: MDB. (co. Somerset),",
+"conf": 0.947
+},
+{
+"column": 3,
+"x0": 0.64435,
+"x1": 0.89574,
+"y0": 0.45261,
+"y1": 0.46795,
+"text": "5, 0; Boston (U.S.), 3, 3; Philadelphia,",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.67474,
+"y0": 0.46625,
+"y1": 0.47716,
+"text": "0, 2.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.66406,
+"x1": 0.89451,
+"y0": 0.48193,
+"y1": 0.4942,
+"text": "Apperly, Apperley.--Local,",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.89574,
+"y0": 0.49489,
+"y1": 0.5092,
+"text": "' of Apperley' (1) An extra-paro-",
+"conf": 0.927
+},
+{
+"column": 3,
+"x0": 0.6464,
+"x1": 0.89533,
+"y0": 0.50636,
+"y1": 0.52239,
+"text": "chial district in the parish of By-",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.64722,
+"x1": 0.89615,
+"y0": 0.5217,
+"y1": 0.535,
+"text": "well, co. Northumberland; (2) a",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64599,
+"x1": 0.89492,
+"y0": 0.53466,
+"y1": 0.54898,
+"text": "hamlet in the parish of Deerhurst,",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64681,
+"x1": 0.86001,
+"y0": 0.54795,
+"y1": 0.56261,
+"text": "co. Glouc., near Tewkesbury.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.65913,
+"x1": 0.89533,
+"y0": 0.56739,
+"y1": 0.57966,
+"text": "John de Apperleghe, co. Soms., I Edw.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64763,
+"x1": 0.81071,
+"y0": 0.57761,
+"y1": 0.59125,
+"text": "IIi : Kirby's Quest, p. 191.",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.65995,
+"x1": 0.89205,
+"y0": 0.58784,
+"y1": 0.60216,
+"text": "Will iam de Apperi, co. Oxf., 1273. A.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.66324,
+"x1": 0.89739,
+"y0": 0.60625,
+"y1": 0.61886,
+"text": "The above cntries seem to prove",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64763,
+"x1": 0.89944,
+"y0": 0.61955,
+"y1": 0.63386,
+"text": "that Apperley, in co. Glouc., is",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64804,
+"x1": 0.76019,
+"y0": 0.63386,
+"y1": 0.64716,
+"text": "the real parent.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66037,
+"x1": 0.86904,
+"y0": 0.65091,
+"y1": 0.66386,
+"text": "London, 1, o; Boston (U.S.), 0, 1.",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.66488,
+"x1": 0.89657,
+"y0": 0.66795,
+"y1": 0.68261,
+"text": "Appleby, Applebee, Appel.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64804,
+"x1": 0.89903,
+"y0": 0.68023,
+"y1": 0.69727,
+"text": "bee.-Local, of Appleby,' parishes",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64763,
+"x1": 0.8978,
+"y0": 0.69455,
+"y1": 0.70886,
+"text": "in cos. Westm., Lincoln, and Lei.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64969,
+"x1": 0.89903,
+"y0": 0.70773,
+"y1": 0.72273,
+"text": "cester. Many local surnames end.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64927,
+"x1": 0.69405,
+"y0": 0.72386,
+"y1": 0.73682,
+"text": "ing in",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64804,
+"x1": 0.90108,
+"y0": 0.73568,
+"y1": 0.75034,
+"text": "this dictionary proves in various",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64886,
+"x1": 0.69569,
+"y0": 0.75136,
+"y1": 0.76432,
+"text": "pages.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.63161,
+"x1": 0.89985,
+"y0": 0.76568,
+"y1": 0.78136,
+"text": "S Geofrey de Appelby, co. Linc., 1273. A.",
+"conf": 0.532
+},
+{
+"column": 3,
+"x0": 0.66365,
+"x1": 0.89985,
+"y0": 0.77727,
+"y1": 0.78989,
+"text": "John de vicar of Tilney, co.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.64886,
+"x1": 0.79551,
+"y0": 0.7858,
+"y1": 0.80114,
+"text": "Norf., 1 372 : FF. ix. 83.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.66201,
+"x1": 0.8978,
+"y0": 0.79773,
+"y1": 0.8117,
+"text": "Thomas de Appleby, Bishop of Carlisle,",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65338,
+"x1": 0.79058,
+"y0": 0.80898,
+"y1": 0.82057,
+"text": "I Ric. 1l : ibid. ili. 10s.",
+"conf": 0.901
+},
+{
+"column": 3,
+"x0": 0.66365,
+"x1": 0.90108,
+"y0": 0.81818,
+"y1": 0.8325,
+"text": "Henry. de Apelby, . 1367,.rector of",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.65051,
+"x1": 0.90026,
+"y0": 0.82841,
+"y1": 0.84341,
+"text": "Bolton - juxta - Bowland : 'Whittaker's",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65092,
+"x1": 0.74252,
+"y0": 0.84034,
+"y1": 0.85398,
+"text": "Craven, p. 13!.",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.66283,
+"x1": 0.90026,
+"y0": 0.84852,
+"y1": 0.8642,
+"text": "Johannes de Appleby, 1379 : P. T.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65051,
+"x1": 0.73513,
+"y0": 0.86114,
+"y1": 0.87511,
+"text": "Yorks. p. 296.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.69651,
+"x1": 0.90067,
+"y0": 0.915,
+"y1": 0.94909,
+"text": "Digitized by Google",
+"conf": 0.997
+}
+]

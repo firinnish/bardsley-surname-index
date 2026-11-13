@@ -1,0 +1,1703 @@
+[
+{
+"column": 1,
+"x0": 0.19262,
+"x1": 0.27859,
+"y0": 0.09068,
+"y1": 0.10364,
+"text": "AMELOT",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.35304,
+"y0": 0.11693,
+"y1": 0.13159,
+"text": "William Ambroys, co. Bedf., !?73. A",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.12515,
+"x1": 0.3263,
+"y0": 0.1275,
+"y1": 0.1425,
+"text": "Robert Ambros 6', co. Hunts, ibid.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12392,
+"x1": 0.337,
+"y0": 0.13807,
+"y1": 0.15205,
+"text": "Richard Ambrosic, co. Hunts, ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12351,
+"x1": 0.30985,
+"y0": 0.14898,
+"y1": 0.16193,
+"text": "Henry Ambreis, co. Oxf., ibid.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.35962,
+"y0": 0.15886,
+"y1": 0.1725,
+"text": "1567.'Bapt. Johane, d.'William Am.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.11323,
+"x1": 0.3119,
+"y0": 0.17045,
+"y1": 0.18205,
+"text": "broee : St. Jas. Clerkenwell, i. 4.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.35798,
+"y0": 0.18136,
+"y1": 0.19159,
+"text": "164i-2. Zacharie Lambert and Rachall",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.10952,
+"x1": 0.35756,
+"y0": 0.19023,
+"y1": 0.20386,
+"text": "Ambroee : Marriage Lic. (London), ii. 263.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.1231,
+"x1": 0.36003,
+"y0": 0.20182,
+"y1": 0.21375,
+"text": "1729. Married - Joseph Mottram and",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.10911,
+"x1": 0.35798,
+"y0": 0.20966,
+"y1": 0.22568,
+"text": "Ambrosia Ambrose : St. Gco. Han. Sq.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10952,
+"x1": 0.13462,
+"y0": 0.22193,
+"y1": 0.23284,
+"text": "i. 6.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.12186,
+"x1": 0.32877,
+"y0": 0.23182,
+"y1": 0.24614,
+"text": "London, 8, I ; Philadelphia, I5, 0.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.12557,
+"x1": 0.35921,
+"y0": 0.2492,
+"y1": 0.26455,
+"text": "Amelot.-Bapt. ‘the son of",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.10994,
+"x1": 0.35839,
+"y0": 0.26386,
+"y1": 0.27716,
+"text": "Amy,' from the double dim. Am-",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.10994,
+"x1": 0.35715,
+"y0": 0.2775,
+"y1": 0.2908,
+"text": "el-ot (v. Ames 3 and Amyot): cf.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.1087,
+"x1": 0.35839,
+"y0": 0.28966,
+"y1": 0.305,
+"text": "Hamelot from Hamo, or Hew-",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.10829,
+"x1": 0.35715,
+"y0": 0.30364,
+"y1": 0.31795,
+"text": "el-ot from Hugh or Hew ; v. Ham-",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10747,
+"x1": 0.22758,
+"y0": 0.31693,
+"y1": 0.33057,
+"text": "Jet and Hewlett.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12022,
+"x1": 0.34851,
+"y0": 0.33466,
+"y1": 0.34898,
+"text": "Nicholas Amelot, co. Wilts, I273: . A.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12104,
+"x1": 0.34358,
+"y0": 0.34557,
+"y1": 0.35852,
+"text": "Richard fl. Amelot, co. Devon, ibid.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12104,
+"x1": 0.35633,
+"y0": 0.35614,
+"y1": 0.36977,
+"text": "Amelota ad Fontem, C. R., 12' Edw. 1.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12392,
+"x1": 0.35839,
+"y0": 0.37591,
+"y1": 0.39125,
+"text": "Ameredith.-- Bapt.' the son of",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.10706,
+"x1": 0.35798,
+"y0": 0.3892,
+"y1": 0.40455,
+"text": "Meredith,' Ap-Meredith.  Lower",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.10664,
+"x1": 0.35633,
+"y0": 0.40352,
+"y1": 0.4175,
+"text": "speaks of this namc as still exist.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10541,
+"x1": 0.1375,
+"y0": 0.41784,
+"y1": 0.4325,
+"text": "ing.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.11857,
+"x1": 0.35304,
+"y0": 0.43489,
+"y1": 0.44716,
+"text": "Hercules Ameredethc, sap. for B.C.L.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10664,
+"x1": 0.31232,
+"y0": 0.44545,
+"y1": 0.45875,
+"text": "Oct. 1564 : Reg. Univ. Oxf. i. 256.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11857,
+"x1": 0.35674,
+"y0": 0.45534,
+"y1": 0.46898,
+"text": "1586. Lewis Ameredeth, co. Devon :",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10706,
+"x1": 0.32178,
+"y0": 0.46625,
+"y1": 0.47955,
+"text": "Reg. Univ. Oxf. vol. ii. pt. i. p. 148.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.11857,
+"x1": 0.35674,
+"y0": 0.47648,
+"y1": 0.48977,
+"text": "1588-9. Edward Amerideth, co. Devon :",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10541,
+"x1": 0.17657,
+"y0": 0.48705,
+"y1": 0.50136,
+"text": "ibid. p. 232.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12269,
+"x1": 0.35263,
+"y0": 0.50409,
+"y1": 0.52045,
+"text": "Amery, Amary, Amory,",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.10582,
+"x1": 0.32795,
+"y0": 0.51727,
+"y1": 0.53295,
+"text": "Amerson.--Bapt. ‘ the son",
+"conf": 0.925
+},
+{
+"column": 1,
+"x0": 0.10664,
+"x1": 0.35468,
+"y0": 0.53125,
+"y1": 0.54761,
+"text": "Amery' or ‘Emery,'q.v. ; common",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.10541,
+"x1": 0.35427,
+"y0": 0.54557,
+"y1": 0.55886,
+"text": "to both sexes. Other variants were",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.10582,
+"x1": 0.32589,
+"y0": 0.55818,
+"y1": 0.57284,
+"text": "Americ, Almeric, and Almaric.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.10664,
+"x1": 0.35427,
+"y0": 0.57216,
+"y1": 0.58716,
+"text": "was decidedly popular. . In the",
+"conf": 0.726
+},
+{
+"column": 1,
+"x0": 0.10459,
+"x1": 0.35386,
+"y0": 0.58375,
+"y1": 0.60148,
+"text": "Italian dress of Amerigo it gave",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.10459,
+"x1": 0.35345,
+"y0": 0.59807,
+"y1": 0.61443,
+"text": "title to the great western conti-",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.10541,
+"x1": 0.35386,
+"y0": 0.61273,
+"y1": 0.62568,
+"text": "nent. The United States  has",
+"conf": 0.921
+},
+{
+"column": 1,
+"x0": 0.10459,
+"x1": 0.35345,
+"y0": 0.62568,
+"y1": 0.64034,
+"text": "restored the feminine form in",
+"conf": 0.944
+},
+{
+"column": 1,
+"x0": 0.10541,
+"x1": 0.35345,
+"y0": 0.63932,
+"y1": 0.65398,
+"text": "America, not an uncommon font-",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.10459,
+"x1": 0.35263,
+"y0": 0.65364,
+"y1": 0.66659,
+"text": "name for girls. I see in the Boston",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10459,
+"x1": 0.35222,
+"y0": 0.66557,
+"y1": 0.68125,
+"text": "Directory, ‘America Anderson,",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.10418,
+"x1": 0.35304,
+"y0": 0.67818,
+"y1": 0.69557,
+"text": "widow.' However strangely this",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10335,
+"x1": 0.35345,
+"y0": 0.69216,
+"y1": 0.70886,
+"text": "may read, it was a common girl's",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.10294,
+"x1": 0.26954,
+"y0": 0.70602,
+"y1": 0.72136,
+"text": "name six centuries ago.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11652,
+"x1": 0.33617,
+"y0": 0.72284,
+"y1": 0.73955,
+"text": "Roger Ammary, co. Belf., 1273. A.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.11734,
+"x1": 0.27612,
+"y0": 0.73466,
+"y1": 0.74659,
+"text": "Americus Balistarius. B.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.11528,
+"x1": 0.35139,
+"y0": 0.74455,
+"y1": 0.75955,
+"text": "Johannes fil. Americ, 1379 : P. T. Yorks.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.10418,
+"x1": 0.14325,
+"y0": 0.75818,
+"y1": 0.76773,
+"text": "P. 154",
+"conf": 0.9
+},
+{
+"column": 1,
+"x0": 0.11569,
+"x1": 0.35304,
+"y0": 0.76432,
+"y1": 0.78068,
+"text": "Ameria flia Hugonis, 1379 : ibid. p. 202.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.11446,
+"x1": 0.30697,
+"y0": 0.77489,
+"y1": 0.79125,
+"text": "Ameria Hend Wyf, 1379: ibid.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.11487,
+"x1": 0.27653,
+"y0": 0.78614,
+"y1": 0.80045,
+"text": "Americ Breton, 1306.\"'M.",
+"conf": 0.908
+},
+{
+"column": 1,
+"x0": 0.21195,
+"x1": 0.22922,
+"y0": 0.79807,
+"y1": 0.80761,
+"text": "H.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.11652,
+"x1": 0.27324,
+"y0": 0.80727,
+"y1": 0.8192,
+"text": "Almaricus k Botiller. B.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11446,
+"x1": 0.35139,
+"y0": 0.81682,
+"y1": 0.83284,
+"text": "Amery Martin, widow, 1584: Reg. St.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10253,
+"x1": 0.20742,
+"y0": 0.82739,
+"y1": 0.84136,
+"text": "Peter's, Comhill.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.11611,
+"x1": 0.35263,
+"y0": 0.83795,
+"y1": 0.85227,
+"text": "'Amary Clarke, widow,. applies for",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.10418,
+"x1": 0.35263,
+"y0": 0.8475,
+"y1": 0.86386,
+"text": "arrears of 1 pay due to her husband': May",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.48345,
+"x1": 0.50481,
+"y0": 0.08898,
+"y1": 0.10568,
+"text": "51",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37009,
+"x1": 0.61653,
+"y0": 0.11727,
+"y1": 0.13159,
+"text": "Word, sap.for B.D., April 10, 1562': Reg.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.37091,
+"x1": 0.47359,
+"y0": 0.12852,
+"y1": 0.14011,
+"text": "Univ. Oxf. i. 248.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.38241,
+"x1": 0.61776,
+"y0": 0.13807,
+"y1": 0.15136,
+"text": "!779. Married. W'illiam Ricks and Han.",
+"conf": 0.89
+},
+{
+"column": 2,
+"x0": 0.36845,
+"x1": 0.61283,
+"y0": 0.14932,
+"y1": 0.16193,
+"text": "nah Ammery : St. Geo. Han. Sg. P. 303.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38118,
+"x1": 0.61776,
+"y0": 0.15989,
+"y1": 0.17148,
+"text": "1781. - Charles Wadlow and Elizabeth",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37009,
+"x1": 0.49495,
+"y0": 0.16977,
+"y1": 0.18375,
+"text": "Amory: ibid. p. 321.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.37954,
+"x1": 0.61776,
+"y0": 0.17932,
+"y1": 0.19636,
+"text": "London, 11, 0, 0, 0; Boston (U.S.), 2, 9,",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.34996,
+"x1": 0.40048,
+"y0": 0.1933,
+"y1": 0.20318,
+"text": "3 22, 0.",
+"conf": 0.81
+},
+{
+"column": 2,
+"x0": 0.34955,
+"x1": 0.6153,
+"y0": 0.20386,
+"y1": 0.22159,
+"text": "d Ames, Amies, Amis, Amiss,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.36927,
+"x1": 0.61406,
+"y0": 0.21886,
+"y1": 0.23591,
+"text": "Aymes.--Bapt. ' the son of Amys,",
+"conf": 0.931
+},
+{
+"column": 2,
+"x0": 0.36722,
+"x1": 0.61899,
+"y0": 0.23318,
+"y1": 0.2492,
+"text": "or ‘the son of Amy,' with the",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.34955,
+"x1": 0.61653,
+"y0": 0.24716,
+"y1": 0.26216,
+"text": "1 patronymic s. ‘Amye, Amy, pro-",
+"conf": 0.728
+},
+{
+"column": 2,
+"x0": 0.36845,
+"x1": 0.61447,
+"y0": 0.26148,
+"y1": 0.27409,
+"text": "pre name: Amia': Prompt. Parv.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.34832,
+"x1": 0.61694,
+"y0": 0.27307,
+"y1": 0.28943,
+"text": "f. The origin is the same. But Amice",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.36845,
+"x1": 0.61653,
+"y0": 0.28795,
+"y1": 0.30125,
+"text": "or Amys scems to have become",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.36845,
+"x1": 0.61653,
+"y0": 0.30057,
+"y1": 0.31557,
+"text": "the popular English form of the",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3668,
+"x1": 0.61817,
+"y0": 0.3125,
+"y1": 0.33023,
+"text": "O.F. Aimee, just as Piers or",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.3668,
+"x1": 0.61489,
+"y0": 0.32648,
+"y1": 0.34318,
+"text": "Pearce came io represent the O.F.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.36804,
+"x1": 0.61612,
+"y0": 0.34011,
+"y1": 0.35545,
+"text": "Pierre. Perhaps  the  Latinized",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.3668,
+"x1": 0.61447,
+"y0": 0.35409,
+"y1": 0.36977,
+"text": "forms had something to do with it.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.3668,
+"x1": 0.61694,
+"y0": 0.36739,
+"y1": 0.38307,
+"text": "The two frst cntries occur close",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3668,
+"x1": 0.61571,
+"y0": 0.3817,
+"y1": 0.39568,
+"text": "together, and probably refer to the",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.3668,
+"x1": 0.4814,
+"y0": 0.39602,
+"y1": 0.40727,
+"text": "same individual.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.37707,
+"x1": 0.58655,
+"y0": 0.40659,
+"y1": 0.42602,
+"text": "William fl. Amye, co. Linc., 1273.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.37748,
+"x1": 0.5849,
+"y0": 0.4192,
+"y1": 0.4342,
+"text": "William fl. Aimice, co. Linc., ibid.",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.3783,
+"x1": 0.55985,
+"y0": 0.42977,
+"y1": 0.44511,
+"text": "Adam Amys, co. Camh., ibid.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.37872,
+"x1": 0.56272,
+"y0": 0.4417,
+"y1": 0.45398,
+"text": "Robert Amys, co. Camb., ibid.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.37872,
+"x1": 0.56888,
+"y0": 0.45159,
+"y1": 0.46489,
+"text": "Amicele Noblc, co. Hunts, ibid.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3783,
+"x1": 0.57546,
+"y0": 0.46216,
+"y1": 0.47511,
+"text": "Hugh fl. Amicic, co. Linc., ibid.",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.37872,
+"x1": 0.56806,
+"y0": 0.47307,
+"y1": 0.485,
+"text": "Alice fil. Amicie, co. Suff., ibid.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.37789,
+"x1": 0.53849,
+"y0": 0.48364,
+"y1": 0.49523,
+"text": "John Amice, co. Oxf., ibid.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.38241,
+"x1": 0.61283,
+"y0": 0.4975,
+"y1": 0.50977,
+"text": "Amia, Amicia, Amise, and Ami-",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.36434,
+"x1": 0.61447,
+"y0": 0.51045,
+"y1": 0.52443,
+"text": "sius all occur as personal names",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.36516,
+"x1": 0.61324,
+"y0": 0.52443,
+"y1": 0.53705,
+"text": "without surnames in the Hundred",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36475,
+"x1": 0.45018,
+"y0": 0.53773,
+"y1": 0.55239,
+"text": "Rolls, 1273.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.37666,
+"x1": 0.61242,
+"y0": 0.55239,
+"y1": 0.56466,
+"text": "Amis de Selves, co. Kent, Hen. Il1-",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.36557,
+"x1": 0.43991,
+"y0": 0.5633,
+"y1": 0.57352,
+"text": "Edw. I.  K.",
+"conf": 0.914
+},
+{
+"column": 2,
+"x0": 0.37584,
+"x1": 0.58613,
+"y0": 0.57318,
+"y1": 0.5858,
+"text": "Amia de Rydeford, co. Linc., ibid.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37995,
+"x1": 0.61283,
+"y0": 0.5875,
+"y1": 0.60045,
+"text": "The form Amiss in the London",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.36434,
+"x1": 0.58737,
+"y0": 0.60045,
+"y1": 0.61614,
+"text": "Directory is met by the entry :",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.37584,
+"x1": 0.61365,
+"y0": 0.61511,
+"y1": 0.62875,
+"text": "'Gregory Amys, or Amissc, sup. for",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.36352,
+"x1": 0.61283,
+"y0": 0.62568,
+"y1": 0.64,
+"text": "B.A, July i2, 1525': Reg. Univ. Oxf.i. 139.",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.37625,
+"x1": 0.61324,
+"y0": 0.63727,
+"y1": 0.6492,
+"text": "Also : i766. Thomas Amiss and Eleanor",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.36352,
+"x1": 0.57587,
+"y0": 0.64648,
+"y1": 0.66011,
+"text": "Cadman : St. Geo. Han. Sq. i. 153.",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.37954,
+"x1": 0.61242,
+"y0": 0.66216,
+"y1": 0.67341,
+"text": "In the United States the form is",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36434,
+"x1": 0.61201,
+"y0": 0.67511,
+"y1": 0.68807,
+"text": "all but invariably Ames. . Amice",
+"conf": 0.93
+},
+{
+"column": 2,
+"x0": 0.36393,
+"x1": 0.61201,
+"y0": 0.68875,
+"y1": 0.7017,
+"text": "or Ames continued as a girl's fontal",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.3627,
+"x1": 0.55574,
+"y0": 0.70136,
+"y1": 0.71602,
+"text": "name till the 16th century.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.37543,
+"x1": 0.60996,
+"y0": 0.71864,
+"y1": 0.72989,
+"text": "1540. Buried -- Ameis Austin, 'Mr.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36188,
+"x1": 0.61201,
+"y0": 0.72761,
+"y1": 0.74227,
+"text": "Smith's maid : St.Antholin (London), p. 2.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.37913,
+"x1": 0.61078,
+"y0": 0.74216,
+"y1": 0.75682,
+"text": "The family of Ames in the Regis-",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36311,
+"x1": 0.61242,
+"y0": 0.75682,
+"y1": 0.76943,
+"text": "ter of St. Dionis Backchurch is",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36229,
+"x1": 0.61119,
+"y0": 0.7708,
+"y1": 0.78409,
+"text": "found as Amyes (p. 8), 1576; Ames",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.36229,
+"x1": 0.6116,
+"y0": 0.78341,
+"y1": 0.79807,
+"text": "and Ammes (p. 13o). 169o: and",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.3627,
+"x1": 0.60914,
+"y0": 0.7967,
+"y1": 0.81102,
+"text": "Amis (p. 22), 1627. In the Regis",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36188,
+"x1": 0.61201,
+"y0": 0.80932,
+"y1": 0.82432,
+"text": "ter of \"St. Michael, Cornhill, thc",
+"conf": 0.973
+},
+{
+"column": 2,
+"x0": 0.36229,
+"x1": 0.58737,
+"y0": 0.82364,
+"y1": 0.83727,
+"text": "name is often found as Aymes:",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.37543,
+"x1": 0.60996,
+"y0": 0.83932,
+"y1": 0.85227,
+"text": "1603. Bapt.-Danicl, son of George",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36311,
+"x1": 0.45963,
+"y0": 0.85023,
+"y1": 0.8642,
+"text": "Aymes : p. 104.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.37338,
+"x1": 0.60914,
+"y0": 0.85943,
+"y1": 0.87545,
+"text": "London, 25,, I,I, ?; Boston (U.S.),",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.35982,
+"x1": 0.60174,
+"y0": 0.87034,
+"y1": 0.88466,
+"text": "61, 0, 0, 0, 0;' Philadelphia, 9 8, 1, 0, 0.",
+"conf": 0.933
+},
+{
+"column": 2,
+"x0": 0.46949,
+"x1": 0.50358,
+"y0": 0.88739,
+"y1": 0.90205,
+"text": "E 2",
+"conf": 0.919
+},
+{
+"column": 3,
+"x0": 0.71818,
+"x1": 0.79621,
+"y0": 0.09034,
+"y1": 0.1033,
+"text": "AMNER",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.6081,
+"x1": 0.88124,
+"y0": 0.11693,
+"y1": 0.13398,
+"text": "g. Amfis.Bapt. ‘the son of",
+"conf": 0.896
+},
+{
+"column": 3,
+"x0": 0.6311,
+"x1": 0.87795,
+"y0": 0.13193,
+"y1": 0.14625,
+"text": "Amflis.' This name seems to be",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.60851,
+"x1": 0.87836,
+"y0": 0.14284,
+"y1": 0.16023,
+"text": "小 extinct. It has long been for-",
+"conf": 0.574
+},
+{
+"column": 3,
+"x0": 0.62905,
+"x1": 0.87795,
+"y0": 0.15852,
+"y1": 0.17352,
+"text": "gotten as a fontal name, and so",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62987,
+"x1": 0.87754,
+"y0": 0.1725,
+"y1": 0.18614,
+"text": "far I can fnd the surname no later",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.63028,
+"x1": 0.78964,
+"y0": 0.18511,
+"y1": 0.20011,
+"text": "than the l6th century.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64137,
+"x1": 0.8759,
+"y0": 0.2008,
+"y1": 0.21443,
+"text": "Robert fl. Amflisic, co. Camb., 1273. A.",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.64219,
+"x1": 0.87631,
+"y0": 0.21136,
+"y1": 0.225,
+"text": "Amflis de Roldiston, co. Notta, Hen.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.62905,
+"x1": 0.72844,
+"y0": 0.22193,
+"y1": 0.23352,
+"text": "I11-Edw. I. K.",
+"conf": 0.839
+},
+{
+"column": 3,
+"x0": 0.60933,
+"x1": 0.8607,
+"y0": 0.23148,
+"y1": 0.24716,
+"text": "e Henry Aunflis, co. Camb., 1273.. A.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64137,
+"x1": 0.84181,
+"y0": 0.24273,
+"y1": 0.25568,
+"text": "William Aunflis, co. Camb., ibid.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64014,
+"x1": 0.87549,
+"y0": 0.25261,
+"y1": 0.26693,
+"text": "John Amfleys, co. Norf., 4 Hen. V11I :",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.62782,
+"x1": 0.69641,
+"y0": 0.26284,
+"y1": 0.27682,
+"text": "FF. x. 374.",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.63973,
+"x1": 0.87384,
+"y0": 0.27307,
+"y1": 0.28807,
+"text": "William Amflys, mayor of Lynn Regis,",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.62658,
+"x1": 0.74734,
+"y0": 0.28318,
+"y1": 0.29852,
+"text": "1494 : FF. vili. 533.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64301,
+"x1": 0.87713,
+"y0": 0.29784,
+"y1": 0.31284,
+"text": "Amiable.—-Bapt. ‘the son ot",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62782,
+"x1": 0.87507,
+"y0": 0.31182,
+"y1": 0.32545,
+"text": "Amabel'; v. Annable and Han.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.62782,
+"x1": 0.67012,
+"y0": 0.32614,
+"y1": 0.33705,
+"text": "niball.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63973,
+"x1": 0.7765,
+"y0": 0.34011,
+"y1": 0.35307,
+"text": "Amabil fil. Emme. J.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.63808,
+"x1": 0.84715,
+"y0": 0.34864,
+"y1": 0.36534,
+"text": "Thomas Amable, co. Camb., 1273.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.63973,
+"x1": 0.84715,
+"y0": 0.36193,
+"y1": 0.37386,
+"text": "John fil. Amabilie, co. Hunts, ibid.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63849,
+"x1": 0.84263,
+"y0": 0.37114,
+"y1": 0.38511,
+"text": "Edward Amiable, temp. Bliz. Z.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63932,
+"x1": 0.75802,
+"y0": 0.38307,
+"y1": 0.39432,
+"text": "Joan Amiable, ibid.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64178,
+"x1": 0.8722,
+"y0": 0.39705,
+"y1": 0.41341,
+"text": "Amias, Amyas.--(1) Bapt.",
+"conf": 0.911
+},
+{
+"column": 3,
+"x0": 0.62494,
+"x1": 0.87425,
+"y0": 0.41,
+"y1": 0.42739,
+"text": "( the son of Amias'; v.Ames. (2)",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62617,
+"x1": 0.7613,
+"y0": 0.425,
+"y1": 0.43898,
+"text": "Local, 'of Amiens.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.6389,
+"x1": 0.85166,
+"y0": 0.43966,
+"y1": 0.45466,
+"text": "Amias de Cotehal, co. Bucks, 1273.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.63808,
+"x1": 0.85207,
+"y0": 0.45057,
+"y1": 0.46489,
+"text": "William de Amyas, 2o Edw. I. 'R.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.63808,
+"x1": 0.87302,
+"y0": 0.46148,
+"y1": 0.47443,
+"text": "Robert de Amias, Hen. Ill-Edw. I. K.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.63808,
+"x1": 0.82004,
+"y0": 0.4717,
+"y1": 0.48602,
+"text": "Honore dc Amyens, 1273.. A.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.63849,
+"x1": 0.80155,
+"y0": 0.48261,
+"y1": 0.49489,
+"text": "Mercatores de Amias, ibid.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63644,
+"x1": 0.87138,
+"y0": 0.49034,
+"y1": 0.50773,
+"text": "John Amyas, of Stotisdon, co. Salop.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62576,
+"x1": 0.87261,
+"y0": 0.50341,
+"y1": 0.51705,
+"text": "1625: Funeral Certificates (Ches. and",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.62494,
+"x1": 0.70257,
+"y0": 0.51284,
+"y1": 0.52682,
+"text": "Lanc.) p. 50.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.62371,
+"x1": 0.68984,
+"y0": 0.54216,
+"y1": 0.55852,
+"text": "FF. xi. Z3.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.63808,
+"x1": 0.87302,
+"y0": 0.55477,
+"y1": 0.56705,
+"text": "1631. F'rancis Amyas and Anne Athill :",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.62494,
+"x1": 0.81675,
+"y0": 0.565,
+"y1": 0.57761,
+"text": "Marriage Lic. (London), ii. 202.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.63726,
+"x1": 0.76911,
+"y0": 0.57489,
+"y1": 0.58886,
+"text": "MDB. (Norfoik), O, 1.",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.63932,
+"x1": 0.87302,
+"y0": 0.59091,
+"y1": 0.60693,
+"text": "Amison, Amson.--Bapt. 'the",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.62289,
+"x1": 0.80689,
+"y0": 0.60386,
+"y1": 0.6192,
+"text": "son of Amice' ; v. Ames.",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63603,
+"x1": 0.87179,
+"y0": 0.61989,
+"y1": 0.63489,
+"text": "Geoffrey fl. Amice, co. Linc, 20 Edw.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.63562,
+"x1": 0.65821,
+"y0": 0.63216,
+"y1": 0.64102,
+"text": "R.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63685,
+"x1": 0.82538,
+"y0": 0.64136,
+"y1": 0.65534,
+"text": "John Amyson, C.R., 7 Ric. 11.",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.63644,
+"x1": 0.87302,
+"y0": 0.64955,
+"y1": 0.6683,
+"text": "Willelmus Amyson, 1379 : P. T. How.",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.62371,
+"x1": 0.70832,
+"y0": 0.66148,
+"y1": 0.67545,
+"text": "denshire, p. 8.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.63562,
+"x1": 0.87138,
+"y0": 0.67239,
+"y1": 0.68602,
+"text": "Amicia' atte Weye, co. Soms., I Edw.",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.6233,
+"x1": 0.78512,
+"y0": 0.68227,
+"y1": 0.69795,
+"text": "I11 : Kirby's Quest, p. 146.",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.63932,
+"x1": 0.87056,
+"y0": 0.69864,
+"y1": 0.71295,
+"text": "The Amsons of co. Ches. all de-",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.62289,
+"x1": 0.76828,
+"y0": 0.71182,
+"y1": 0.72614,
+"text": "scend from Ameson.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.63521,
+"x1": 0.8722,
+"y0": 0.72716,
+"y1": 0.7425,
+"text": "Hugh Ameson, co. Ches., 1537: East",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.62206,
+"x1": 0.71982,
+"y0": 0.73602,
+"y1": 0.75307,
+"text": "Cheshire, i. 175.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.63521,
+"x1": 0.8722,
+"y0": 0.7483,
+"y1": 0.76193,
+"text": "1568. Married -- Mathew Amson _and",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.6233,
+"x1": 0.87097,
+"y0": 0.75886,
+"y1": 0.77284,
+"text": "Agnes Strettonc : Prcstbury Ch. (Ches-",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.62206,
+"x1": 0.69066,
+"y0": 0.76977,
+"y1": 0.78341,
+"text": "hire), p. 25.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.63398,
+"x1": 0.87015,
+"y0": 0.77898,
+"y1": 0.7933,
+"text": "1622. - John Smale and Ellen Ame.",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.62124,
+"x1": 0.73912,
+"y0": 0.7892,
+"y1": 0.80318,
+"text": "sonne: ibid. p. 236.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.6348,
+"x1": 0.86932,
+"y0": 0.80045,
+"y1": 0.81511,
+"text": "Henry Amson, of Cotton, Cheshire,",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.62165,
+"x1": 0.79252,
+"y0": 0.80932,
+"y1": 0.825,
+"text": "1502 : Wills at Chcster, i. 4.",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.6348,
+"x1": 0.86891,
+"y0": 0.82125,
+"y1": 0.83489,
+"text": "Ralph Amson, of Sandbach, Cbeshire,",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62289,
+"x1": 0.68901,
+"y0": 0.83148,
+"y1": 0.84443,
+"text": "1589 : ibid.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.63274,
+"x1": 0.86974,
+"y0": 0.84136,
+"y1": 0.85636,
+"text": "Mancheater, 0, I ; MDB.(Cbeshire) 0, 1 ;",
+"conf": 0.915
+},
+{
+"column": 3,
+"x0": 0.62124,
+"x1": 0.719,
+"y0": 0.85091,
+"y1": 0.86659,
+"text": "New York, O, 3.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64096,
+"x1": 0.86809,
+"y0": 0.86557,
+"y1": 0.88432,
+"text": "Amner.--Offic. ‘the amner,",
+"conf": 0.94
+},
+{
+"column": 3,
+"x0": 0.69641,
+"x1": 0.87507,
+"y0": 0.91568,
+"y1": 0.94841,
+"text": "Digitized by Goog",
+"conf": 0.968
+}
+]

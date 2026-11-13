@@ -1,0 +1,1784 @@
+[
+{
+"column": 1,
+"x0": 0.20626,
+"x1": 0.28842,
+"y0": 0.08489,
+"y1": 0.09818,
+"text": "AXTELL",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13148,
+"x1": 0.3669,
+"y0": 0.11386,
+"y1": 0.1258,
+"text": "i616. Married-Ralph Houghton and",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.36484,
+"y0": 0.12511,
+"y1": 0.13705,
+"text": "Anna Axon : Prestbury Ch. (co. Chester),",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.1171,
+"x1": 0.15695,
+"y0": 0.1367,
+"y1": 0.14795,
+"text": "p. 210.",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.13025,
+"x1": 0.3669,
+"y0": 0.14557,
+"y1": 0.15784,
+"text": "London, I ; Manchester, 4; Phila.",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.18243,
+"y0": 0.1558,
+"y1": 0.16977,
+"text": "delphia, 1.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.13395,
+"x1": 0.36731,
+"y0": 0.17216,
+"y1": 0.18511,
+"text": "Axtell.--? Bapt. ‘ the son of",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.33773,
+"y0": 0.1858,
+"y1": 0.20045,
+"text": "Axell' (?) ; probably a variant.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13025,
+"x1": 0.36731,
+"y0": 0.20114,
+"y1": 0.21273,
+"text": "Ralph Axcil, co. Soms., 1 Edw Ill:",
+"conf": 0.928
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.2498,
+"y0": 0.21136,
+"y1": 0.22398,
+"text": "Kirby's Quest. p. 100.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.13025,
+"x1": 0.36772,
+"y0": 0.22193,
+"y1": 0.23455,
+"text": "1683. Josrph'Collyer and Eliz. Axtell :",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.1171,
+"x1": 0.34471,
+"y0": 0.23182,
+"y1": 0.2458,
+"text": "Marriage Alleg. (Canterbury), p. 128.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.13107,
+"x1": 0.36731,
+"y0": 0.24341,
+"y1": 0.25432,
+"text": "1686. John Axstell and Mary Drew:",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.1171,
+"x1": 0.18941,
+"y0": 0.2533,
+"y1": 0.26693,
+"text": "ibid. p. 249.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13066,
+"x1": 0.36772,
+"y0": 0.26216,
+"y1": 0.27614,
+"text": "1690. Married - Richard Axtill and",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.1171,
+"x1": 0.36607,
+"y0": 0.27409,
+"y1": 0.28636,
+"text": "Susanna Belt: St. Jas. Clcrkenwell,",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.1171,
+"x1": 0.16312,
+"y0": 0.28455,
+"y1": 0.29682,
+"text": "iii. 209.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.12902,
+"x1": 0.19845,
+"y0": 0.29455,
+"y1": 0.30818,
+"text": "London, 4.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13354,
+"x1": 0.36566,
+"y0": 0.30977,
+"y1": 0.32409,
+"text": "Axton, Axten, Axon.-",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.36772,
+"y0": 0.32443,
+"y1": 0.3367,
+"text": "Local, ‘of Axton.’ A hundred in",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.11833,
+"x1": 0.36854,
+"y0": 0.33773,
+"y1": 0.34966,
+"text": "co. Kent. Axon in the south of",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.3669,
+"y0": 0.35,
+"y1": 0.365,
+"text": "England seems to bc but a lazy",
+"conf": 0.948
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.36772,
+"y0": 0.36398,
+"y1": 0.37864,
+"text": "corruption. The following entries",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.36813,
+"y0": 0.37693,
+"y1": 0.3933,
+"text": "(1557-77) manifestly refer t0 the",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.23008,
+"y0": 0.39159,
+"y1": 0.40489,
+"text": "same family:---",
+"conf": 0.907
+},
+{
+"column": 1,
+"x0": 0.12532,
+"x1": 0.36813,
+"y0": 0.40386,
+"y1": 0.41955,
+"text": " 1557. Married - Lawrence Axson and",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.11833,
+"x1": 0.36566,
+"y0": 0.41648,
+"y1": 0.42943,
+"text": "Margaret Tipper : St. Peter's, Cornhill,",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.14997,
+"y0": 0.42909,
+"y1": 0.43966,
+"text": "p. 15",
+"conf": 0.86
+},
+{
+"column": 1,
+"x0": 0.12984,
+"x1": 0.36772,
+"y0": 0.43523,
+"y1": 0.45057,
+"text": "1561. Bapt.Lawrence Axtoune: ibid.",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.11957,
+"x1": 0.15942,
+"y0": 0.4492,
+"y1": 0.46011,
+"text": "P. 124.",
+"conf": 0.879
+},
+{
+"column": 1,
+"x0": 0.13107,
+"x1": 0.36649,
+"y0": 0.45773,
+"y1": 0.47068,
+"text": "1562. Buried---Lawraunce Axton : ibid.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.11751,
+"x1": 0.15942,
+"y0": 0.47,
+"y1": 0.48125,
+"text": "p. 115.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.13107,
+"x1": 0.36772,
+"y0": 0.47852,
+"y1": 0.49216,
+"text": "1572. Bapt.--Margery, d. of Lawrence",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.11874,
+"x1": 0.23501,
+"y0": 0.48841,
+"y1": 0.50205,
+"text": "Axon : ibid. p. 223.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12984,
+"x1": 0.36895,
+"y0": 0.4983,
+"y1": 0.5133,
+"text": "1577. Buried--La wrence. Axsoune, mer.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.1171,
+"x1": 0.26336,
+"y0": 0.50784,
+"y1": 0.52352,
+"text": "chant tavlor : ibid. p. 9.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.13271,
+"x1": 0.36813,
+"y0": 0.52068,
+"y1": 0.53159,
+"text": "1630. Bapt.-Everelda, d. Robert Axon :",
+"conf": 0.973
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.28349,
+"y0": 0.53091,
+"y1": 0.54182,
+"text": "St. Jas. Clerkenwell, i. n16.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.13025,
+"x1": 0.36813,
+"y0": 0.5408,
+"y1": 0.55341,
+"text": "1642. - Charles, s. John Axton : ibid.",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.11833,
+"x1": 0.15654,
+"y0": 0.5517,
+"y1": 0.56398,
+"text": "i. 152.",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.12984,
+"x1": 0.36977,
+"y0": 0.56057,
+"y1": 0.57557,
+"text": "London. 2, 2, 1: Manchester, 0. 0, 4:",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.11669,
+"x1": 0.24487,
+"y0": 0.57148,
+"y1": 0.58682,
+"text": "Philadelphia, 0, O, 1.",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.13436,
+"x1": 0.36813,
+"y0": 0.5858,
+"y1": 0.6025,
+"text": "Aylen, Ayling, Aylin.---Bapt.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.3669,
+"y0": 0.59909,
+"y1": 0.61614,
+"text": "'the son of Aylwin,' q.v. Com-",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.11628,
+"x1": 0.36772,
+"y0": 0.61273,
+"y1": 0.62909,
+"text": "pounds of win always corrupt to in,",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.11669,
+"x1": 0.36895,
+"y0": 0.62636,
+"y1": 0.64273,
+"text": "en, and ing; v. Golden and Golding",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.11669,
+"x1": 0.36772,
+"y0": 0.63898,
+"y1": 0.65636,
+"text": "for Goldwin. The g in Ayling is,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.36854,
+"y0": 0.65261,
+"y1": 0.66966,
+"text": "of course, excrescent ; cf. Jennings.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12984,
+"x1": 0.35663,
+"y0": 0.66727,
+"y1": 0.68398,
+"text": "Ayelyne Algar, co. Camb., 1273. A.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.13107,
+"x1": 0.30363,
+"y0": 0.67886,
+"y1": 0.69216,
+"text": "Adam Ayline, co. Oxf., ibid.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13107,
+"x1": 0.32828,
+"y0": 0.68977,
+"y1": 0.7017,
+"text": "Richard Ayline, co. Hunts, ibid.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.13148,
+"x1": 0.31965,
+"y0": 0.70034,
+"y1": 0.71193,
+"text": "Thomas Ailwine, co. Oxf., ibid.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13148,
+"x1": 0.36813,
+"y0": 0.70977,
+"y1": 0.72375,
+"text": "1621. Bapt.--Blaize, s. Nicholas Ayle.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.11792,
+"x1": 0.31143,
+"y0": 0.7208,
+"y1": 0.73307,
+"text": "ing : St. Jas. Clerkenwell, i. 90.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13354,
+"x1": 0.36977,
+"y0": 0.73102,
+"y1": 0.7433,
+"text": "1760. Married - Gcorge Waldie and",
+"conf": 0.925
+},
+{
+"column": 1,
+"x0": 0.11916,
+"x1": 0.35252,
+"y0": 0.74011,
+"y1": 0.75511,
+"text": "Ann Ayling : St. Geo. Han. Sg. i. 183.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.13107,
+"x1": 0.36936,
+"y0": 0.75102,
+"y1": 0.76602,
+"text": "MDB. (co. Essex), 1, 0, 1 ; London. 2,",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.11874,
+"x1": 0.36854,
+"y0": 0.76227,
+"y1": 0.77659,
+"text": "11, 0; Boston (U.S.), 0, 1, O; New York,",
+"conf": 0.941
+},
+{
+"column": 1,
+"x0": 0.11874,
+"x1": 0.16229,
+"y0": 0.7742,
+"y1": 0.7858,
+"text": "0, 2, 0.",
+"conf": 0.881
+},
+{
+"column": 1,
+"x0": 0.13477,
+"x1": 0.36813,
+"y0": 0.78716,
+"y1": 0.80318,
+"text": "Aylett, Ayllett, Aylott.---",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11874,
+"x1": 0.36977,
+"y0": 0.80045,
+"y1": 0.8158,
+"text": "Bapt. 'the son of Ailet.' This is the",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.11916,
+"x1": 0.36977,
+"y0": 0.81409,
+"y1": 0.82909,
+"text": "Domesday form of thc personal",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.11833,
+"x1": 0.36895,
+"y0": 0.82807,
+"y1": 0.84273,
+"text": "name (Lower). For other forms,",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11916,
+"x1": 0.18571,
+"y0": 0.84102,
+"y1": 0.85432,
+"text": "v. Allott.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13148,
+"x1": 0.3443,
+"y0": 0.855,
+"y1": 0.87102,
+"text": "Walter Aylet, co. Camb., I273., .A.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13312,
+"x1": 0.34019,
+"y0": 0.86659,
+"y1": 0.88091,
+"text": "Katerine Ayllyht, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.49327,
+"x1": 0.51793,
+"y0": 0.08148,
+"y1": 0.10023,
+"text": "70",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.57465,
+"y0": 0.11352,
+"y1": 0.12648,
+"text": "John Ayllvth, co. Camb., ibid.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.57999,
+"y0": 0.12375,
+"y1": 0.13739,
+"text": "William Allot, co. Camb., ibid.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39094,
+"x1": 0.62808,
+"y0": 0.13432,
+"y1": 0.14693,
+"text": "168. Thomas : Westbrook and Joane",
+"conf": 0.922
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.61657,
+"y0": 0.14557,
+"y1": 0.15716,
+"text": "Aylet : Marriage Lic. (London), ii. i94.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38929,
+"x1": 0.62808,
+"y0": 0.15511,
+"y1": 0.16807,
+"text": "1653. Bapt.--Charles, s. Edward Allett :",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.37737,
+"x1": 0.54301,
+"y0": 0.16602,
+"y1": 0.1783,
+"text": "St. Jas. Clerkenwell, i. 185.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.38929,
+"x1": 0.62849,
+"y0": 0.17489,
+"y1": 0.18989,
+"text": "1739. Married -- George Turner and",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.37737,
+"x1": 0.62644,
+"y0": 0.1858,
+"y1": 0.19943,
+"text": "Eliz. Aylett : St. Dionis Backchnrch, p. 67.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38847,
+"x1": 0.62808,
+"y0": 0.19705,
+"y1": 0.21068,
+"text": "London, 9, I, 4 ; Boston (U.S.), 0, 0, i.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.39546,
+"x1": 0.62808,
+"y0": 0.21239,
+"y1": 0.22466,
+"text": "Ayliffe, Aylieff.--Bapt. ‘the",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.37696,
+"x1": 0.5878,
+"y0": 0.22432,
+"y1": 0.23932,
+"text": "son of Ailof.' In Domesday.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39053,
+"x1": 0.60835,
+"y0": 0.23864,
+"y1": 0.25295,
+"text": "Ailef de Palestu, l176 : KKK. p. 25.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.39053,
+"x1": 0.6137,
+"y0": 0.24955,
+"y1": 0.26284,
+"text": "Eilaf fl. Gospatric, 1166: ibid. p. 10.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39053,
+"x1": 0.62767,
+"y0": 0.25977,
+"y1": 0.27307,
+"text": "Arnaed Fitz-Aluf, sheriff of London,",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.37984,
+"x1": 0.46656,
+"y0": 0.27136,
+"y1": 0.28159,
+"text": "1198: www.",
+"conf": 0.888
+},
+{
+"column": 2,
+"x0": 0.38929,
+"x1": 0.62808,
+"y0": 0.28011,
+"y1": 0.29477,
+"text": "Robertus Haylyf, 1379 : P. T. Yorks.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37778,
+"x1": 0.41724,
+"y0": 0.29352,
+"y1": 0.30409,
+"text": "P. 157:",
+"conf": 0.903
+},
+{
+"column": 2,
+"x0": 0.39011,
+"x1": 0.62808,
+"y0": 0.30057,
+"y1": 0.31523,
+"text": "Aliff White (masc.), 1648: Reg. St.",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.37778,
+"x1": 0.52739,
+"y0": 0.31216,
+"y1": 0.32443,
+"text": "Jas. Clerkenwell, p. 17!.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.5689,
+"y0": 0.32239,
+"y1": 0.33466,
+"text": "John Aliff, 1645: ibid. p. 161.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39011,
+"x1": 0.6289,
+"y0": 0.33125,
+"y1": 0.34693,
+"text": "Thomas Ayloffe, co. Essex, c. 1500:",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.44478,
+"y0": 0.34284,
+"y1": 0.35682,
+"text": "FF. v. 325.",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.39011,
+"x1": 0.62726,
+"y0": 0.35273,
+"y1": 0.36602,
+"text": "1698. Katherine, d. of Thomas Ayloffe :",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.37737,
+"x1": 0.55492,
+"y0": 0.36398,
+"y1": 0.37625,
+"text": "St. Peter's, Cornhill, ii. p. 21.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39011,
+"x1": 0.62849,
+"y0": 0.37455,
+"y1": 0.38614,
+"text": "1702. Bapt.-Elizabeth, d. of Thomas",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.62849,
+"y0": 0.38545,
+"y1": 0.39739,
+"text": "Aylofe: St. John Baptist on Wallbrook",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.3782,
+"x1": 0.4867,
+"y0": 0.39466,
+"y1": 0.40932,
+"text": "(London), p. 174.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38929,
+"x1": 0.62931,
+"y0": 0.40352,
+"y1": 0.41886,
+"text": "1783. Married  William Ayliffe and",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.37696,
+"x1": 0.62767,
+"y0": 0.41443,
+"y1": 0.43011,
+"text": "Franceg Wcston : St. Geo. Han. Sq. i. 344.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39011,
+"x1": 0.47519,
+"y0": 0.4267,
+"y1": 0.44,
+"text": "London, 3, I.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39422,
+"x1": 0.6289,
+"y0": 0.44034,
+"y1": 0.455,
+"text": "Aylmer, Aymer, Aymar.--",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.6289,
+"y0": 0.45466,
+"y1": 0.46761,
+"text": "Bapt. ‘the son of Aylmar' or",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.3782,
+"x1": 0.63096,
+"y0": 0.46659,
+"y1": 0.48125,
+"text": " Ailmar.' Several instances occur",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.37737,
+"x1": 0.62849,
+"y0": 0.48057,
+"y1": 0.49557,
+"text": "in Domesday ; v. Amery. . A com-",
+"conf": 0.887
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.62644,
+"y0": 0.49443,
+"y1": 0.50773,
+"text": "mon surname in the Hundred Rolls.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.3782,
+"x1": 0.62973,
+"y0": 0.5067,
+"y1": 0.52273,
+"text": "It was already going out of fashion",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.62931,
+"y0": 0.5217,
+"y1": 0.53568,
+"text": "in the I3th century as a font-name,",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.37902,
+"x1": 0.62931,
+"y0": 0.535,
+"y1": 0.54761,
+"text": "and is rarcly found as such in the",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.38107,
+"x1": 0.6289,
+"y0": 0.54898,
+"y1": 0.56193,
+"text": "14th century, but it secured here-",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38148,
+"x1": 0.63014,
+"y0": 0.56261,
+"y1": 0.57489,
+"text": "ditary honours as a surname some-",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.38025,
+"x1": 0.63014,
+"y0": 0.57523,
+"y1": 0.58955,
+"text": "what early, and as a consequence",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37778,
+"x1": 0.62931,
+"y0": 0.58852,
+"y1": 0.6025,
+"text": "is well represented in our direc-",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37984,
+"x1": 0.6289,
+"y0": 0.6025,
+"y1": 0.61477,
+"text": "tories.  The I is usually elided in",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.63014,
+"y0": 0.61545,
+"y1": 0.62909,
+"text": "the United States, but this occurred",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37861,
+"x1": 0.58534,
+"y0": 0.62875,
+"y1": 0.64375,
+"text": "so early as the l3th century.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.61082,
+"y0": 0.64068,
+"y1": 0.65909,
+"text": "Aymar Hitche, co. Hunts, 1273 A",
+"conf": 0.836
+},
+{
+"column": 2,
+"x0": 0.39217,
+"x1": 0.58493,
+"y0": 0.65295,
+"y1": 0.66693,
+"text": "Adam Aylmer, co. Camb., ibid.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39258,
+"x1": 0.58328,
+"y0": 0.6642,
+"y1": 0.67682,
+"text": "William Aylmar, co. Oxf., ibid.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39299,
+"x1": 0.57835,
+"y0": 0.67443,
+"y1": 0.6867,
+"text": "Avice Ailmar, co. Camb., ibid.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.62931,
+"y0": 0.685,
+"y1": 0.69795,
+"text": "John Aylmere, rector of Ingworth, co.",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.37943,
+"x1": 0.52985,
+"y0": 0.69455,
+"y1": 0.7092,
+"text": "Norf., 1353 : FF. vi. 368.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.63055,
+"y0": 0.70534,
+"y1": 0.71864,
+"text": "Thomas Ailmer, co. Soms., 1 Edw. III :",
+"conf": 0.953
+},
+{
+"column": 2,
+"x0": 0.38066,
+"x1": 0.51259,
+"y0": 0.71523,
+"y1": 0.73023,
+"text": "Kirby's Quest, P. 129:",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39176,
+"x1": 0.63178,
+"y0": 0.72477,
+"y1": 0.73909,
+"text": "16i6. Married - Henry. Cartwrit and",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.38025,
+"x1": 0.63055,
+"y0": 0.73398,
+"y1": 0.7517,
+"text": "Ann Ailmer : St. Antholin (London), P. 52.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39258,
+"x1": 0.63096,
+"y0": 0.74795,
+"y1": 0.75989,
+"text": "1697. Jnstinian Aylmer and Catherine",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38066,
+"x1": 0.63014,
+"y0": 0.75784,
+"y1": 0.77045,
+"text": "Faalkner : Marriage Lic. (London), ii. 323.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.39094,
+"x1": 0.63137,
+"y0": 0.76739,
+"y1": 0.78239,
+"text": "London, 2, O, o : Boston (U.S.) 0, 0, 3 ;",
+"conf": 0.914
+},
+{
+"column": 2,
+"x0": 0.37902,
+"x1": 0.62562,
+"y0": 0.77795,
+"y1": 0.79261,
+"text": "New York, 0, 0, 5; Philadelphia 1, 0, 0.",
+"conf": 0.941
+},
+{
+"column": 2,
+"x0": 0.39669,
+"x1": 0.62767,
+"y0": 0.79227,
+"y1": 0.80693,
+"text": "Aylward, Aylard. --- Bapt.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38724,
+"x1": 0.62233,
+"y0": 0.80693,
+"y1": 0.81886,
+"text": "the son of Aylward'; v. Allard.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39422,
+"x1": 0.52944,
+"y0": 0.82023,
+"y1": 0.83318,
+"text": "Aylward Oldcorn.  L.",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.39135,
+"x1": 0.60383,
+"y0": 0.82739,
+"y1": 0.84682,
+"text": "Bernard Aylward, co. Wilts, 1273.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39381,
+"x1": 0.59808,
+"y0": 0.8417,
+"y1": 0.85364,
+"text": "Beatrix Aylward, co. Bucks, ibid.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39422,
+"x1": 0.57794,
+"y0": 0.85227,
+"y1": 0.8642,
+"text": "Alan Alward, co. Camb., ibid.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.39792,
+"x1": 0.63137,
+"y0": 0.86557,
+"y1": 0.87886,
+"text": "This last variant (common in the",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.71949,
+"x1": 0.81358,
+"y0": 0.08318,
+"y1": 0.09886,
+"text": "\"AYRES'",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.88671,
+"y0": 0.1125,
+"y1": 0.12784,
+"text": "Hundred Rolls) led on to Allard,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.66814,
+"y0": 0.12955,
+"y1": 0.14148,
+"text": "q.v.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65047,
+"x1": 0.88794,
+"y0": 0.14182,
+"y1": 0.1558,
+"text": "Simon fil. Aylward, co. Lanc., 2o Edw.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.67595,
+"y0": 0.15443,
+"y1": 0.1633,
+"text": "R.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.88753,
+"y0": 0.16398,
+"y1": 0.17625,
+"text": "John Ayleward, Norwich, 1325 : FF.iv.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.63774,
+"x1": 0.83125,
+"y0": 0.19364,
+"y1": 0.20795,
+"text": "ton, co. Norf., 1376 : ibid. y. 52.",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.65006,
+"x1": 0.88876,
+"y0": 0.20386,
+"y1": 0.21818,
+"text": "Nicholas Alyward, co. Soms., I Edw.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.63856,
+"x1": 0.80208,
+"y0": 0.21409,
+"y1": 0.22943,
+"text": "Ill : Kirby's Quest, p. 179.",
+"conf": 0.933
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.88794,
+"y0": 0.22534,
+"y1": 0.23864,
+"text": "1691. Bapt.william, s. William Ayle-",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.63774,
+"x1": 0.8522,
+"y0": 0.23386,
+"y1": 0.25023,
+"text": "ward : St. Jas. Clerkenwell, i. 343.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65047,
+"x1": 0.88917,
+"y0": 0.24614,
+"y1": 0.25977,
+"text": "1705. Buried -- Thomas Aylward : St.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.79879,
+"y0": 0.255,
+"y1": 0.27136,
+"text": "Dionis Backchurch, p. 274",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65047,
+"x1": 0.86411,
+"y0": 0.26523,
+"y1": 0.28091,
+"text": "London, 2, I ; Boston' (U.s.), 12, 0.",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.65622,
+"x1": 0.88876,
+"y0": 0.28011,
+"y1": 0.29443,
+"text": "Aylwin,  Alwin, Alwine,",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.89041,
+"y0": 0.29318,
+"y1": 0.30955,
+"text": "Alwyne.---Bapt. son of",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.78441,
+"y0": 0.3067,
+"y1": 0.32239,
+"text": "Aylwin' ; v. Aylen.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.65047,
+"x1": 0.88917,
+"y0": 0.32205,
+"y1": 0.33705,
+"text": "Richard Alewyn, co. Wilta, Hen. I1I-",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.71539,
+"y0": 0.33364,
+"y1": 0.34455,
+"text": "Edw. I. K.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65212,
+"x1": 0.88712,
+"y0": 0.34352,
+"y1": 0.35614,
+"text": "Alewyn (without surname), co. Norf.,",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.69443,
+"y0": 0.35545,
+"y1": 0.36534,
+"text": "1273. A.",
+"conf": 0.809
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.84275,
+"y0": 0.36432,
+"y1": 0.37693,
+"text": "Alwyne Tyche, co. Camb., ibid.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.85549,
+"y0": 0.3742,
+"y1": 0.38818,
+"text": "Robert Aylwyne, co. Camb., ibid.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.84727,
+"y0": 0.38511,
+"y1": 0.39807,
+"text": "Emma Aylwine, co. Hunts, ibid.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65088,
+"x1": 0.86576,
+"y0": 0.39466,
+"y1": 0.40932,
+"text": "Reginald Ailwyne, co. Cainb., ibid.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65047,
+"x1": 0.89041,
+"y0": 0.40489,
+"y1": 0.41989,
+"text": "Richard Aylweyn, rector of Dickle-",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.63856,
+"x1": 0.85138,
+"y0": 0.4158,
+"y1": 0.42943,
+"text": "burgh, co. Norf., 1394 : FF. i. 194.",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.89,
+"y0": 0.42568,
+"y1": 0.43966,
+"text": "1666. Thomas Aylwyn and Mary Hunt :",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.86658,
+"y0": 0.43625,
+"y1": 0.45057,
+"text": "Marriage Alleg: (Canterbury), p. 125.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.89,
+"y0": 0.44716,
+"y1": 0.45977,
+"text": "1769. Married - William'Aylwin and",
+"conf": 0.934
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.88342,
+"y0": 0.4567,
+"y1": 0.47102,
+"text": "Mary Wright : St. Geo. Han. Sq. i. 189.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65129,
+"x1": 0.89082,
+"y0": 0.46761,
+"y1": 0.48295,
+"text": "London, 1, 1, 0, 0; Philadelphia, 0, I,1, 1.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.65705,
+"x1": 0.82097,
+"y0": 0.48159,
+"y1": 0.49557,
+"text": "Aynaley ; v. Ainsley.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65705,
+"x1": 0.88959,
+"y0": 0.49648,
+"y1": 0.51216,
+"text": "Ayre, Ayer.--Official or nick.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.89041,
+"y0": 0.50841,
+"y1": 0.5258,
+"text": "'the heir.\" It is curious to note",
+"conf": 0.902
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.89082,
+"y0": 0.52443,
+"y1": 0.53739,
+"text": "that while Ayre : is the almost",
+"conf": 0.909
+},
+{
+"column": 3,
+"x0": 0.63938,
+"x1": 0.89,
+"y0": 0.53705,
+"y1": 0.55239,
+"text": "universal  English 1form (saving",
+"conf": 0.877
+},
+{
+"column": 3,
+"x0": 0.64143,
+"x1": 0.88917,
+"y0": 0.5517,
+"y1": 0.56568,
+"text": "Eyre), , Ayer is e equally  universal",
+"conf": 0.894
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.88917,
+"y0": 0.56398,
+"y1": 0.57898,
+"text": "in the United Statcs.  For early",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.63897,
+"x1": 0.89082,
+"y0": 0.57795,
+"y1": 0.59295,
+"text": "and other instances, v. Ayres and",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.64143,
+"x1": 0.68293,
+"y0": 0.59159,
+"y1": 0.60659,
+"text": "Eyre.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65212,
+"x1": 0.88917,
+"y0": 0.60659,
+"y1": 0.62125,
+"text": "Roger Ie Hayre, or Eyre, or Ayer, co.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.63979,
+"x1": 0.79098,
+"y0": 0.61784,
+"y1": 0.63045,
+"text": "Norf., 1264 : FF. v. 310.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.89082,
+"y0": 0.62739,
+"y1": 0.64068,
+"text": "1583. Humphrey Mercer and Katherine",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64102,
+"x1": 0.86904,
+"y0": 0.63898,
+"y1": 0.65125,
+"text": "Ayer : Marriage Lic. (London), i. 118.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65253,
+"x1": 0.89164,
+"y0": 0.6475,
+"y1": 0.66216,
+"text": "1757. Married--Francis Lee and Ann",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.6402,
+"x1": 0.8259,
+"y0": 0.65705,
+"y1": 0.67443,
+"text": "Ayre : St. Geo. Han. Sq. i. 74:",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.65006,
+"x1": 0.86863,
+"y0": 0.66761,
+"y1": 0.68364,
+"text": "London, 2, o ; Boston (U.S.), 0, 49.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65787,
+"x1": 0.88876,
+"y0": 0.6833,
+"y1": 0.69727,
+"text": "Ayres, Ayars, Ayers, Ayris,",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.64349,
+"x1": 0.88835,
+"y0": 0.69761,
+"y1": 0.70989,
+"text": "Ayrs.---Nick. 'the son of the heir.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.64226,
+"x1": 0.89082,
+"y0": 0.70943,
+"y1": 0.72375,
+"text": "No doubt a variant of Ayre or",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64267,
+"x1": 0.89205,
+"y0": 0.72307,
+"y1": 0.73807,
+"text": "Eyre, q.v., with the patronymic s",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64061,
+"x1": 0.88917,
+"y0": 0.73739,
+"y1": 0.75068,
+"text": "suffixed, as in Jones, Simmons,",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.64102,
+"x1": 0.88917,
+"y0": 0.74932,
+"y1": 0.76432,
+"text": "Roberts, &c. Therefore literally",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.64184,
+"x1": 0.89082,
+"y0": 0.76364,
+"y1": 0.77761,
+"text": "'the son of the heir.' My first",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64061,
+"x1": 0.89082,
+"y0": 0.77795,
+"y1": 0.79057,
+"text": "instance seems to set the matter at",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.64102,
+"x1": 0.67389,
+"y0": 0.79261,
+"y1": 0.80352,
+"text": "rest.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.65417,
+"x1": 0.82878,
+"y0": 0.80455,
+"y1": 0.81818,
+"text": "John fl. Aer, co. Salop, I273.",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.65417,
+"x1": 0.82385,
+"y0": 0.81443,
+"y1": 0.82977,
+"text": "Henry Ayer, co. Linc., ibid.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65376,
+"x1": 0.88712,
+"y0": 0.82466,
+"y1": 0.83966,
+"text": "' This year (!5io) was Thomas Ayers",
+"conf": 0.899
+},
+{
+"column": 3,
+"x0": 0.64102,
+"x1": 0.88959,
+"y0": 0.83455,
+"y1": 0.85057,
+"text": "priest, of Norwich, burnt at Ecclee ' :'FF'",
+"conf": 0.932
+},
+{
+"column": 3,
+"x0": 0.64184,
+"x1": 0.68663,
+"y0": 0.84716,
+"y1": 0.86045,
+"text": "lii. 193.",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.65294,
+"x1": 0.89246,
+"y0": 0.85534,
+"y1": 0.87068,
+"text": "1582. John Ayer and Alice Moyle:",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.64143,
+"x1": 0.8333,
+"y0": 0.86795,
+"y1": 0.88057,
+"text": "Marriage Lic. (London), i. ll!. ",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.69649,
+"x1": 0.89945,
+"y0": 0.91568,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.983
+}
+]

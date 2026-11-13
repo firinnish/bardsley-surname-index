@@ -1,0 +1,1685 @@
+[
+{
+"column": 1,
+"x0": 0.21149,
+"x1": 0.30065,
+"y0": 0.08761,
+"y1": 0.09989,
+"text": "ANGWIN",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.14903,
+"x1": 0.37914,
+"y0": 0.11557,
+"y1": 0.13023,
+"text": "Angwin.-Local, ‘the Ange-",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13423,
+"x1": 0.37708,
+"y0": 0.12989,
+"y1": 0.14318,
+"text": "vine,  an immigrant from  Anjou.",
+"conf": 0.906
+},
+{
+"column": 1,
+"x0": 0.13259,
+"x1": 0.37955,
+"y0": 0.14318,
+"y1": 0.15614,
+"text": "Although fairly common in mediae-",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13136,
+"x1": 0.37791,
+"y0": 0.15682,
+"y1": 0.17114,
+"text": "val registers, this surname barely",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.13054,
+"x1": 0.37996,
+"y0": 0.16841,
+"y1": 0.18443,
+"text": "survives. It has obtained a footing,",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13177,
+"x1": 0.35243,
+"y0": 0.18443,
+"y1": 0.19636,
+"text": "however, in the United States.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.14369,
+"x1": 0.37585,
+"y0": 0.19875,
+"y1": 0.21205,
+"text": "Maurice le Angevine, co. Oxf., 1273.. A",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.14327,
+"x1": 0.35983,
+"y0": 0.20898,
+"y1": 0.2233,
+"text": "Reginald le Angevine, co. Oxf., ibid.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14327,
+"x1": 0.30928,
+"y0": 0.2192,
+"y1": 0.2342,
+"text": "Geoffrey Ie Anngevyn. L.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14286,
+"x1": 0.28463,
+"y0": 0.22943,
+"y1": 0.24375,
+"text": "Simon Ie Angevin. 'E.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.14327,
+"x1": 0.36065,
+"y0": 0.24,
+"y1": 0.255,
+"text": "Gilbertus Angevinus, Pipe Roll,",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.13218,
+"x1": 0.18313,
+"y0": 0.25091,
+"y1": 0.26284,
+"text": "Hen. II.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.1441,
+"x1": 0.37996,
+"y0": 0.2608,
+"y1": 0.27443,
+"text": "William Angewyne, Close Roll, 14",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13136,
+"x1": 0.18724,
+"y0": 0.2717,
+"y1": 0.28364,
+"text": "Hen. Iv.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14369,
+"x1": 0.37873,
+"y0": 0.28114,
+"y1": 0.29375,
+"text": ": Osmund held it under Eustachius, and",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13136,
+"x1": 0.37914,
+"y0": 0.2917,
+"y1": 0.30466,
+"text": "Wido Angevin after Osmond, being his",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13013,
+"x1": 0.27559,
+"y0": 0.30125,
+"y1": 0.31693,
+"text": "nephew ' : FF. vili. 333:",
+"conf": 0.936
+},
+{
+"column": 1,
+"x0": 0.14327,
+"x1": 0.37832,
+"y0": 0.31284,
+"y1": 0.32545,
+"text": "Thomas Angewyn, lic. for M.A., June,",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13177,
+"x1": 0.30065,
+"y0": 0.32375,
+"y1": 0.33602,
+"text": "1511 : Reg. Univ. Oxf. i. 50.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14245,
+"x1": 0.37873,
+"y0": 0.33261,
+"y1": 0.34727,
+"text": "Thomas Angewyn, vicar of Witching-",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12971,
+"x1": 0.30969,
+"y0": 0.34352,
+"y1": 0.35682,
+"text": "ham, co. Norf. : FF. 'viii. 311.",
+"conf": 0.917
+},
+{
+"column": 1,
+"x0": 0.14204,
+"x1": 0.38119,
+"y0": 0.35307,
+"y1": 0.36909,
+"text": "Mary Aungvine, 7 Hen. V, co. Norf. :",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13054,
+"x1": 0.20614,
+"y0": 0.36466,
+"y1": 0.37795,
+"text": "ibid. ix. 109.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.14286,
+"x1": 0.31914,
+"y0": 0.37557,
+"y1": 0.3875,
+"text": "London, I ; Boston (U.S.), I.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.14615,
+"x1": 0.37708,
+"y0": 0.38852,
+"y1": 0.4042,
+"text": "Anker.--Occup. ‘ the anker,'",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.1293,
+"x1": 0.37996,
+"y0": 0.40352,
+"y1": 0.41614,
+"text": "an anchorite or hermit; see next",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13054,
+"x1": 0.17985,
+"y0": 0.41784,
+"y1": 0.42841,
+"text": "article.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14944,
+"x1": 0.3138,
+"y0": 0.43045,
+"y1": 0.44409,
+"text": ":Sometime I am religioua",
+"conf": 0.926
+},
+{
+"column": 1,
+"x0": 0.15478,
+"x1": 0.35654,
+"y0": 0.44136,
+"y1": 0.45364,
+"text": "Now like an anker in an hous.'",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.23861,
+"x1": 0.36558,
+"y0": 0.45227,
+"y1": 0.46489,
+"text": "Chaucer, R. R. 6348.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.14533,
+"x1": 0.37955,
+"y0": 0.46523,
+"y1": 0.48159,
+"text": "The following is imitative, the",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13136,
+"x1": 0.37749,
+"y0": 0.48091,
+"y1": 0.49489,
+"text": "second instance probably being",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12971,
+"x1": 0.37873,
+"y0": 0.49307,
+"y1": 0.50807,
+"text": "the name of a foundling, discovered",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12971,
+"x1": 0.3475,
+"y0": 0.50773,
+"y1": 0.51966,
+"text": "at an inn styled 'the Anchor.'",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.14204,
+"x1": 0.37749,
+"y0": 0.52239,
+"y1": 0.53534,
+"text": "1674-5. Bapt.-Edward, s. John An-",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12848,
+"x1": 0.37708,
+"y0": 0.53159,
+"y1": 0.54659,
+"text": "chor': St. Dionis Backchurch (London),",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.1293,
+"x1": 0.17039,
+"y0": 0.54489,
+"y1": 0.55545,
+"text": "p. 120.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.13958,
+"x1": 0.37914,
+"y0": 0.55205,
+"y1": 0.56807,
+"text": "17!7. Buried--Mary Anchor, a poor",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.12766,
+"x1": 0.34544,
+"y0": 0.56295,
+"y1": 0.57727,
+"text": "chiid : St. Michael, Cornhill, o. 165.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.14081,
+"x1": 0.37955,
+"y0": 0.57386,
+"y1": 0.58852,
+"text": "MDB. (Cambridge), 2; (Oxford), 3;",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12889,
+"x1": 0.22422,
+"y0": 0.58375,
+"y1": 0.59875,
+"text": "Philadelphia, 3.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14574,
+"x1": 0.37667,
+"y0": 0.59841,
+"y1": 0.61375,
+"text": "Ankerman.-Occup. ‘the an-",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.12848,
+"x1": 0.37791,
+"y0": 0.61239,
+"y1": 0.62636,
+"text": "kerman,' i.e. the servant of the",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.12807,
+"x1": 0.37585,
+"y0": 0.62466,
+"y1": 0.6417,
+"text": "anker or hermit, now generally",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12889,
+"x1": 0.37914,
+"y0": 0.63898,
+"y1": 0.65398,
+"text": "styled an anchorite; but ancre was",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12766,
+"x1": 0.37791,
+"y0": 0.65125,
+"y1": 0.6683,
+"text": "the earlier form. Cf. Matthewman,",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.12766,
+"x1": 0.37749,
+"y0": 0.6642,
+"y1": 0.68227,
+"text": "Monkman, Priestman, Vikerman,",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12807,
+"x1": 0.37544,
+"y0": 0.67955,
+"y1": 0.69489,
+"text": "Armetman (v.Armet),&c., all York.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.12848,
+"x1": 0.24189,
+"y0": 0.69386,
+"y1": 0.70648,
+"text": "shire surnames.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.13259,
+"x1": 0.37544,
+"y0": 0.70807,
+"y1": 0.72273,
+"text": "' An anchor's cheer in prison be my scope.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.27929,
+"x1": 0.36476,
+"y0": 0.72011,
+"y1": 0.73205,
+"text": "Hamlet, iii. 2.",
+"conf": 0.908
+},
+{
+"column": 1,
+"x0": 0.1404,
+"x1": 0.37667,
+"y0": 0.72989,
+"y1": 0.74557,
+"text": "William Anckerman, 1379 : P. T. Yorks.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12807,
+"x1": 0.16177,
+"y0": 0.74352,
+"y1": 0.75443,
+"text": "p. 17.",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.14451,
+"x1": 0.37626,
+"y0": 0.75443,
+"y1": 0.76875,
+"text": "My one London Directory in.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.12889,
+"x1": 0.36476,
+"y0": 0.77011,
+"y1": 0.78102,
+"text": "stance deserves to be set in full :",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13958,
+"x1": 0.37708,
+"y0": 0.78136,
+"y1": 0.79875,
+"text": "'Frederic Ankerman, boot-maker, 77,",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12848,
+"x1": 0.25669,
+"y0": 0.79432,
+"y1": 0.80625,
+"text": "Provoet St., Hoxton.'",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.1441,
+"x1": 0.37791,
+"y0": 0.80795,
+"y1": 0.82295,
+"text": "Probably u is a misreading for x",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12766,
+"x1": 0.30969,
+"y0": 0.82125,
+"y1": 0.83625,
+"text": "in the following entries :",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.13999,
+"x1": 0.37832,
+"y0": 0.83557,
+"y1": 0.85091,
+"text": "Lacia. ye Aukereswoman, London,",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.12848,
+"x1": 0.24765,
+"y0": 0.84648,
+"y1": 0.86045,
+"text": "1273 : A. i. P. 413.",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.1404,
+"x1": 0.37914,
+"y0": 0.8567,
+"y1": 0.87068,
+"text": "Lucia la Aukereswomman, London :",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12848,
+"x1": 0.20039,
+"y0": 0.86795,
+"y1": 0.88023,
+"text": "ibid. p. 426.",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.50904,
+"x1": 0.5271,
+"y0": 0.08693,
+"y1": 0.09955,
+"text": "54",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40725,
+"x1": 0.63997,
+"y0": 0.11455,
+"y1": 0.12852,
+"text": "Cotgrave has ankrosse, a female",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.39083,
+"x1": 0.44254,
+"y0": 0.12818,
+"y1": 0.14114,
+"text": "hermit.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40273,
+"x1": 0.47004,
+"y0": 0.14284,
+"y1": 0.15648,
+"text": "London, I.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.40684,
+"x1": 0.63751,
+"y0": 0.16023,
+"y1": 0.17625,
+"text": "Ankettle, Anketell. --- Bapt.",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.39247,
+"x1": 0.63874,
+"y0": 0.17455,
+"y1": 0.18989,
+"text": " the son of Arnketel,' eagle caul-",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39042,
+"x1": 0.64038,
+"y0": 0.18818,
+"y1": 0.20455,
+"text": "dron;. Arkettle, q.v., is but an-",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39124,
+"x1": 0.63915,
+"y0": 0.20318,
+"y1": 0.21545,
+"text": "other form of the same name. Both",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.3896,
+"x1": 0.61657,
+"y0": 0.21614,
+"y1": 0.22977,
+"text": "are compounds of 'Kettle,' q.v.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.40232,
+"x1": 0.63217,
+"y0": 0.23114,
+"y1": 0.24648,
+"text": "Anketil le Mercer, London, 1273. A.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.40273,
+"x1": 0.539,
+"y0": 0.24239,
+"y1": 0.255,
+"text": "Peter fil. Anketill. C.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.40314,
+"x1": 0.55624,
+"y0": 0.25261,
+"y1": 0.26489,
+"text": "Anketill fil. Thomas. K.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.40355,
+"x1": 0.64038,
+"y0": 0.26795,
+"y1": 0.28364,
+"text": "The Norman form was Anskettle ;",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.3896,
+"x1": 0.47374,
+"y0": 0.28318,
+"y1": 0.29545,
+"text": "v. Oskettle.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.60262,
+"x1": 0.63833,
+"y0": 0.29955,
+"y1": 0.31148,
+"text": "temp.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.58538,
+"y0": 0.30875,
+"y1": 0.32239,
+"text": "1109 : Lincolnshire Survey, P. 6.",
+"conf": 0.948
+},
+{
+"column": 2,
+"x0": 0.40232,
+"x1": 0.63053,
+"y0": 0.3183,
+"y1": 0.33295,
+"text": "Anschetillus de Egheling : ibid. p. 25.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.4015,
+"x1": 0.63915,
+"y0": 0.32886,
+"y1": 0.34352,
+"text": "Robert Amketyl, co. Soms., I Edw. 1Il1 :",
+"conf": 0.943
+},
+{
+"column": 2,
+"x0": 0.39124,
+"x1": 0.52299,
+"y0": 0.33909,
+"y1": 0.35443,
+"text": "Kirby's Quest, P. 213.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.4015,
+"x1": 0.64038,
+"y0": 0.34966,
+"y1": 0.36466,
+"text": "Roger Anketyl, co. Soms., I Edw. 11I :",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.46101,
+"y0": 0.36057,
+"y1": 0.3742,
+"text": "ibid. p. 221.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.40273,
+"x1": 0.63915,
+"y0": 0.37114,
+"y1": 0.38307,
+"text": "John Anketill, of Shafton, obiit 1610 :",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.39083,
+"x1": 0.594,
+"y0": 0.38034,
+"y1": 0.39568,
+"text": "Visitation of London, 1634, P. 21.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.4015,
+"x1": 0.63915,
+"y0": 0.38989,
+"y1": 0.40591,
+"text": "Francis Anketill, of Holborne, living",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39206,
+"x1": 0.45773,
+"y0": 0.40318,
+"y1": 0.41443,
+"text": "1634 : ibid.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.40478,
+"x1": 0.64079,
+"y0": 0.41886,
+"y1": 0.43489,
+"text": "I dare not say this surname is",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.63956,
+"y0": 0.43386,
+"y1": 0.44818,
+"text": "extinct in England, for I find one",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.3896,
+"x1": 0.63833,
+"y0": 0.44648,
+"y1": 0.46182,
+"text": "in Crockford ; see, however, Ans-",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.39042,
+"x1": 0.52833,
+"y0": 0.4608,
+"y1": 0.47341,
+"text": "kettle and Arkettle.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40232,
+"x1": 0.61863,
+"y0": 0.47511,
+"y1": 0.49114,
+"text": "Philadelphia, 0, 4 ; Crockford, 0, 1.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40478,
+"x1": 0.64079,
+"y0": 0.49273,
+"y1": 0.50875,
+"text": "Annable.-Bapt. ‘the son of",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.39001,
+"x1": 0.64079,
+"y0": 0.50636,
+"y1": 0.52239,
+"text": "Annable,' a corruption of Amable ;",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.38919,
+"x1": 0.63956,
+"y0": 0.52102,
+"y1": 0.53398,
+"text": "v. Hanniball. This surname is",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.63915,
+"y0": 0.53398,
+"y1": 0.54898,
+"text": "well represented in the United",
+"conf": 0.928
+},
+{
+"column": 2,
+"x0": 0.38919,
+"x1": 0.43967,
+"y0": 0.54727,
+"y1": 0.56159,
+"text": "States.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40027,
+"x1": 0.63669,
+"y0": 0.56261,
+"y1": 0.57761,
+"text": "Simon Annable, _vicar of Hemlington,",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38754,
+"x1": 0.56034,
+"y0": 0.57352,
+"y1": 0.58784,
+"text": "co. Norf., 140l : FF. xi. 107.",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.40109,
+"x1": 0.63833,
+"y0": 0.58477,
+"y1": 0.59739,
+"text": "1584. John Hallywell and Alice Ann.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38754,
+"x1": 0.6371,
+"y0": 0.595,
+"y1": 0.60864,
+"text": "able, co. Sufolk : Marriage Lic.(London),",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.38754,
+"x1": 0.42449,
+"y0": 0.60625,
+"y1": 0.62023,
+"text": "i. 135:",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.4015,
+"x1": 0.63874,
+"y0": 0.61682,
+"y1": 0.62807,
+"text": "166s. Thomas Barrow and Eliz. Ana-",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38713,
+"x1": 0.63874,
+"y0": 0.62568,
+"y1": 0.64034,
+"text": "bell : Marriage Alleg. (Canterbury), P. 90.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.40027,
+"x1": 0.63792,
+"y0": 0.63727,
+"y1": 0.64989,
+"text": "1711. MarriedJohn Daw and'Mary",
+"conf": 0.931
+},
+{
+"column": 2,
+"x0": 0.38878,
+"x1": 0.63792,
+"y0": 0.6475,
+"y1": 0.65977,
+"text": "Annable : St. Antholin (London). P. 124.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.40109,
+"x1": 0.63874,
+"y0": 0.65841,
+"y1": 0.67034,
+"text": "1736. Baried---Mrs. Elizabeth Annable :",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.55624,
+"y0": 0.66898,
+"y1": 0.68125,
+"text": "St. Peter's, Cornhill, L, P: 135.",
+"conf": 0.906
+},
+{
+"column": 2,
+"x0": 0.40109,
+"x1": 0.57512,
+"y0": 0.67784,
+"y1": 0.69148,
+"text": "Derby, 3; Boston ( (U.s), 10.",
+"conf": 0.903
+},
+{
+"column": 2,
+"x0": 0.40437,
+"x1": 0.63587,
+"y0": 0.69591,
+"y1": 0.71023,
+"text": "Annan, Annandale.-- Local,",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38878,
+"x1": 0.63956,
+"y0": 0.70852,
+"y1": 0.72489,
+"text": "‘of Annan or ‘Annandale,' a",
+"conf": 0.921
+},
+{
+"column": 2,
+"x0": 0.38796,
+"x1": 0.63792,
+"y0": 0.72205,
+"y1": 0.73807,
+"text": "parish and dale in co. Dumfries,",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.63874,
+"y0": 0.73636,
+"y1": 0.75102,
+"text": "through wbich the river Annan",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.38878,
+"x1": 0.43187,
+"y0": 0.75034,
+"y1": 0.76398,
+"text": "fows.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40109,
+"x1": 0.63874,
+"y0": 0.765,
+"y1": 0.77761,
+"text": "I702. Buried--Sarah Annand : St. An-",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.53038,
+"y0": 0.77659,
+"y1": 0.78886,
+"text": "tholin (London), p. 116.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.63833,
+"y0": 0.79295,
+"y1": 0.80795,
+"text": "Cf. Simmonds for Simmons, or the",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.38796,
+"x1": 0.58538,
+"y0": 0.80795,
+"y1": 0.82193,
+"text": "provincial gownd for gown.",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.40068,
+"x1": 0.6371,
+"y0": 0.8233,
+"y1": 0.83693,
+"text": "London 3, O: MDB. (Northumberland).",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38837,
+"x1": 0.53202,
+"y0": 0.83455,
+"y1": 0.84784,
+"text": "0, 2; Philadelphia, 2, 0.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.40519,
+"x1": 0.63792,
+"y0": 0.85057,
+"y1": 0.86727,
+"text": "Annis, Annison, Anning-",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38796,
+"x1": 0.63915,
+"y0": 0.86523,
+"y1": 0.88023,
+"text": "son, Anness, Aningson, An.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.73224,
+"x1": 0.82021,
+"y0": 0.08727,
+"y1": 0.09955,
+"text": "ANNOTT",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65003,
+"x1": 0.90078,
+"y0": 0.11455,
+"y1": 0.13057,
+"text": "nin, Anning.--(1) Bapt.‘the son",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.65085,
+"x1": 0.86707,
+"y0": 0.12852,
+"y1": 0.14318,
+"text": "of Ann,' from the dim. Annie.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.67511,
+"x1": 0.88886,
+"y0": 0.15511,
+"y1": 0.16875,
+"text": "Anne. Chaucer, C. T. 7193.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.66688,
+"x1": 0.89461,
+"y0": 0.16875,
+"y1": 0.18477,
+"text": "(2) Bapt. ‘the son of Agnes,",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65044,
+"x1": 0.89996,
+"y0": 0.18375,
+"y1": 0.19705,
+"text": "popularly Annis, Annes, or Annas.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65044,
+"x1": 0.89872,
+"y0": 0.19602,
+"y1": 0.2117,
+"text": "The variant Anningson is curious,",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.8979,
+"y0": 0.21,
+"y1": 0.22466,
+"text": "and seems founded upon some carly",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64962,
+"x1": 0.89913,
+"y0": 0.22261,
+"y1": 0.2383,
+"text": "dim. Annin, with an excrescent g,",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.89996,
+"y0": 0.23693,
+"y1": 0.25193,
+"text": "as in Jennings; cf. Pattison and",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65003,
+"x1": 0.89955,
+"y0": 0.24989,
+"y1": 0.26523,
+"text": "Pattinson. In general (2) must be",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.64798,
+"x1": 0.90037,
+"y0": 0.26318,
+"y1": 0.27886,
+"text": "looked upon as thc parent of all",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65003,
+"x1": 0.89872,
+"y0": 0.27716,
+"y1": 0.29182,
+"text": "these names. Annis was the popu-",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.89831,
+"y0": 0.29034,
+"y1": 0.305,
+"text": "lar form of Agnes from the 14th",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.65003,
+"x1": 0.79925,
+"y0": 0.30534,
+"y1": 0.31727,
+"text": "century downwards.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66195,
+"x1": 0.89913,
+"y0": 0.31795,
+"y1": 0.33466,
+"text": "'Annya:、 Propyr name (Anney, H.,",
+"conf": 0.914
+},
+{
+"column": 3,
+"x0": 0.65044,
+"x1": 0.88187,
+"y0": 0.3292,
+"y1": 0.34386,
+"text": "Annyce. P.)-Agnes' : Prompt. Pary.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.66154,
+"x1": 0.89708,
+"y0": 0.33977,
+"y1": 0.35443,
+"text": "Anish Luke : ^ Reg. St. Colomb Major,",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65784,
+"x1": 0.68292,
+"y0": 0.35477,
+"y1": 0.36364,
+"text": "·39.",
+"conf": 0.915
+},
+{
+"column": 3,
+"x0": 0.6636,
+"x1": 0.89913,
+"y0": 0.36057,
+"y1": 0.37557,
+"text": "Annis Thring. 16o6: Reg. Broad",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.79678,
+"y0": 0.37011,
+"y1": 0.3858,
+"text": "Chake, co. Wilts, P. 42.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.66031,
+"x1": 0.8979,
+"y0": 0.38034,
+"y1": 0.3967,
+"text": "Annise Teswell, 1623: Canterbury Cath.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.68949,
+"y0": 0.39295,
+"y1": 0.40557,
+"text": "p. !15.",
+"conf": 0.917
+},
+{
+"column": 3,
+"x0": 0.66154,
+"x1": 0.89831,
+"y0": 0.4025,
+"y1": 0.4158,
+"text": "Annis Brittanie, 1625 : St. Mary Alder.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.78239,
+"y0": 0.41239,
+"y1": 0.42705,
+"text": "mary (London), p. 15.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.66483,
+"x1": 0.89872,
+"y0": 0.4267,
+"y1": 0.44136,
+"text": "All these cases are feminine, and",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65044,
+"x1": 0.77129,
+"y0": 0.4417,
+"y1": 0.45466,
+"text": "represent Agnes.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.66113,
+"x1": 0.89831,
+"y0": 0.45534,
+"y1": 0.46898,
+"text": "James Annyson, 1687: St. Mary Alder.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.64921,
+"x1": 0.79061,
+"y0": 0.46557,
+"y1": 0.47989,
+"text": "mary (London), p. 109.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.66154,
+"x1": 0.89872,
+"y0": 0.47614,
+"y1": 0.48909,
+"text": "Isaac, s. Francis Annison, 166o: FF.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.67017,
+"x1": 0.68949,
+"y0": 0.49136,
+"y1": 0.49648,
+"text": "205",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.66154,
+"x1": 0.89872,
+"y0": 0.49614,
+"y1": 0.5108,
+"text": "Maria, uxor Johannis Annyson, 1700 :",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.72156,
+"y0": 0.50682,
+"y1": 0.52148,
+"text": "ibid. p. 501.",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.66154,
+"x1": 0.89708,
+"y0": 0.51636,
+"y1": 0.52966,
+"text": "1616-7. Peter Kinge and Mary Annys :",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64921,
+"x1": 0.83789,
+"y0": 0.52784,
+"y1": 0.5408,
+"text": "Marriage Lic. (London ), ii. 48.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65949,
+"x1": 0.89913,
+"y0": 0.5367,
+"y1": 0.55375,
+"text": "London, 2, 2, 0, 0, 0, 0, 0; MDB. (Nor.",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.64757,
+"x1": 0.89872,
+"y0": 0.54727,
+"y1": 0.56432,
+"text": "folk), o, 3, 0 1, 0, 0, O : (Lincoln).1 1, 2,",
+"conf": 0.842
+},
+{
+"column": 3,
+"x0": 0.64798,
+"x1": 0.89667,
+"y0": 0.5592,
+"y1": 0.57284,
+"text": "O, 1, O,o : (Burnley, co. Lanc.) Anningson,",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.64757,
+"x1": 0.85063,
+"y0": 0.56875,
+"y1": 0.58545,
+"text": "1; Philadelphia, 3, 0, 0, 1, 0, 2, 1.",
+"conf": 0.897
+},
+{
+"column": 3,
+"x0": 0.66565,
+"x1": 0.89831,
+"y0": 0.58409,
+"y1": 0.59773,
+"text": "Annore.-- Bapt. ‘the son of",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64921,
+"x1": 0.89749,
+"y0": 0.59739,
+"y1": 0.61205,
+"text": "Alianore, popularly Annore,",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.87406,
+"y0": 0.61136,
+"y1": 0.62466,
+"text": "whence later Nora, or Norah.",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.66031,
+"x1": 0.88927,
+"y0": 0.625,
+"y1": 0.64034,
+"text": "William, Annor, co. Camb., 1273. A.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.66113,
+"x1": 0.89543,
+"y0": 0.63693,
+"y1": 0.65023,
+"text": "Annor (without surmame), , co. Backs,",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.67716,
+"y0": 0.6475,
+"y1": 0.65841,
+"text": "ibid.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66113,
+"x1": 0.84981,
+"y0": 0.65705,
+"y1": 0.67068,
+"text": "Annore Beine, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.66113,
+"x1": 0.8383,
+"y0": 0.66761,
+"y1": 0.68057,
+"text": "Annora Vidua, co. Oxf., ibid.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.66031,
+"x1": 0.89708,
+"y0": 0.67818,
+"y1": 0.69216,
+"text": "Annora de Aencurt, co. Notta, Hen. I1I--",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.72361,
+"y0": 0.68977,
+"y1": 0.70034,
+"text": "Edw. I. K.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66401,
+"x1": 0.89502,
+"y0": 0.70341,
+"y1": 0.71705,
+"text": "Annott, Annotson, Annett,",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.89708,
+"y0": 0.7167,
+"y1": 0.73102,
+"text": "Annette.--Bapt. ‘the son of",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.8979,
+"y0": 0.72886,
+"y1": 0.74386,
+"text": "Anne,' dim. Ann-ot ; v. Anson for",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.89543,
+"y0": 0.7442,
+"y1": 0.7575,
+"text": "many instances and fuller history.",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.89461,
+"y0": 0.75648,
+"y1": 0.7708,
+"text": "'Annet, the common gull, SO",
+"conf": 0.592
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.89502,
+"y0": 0.76977,
+"y1": 0.78375,
+"text": "called in Northumberland ': Halli-",
+"conf": 0.97
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.89667,
+"y0": 0.78375,
+"y1": 0.7967,
+"text": "well.] No doubt taken from the",
+"conf": 0.902
+},
+{
+"column": 3,
+"x0": 0.64674,
+"x1": 0.8942,
+"y0": 0.79739,
+"y1": 0.81239,
+"text": "once popular dim. of Anne, es-",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64839,
+"x1": 0.89749,
+"y0": 0.80966,
+"y1": 0.8267,
+"text": "pecially popular on the north-east",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.6488,
+"x1": 0.89543,
+"y0": 0.82398,
+"y1": 0.83795,
+"text": "coast of England. Annot Alyface",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64798,
+"x1": 0.89585,
+"y0": 0.83795,
+"y1": 0.85261,
+"text": "is a character in Ralph 1 Roister",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.64757,
+"x1": 0.89585,
+"y0": 0.84989,
+"y1": 0.86727,
+"text": "Doister, by Nicholas Udall, written",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64757,
+"x1": 0.82555,
+"y0": 0.86591,
+"y1": 0.88125,
+"text": "about 155o. She sings :",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.6973,
+"x1": 0.90078,
+"y0": 0.91568,
+"y1": 0.94807,
+"text": "Digitized by Google",
+"conf": 0.97
+}
+]

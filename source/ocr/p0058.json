@@ -1,0 +1,1694 @@
+[
+{
+"column": 1,
+"x0": 0.19025,
+"x1": 0.30745,
+"y0": 0.07977,
+"y1": 0.09102,
+"text": "ARCHBELL",
+"conf": 0.874
+},
+{
+"column": 1,
+"x0": 0.14132,
+"x1": 0.37942,
+"y0": 0.10534,
+"y1": 0.11966,
+"text": "1752. Marricd--Anthony Dauvert and",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12939,
+"x1": 0.37819,
+"y0": 0.11693,
+"y1": 0.12955,
+"text": "Mary Arbuthnot : St. Geo. Han. Sq.i. 48.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.14091,
+"x1": 0.37983,
+"y0": 0.12682,
+"y1": 0.14148,
+"text": "London, 3, O; Boston (U.S.), 0, 1; New",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.12939,
+"x1": 0.19519,
+"y0": 0.13807,
+"y1": 0.15102,
+"text": "York, 3, 0.",
+"conf": 0.942
+},
+{
+"column": 1,
+"x0": 0.14461,
+"x1": 0.37942,
+"y0": 0.15068,
+"y1": 0.1667,
+"text": "Archbell.--Bapt. ; a corruption",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12939,
+"x1": 0.25605,
+"y0": 0.16364,
+"y1": 0.18,
+"text": "of Archibald, q.v.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.14173,
+"x1": 0.37901,
+"y0": 0.18,
+"y1": 0.1933,
+"text": "West Riding Court Dir., I; New York, 1.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14872,
+"x1": 0.38065,
+"y0": 0.19261,
+"y1": 0.20795,
+"text": "Archbrag. -- Nick. ‘a great",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.1298,
+"x1": 0.37942,
+"y0": 0.20727,
+"y1": 0.22057,
+"text": "braggart.' Arch = chief, as in Arch-",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.12898,
+"x1": 0.38065,
+"y0": 0.21989,
+"y1": 0.23591,
+"text": "deacon, Archpriest, q.v. Also cf.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12816,
+"x1": 0.37901,
+"y0": 0.2325,
+"y1": 0.24955,
+"text": "' archewives': Chaucer, C. T. 9o71.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.14132,
+"x1": 0.38065,
+"y0": 0.24818,
+"y1": 0.26284,
+"text": "Ormus Archebragge, co. Westm., 20",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.13022,
+"x1": 0.20629,
+"y0": 0.25909,
+"y1": 0.27068,
+"text": "Edw. I. R.",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.14132,
+"x1": 0.35433,
+"y0": 0.26898,
+"y1": 0.28295,
+"text": "Eva Archbragge, co. W'estm., ibid.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.14543,
+"x1": 0.37942,
+"y0": 0.28318,
+"y1": 0.29818,
+"text": "Archbutt, Archbold, Archi-",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12939,
+"x1": 0.37942,
+"y0": 0.29795,
+"y1": 0.31193,
+"text": "bold.—Bapt. ‘the son of Archi-",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.13022,
+"x1": 0.3786,
+"y0": 0.31114,
+"y1": 0.32614,
+"text": "bald. These three are simply",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.12898,
+"x1": 0.29676,
+"y0": 0.32477,
+"y1": 0.33739,
+"text": "variants ; v. Archibald.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.14296,
+"x1": 0.3786,
+"y0": 0.34011,
+"y1": 0.3517,
+"text": "1567. Edward Brooke and Alice Arch.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.1298,
+"x1": 0.35228,
+"y0": 0.34864,
+"y1": 0.36432,
+"text": "bold: Marriage Lic. (London), i. 37.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.14173,
+"x1": 0.38065,
+"y0": 0.35989,
+"y1": 0.37386,
+"text": "1743. Married-Anthony Stewart and",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13145,
+"x1": 0.2651,
+"y0": 0.37182,
+"y1": 0.38102,
+"text": "Eliz Archbould: ibid.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.14173,
+"x1": 0.38106,
+"y0": 0.38034,
+"y1": 0.39534,
+"text": "1772. - Elias Archbold and Bridget",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.12898,
+"x1": 0.33254,
+"y0": 0.39057,
+"y1": 0.40489,
+"text": "Dardis: St. Geo. Han. Sq. i. 223.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.1405,
+"x1": 0.37901,
+"y0": 0.4008,
+"y1": 0.41648,
+"text": "London, 3, 0, 0; Newcastle, 0, 2, 0;",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.12857,
+"x1": 0.37531,
+"y0": 0.41136,
+"y1": 0.42705,
+"text": "New York, 0, 5, 0; Philadelphia, 0, 1, 4.",
+"conf": 0.92
+},
+{
+"column": 1,
+"x0": 0.14625,
+"x1": 0.37983,
+"y0": 0.4267,
+"y1": 0.44136,
+"text": "Archdeacon, Arcedeckne.---",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13063,
+"x1": 0.38065,
+"y0": 0.44034,
+"y1": 0.45466,
+"text": "Official, ‘the archdeacon.' The",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.12898,
+"x1": 0.38024,
+"y0": 0.45295,
+"y1": 0.46966,
+"text": "name still survives, and not long",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.13022,
+"x1": 0.37983,
+"y0": 0.46659,
+"y1": 0.4833,
+"text": "ago I saw it over a hatter's shop.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13022,
+"x1": 0.37983,
+"y0": 0.48091,
+"y1": 0.49557,
+"text": "· Daniel Archdeacon was recom-",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.13145,
+"x1": 0.37819,
+"y0": 0.49477,
+"y1": 0.50875,
+"text": "mended to the king for his services,",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13104,
+"x1": 0.37901,
+"y0": 0.50614,
+"y1": 0.52489,
+"text": "1610': State Papers, 1623-5, P.545.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13145,
+"x1": 0.38271,
+"y0": 0.5217,
+"y1": 0.53568,
+"text": "Quite recently some members of",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.13104,
+"x1": 0.38106,
+"y0": 0.535,
+"y1": 0.54864,
+"text": "the Archdcacon family have.adopted",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.13104,
+"x1": 0.3823,
+"y0": 0.54727,
+"y1": 0.56295,
+"text": "the mediaeval Arccdekne, 'not",
+"conf": 0.82
+},
+{
+"column": 1,
+"x0": 0.13227,
+"x1": 0.28484,
+"y0": 0.56227,
+"y1": 0.57523,
+"text": "wisely, but too well.'",
+"conf": 0.952
+},
+{
+"column": 1,
+"x0": 0.14379,
+"x1": 0.38189,
+"y0": 0.57523,
+"y1": 0.58989,
+"text": "William de (le ?) Archdeacon, co. Norf. :",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.13145,
+"x1": 0.20341,
+"y0": 0.58648,
+"y1": 0.59773,
+"text": "FF. ix. 186.",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.14337,
+"x1": 0.38271,
+"y0": 0.59534,
+"y1": 0.6117,
+"text": "Johannes Archedeken ct uxor, 1379:",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.14502,
+"x1": 0.342,
+"y0": 0.62773,
+"y1": 0.64068,
+"text": "Adam Ercedekne, co. Suff., ibid.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.1442,
+"x1": 0.31856,
+"y0": 0.63625,
+"y1": 0.65193,
+"text": "Richard I'Ercedekne.  V. 9.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.14502,
+"x1": 0.38271,
+"y0": 0.64886,
+"y1": 0.66148,
+"text": "1751. Married-John Archdeacon and",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13145,
+"x1": 0.38271,
+"y0": 0.65807,
+"y1": 0.67409,
+"text": "Mary Wiliamson : St. Geo. Chap. May-",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13104,
+"x1": 0.20136,
+"y0": 0.66932,
+"y1": 0.68398,
+"text": "fair, P: 199.",
+"conf": 0.924
+},
+{
+"column": 1,
+"x0": 0.1442,
+"x1": 0.38353,
+"y0": 0.67955,
+"y1": 0.69216,
+"text": "1786. Peter Archdeacon and Ann Clark :",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.13186,
+"x1": 0.28155,
+"y0": 0.68943,
+"y1": 0.70307,
+"text": "St. 'Geo. Han. Sq. i. 386.",
+"conf": 0.963
+},
+{
+"column": 1,
+"x0": 0.14337,
+"x1": 0.38189,
+"y0": 0.7,
+"y1": 0.71432,
+"text": "London, I, O; Halifax, I. o; Liverpool,",
+"conf": 0.946
+},
+{
+"column": 1,
+"x0": 0.13227,
+"x1": 0.38353,
+"y0": 0.71023,
+"y1": 0.72489,
+"text": "2,.0; MDB.'(co. Norfolk), 0, 1 ; Boston",
+"conf": 0.94
+},
+{
+"column": 1,
+"x0": 0.13227,
+"x1": 0.20506,
+"y0": 0.71875,
+"y1": 0.73648,
+"text": "(U.S.), 5, 0.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.14831,
+"x1": 0.3786,
+"y0": 0.73636,
+"y1": 0.75068,
+"text": "Archer.--Occup. 'the archer,",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13433,
+"x1": 0.3823,
+"y0": 0.75,
+"y1": 0.76398,
+"text": "?  professional  bowman ; O.F.",
+"conf": 0.585
+},
+{
+"column": 1,
+"x0": 0.13186,
+"x1": 0.38271,
+"y0": 0.7633,
+"y1": 0.77795,
+"text": "archier. The arbalestcr was a cross.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.13309,
+"x1": 0.38148,
+"y0": 0.77727,
+"y1": 0.79159,
+"text": "bowman ; v. Alabaster ; cf. Bow-",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13351,
+"x1": 0.38106,
+"y0": 0.78989,
+"y1": 0.80625,
+"text": "man, Bowmaker, Fletcher, Flower,",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13392,
+"x1": 0.16106,
+"y0": 0.80489,
+"y1": 0.8175,
+"text": "&c.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.14543,
+"x1": 0.38353,
+"y0": 0.81852,
+"y1": 0.83318,
+"text": "Odo_ le Archer, co. Devon, Hen. I1I-",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13433,
+"x1": 0.20958,
+"y0": 0.82977,
+"y1": 0.84068,
+"text": "Edw. I.K.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.1479,
+"x1": 0.38271,
+"y0": 0.84034,
+"y1": 0.85227,
+"text": "John Ie Archer, co. York, 2o Edw. I. R.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.14708,
+"x1": 0.35475,
+"y0": 0.85023,
+"y1": 0.86318,
+"text": "Richard Je Archer, co. Wilta, ibid.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.14625,
+"x1": 0.38394,
+"y0": 0.86011,
+"y1": 0.87545,
+"text": "Thomas le Archer, co. Derby, 1273. A.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.5046,
+"x1": 0.52598,
+"y0": 0.07875,
+"y1": 0.09205,
+"text": "38",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.40142,
+"x1": 0.53625,
+"y0": 0.10636,
+"y1": 0.11932,
+"text": "Pagan le Archier. E.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.4006,
+"x1": 0.63861,
+"y0": 0.11591,
+"y1": 0.13125,
+"text": "Colin le Archer, co. Heref., 45 Hen. I11.",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38909,
+"x1": 0.42197,
+"y0": 0.12784,
+"y1": 0.13841,
+"text": "BBB.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40265,
+"x1": 0.63615,
+"y0": 0.13773,
+"y1": 0.14966,
+"text": "William Gilbert, rector of Ridlesworth,",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38909,
+"x1": 0.63985,
+"y0": 0.14898,
+"y1": 0.16091,
+"text": "co. Norf., presented by Alexandrina lc",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.38909,
+"x1": 0.54078,
+"y0": 0.15784,
+"y1": 0.17386,
+"text": "Archer, 1375 : FF. i. 275.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.40224,
+"x1": 0.63943,
+"y0": 0.16909,
+"y1": 0.18136,
+"text": "1567. Married-Roberte Gamett and",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.63985,
+"y0": 0.17727,
+"y1": 0.19432,
+"text": "Alyce Archer : St. Michael, Cornhill, p. 9.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40142,
+"x1": 0.58435,
+"y0": 0.18989,
+"y1": 0.20386,
+"text": "London, 52 ; Philadelphia, 46.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.40553,
+"x1": 0.63861,
+"y0": 0.20591,
+"y1": 0.21989,
+"text": "Archerson.--Bapt.; v. Aitche-",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38909,
+"x1": 0.61682,
+"y0": 0.22023,
+"y1": 0.23318,
+"text": "son ; not thc son of the Archer.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.40183,
+"x1": 0.48199,
+"y0": 0.23523,
+"y1": 0.24818,
+"text": "Liverpool, I.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.40512,
+"x1": 0.64108,
+"y0": 0.25057,
+"y1": 0.26523,
+"text": "Archibald.---Bapt. ‘ the son of",
+"conf": 0.94
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.64026,
+"y0": 0.26455,
+"y1": 0.27955,
+"text": "Archibald.' German, Erchanbald ;",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.63902,
+"y0": 0.27807,
+"y1": 0.2917,
+"text": "O.F. Archambault ; Italian, Arci-",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38868,
+"x1": 0.63902,
+"y0": 0.29136,
+"y1": 0.30636,
+"text": "baldo. Miss Yonge (ii. 255) adds,",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.38991,
+"x1": 0.6382,
+"y0": 0.30398,
+"y1": 0.32034,
+"text": "So frequent was it (Archibald)",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.63861,
+"y0": 0.31898,
+"y1": 0.33227,
+"text": "in the houses of Campbell and",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.63985,
+"y0": 0.33193,
+"y1": 0.34659,
+"text": "Douglas, that, with its contractions",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38991,
+"x1": 0.63943,
+"y0": 0.34625,
+"y1": 0.3592,
+"text": "of Archie and Baldie, it has become",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.63861,
+"y0": 0.35955,
+"y1": 0.37216,
+"text": "one of the most commonly uscd in",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.3895,
+"x1": 0.63902,
+"y0": 0.37284,
+"y1": 0.38682,
+"text": "Scotland, recalling many a ferce",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.39032,
+"x1": 0.63902,
+"y0": 0.38614,
+"y1": 0.39977,
+"text": "worthy,from old Archibald Bell-the-",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39073,
+"x1": 0.63943,
+"y0": 0.39977,
+"y1": 0.41239,
+"text": "Cat downwards.' Archbold, Arch-",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39032,
+"x1": 0.63943,
+"y0": 0.41307,
+"y1": 0.42568,
+"text": "butt, and Archbould are modern",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39073,
+"x1": 0.63943,
+"y0": 0.4267,
+"y1": 0.44034,
+"text": "English forms of the surname ; v.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39238,
+"x1": 0.5342,
+"y0": 0.44034,
+"y1": 0.45261,
+"text": "Archbold, Archbutt.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.40224,
+"x1": 0.64067,
+"y0": 0.45398,
+"y1": 0.47,
+"text": "Archibaldus le Flemyng. 34 Edw. I:",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39073,
+"x1": 0.46637,
+"y0": 0.46591,
+"y1": 0.4792,
+"text": "BBB. p. 710.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.40224,
+"x1": 0.63902,
+"y0": 0.47614,
+"y1": 0.48875,
+"text": "Archenbald le Flemeng, Hen. I11-Edw.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.38991,
+"x1": 0.42978,
+"y0": 0.4867,
+"y1": 0.49864,
+"text": "I.K.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.40265,
+"x1": 0.63368,
+"y0": 0.4958,
+"y1": 0.51011,
+"text": "Roger Arkebald, co. Camb., 1273: A",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40389,
+"x1": 0.61559,
+"y0": 0.50841,
+"y1": 0.51864,
+"text": "Richard Arkebolt, co. Camb., ibid.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.40306,
+"x1": 0.6234,
+"y0": 0.51693,
+"y1": 0.53057,
+"text": "William Ercebaud, 44 Edw. I1l. P.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.40389,
+"x1": 0.63902,
+"y0": 0.52818,
+"y1": 0.53977,
+"text": "Richard Archebold, sup. for B.D., Oct.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39155,
+"x1": 0.58312,
+"y0": 0.53875,
+"y1": 0.55205,
+"text": "30, 1451 : Reg. Univ. Oxf. i. 14.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40389,
+"x1": 0.64149,
+"y0": 0.54761,
+"y1": 0.56193,
+"text": "1557. Married-- John Archembolde and",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39155,
+"x1": 0.64149,
+"y0": 0.5592,
+"y1": 0.57216,
+"text": "Eliz. Wylson : St. Dionis Backchurch, P. 3.",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.40882,
+"x1": 0.64067,
+"y0": 0.57386,
+"y1": 0.5858,
+"text": "Archambault is common in Phila-",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.39279,
+"x1": 0.64231,
+"y0": 0.58648,
+"y1": 0.60148,
+"text": "delphia. Twelve  representatives",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.39197,
+"x1": 0.64108,
+"y0": 0.60045,
+"y1": 0.6158,
+"text": "appear in the directory. This is",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.39238,
+"x1": 0.63286,
+"y0": 0.61375,
+"y1": 0.62773,
+"text": "the result of French immigration.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.40553,
+"x1": 0.58641,
+"y0": 0.6308,
+"y1": 0.6417,
+"text": "London, 2 ; Boston (U.S.), 22.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.40882,
+"x1": 0.64272,
+"y0": 0.64409,
+"y1": 0.65943,
+"text": "Archpriest. -- Official, 'the",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.3932,
+"x1": 0.64231,
+"y0": 0.66045,
+"y1": 0.67273,
+"text": "archpriest, a chief priest, a vicar",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39279,
+"x1": 0.64272,
+"y0": 0.67239,
+"y1": 0.68636,
+"text": "to a bishop, later a rural dean ; v.",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.39402,
+"x1": 0.64149,
+"y0": 0.68602,
+"y1": 0.7,
+"text": "H.E.D. The tcrm was  use",
+"conf": 0.789
+},
+{
+"column": 2,
+"x0": 0.39279,
+"x1": 0.64026,
+"y0": 0.70034,
+"y1": 0.71364,
+"text": "in the 17th century, for Smith,",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37511,
+"x1": 0.64231,
+"y0": 0.7125,
+"y1": 0.72818,
+"text": "n the‘silver-tongued’ preacher,",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.39279,
+"x1": 0.64354,
+"y0": 0.72693,
+"y1": 0.74159,
+"text": "speaks of ‘priest, or priests, or",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39197,
+"x1": 0.64437,
+"y0": 0.73875,
+"y1": 0.75648,
+"text": "archpriests, or any such like':",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.3932,
+"x1": 0.60819,
+"y0": 0.75409,
+"y1": 0.76739,
+"text": "God's Arrow against Athcists.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40553,
+"x1": 0.55763,
+"y0": 0.76909,
+"y1": 0.78102,
+"text": "Roger le Archeprest. T.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.40471,
+"x1": 0.64231,
+"y0": 0.77864,
+"y1": 0.79227,
+"text": "William le Ercheprestre: Fines Roll,",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.39361,
+"x1": 0.45733,
+"y0": 0.78989,
+"y1": 0.80114,
+"text": "12 Edw. I.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.40923,
+"x1": 0.64108,
+"y0": 0.8025,
+"y1": 0.81716,
+"text": "Arderne, Arden, Ardron.--",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39402,
+"x1": 0.64354,
+"y0": 0.8175,
+"y1": 0.8308,
+"text": "Local, ‘of Arderne. The present",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.39279,
+"x1": 0.64354,
+"y0": 0.82977,
+"y1": 0.84545,
+"text": "representatives in south-east Lanc.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.3932,
+"x1": 0.64231,
+"y0": 0.84341,
+"y1": 0.85841,
+"text": "directories preserve the spellings,",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.39279,
+"x1": 0.64313,
+"y0": 0.85807,
+"y1": 0.87205,
+"text": "as Arden and Ardren are frequently",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.74944,
+"x1": 0.79961,
+"y0": 0.07943,
+"y1": 0.09205,
+"text": "ARIS",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64828,
+"x1": 0.89625,
+"y0": 0.1067,
+"y1": 0.12205,
+"text": "found in the records of the family.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.64952,
+"x1": 0.89913,
+"y0": 0.12136,
+"y1": 0.13568,
+"text": "They resided at Harden Hall, ncar",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.6491,
+"x1": 0.89954,
+"y0": 0.135,
+"y1": 0.14966,
+"text": "Stockport, and are reputed to have",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64869,
+"x1": 0.89913,
+"y0": 0.1483,
+"y1": 0.16193,
+"text": "been an carly branch of the War-",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64952,
+"x1": 0.89831,
+"y0": 0.16091,
+"y1": 0.17625,
+"text": "wickshire Ardernes ;   v. East",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.64993,
+"x1": 0.76795,
+"y0": 0.17557,
+"y1": 0.18886,
+"text": "Cheshire, i. 161.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.66185,
+"x1": 0.8979,
+"y0": 0.19023,
+"y1": 0.20386,
+"text": "Heloise de Arderne, 117l: FF. viii.342.",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.66267,
+"x1": 0.89749,
+"y0": 0.2008,
+"y1": 0.21443,
+"text": "John de Arderne, 1220: East Cheshire,",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.66267,
+"x1": 0.68694,
+"y0": 0.21239,
+"y1": 0.22227,
+"text": "462.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.66226,
+"x1": 0.84074,
+"y0": 0.22091,
+"y1": 0.23489,
+"text": "Peter de. Arderne, 127o: ibid.",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.66267,
+"x1": 0.89954,
+"y0": 0.23148,
+"y1": 0.24648,
+"text": "Jordan de Arderne, co. York, 1273. A.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.66309,
+"x1": 0.86294,
+"y0": 0.24239,
+"y1": 0.25534,
+"text": "Ralph de Ardern, co. Linc., ibid.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.66473,
+"x1": 0.8979,
+"y0": 0.25773,
+"y1": 0.27375,
+"text": "The de was dropped about 1420.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.66144,
+"x1": 0.89625,
+"y0": 0.27307,
+"y1": 0.2867,
+"text": "William Ardern, of Timperley, csquire.",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.64952,
+"x1": 0.89666,
+"y0": 0.28284,
+"y1": 0.29852,
+"text": "1584 : Wills at Chester (1545-1620), P: 5:",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.66103,
+"x1": 0.89913,
+"y0": 0.29443,
+"y1": 0.30739,
+"text": "Mary Ardern, of Stockport, 16i9 : ibid.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.66267,
+"x1": 0.89831,
+"y0": 0.305,
+"y1": 0.31864,
+"text": "John Arderne. mayor of S Stockport,",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.64869,
+"x1": 0.81935,
+"y0": 0.31489,
+"y1": 0.32852,
+"text": "1524 : East Cheshire, i. 347.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.66185,
+"x1": 0.89995,
+"y0": 0.32477,
+"y1": 0.33739,
+"text": "1666. William. Ardrene and Alice",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64787,
+"x1": 0.89954,
+"y0": 0.33466,
+"y1": 0.35068,
+"text": "Smith : Marriage Alleg. (Canterbury),",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.64952,
+"x1": 0.69023,
+"y0": 0.3483,
+"y1": 0.35852,
+"text": "p. 114.",
+"conf": 0.91
+},
+{
+"column": 3,
+"x0": 0.66144,
+"x1": 0.90036,
+"y0": 0.3558,
+"y1": 0.37045,
+"text": "Manchester, 1, I, 2 ; Philadclphia, O, 1, 4.",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.66638,
+"x1": 0.89707,
+"y0": 0.37386,
+"y1": 0.3875,
+"text": "Argent,  Argentine.---Local,",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.65733,
+"x1": 0.90119,
+"y0": 0.38614,
+"y1": 0.40216,
+"text": "of'or' from Argentan,' a town in",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.64993,
+"x1": 0.89913,
+"y0": 0.40114,
+"y1": 0.41443,
+"text": "south Normandy. David de Argen-",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64993,
+"x1": 0.89995,
+"y0": 0.41443,
+"y1": 0.42841,
+"text": "tomago was a tenant-in-chief under",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.65075,
+"x1": 0.90078,
+"y0": 0.42807,
+"y1": 0.44102,
+"text": "the Conqueror in cos. Bedford and",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65116,
+"x1": 0.89995,
+"y0": 0.44136,
+"y1": 0.45432,
+"text": "Camb. His descendants were",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.65075,
+"x1": 0.90036,
+"y0": 0.455,
+"y1": 0.46864,
+"text": "ennobled as Barons Argentine",
+"conf": 0.948
+},
+{
+"column": 3,
+"x0": 0.65322,
+"x1": 0.71655,
+"y0": 0.4683,
+"y1": 0.48193,
+"text": "(Lower).",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66226,
+"x1": 0.90036,
+"y0": 0.48364,
+"y1": 0.49761,
+"text": "Richard de Argentein,co.Herts, 1273: A.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.6635,
+"x1": 0.88309,
+"y0": 0.49477,
+"y1": 0.50705,
+"text": "Reginald de Argente, co. Essex, ibid.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.78974,
+"x1": 0.80907,
+"y0": 0.50682,
+"y1": 0.51602,
+"text": "R.",
+"conf": 1.0
+},
+{
+"column": 3,
+"x0": 0.66391,
+"x1": 0.90036,
+"y0": 0.51523,
+"y1": 0.52818,
+"text": "Gyles Argentyne : Visitation of Bed.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65157,
+"x1": 0.7807,
+"y0": 0.52614,
+"y1": 0.53841,
+"text": "fordshire, 1566, p. 41.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66432,
+"x1": 0.90036,
+"y0": 0.53636,
+"y1": 0.54898,
+"text": "Reginald de Argentein, co. Norf., 1265 :",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65157,
+"x1": 0.71449,
+"y0": 0.54659,
+"y1": 0.55989,
+"text": "FF. v. 91.",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.66267,
+"x1": 0.90242,
+"y0": 0.5558,
+"y1": 0.5708,
+"text": "Giles'de Argentein, co. Norf., 1281 :",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65281,
+"x1": 0.70832,
+"y0": 0.56739,
+"y1": 0.57932,
+"text": "ibid. 368.",
+"conf": 0.955
+},
+{
+"column": 3,
+"x0": 0.66267,
+"x1": 0.89995,
+"y0": 0.57761,
+"y1": 0.59023,
+"text": "John Argentine, minorite, sup. for B.D.,",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.66432,
+"x1": 0.89913,
+"y0": 0.5967,
+"y1": 0.61273,
+"text": "1572. Henry Potkyn and Sicily Ar.",
+"conf": 0.872
+},
+{
+"column": 3,
+"x0": 0.64952,
+"x1": 0.88926,
+"y0": 0.60761,
+"y1": 0.62364,
+"text": "gentine : Marriage Lic. (London), i. 53",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.66432,
+"x1": 0.90201,
+"y0": 0.61955,
+"y1": 0.63114,
+"text": "John Argintine. temp. 16oo: Visitation",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.65034,
+"x1": 0.81236,
+"y0": 0.62909,
+"y1": 0.64443,
+"text": "of Dorsctshire, 1623, P. Q8.",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.66432,
+"x1": 0.87034,
+"y0": 0.63966,
+"y1": 0.6533,
+"text": "London, 1o, o; Philadclphin, 2, 0.",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.66925,
+"x1": 0.8979,
+"y0": 0.65739,
+"y1": 0.67102,
+"text": "Aris, Aris8.--Local, 'of Arras,",
+"conf": 0.938
+},
+{
+"column": 3,
+"x0": 0.65363,
+"x1": 0.9016,
+"y0": 0.6717,
+"y1": 0.68432,
+"text": "a town in Artois famous for the",
+"conf": 0.568
+},
+{
+"column": 3,
+"x0": 0.65157,
+"x1": 0.90119,
+"y0": 0.68364,
+"y1": 0.7,
+"text": "manufacture of  tapestry. Not a",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.65239,
+"x1": 0.80331,
+"y0": 0.6983,
+"y1": 0.71261,
+"text": "vulgarism for Harris.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.66391,
+"x1": 0.90119,
+"y0": 0.71193,
+"y1": 0.72795,
+"text": "1397. ' Drape. d'Arras': Will of John",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.65116,
+"x1": 0.90201,
+"y0": 0.72443,
+"y1": 0.73705,
+"text": "of Gaant in'Nichols' Royal Willa, 156",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.65281,
+"x1": 0.71038,
+"y0": 0.73398,
+"y1": 0.74693,
+"text": "(H.E.D.).",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.66432,
+"x1": 0.9016,
+"y0": 0.7425,
+"y1": 0.75818,
+"text": "1536. ' Claithis of arres and tapestreis':",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.65239,
+"x1": 0.87363,
+"y0": 0.75477,
+"y1": 0.76739,
+"text": "Bellendene, Cron. Scotl. ii. s6 (ibid.).",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.66432,
+"x1": 0.90242,
+"y0": 0.76534,
+"y1": 0.77795,
+"text": "1562. : One bede coveringe of aries",
+"conf": 0.901
+},
+{
+"column": 3,
+"x0": 0.65198,
+"x1": 0.90324,
+"y0": 0.7742,
+"y1": 0.78886,
+"text": "worke, &e': Richmondshire Willk, i. 16t.",
+"conf": 0.943
+},
+{
+"column": 3,
+"x0": 0.68036,
+"x1": 0.9016,
+"y0": 0.78511,
+"y1": 0.79943,
+"text": "Grant to John Bakes, arras-maker,",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65322,
+"x1": 0.90242,
+"y0": 0.79705,
+"y1": 0.8083,
+"text": "of thc office of maker and mender of the",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65322,
+"x1": 0.90283,
+"y0": 0.80659,
+"y1": 0.82057,
+"text": "king's cloths and _pieces of arras and",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.65239,
+"x1": 0.90242,
+"y0": 0.81614,
+"y1": 0.83045,
+"text": "tapestry. with i2d. a day for wages':",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65322,
+"x1": 0.90201,
+"y0": 0.8267,
+"y1": 0.84136,
+"text": "Materials for History of Reign of Henry",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.65404,
+"x1": 0.72313,
+"y0": 0.8383,
+"y1": 0.85295,
+"text": "VIL, p. 259.",
+"conf": 0.876
+},
+{
+"column": 3,
+"x0": 0.66514,
+"x1": 0.83498,
+"y0": 0.84784,
+"y1": 0.8608,
+"text": "Robert' de Arraz, London, I",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.69681,
+"x1": 0.90078,
+"y0": 0.91534,
+"y1": 0.94841,
+"text": "Digitized by Google",
+"conf": 0.996
+}
+]

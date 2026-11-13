@@ -1,0 +1,1667 @@
+[
+{
+"column": 1,
+"x0": 0.21114,
+"x1": 0.29214,
+"y0": 0.09682,
+"y1": 0.1108,
+"text": "ASTLBY",
+"conf": 0.898
+},
+{
+"column": 1,
+"x0": 0.14412,
+"x1": 0.37643,
+"y0": 0.12511,
+"y1": 0.14045,
+"text": "Astley.-- Local, ‘of Astley.' (1)",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.12767,
+"x1": 0.37643,
+"y0": 0.13875,
+"y1": 0.15511,
+"text": "A chapelry in the parish of Leigh,",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12767,
+"x1": 0.37725,
+"y0": 0.1517,
+"y1": 0.16705,
+"text": "co. Lanc. ; () a ( chapelry in thc",
+"conf": 0.896
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.37684,
+"y0": 0.16466,
+"y1": 0.18307,
+"text": "county of Salop, five miles from",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12561,
+"x1": 0.37972,
+"y0": 0.17795,
+"y1": 0.19773,
+"text": "Shrewsbury; (3) a parish in co.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.37766,
+"y0": 0.19398,
+"y1": 0.20761,
+"text": "Warwick, near Nuneaton ; (4) a",
+"conf": 0.87
+},
+{
+"column": 1,
+"x0": 0.12644,
+"x1": 0.37766,
+"y0": 0.20591,
+"y1": 0.22193,
+"text": "parish in co. Worcester, near Stour-",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.37931,
+"y0": 0.21852,
+"y1": 0.23625,
+"text": "port.  The Lancashire Astleys are",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.37849,
+"y0": 0.2325,
+"y1": 0.25023,
+"text": "all from the chapelry near Leigh",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.23581,
+"y0": 0.2492,
+"y1": 0.26216,
+"text": "in that county.",
+"conf": 1.0
+},
+{
+"column": 1,
+"x0": 0.14083,
+"x1": 0.36492,
+"y0": 0.26352,
+"y1": 0.28057,
+"text": "John de Astleye, co. Salop, 1273: . A.",
+"conf": 0.982
+},
+{
+"column": 1,
+"x0": 0.14124,
+"x1": 0.3604,
+"y0": 0.27409,
+"y1": 0.28977,
+"text": "Richard de Astlegh, co. Salop, ibid.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.14083,
+"x1": 0.37931,
+"y0": 0.28523,
+"y1": 0.29955,
+"text": "William de Astelegh, co. Lanc., 1332 :",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12767,
+"x1": 0.31064,
+"y0": 0.29716,
+"y1": 0.31011,
+"text": "Lay Subsidy (Rylands), p. 10.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.13918,
+"x1": 0.37684,
+"y0": 0.30534,
+"y1": 0.32068,
+"text": "George Astley, of Heywood, co. Lanc.,",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.37643,
+"y0": 0.31352,
+"y1": 0.33398,
+"text": "1573 : Wills at Chester (1545-1620), p. 8.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13959,
+"x1": 0.37808,
+"y0": 0.32682,
+"y1": 0.34182,
+"text": "Margaret Astley, of Dean, co. Lanc.,",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13959,
+"x1": 0.37972,
+"y0": 0.34557,
+"y1": 0.36364,
+"text": "1622. Richard Astley, co. Oxf, and",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.13014,
+"x1": 0.3789,
+"y0": 0.35682,
+"y1": 0.37284,
+"text": "Anne Gilborne :] Marriage Lic. (West.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.21977,
+"y0": 0.36977,
+"y1": 0.38375,
+"text": "minster), p. 28.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.14165,
+"x1": 0.37972,
+"y0": 0.37795,
+"y1": 0.39261,
+"text": "1762. Marricd--Alexander Dusser and",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12849,
+"x1": 0.3715,
+"y0": 0.3892,
+"y1": 0.40352,
+"text": "Sarah Astley : St. Gco. Han. Sq. i. 112.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.13959,
+"x1": 0.3789,
+"y0": 0.39977,
+"y1": 0.41477,
+"text": "London. '4: Manchester, 6; MDB.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.1289,
+"x1": 0.32503,
+"y0": 0.4117,
+"y1": 0.42398,
+"text": "(Lancashire), 2 ; Philadelphia, 2.",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.14535,
+"x1": 0.37273,
+"y0": 0.42977,
+"y1": 0.44511,
+"text": "Aston.-(1) Local, ‘of Aston",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.1289,
+"x1": 0.38013,
+"y0": 0.44375,
+"y1": 0.45943,
+"text": "or 'Ashton, 9.v. Bapt. ‘thc",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.12685,
+"x1": 0.38013,
+"y0": 0.4567,
+"y1": 0.47341,
+"text": "son of Astin, q.v. That Astin",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.12849,
+"x1": 0.37972,
+"y0": 0.47136,
+"y1": 0.485,
+"text": "became Aston is clear from t three",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12931,
+"x1": 0.32586,
+"y0": 0.48602,
+"y1": 0.4983,
+"text": "entries in the same village.",
+"conf": 0.979
+},
+{
+"column": 1,
+"x0": 0.14,
+"x1": 0.37931,
+"y0": 0.50125,
+"y1": 0.51864,
+"text": "Johannes Aystyn, 1379: P. T. Yorks.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.17084,
+"y0": 0.51591,
+"y1": 0.5275,
+"text": "P. 295.",
+"conf": 0.894
+},
+{
+"column": 1,
+"x0": 0.14042,
+"x1": 0.31393,
+"y0": 0.52273,
+"y1": 0.53841,
+"text": "Henricus Astyn, 1379 : ibid.",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.14206,
+"x1": 0.32051,
+"y0": 0.53398,
+"y1": 0.54898,
+"text": "Willelmus Aston, 1379 : ibid.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.14535,
+"x1": 0.37972,
+"y0": 0.55205,
+"y1": 0.56773,
+"text": "Atcheson,  Atchison. -- (1)",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12849,
+"x1": 0.37972,
+"y0": 0.56568,
+"y1": 0.58205,
+"text": "Bapt. ‘the son of Adam.' (2) Bapt.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13096,
+"x1": 0.38013,
+"y0": 0.58,
+"y1": 0.59295,
+"text": "'the son of Archibald '; v. Aitche-",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.12931,
+"x1": 0.24033,
+"y0": 0.59398,
+"y1": 0.60727,
+"text": "son and Adkin.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.14083,
+"x1": 0.38013,
+"y0": 0.60932,
+"y1": 0.62534,
+"text": "1734. Anne, d. of John Atchison : St. Jas.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12849,
+"x1": 0.24855,
+"y0": 0.62091,
+"y1": 0.63489,
+"text": "Clerkenwell,'i. 213.",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.14165,
+"x1": 0.38054,
+"y0": 0.6308,
+"y1": 0.6458,
+"text": "1748. Married -Matthew Bell and Mary",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.13055,
+"x1": 0.34107,
+"y0": 0.64273,
+"y1": 0.65466,
+"text": "Atchison : St. Geo. Han. Sq. i. 41.",
+"conf": 0.934
+},
+{
+"column": 1,
+"x0": 0.14124,
+"x1": 0.38054,
+"y0": 0.65193,
+"y1": 0.66659,
+"text": "1783. - John Hyatt and Efiz. Atchason :",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12931,
+"x1": 0.2025,
+"y0": 0.66352,
+"y1": 0.67682,
+"text": "ibid. p. 342.",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.14124,
+"x1": 0.34395,
+"y0": 0.67273,
+"y1": 0.68807,
+"text": "London, 2, 5 : Philadelphia, 7. 7.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.14741,
+"x1": 0.38095,
+"y0": 0.6925,
+"y1": 0.70477,
+"text": "Atfend.-Local, 'at the fen.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.13014,
+"x1": 0.38095,
+"y0": 0.70648,
+"y1": 0.71841,
+"text": "The finald in Atfend is excrescent ;",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.13055,
+"x1": 0.38178,
+"y0": 0.71898,
+"y1": 0.73398,
+"text": "cf. gownd for gown, or Simmonds",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.1289,
+"x1": 0.38137,
+"y0": 0.73227,
+"y1": 0.74693,
+"text": "for Simmons, or Hamond for Ha-",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.12972,
+"x1": 0.16632,
+"y0": 0.74898,
+"y1": 0.75989,
+"text": "mon,",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.14206,
+"x1": 0.38178,
+"y0": 0.76057,
+"y1": 0.77557,
+"text": "Isabella Ate Fenne, co. Oxf., 1273. A.",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.14453,
+"x1": 0.33202,
+"y0": 0.7725,
+"y1": 0.78443,
+"text": "Henry Atefen, co. Camb., ibid.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.14412,
+"x1": 0.33696,
+"y0": 0.78239,
+"y1": 0.79466,
+"text": "Walter Atefen, co. Camb., ibid.",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.14329,
+"x1": 0.38013,
+"y0": 0.79227,
+"y1": 0.80625,
+"text": "Thomas Atefen, vicar of Appleton, co.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.12808,
+"x1": 0.29173,
+"y0": 0.80318,
+"y1": 0.81648,
+"text": "-Norf., 1407: FF. vii. 332.",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.14329,
+"x1": 0.38219,
+"y0": 0.81273,
+"y1": 0.82602,
+"text": "1678. William Atfend and Elizabeth",
+"conf": 0.945
+},
+{
+"column": 1,
+"x0": 0.13096,
+"x1": 0.38054,
+"y0": 0.82432,
+"y1": 0.83727,
+"text": "Andrewes : Marriage Lic. (Westminster),",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.1289,
+"x1": 0.17208,
+"y0": 0.83557,
+"y1": 0.84852,
+"text": "P 285.",
+"conf": 0.915
+},
+{
+"column": 1,
+"x0": 0.1437,
+"x1": 0.38301,
+"y0": 0.84477,
+"y1": 0.85739,
+"text": "16ga. Francis Atfen and Ann Totthill :",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.13178,
+"x1": 0.35875,
+"y0": 0.85636,
+"y1": 0.86932,
+"text": "Marriage Alleg. (Canterbury), p. 229.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.14782,
+"x1": 0.38794,
+"y0": 0.8758,
+"y1": 0.89045,
+"text": "Atford.--Local, 'at the ford.'!",
+"conf": 0.95
+},
+{
+"column": 2,
+"x0": 0.50246,
+"x1": 0.52467,
+"y0": 0.09341,
+"y1": 0.10909,
+"text": "66",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38692,
+"x1": 0.63486,
+"y0": 0.12205,
+"y1": 0.13807,
+"text": "from residence thereby; cf. Att-",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38816,
+"x1": 0.52549,
+"y0": 0.13739,
+"y1": 0.15102,
+"text": "wood, Attwell, &c.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.40132,
+"x1": 0.58963,
+"y0": 0.1517,
+"y1": 0.16568,
+"text": "John Ate Forde, co. Oxf., 1?73.",
+"conf": 0.954
+},
+{
+"column": 2,
+"x0": 0.40132,
+"x1": 0.58799,
+"y0": 0.16125,
+"y1": 0.17557,
+"text": "Henry Ateforde,  co. Oxf., ibid.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.40008,
+"x1": 0.60361,
+"y0": 0.17148,
+"y1": 0.18682,
+"text": "Gillian Atteford, co. Camb., ibid.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.4009,
+"x1": 0.63692,
+"y0": 0.18239,
+"y1": 0.19636,
+"text": "1641. Bapt-Hannah, d. Robert At.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38734,
+"x1": 0.61102,
+"y0": 0.19295,
+"y1": 0.20761,
+"text": "ford : St. Dionis Backchurch, p. 106.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.40173,
+"x1": 0.63898,
+"y0": 0.2025,
+"y1": 0.2192,
+"text": "1673. John Atford and Mary Soaper :",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.38898,
+"x1": 0.60485,
+"y0": 0.21545,
+"y1": 0.22875,
+"text": "Marriage Lic. (Westminster), p. 45.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.40419,
+"x1": 0.63815,
+"y0": 0.23148,
+"y1": 0.24409,
+"text": "I cannot find any modern repre-",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38775,
+"x1": 0.63898,
+"y0": 0.24307,
+"y1": 0.25977,
+"text": "sentatives, but doubtless  some",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.3898,
+"x1": 0.42969,
+"y0": 0.26011,
+"y1": 0.2717,
+"text": "exist.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40584,
+"x1": 0.63528,
+"y0": 0.27636,
+"y1": 0.28966,
+"text": "Athawes.---Local, ' atte-haws,",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38939,
+"x1": 0.64062,
+"y0": 0.28966,
+"y1": 0.30398,
+"text": "from residence beside the haws ;",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38939,
+"x1": 0.63898,
+"y0": 0.30364,
+"y1": 0.31727,
+"text": "cf. Attwood, Attwoll, Athow, &c.,",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38898,
+"x1": 0.48643,
+"y0": 0.31795,
+"y1": 0.33091,
+"text": "and v. Hawe.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.40173,
+"x1": 0.64021,
+"y0": 0.33227,
+"y1": 0.34523,
+"text": "William Attchawse, vicar of South",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.38857,
+"x1": 0.62993,
+"y0": 0.34216,
+"y1": 0.35818,
+"text": "Walsham, co. Norf., 1379 : FF. xi. 143.",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.4009,
+"x1": 0.64144,
+"y0": 0.3517,
+"y1": 0.36807,
+"text": "1755. Marricd-Thomas Boucher and",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.38939,
+"x1": 0.6398,
+"y0": 0.36364,
+"y1": 0.37727,
+"text": "Ann Athawes, of Chiswick : St. Gco.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.3898,
+"x1": 0.47985,
+"y0": 0.37591,
+"y1": 0.38682,
+"text": "Han. Sq. i. 6o.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.4009,
+"x1": 0.60444,
+"y0": 0.38443,
+"y1": 0.39909,
+"text": "London, I ; MDB. (co. Essex), 1.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.40666,
+"x1": 0.63815,
+"y0": 0.40352,
+"y1": 0.41648,
+"text": "Atherly.--Local ; v. Adderley.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.40625,
+"x1": 0.64062,
+"y0": 0.42227,
+"y1": 0.43727,
+"text": "Atherton.--Local, ' of Ather.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.39062,
+"x1": 0.64227,
+"y0": 0.43693,
+"y1": 0.45159,
+"text": "ton, a( chapelry in the parish of",
+"conf": 0.903
+},
+{
+"column": 2,
+"x0": 0.39145,
+"x1": 0.64103,
+"y0": 0.45023,
+"y1": 0.46557,
+"text": "Leigh, co. Lanc. The Boston",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39021,
+"x1": 0.64185,
+"y0": 0.46352,
+"y1": 0.4792,
+"text": "Directory shows that the name",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.3898,
+"x1": 0.64062,
+"y0": 0.47716,
+"y1": 0.49216,
+"text": "crossed the Atlantic some genera-",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.39145,
+"x1": 0.46135,
+"y0": 0.49273,
+"y1": 0.50636,
+"text": "tions ago.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.39062,
+"x1": 0.64103,
+"y0": 0.51523,
+"y1": 0.53057,
+"text": "the ship Nathaniel for Boston ': Hotten's",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39021,
+"x1": 0.55551,
+"y0": 0.52784,
+"y1": 0.54148,
+"text": "Lists of Emigrants,_P. 349.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.40337,
+"x1": 0.64144,
+"y0": 0.53705,
+"y1": 0.5517,
+"text": "' In the reign of 'King John, Robert de",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.39145,
+"x1": 0.64144,
+"y0": 0.54761,
+"y1": 0.56159,
+"text": "Atherton served the ofice of sheriff for",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.39062,
+"x1": 0.64062,
+"y0": 0.55852,
+"y1": 0.57114,
+"text": "the county of Lancaster, and held Ather.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38939,
+"x1": 0.64185,
+"y0": 0.56807,
+"y1": 0.58205,
+"text": "ton of the Barons of Warington. His",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.39021,
+"x1": 0.64103,
+"y0": 0.57966,
+"y1": 0.59193,
+"text": "son William de Atherton held this manor",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39186,
+"x1": 0.64062,
+"y0": 0.59091,
+"y1": 0.60318,
+"text": "by the tenth part of a Knight's fee,' &c. :",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39186,
+"x1": 0.52015,
+"y0": 0.60182,
+"y1": 0.61205,
+"text": "Baines' Lanc. ii. 201.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.40255,
+"x1": 0.64268,
+"y0": 0.60966,
+"y1": 0.625,
+"text": "Hugh de Atherton,, co. Lanc., 1332:",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.39062,
+"x1": 0.53742,
+"y0": 0.62159,
+"y1": 0.63455,
+"text": "Lay Subsidy (Rylands).",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.40173,
+"x1": 0.63898,
+"y0": 0.63011,
+"y1": 0.6458,
+"text": "Godfrey.Atherton,  of Bickersteth,",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.39021,
+"x1": 0.63939,
+"y0": 0.63898,
+"y1": 0.65909,
+"text": "1597 : Wills at Chester (1545-1620), p. 8.",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.4046,
+"x1": 0.64144,
+"y0": 0.66318,
+"y1": 0.67511,
+"text": "1662. Peter Shepherd 1  and  Christian",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.39268,
+"x1": 0.64021,
+"y0": 0.67409,
+"y1": 0.68602,
+"text": "Atherton : Marriage Lic. (W'estminster),",
+"conf": 0.986
+},
+{
+"column": 2,
+"x0": 0.53371,
+"x1": 0.64103,
+"y0": 0.69352,
+"y1": 0.70682,
+"text": " !; Manchester,",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.39227,
+"x1": 0.60444,
+"y0": 0.70307,
+"y1": 0.71977,
+"text": "15 : London, 9 ; Boston (U.S.), 20.",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.37541,
+"x1": 0.6398,
+"y0": 0.72,
+"y1": 0.73398,
+"text": "： Athow, Attoe, Atthow, Ato.",
+"conf": 0.824
+},
+{
+"column": 2,
+"x0": 0.41036,
+"x1": 0.63898,
+"y0": 0.73477,
+"y1": 0.74398,
+"text": "Local How",
+"conf": 0.793
+},
+{
+"column": 2,
+"x0": 0.39186,
+"x1": 0.64309,
+"y0": 0.74727,
+"y1": 0.76159,
+"text": "cf. Attwcll, Attwood, &c., for ‘at",
+"conf": 0.96
+},
+{
+"column": 2,
+"x0": 0.39062,
+"x1": 0.64309,
+"y0": 0.7592,
+"y1": 0.77625,
+"text": "the well,'' ‘at the' wood,' &c.",
+"conf": 0.931
+},
+{
+"column": 2,
+"x0": 0.39268,
+"x1": 0.64227,
+"y0": 0.7742,
+"y1": 0.78852,
+"text": "With the variant Attoe, cf. Hoo",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39186,
+"x1": 0.49136,
+"y0": 0.7892,
+"y1": 0.8025,
+"text": "and Hoe, q.v.",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.40419,
+"x1": 0.60937,
+"y0": 0.80284,
+"y1": 0.81784,
+"text": "Philip Atteho, co. Kent, 1273. A",
+"conf": 0.99
+},
+{
+"column": 2,
+"x0": 0.4046,
+"x1": 0.64185,
+"y0": 0.81273,
+"y1": 0.82841,
+"text": "William Attehow, co. Norf., 14 Edw. I :",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.39309,
+"x1": 0.46793,
+"y0": 0.82534,
+"y1": 0.83795,
+"text": "FF. vii. 195.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.40419,
+"x1": 0.64227,
+"y0": 0.83386,
+"y1": 0.8475,
+"text": "Thomas Attehow de Methwolde, vicar",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.39104,
+"x1": 0.63445,
+"y0": 0.84341,
+"y1": 0.85943,
+"text": "Of Griston, co. Norf., 1357 : ibid. i. 291.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.4046,
+"x1": 0.64062,
+"y0": 0.855,
+"y1": 0.86864,
+"text": "Francis'Athow, Visitation of Eeoex,",
+"conf": 0.937
+},
+{
+"column": 2,
+"x0": 0.39433,
+"x1": 0.46628,
+"y0": 0.86966,
+"y1": 0.87886,
+"text": "1541. p. 122.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.40502,
+"x1": 0.53865,
+"y0": 0.87443,
+"y1": 0.88943,
+"text": "Thomas Athow : ibid.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.69141,
+"x1": 0.86369,
+"y0": 0.09273,
+"y1": 0.10602,
+"text": "ATTENBOROUGH",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.66016,
+"x1": 0.89618,
+"y0": 0.12136,
+"y1": 0.13227,
+"text": "Clement Athow, rector of Bicham-well.",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.64741,
+"x1": 0.82422,
+"y0": 0.13227,
+"y1": 0.1442,
+"text": "co. Norf., 1623 : FF. vii. 296.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.66263,
+"x1": 0.89864,
+"y0": 0.14352,
+"y1": 0.16023,
+"text": "The Lincolnshire variant Ato,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.64824,
+"x1": 0.89741,
+"y0": 0.15989,
+"y1": 0.17318,
+"text": "although curious to look at, is per-",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.64865,
+"x1": 0.897,
+"y0": 0.17386,
+"y1": 0.18648,
+"text": "fectly plain as regards its parentage.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.66098,
+"x1": 0.89782,
+"y0": 0.1875,
+"y1": 0.20114,
+"text": "1694. Thomas Vincent and Dynah",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64947,
+"x1": 0.89741,
+"y0": 0.19841,
+"y1": 0.21239,
+"text": "Athow: Marriage Alleg. (Canterbury),",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.64741,
+"x1": 0.68894,
+"y0": 0.20864,
+"y1": 0.22261,
+"text": "P. 286.",
+"conf": 0.911
+},
+{
+"column": 3,
+"x0": 0.66057,
+"x1": 0.89659,
+"y0": 0.21852,
+"y1": 0.23386,
+"text": "MDB. (Sufolk), O. 1, 0, O; (Norfolk),",
+"conf": 0.882
+},
+{
+"column": 3,
+"x0": 0.64618,
+"x1": 0.89782,
+"y0": 0.22841,
+"y1": 0.24614,
+"text": "90 2, 0; (Lincoln), 0, 0, '0, 1; Philadel.",
+"conf": 0.849
+},
+{
+"column": 3,
+"x0": 0.64824,
+"x1": 0.74034,
+"y0": 0.24239,
+"y1": 0.255,
+"text": "phia, 2, 0, 0, 0.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.66468,
+"x1": 0.89988,
+"y0": 0.25466,
+"y1": 0.27102,
+"text": "Atkin, Atkns, Atkinson;",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.64988,
+"x1": 0.71855,
+"y0": 0.27034,
+"y1": 0.2833,
+"text": "v. Adkin.",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.66674,
+"x1": 0.89864,
+"y0": 0.2883,
+"y1": 0.30091,
+"text": "Atkirk, Achurch.--Local,' at",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.64988,
+"x1": 0.89864,
+"y0": 0.30159,
+"y1": 0.31455,
+"text": "the kirk' or ‘church,' from resi-",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64988,
+"x1": 0.89741,
+"y0": 0.31489,
+"y1": 0.32886,
+"text": "dence thercby ; v. Kirk and Church.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6507,
+"x1": 0.89741,
+"y0": 0.32852,
+"y1": 0.34216,
+"text": "Atkirk, unlike Attwood or Attwell,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64865,
+"x1": 0.9007,
+"y0": 0.34114,
+"y1": 0.35614,
+"text": "seems to have become extinct;",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.64947,
+"x1": 0.89782,
+"y0": 0.35545,
+"y1": 0.36875,
+"text": "but Achurch, abbreviated from",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.65111,
+"x1": 0.89782,
+"y0": 0.36807,
+"y1": 0.3817,
+"text": "Atte-Church, still  exists..' This,",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.64906,
+"x1": 0.89988,
+"y0": 0.38102,
+"y1": 0.39841,
+"text": "however, may represent Achurch,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.64947,
+"x1": 0.87849,
+"y0": 0.39636,
+"y1": 0.40966,
+"text": "8 township in co. Northampton.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.66263,
+"x1": 0.90029,
+"y0": 0.41,
+"y1": 0.42568,
+"text": "Robert Ate Church, co. Oxf, .1273. A.",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.66345,
+"x1": 0.86739,
+"y0": 0.42193,
+"y1": 0.4342,
+"text": "Emma Ate Cherch, co. Oxf., ibid.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66304,
+"x1": 0.88877,
+"y0": 0.43114,
+"y1": 0.4458,
+"text": "Robert Atte Chyrche, co. Norf., ibid.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.66263,
+"x1": 0.89946,
+"y0": 0.44239,
+"y1": 0.45568,
+"text": "John Attecherch, rectbr of Metton, co.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.65029,
+"x1": 0.81024,
+"y0": 0.45398,
+"y1": 0.46625,
+"text": "Norf., 1338 : FF. vili. 140.",
+"conf": 0.94
+},
+{
+"column": 3,
+"x0": 0.66263,
+"x1": 0.89864,
+"y0": 0.4625,
+"y1": 0.4775,
+"text": "William Attechirche, co. Norf., 29 Edw.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65029,
+"x1": 0.74856,
+"y0": 0.47511,
+"y1": 0.48568,
+"text": "I: ibid. vii., 114.",
+"conf": 0.921
+},
+{
+"column": 3,
+"x0": 0.66222,
+"x1": 0.89988,
+"y0": 0.4833,
+"y1": 0.49795,
+"text": "'Agnes. wyf to Pall Atkyrke, temp.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.6507,
+"x1": 0.89905,
+"y0": 0.49375,
+"y1": 0.50852,
+"text": "1520 ′: Visitation of Yorkshire, 1563,",
+"conf": 0.839
+},
+{
+"column": 3,
+"x0": 0.64947,
+"x1": 0.69141,
+"y0": 0.5058,
+"y1": 0.51875,
+"text": "p 164.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.66304,
+"x1": 0.79585,
+"y0": 0.51489,
+"y1": 0.5292,
+"text": "MDB. (Lincoln), 0, 1.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.66797,
+"x1": 0.89659,
+"y0": 0.53023,
+"y1": 0.54386,
+"text": "Atock, Attack Atack",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.65111,
+"x1": 0.89741,
+"y0": 0.54386,
+"y1": 0.55852,
+"text": "Attick. --Local, 'at the oak'; A.S.",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.65029,
+"x1": 0.89823,
+"y0": 0.5575,
+"y1": 0.57284,
+"text": "ac ; cf. Acton, Ackworth, Ackroyd,",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65029,
+"x1": 0.89864,
+"y0": 0.57148,
+"y1": 0.58614,
+"text": "acorm, &c., and v. Attwood, Att-",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.65152,
+"x1": 0.71731,
+"y0": 0.58682,
+"y1": 0.59909,
+"text": "well, &c.",
+"conf": 0.946
+},
+{
+"column": 3,
+"x0": 0.66345,
+"x1": 0.89988,
+"y0": 0.60011,
+"y1": 0.61477,
+"text": "Adam At the Ock, co. Salop, 1273. A.",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.66263,
+"x1": 0.9007,
+"y0": 0.61034,
+"y1": 0.62534,
+"text": "1709. Bapt.--Eliz., d. of Thomas Atack:",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64988,
+"x1": 0.816,
+"y0": 0.62159,
+"y1": 0.63523,
+"text": "St. Jas. Clerkenwell, i. 49.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.66468,
+"x1": 0.90029,
+"y0": 0.63216,
+"y1": 0.64477,
+"text": "1765. Married--Samuel Cooper  and",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.64947,
+"x1": 0.9007,
+"y0": 0.6417,
+"y1": 0.65636,
+"text": "Christian Attack: St. Geo. Han. Sq.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65029,
+"x1": 0.68853,
+"y0": 0.65534,
+"y1": 0.66659,
+"text": "i. 141.",
+"conf": 0.932
+},
+{
+"column": 3,
+"x0": 0.66222,
+"x1": 0.90152,
+"y0": 0.66148,
+"y1": 0.67818,
+"text": "1790. - Miles Atack and Eliz. Fryer:",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.6507,
+"x1": 0.71731,
+"y0": 0.67375,
+"y1": 0.68739,
+"text": "ibid.'ii. 39.",
+"conf": 0.935
+},
+{
+"column": 3,
+"x0": 0.66386,
+"x1": 0.90152,
+"y0": 0.68398,
+"y1": 0.69795,
+"text": "MDB. (Cambridge), 0, .1, :0, , O; West",
+"conf": 0.843
+},
+{
+"column": 3,
+"x0": 0.6507,
+"x1": 0.90234,
+"y0": 0.69318,
+"y1": 0.71091,
+"text": "Riding Court Dir., i, o,' o,' O; Philadel.",
+"conf": 0.921
+},
+{
+"column": 3,
+"x0": 0.65317,
+"x1": 0.74157,
+"y0": 0.70784,
+"y1": 0.71977,
+"text": "phia, 0, 0, 2, 2.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.66797,
+"x1": 0.89905,
+"y0": 0.72034,
+"y1": 0.73602,
+"text": "Attenborough, Atterbury.",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.65893,
+"x1": 0.90275,
+"y0": 0.73398,
+"y1": 0.75,
+"text": "(1) Local, ‘of Attenborough, a",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.65235,
+"x1": 0.90317,
+"y0": 0.74727,
+"y1": 0.76466,
+"text": "parish in co. Notts. : (2) Local,′ of",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.65235,
+"x1": 0.9007,
+"y0": 0.76057,
+"y1": 0.77795,
+"text": "Attleburgh,' a town in co. Norf.",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.65111,
+"x1": 0.90193,
+"y0": 0.77386,
+"y1": 0.79125,
+"text": "I have placed Attenborough and",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65194,
+"x1": 0.90152,
+"y0": 0.78818,
+"y1": 0.8042,
+"text": "Atterbury together, as they have",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.65235,
+"x1": 0.90234,
+"y0": 0.80011,
+"y1": 0.81784,
+"text": "probably become confused in the",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.6507,
+"x1": 0.90234,
+"y0": 0.81511,
+"y1": 0.8308,
+"text": "course of centuries. In any case",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65194,
+"x1": 0.90275,
+"y0": 0.82739,
+"y1": 0.84545,
+"text": "Atterbury represents the older",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.65317,
+"x1": 0.90152,
+"y0": 0.84068,
+"y1": 0.85739,
+"text": "Attleburgh. (3) Local, ‘at the",
+"conf": 0.898
+},
+{
+"column": 3,
+"x0": 0.65194,
+"x1": 0.86986,
+"y0": 0.85636,
+"y1": 0.87136,
+"text": "borough' or'bury'; v. Bury.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.66427,
+"x1": 0.89864,
+"y0": 0.87273,
+"y1": 0.88943,
+"text": "Walter:Aetebure, co. Kent, 1273.. A. :",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.69675,
+"x1": 0.9007,
+"y0": 0.91534,
+"y1": 0.94875,
+"text": "Digitized by Google",
+"conf": 0.992
+}
+]

@@ -1,0 +1,1712 @@
+[
+{
+"column": 1,
+"x0": 0.17086,
+"x1": 0.29505,
+"y0": 0.08727,
+"y1": 0.09955,
+"text": "APPLEDORE",
+"conf": 0.986
+},
+{
+"column": 1,
+"x0": 0.12233,
+"x1": 0.35714,
+"y0": 0.11455,
+"y1": 0.1258,
+"text": "1624 William  1 Browne and Rachel",
+"conf": 0.853
+},
+{
+"column": 1,
+"x0": 0.10712,
+"x1": 0.35673,
+"y0": 0.12409,
+"y1": 0.13841,
+"text": "Applcby: Marriage Lic.(London), ii. 147.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.35714,
+"y0": 0.13432,
+"y1": 0.14898,
+"text": "1775. William Norris and Sarah Appel",
+"conf": 0.949
+},
+{
+"column": 1,
+"x0": 0.1067,
+"x1": 0.28847,
+"y0": 0.14557,
+"y1": 0.1575,
+"text": "bee : 'St. Geo. Han. Sq. i. 258.",
+"conf": 0.961
+},
+{
+"column": 1,
+"x0": 0.11822,
+"x1": 0.35838,
+"y0": 0.15511,
+"y1": 0.17114,
+"text": "London, 20, 3, 1 ; Philadelphia, 2, 1, 0 ;",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.10629,
+"x1": 0.24076,
+"y0": 0.16466,
+"y1": 0.18102,
+"text": "Boston (U.S.) 7, 3, 0.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.12315,
+"x1": 0.35632,
+"y0": 0.17966,
+"y1": 0.19534,
+"text": "Appledore.-- Local, ‘ of Apple.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.10794,
+"x1": 0.35673,
+"y0": 0.19398,
+"y1": 0.20727,
+"text": "dore. Parishes in diocs. of Canter-",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.1067,
+"x1": 0.23418,
+"y0": 0.20727,
+"y1": 0.22193,
+"text": "bury and Exeter.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12027,
+"x1": 0.34851,
+"y0": 0.22125,
+"y1": 0.23523,
+"text": "William atte Apeldor, co. Soms.,",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.1067,
+"x1": 0.30574,
+"y0": 0.2308,
+"y1": 0.24648,
+"text": "Edw. 11I : Kirby's Quest, p. 277.",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.3518,
+"y0": 0.24205,
+"y1": 0.2567,
+"text": "Geofrey Apeldore, co. Oxf., i273. A.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.11904,
+"x1": 0.25063,
+"y0": 0.25193,
+"y1": 0.26591,
+"text": "Salcombe (Devon), 1.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.1248,
+"x1": 0.3555,
+"y0": 0.26693,
+"y1": 0.28125,
+"text": "Appleford.-- Local, ‘ of Apple-",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.10835,
+"x1": 0.3592,
+"y0": 0.2808,
+"y1": 0.29477,
+"text": "ford.' A chapelry in the parish of",
+"conf": 0.914
+},
+{
+"column": 1,
+"x0": 0.10712,
+"x1": 0.3115,
+"y0": 0.29341,
+"y1": 0.30943,
+"text": "Sutton Courtney, co. Berks.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.11904,
+"x1": 0.3555,
+"y0": 0.30739,
+"y1": 0.32375,
+"text": "Lacia de Apelforde, co. Camb.,1273. A.",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.12027,
+"x1": 0.34398,
+"y0": 0.31864,
+"y1": 0.3333,
+"text": "William de Appelford, co. Suff., ibid.",
+"conf": 0.984
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.35755,
+"y0": 0.33023,
+"y1": 0.34318,
+"text": "Pagan de eAppelford, co. Berks, 20",
+"conf": 0.972
+},
+{
+"column": 1,
+"x0": 0.10753,
+"x1": 0.18237,
+"y0": 0.34011,
+"y1": 0.35273,
+"text": "Edw. 1. R.",
+"conf": 0.902
+},
+{
+"column": 1,
+"x0": 0.11986,
+"x1": 0.35714,
+"y0": 0.3517,
+"y1": 0.36261,
+"text": "1630..1 Married-Roger Scrmtton and",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.10629,
+"x1": 0.35591,
+"y0": 0.36125,
+"y1": 0.3742,
+"text": "Marie Apleford : St. Dionis Backchurch,",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.1067,
+"x1": 0.1396,
+"y0": 0.3742,
+"y1": 0.38443,
+"text": "p. 23.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.12069,
+"x1": 0.35673,
+"y0": 0.38205,
+"y1": 0.395,
+"text": "1769. Benjamin Appleforde and Eliza-",
+"conf": 0.919
+},
+{
+"column": 1,
+"x0": 0.10547,
+"x1": 0.34316,
+"y0": 0.39023,
+"y1": 0.40761,
+"text": "beth Piggott : St. Geo. Han. Sq. i. 185.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.18854,
+"y0": 0.40318,
+"y1": 0.4158,
+"text": "London, I.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12274,
+"x1": 0.34974,
+"y0": 0.41784,
+"y1": 0.43216,
+"text": "Applegarth, Applegate. --",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.10588,
+"x1": 0.35385,
+"y0": 0.4308,
+"y1": 0.44716,
+"text": "Local, ‘ of the Apple-garth,' appl,",
+"conf": 0.931
+},
+{
+"column": 1,
+"x0": 0.10629,
+"x1": 0.35426,
+"y0": 0.44614,
+"y1": 0.45943,
+"text": "and garih, , an enclosure ; v. Apple.",
+"conf": 0.954
+},
+{
+"column": 1,
+"x0": 0.1067,
+"x1": 0.3555,
+"y0": 0.45807,
+"y1": 0.47307,
+"text": "yard. .‘Appelle-garth: pometum' :",
+"conf": 0.953
+},
+{
+"column": 1,
+"x0": 0.10588,
+"x1": 0.35714,
+"y0": 0.47136,
+"y1": 0.48636,
+"text": "Cath. Angl. This surname seems",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10465,
+"x1": 0.35591,
+"y0": 0.485,
+"y1": 0.5,
+"text": "now generally found as Applegate.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.11781,
+"x1": 0.29217,
+"y0": 0.49886,
+"y1": 0.51216,
+"text": "Geoffrey de Appelgarth. K.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.11781,
+"x1": 0.35467,
+"y0": 0.50818,
+"y1": 0.52386,
+"text": "Williain Aplegart, co. Norf. : FF. ii. 110.",
+"conf": 0.981
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.35467,
+"y0": 0.51966,
+"y1": 0.53364,
+"text": "Ralph de Apelgard, co. Bucks, 1273: A.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.11781,
+"x1": 0.34851,
+"y0": 0.52955,
+"y1": 0.54455,
+"text": "Robert del Apelgargh, co. York, ibid.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.35426,
+"y0": 0.54011,
+"y1": 0.55477,
+"text": "Ralph le (de) Apelgart, co. Buc ks, ibid.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.11945,
+"x1": 0.35385,
+"y0": 0.55136,
+"y1": 0.56466,
+"text": "Richard de Appe gart, temp. Stephen,",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.10506,
+"x1": 0.23295,
+"y0": 0.56023,
+"y1": 0.5742,
+"text": "co. Norf. : FF. y. 83.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.11822,
+"x1": 0.35632,
+"y0": 0.57148,
+"y1": 0.58511,
+"text": "Robert del Appelgarth, 1o Edw. 11 :",
+"conf": 0.968
+},
+{
+"column": 1,
+"x0": 0.10712,
+"x1": 0.24899,
+"y0": 0.58239,
+"y1": 0.59432,
+"text": "Freemen of York, i. i6.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.12151,
+"x1": 0.35673,
+"y0": 0.59432,
+"y1": 0.60932,
+"text": "This last is a second entry of a",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10588,
+"x1": 0.26791,
+"y0": 0.60932,
+"y1": 0.62091,
+"text": "name instanced above.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.11904,
+"x1": 0.35591,
+"y0": 0.62295,
+"y1": 0.63557,
+"text": "1769.  Married---Robert _Applcgate and",
+"conf": 0.935
+},
+{
+"column": 1,
+"x0": 0.10547,
+"x1": 0.34686,
+"y0": 0.63216,
+"y1": 0.64716,
+"text": "Mary' Crouch : St. Geo. Han. Sq. i. 18g.",
+"conf": 0.962
+},
+{
+"column": 1,
+"x0": 0.11698,
+"x1": 0.32465,
+"y0": 0.64239,
+"y1": 0.65875,
+"text": "London, 2, 6; Philadelphia, 0, 32.",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12274,
+"x1": 0.35632,
+"y0": 0.6567,
+"y1": 0.6717,
+"text": "Appleman.--Occup. 'a seller",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.10506,
+"x1": 0.35714,
+"y0": 0.66932,
+"y1": 0.68636,
+"text": "of apples'; cf. ‘apple-monger:",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10383,
+"x1": 0.28641,
+"y0": 0.68193,
+"y1": 0.70034,
+"text": "pomilius': Huloet, 1552.",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.11822,
+"x1": 0.35673,
+"y0": 0.69795,
+"y1": 0.71193,
+"text": "Nicholas Appelman : Close Roll, 16",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.10588,
+"x1": 0.20005,
+"y0": 0.70852,
+"y1": 0.72114,
+"text": "Edw. Ill, pt. i.",
+"conf": 0.933
+},
+{
+"column": 1,
+"x0": 0.11904,
+"x1": 0.21403,
+"y0": 0.71932,
+"y1": 0.73193,
+"text": "Philadelphia, 1.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.12356,
+"x1": 0.242,
+"y0": 0.73409,
+"y1": 0.74398,
+"text": "Applethwaite.",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.10547,
+"x1": 0.35509,
+"y0": 0.74557,
+"y1": 0.76295,
+"text": "Applewhite.--Local, ‘of Apple-",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.10588,
+"x1": 0.35426,
+"y0": 0.76023,
+"y1": 0.77523,
+"text": "thwaite,' a township in the parish",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.10506,
+"x1": 0.35467,
+"y0": 0.77386,
+"y1": 0.78852,
+"text": "of Windermere, co. Westmoreland.",
+"conf": 0.997
+},
+{
+"column": 1,
+"x0": 0.10506,
+"x1": 0.35632,
+"y0": 0.78614,
+"y1": 0.80318,
+"text": "With Applewhite, cf. Hebblewhite",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.10506,
+"x1": 0.24405,
+"y0": 0.80114,
+"y1": 0.81443,
+"text": "for Hebblethwaite.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.11781,
+"x1": 0.35591,
+"y0": 0.81477,
+"y1": 0.82875,
+"text": "1639. Married--Thomas Applewhaite",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.10506,
+"x1": 0.35385,
+"y0": 0.82568,
+"y1": 0.83966,
+"text": "and Mary Pead : St. Dionis Backchurch,",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.10712,
+"x1": 0.13796,
+"y0": 0.83966,
+"y1": 0.84818,
+"text": "p.24",
+"conf": 0.91
+},
+{
+"column": 1,
+"x0": 0.11863,
+"x1": 0.35467,
+"y0": 0.84477,
+"y1": 0.8608,
+"text": "1646. . Buried--Eliz. Applewhite : ibid.",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.10424,
+"x1": 0.14618,
+"y0": 0.85739,
+"y1": 0.87239,
+"text": "P. 225.",
+"conf": 0.899
+},
+{
+"column": 1,
+"x0": 0.15934,
+"x1": 0.36084,
+"y0": 0.86693,
+"y1": 0.88091,
+"text": "May the 6th. Dennis Burne, a ",
+"conf": 0.949
+},
+{
+"column": 2,
+"x0": 0.48443,
+"x1": 0.50499,
+"y0": 0.08591,
+"y1": 0.10057,
+"text": "57",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.36682,
+"x1": 0.61643,
+"y0": 0.11352,
+"y1": 0.12716,
+"text": "servant belonging to Mr. Henry, Apple.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.36764,
+"x1": 0.61684,
+"y0": 0.12477,
+"y1": 0.13739,
+"text": "white in the Ketch Proeperous 'for 'Vir.",
+"conf": 0.944
+},
+{
+"column": 2,
+"x0": 0.36682,
+"x1": 0.61725,
+"y0": 0.13466,
+"y1": 0.14932,
+"text": "ginia': Hotten's Lists of Emigrants, p. 352.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38368,
+"x1": 0.61561,
+"y0": 0.15068,
+"y1": 0.16568,
+"text": "Appleton.--Local, ‘of Apple.",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.3664,
+"x1": 0.61643,
+"y0": 0.16432,
+"y1": 0.17761,
+"text": "ton.' Parishes in diocs. of Norwich,",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.61849,
+"y0": 0.17727,
+"y1": 0.19295,
+"text": "Oxford, York (3), and Ripon. The",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.3664,
+"x1": 0.61561,
+"y0": 0.19193,
+"y1": 0.20659,
+"text": "meaning is obvious : appel or appil,",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.61849,
+"y0": 0.2042,
+"y1": 0.21989,
+"text": "apple, and ton, a town, an en-",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36723,
+"x1": 0.61561,
+"y0": 0.21955,
+"y1": 0.23182,
+"text": "closure ; cf. Appleyard and Apple-",
+"conf": 0.998
+},
+{
+"column": 2,
+"x0": 0.3664,
+"x1": 0.61643,
+"y0": 0.23182,
+"y1": 0.24648,
+"text": "garth. Many places would naturally",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.61849,
+"y0": 0.24443,
+"y1": 0.25977,
+"text": "acquire such a title. There are",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.36682,
+"x1": 0.61684,
+"y0": 0.25841,
+"y1": 0.27341,
+"text": "townships so called in cos. Lan-",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.36764,
+"x1": 0.50663,
+"y0": 0.27341,
+"y1": 0.28534,
+"text": "caster and Chester.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.56338,
+"x1": 0.61355,
+"y0": 0.28875,
+"y1": 0.30205,
+"text": "1273 A",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.37956,
+"x1": 0.59217,
+"y0": 0.29716,
+"y1": 0.31148,
+"text": "Wydo de Appelton, co. York, ibid.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.37792,
+"x1": 0.61808,
+"y0": 0.30636,
+"y1": 0.32375,
+"text": "Willelmus de Appilton, 1379: P. T.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36723,
+"x1": 0.45194,
+"y0": 0.31795,
+"y1": 0.33261,
+"text": "Yorks. p. 300.",
+"conf": 1.0
+},
+{
+"column": 2,
+"x0": 0.37915,
+"x1": 0.61561,
+"y0": 0.32852,
+"y1": 0.34216,
+"text": "Reginaid de Apulton, rector of Flitcham,",
+"conf": 0.984
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.54817,
+"y0": 0.33841,
+"y1": 0.35307,
+"text": "co. Norf., 1369 : FF. vii. 417.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.37997,
+"x1": 0.61684,
+"y0": 0.34932,
+"y1": 0.3633,
+"text": "W:lliam de' Appleton, rector of Titch-",
+"conf": 0.974
+},
+{
+"column": 2,
+"x0": 0.36558,
+"x1": 0.57243,
+"y0": 0.35818,
+"y1": 0.37455,
+"text": "well, co. Norf., 1376 : ibid. x. 397.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.37874,
+"x1": 0.61643,
+"y0": 0.37045,
+"y1": 0.38443,
+"text": "Mabel Apulton, Norwich, i456 : ibid.",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.36682,
+"x1": 0.41123,
+"y0": 0.38102,
+"y1": 0.39398,
+"text": "iv. 119.",
+"conf": 0.958
+},
+{
+"column": 2,
+"x0": 0.37956,
+"x1": 0.6152,
+"y0": 0.39159,
+"y1": 0.4042,
+"text": "1604.( Christopher Appleton and Mary",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.36517,
+"x1": 0.61602,
+"y0": 0.4008,
+"y1": 0.4158,
+"text": "Lovelasse : Marriage Lic. (W estminster).",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.3664,
+"x1": 0.40054,
+"y0": 0.41477,
+"y1": 0.42466,
+"text": "p. 14.",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.37956,
+"x1": 0.61561,
+"y0": 0.42125,
+"y1": 0.43557,
+"text": "1687. William_Appelton and Mary",
+"conf": 0.955
+},
+{
+"column": 2,
+"x0": 0.36517,
+"x1": 0.60985,
+"y0": 0.4308,
+"y1": 0.44716,
+"text": "Steele : Marriage Lic. (London), ii. 309.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.3771,
+"x1": 0.56338,
+"y0": 0.44205,
+"y1": 0.45739,
+"text": "London, 27 ; Philadelphia, 25.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.38203,
+"x1": 0.61684,
+"y0": 0.45841,
+"y1": 0.47341,
+"text": "Appletree.--(1) Local, ‘at the",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.36517,
+"x1": 0.61561,
+"y0": 0.47205,
+"y1": 0.48705,
+"text": "apple-tree' ; cf. Plumptree, Rown-",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.40712,
+"x1": 0.47209,
+"y0": 0.49136,
+"y1": 0.49818,
+"text": "Crabtree,",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.38162,
+"x1": 0.61766,
+"y0": 0.49864,
+"y1": 0.51398,
+"text": "(2) Local,'of Appletree, a hamlet",
+"conf": 0.963
+},
+{
+"column": 2,
+"x0": 0.36435,
+"x1": 0.61643,
+"y0": 0.5125,
+"y1": 0.5275,
+"text": "in co. Northampton, seven miles",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36517,
+"x1": 0.61561,
+"y0": 0.5258,
+"y1": 0.54045,
+"text": "from Banbury. Ofcourse the origin",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.36476,
+"x1": 0.45112,
+"y0": 0.53977,
+"y1": 0.55273,
+"text": "is the same.",
+"conf": 0.956
+},
+{
+"column": 2,
+"x0": 0.37874,
+"x1": 0.6152,
+"y0": 0.55511,
+"y1": 0.56773,
+"text": "1548-9. Simon Appultre and Agnes",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36558,
+"x1": 0.61437,
+"y0": 0.565,
+"y1": 0.57932,
+"text": "Rudyck': Marringe Lic. (Faculty Ofice),",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.36517,
+"x1": 0.3993,
+"y0": 0.5783,
+"y1": 0.59125,
+"text": "p. 14:",
+"conf": 0.929
+},
+{
+"column": 2,
+"x0": 0.37956,
+"x1": 0.61437,
+"y0": 0.5858,
+"y1": 0.59875,
+"text": "1611-2. John   Appietree and Susan",
+"conf": 0.898
+},
+{
+"column": 2,
+"x0": 0.36558,
+"x1": 0.61273,
+"y0": 0.59636,
+"y1": 0.60898,
+"text": "Hodges: Marriage Lic. (London), ii. 11.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.37833,
+"x1": 0.61602,
+"y0": 0.60659,
+"y1": 0.61989,
+"text": "3730. Married-—John Appletrec and Ann",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.36558,
+"x1": 0.60862,
+"y0": 0.61682,
+"y1": 0.63045,
+"text": "Wytch.: St. Geo. Chap. Mayfair, P. 309.",
+"conf": 0.983
+},
+{
+"column": 2,
+"x0": 0.37874,
+"x1": 0.61602,
+"y0": 0.62705,
+"y1": 0.6417,
+"text": "MDB. (Northampton), 1 ; (Oxford), 2 ;",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.45975,
+"y0": 0.63795,
+"y1": 0.65125,
+"text": "Philadeiphia, 2.",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.38285,
+"x1": 0.61602,
+"y0": 0.6533,
+"y1": 0.66795,
+"text": "Appleyard. -- Local, ‘of the",
+"conf": 0.924
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.61396,
+"y0": 0.66795,
+"y1": 0.68227,
+"text": "Appleyard, from applu, and yard,",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.36558,
+"x1": 0.61396,
+"y0": 0.68193,
+"y1": 0.69489,
+"text": "or garth, an enclosure, an orchard.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.36764,
+"x1": 0.61437,
+"y0": 0.6942,
+"y1": 0.7092,
+"text": " Appullyerde, or gardeyne, or",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.3664,
+"x1": 0.61314,
+"y0": 0.70875,
+"y1": 0.72239,
+"text": "orcherde :  Prompt.",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.36599,
+"x1": 0.61479,
+"y0": 0.72148,
+"y1": 0.73443,
+"text": "Parv.  Evidently a familiar word",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.36558,
+"x1": 0.61479,
+"y0": 0.73432,
+"y1": 0.74898,
+"text": "all over the kingdom for an orchard ;",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.36682,
+"x1": 0.47332,
+"y0": 0.74898,
+"y1": 0.76125,
+"text": "cf. Applegarth.",
+"conf": 0.999
+},
+{
+"column": 2,
+"x0": 0.37751,
+"x1": 0.61479,
+"y0": 0.7633,
+"y1": 0.77693,
+"text": "Nicholas de Apelyerd, co. Norf., 1273. A.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.37833,
+"x1": 0.61479,
+"y0": 0.77386,
+"y1": 0.78648,
+"text": "Adam del Appilyerd, 1379: P. T. Yorks.",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.36476,
+"x1": 0.40506,
+"y0": 0.78648,
+"y1": 0.79705,
+"text": "P. 194.",
+"conf": 0.923
+},
+{
+"column": 2,
+"x0": 0.3771,
+"x1": 0.54241,
+"y0": 0.79364,
+"y1": 0.8083,
+"text": "Magota de Appilyerd. ibid.",
+"conf": 0.966
+},
+{
+"column": 2,
+"x0": 0.37792,
+"x1": 0.56955,
+"y0": 0.80386,
+"y1": 0.81852,
+"text": "Alicia del Apelyerd, ibid. p. 91.",
+"conf": 0.965
+},
+{
+"column": 2,
+"x0": 0.37792,
+"x1": 0.6152,
+"y0": 0.8158,
+"y1": 0.82807,
+"text": "Bartholomew de Appilyerd, burgess for",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.36394,
+"x1": 0.58353,
+"y0": 0.82466,
+"y1": 0.83932,
+"text": "Norwich, 49 Edw. 1ll : FF. ili. 1oi.",
+"conf": 0.932
+},
+{
+"column": 2,
+"x0": 0.37668,
+"x1": 0.61602,
+"y0": 0.83557,
+"y1": 0.8492,
+"text": "William'de Appilyerd, bailiff of Nor-",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.36476,
+"x1": 0.50992,
+"y0": 0.84614,
+"y1": 0.86011,
+"text": "wich, 1386: ibid.' p. i16.",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.37668,
+"x1": 0.61479,
+"y0": 0.85636,
+"y1": 0.87102,
+"text": "Thomas Appleyeard, temp. Eliz. ZZ.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.36311,
+"x1": 0.4285,
+"y0": 0.86795,
+"y1": 0.88023,
+"text": "(v. Index.)",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.68982,
+"x1": 0.81889,
+"y0": 0.08727,
+"y1": 0.10023,
+"text": "ARBUTHNOT",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.64172,
+"x1": 0.87686,
+"y0": 0.11455,
+"y1": 0.12682,
+"text": "162g. Leonard Slater and Grace Aple",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.62733,
+"x1": 0.87727,
+"y0": 0.12443,
+"y1": 0.13977,
+"text": "yard : Marriage. Lic. (Westminster), p. 33;",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.6409,
+"x1": 0.87768,
+"y0": 0.13568,
+"y1": 0.14761,
+"text": "176o. Married-—Jonathan Dadford and",
+"conf": 0.968
+},
+{
+"column": 3,
+"x0": 0.62898,
+"x1": 0.87562,
+"y0": 0.14489,
+"y1": 0.15989,
+"text": "Ann Appleyard : St. Geo. Han. Sq. i. 92.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.63925,
+"x1": 0.87686,
+"y0": 0.15511,
+"y1": 0.17045,
+"text": "London,'8; West Riding Court Dir.,",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62857,
+"x1": 0.75723,
+"y0": 0.16602,
+"y1": 0.18,
+"text": "16 ; Boston (U.S.), 2.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64378,
+"x1": 0.78108,
+"y0": 0.18409,
+"y1": 0.19909,
+"text": "Applin ; v. Aplin.",
+"conf": 0.991
+},
+{
+"column": 3,
+"x0": 0.64378,
+"x1": 0.87686,
+"y0": 0.20182,
+"y1": 0.21818,
+"text": "Apps.--Bapt. ' the son of Abra-",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.62774,
+"x1": 0.87645,
+"y0": 0.21682,
+"y1": 0.23011,
+"text": "ham,' or 'Abel,' from the nick. Abb,",
+"conf": 0.958
+},
+{
+"column": 3,
+"x0": 0.62857,
+"x1": 0.87768,
+"y0": 0.23045,
+"y1": 0.24443,
+"text": "sharpened to App; cf. Epps for",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62774,
+"x1": 0.87727,
+"y0": 0.24239,
+"y1": 0.25841,
+"text": "Ebbs, Hopkins for Hobkins, Hopps",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62815,
+"x1": 0.87603,
+"y0": 0.25739,
+"y1": 0.27,
+"text": "for Hobbs, &c. F But it is only fair to",
+"conf": 0.913
+},
+{
+"column": 3,
+"x0": 0.62815,
+"x1": 0.87768,
+"y0": 0.27136,
+"y1": 0.28466,
+"text": "suggest that App may have been the",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62733,
+"x1": 0.87768,
+"y0": 0.28364,
+"y1": 0.29898,
+"text": "nick. for the 13th century popular",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.62733,
+"x1": 0.87645,
+"y0": 0.29682,
+"y1": 0.31216,
+"text": "name of Apsalon (Absolom). Apps",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.62733,
+"x1": 0.87891,
+"y0": 0.31011,
+"y1": 0.32511,
+"text": "would then be the patronymic.  1",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62692,
+"x1": 0.87686,
+"y0": 0.32443,
+"y1": 0.33773,
+"text": "have no cvidence for this, and",
+"conf": 0.931
+},
+{
+"column": 3,
+"x0": 0.62815,
+"x1": 0.87727,
+"y0": 0.33773,
+"y1": 0.35102,
+"text": "merely throw it out for considera-",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62815,
+"x1": 0.8785,
+"y0": 0.3517,
+"y1": 0.36364,
+"text": "tion. There can be no doubt that if",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62815,
+"x1": 0.87645,
+"y0": 0.36432,
+"y1": 0.37898,
+"text": "Apsalon be cast aside, then Apps",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.87645,
+"y0": 0.37761,
+"y1": 0.39227,
+"text": "stands for Abbs, q.v.--Since writ-",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.87768,
+"y0": 0.39159,
+"y1": 0.40557,
+"text": "ing the above I have come across",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.6261,
+"x1": 0.77573,
+"y0": 0.40455,
+"y1": 0.41989,
+"text": "the following entry :",
+"conf": 0.937
+},
+{
+"column": 3,
+"x0": 0.63884,
+"x1": 0.87603,
+"y0": 0.42057,
+"y1": 0.43216,
+"text": "Thomas atte Apoe, co. Soms., I Edw.",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.7893,
+"y0": 0.43011,
+"y1": 0.44545,
+"text": "Ill : Kirby's Quest, p. 174.",
+"conf": 0.93
+},
+{
+"column": 3,
+"x0": 0.64213,
+"x1": 0.87686,
+"y0": 0.44341,
+"y1": 0.45841,
+"text": "This, of course, is a local sur-",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6261,
+"x1": 0.87603,
+"y0": 0.45875,
+"y1": 0.47102,
+"text": "name, and may share in the parent-",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.87809,
+"y0": 0.47068,
+"y1": 0.48602,
+"text": "age of Apps.  This would be by",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.62692,
+"x1": 0.87768,
+"y0": 0.48466,
+"y1": 0.49795,
+"text": "residence  beside  thc apse of a",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.62733,
+"x1": 0.85342,
+"y0": 0.4975,
+"y1": 0.51216,
+"text": "church ; cf. Galilee, Porch, &c.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.63843,
+"x1": 0.87727,
+"y0": 0.51182,
+"y1": 0.5275,
+"text": "1658. Baried-Mary, d. Thomas Ape :",
+"conf": 0.969
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.79916,
+"y0": 0.52307,
+"y1": 0.53705,
+"text": "St. Jaa. Clerkenwell, iv. 322.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.63802,
+"x1": 0.87645,
+"y0": 0.53295,
+"y1": 0.5483,
+"text": "1694. Bapt.--Thomas, 8. Bodwinc Apps:",
+"conf": 0.962
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.6931,
+"y0": 0.54386,
+"y1": 0.5592,
+"text": "ibid. i. 357:",
+"conf": 0.952
+},
+{
+"column": 3,
+"x0": 0.63884,
+"x1": 0.87686,
+"y0": 0.55477,
+"y1": 0.56739,
+"text": "1787.Married --Thomas Barker and",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.84973,
+"y0": 0.56432,
+"y1": 0.57864,
+"text": "Eliz. Appe : St. Geo. Han. Sq. i. 402.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.6372,
+"x1": 0.70708,
+"y0": 0.57557,
+"y1": 0.58886,
+"text": "London, 8.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.64213,
+"x1": 0.8748,
+"y0": 0.5933,
+"y1": 0.60591,
+"text": "Arbuckle, Arbuckel.--Local,",
+"conf": 0.977
+},
+{
+"column": 3,
+"x0": 0.62404,
+"x1": 0.87645,
+"y0": 0.60625,
+"y1": 0.62159,
+"text": "a corruption of Harbottle, q.v.; and",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.8748,
+"y0": 0.61955,
+"y1": 0.63455,
+"text": "found, like Harbottle, in the neigh-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.87603,
+"y0": 0.63455,
+"y1": 0.64682,
+"text": "bourhood of that place. This sur-",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.87603,
+"y0": 0.64648,
+"y1": 0.6608,
+"text": "name has crossed the Atlantic, and",
+"conf": 0.988
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.87151,
+"y0": 0.6608,
+"y1": 0.67477,
+"text": "is spreading in the United States.",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.6372,
+"x1": 0.85219,
+"y0": 0.67545,
+"y1": 0.68977,
+"text": "Newcastle, 2, O ; Philadelphia, 9, 2.",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.64172,
+"x1": 0.87233,
+"y0": 0.69386,
+"y1": 0.70648,
+"text": "Arbuthnot, Arbuthnott.--",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.6261,
+"x1": 0.87562,
+"y0": 0.70784,
+"y1": 0.72011,
+"text": "Local, ‘ of Arbuthnot,'‘a parish inl",
+"conf": 0.945
+},
+{
+"column": 3,
+"x0": 0.6261,
+"x1": 0.87645,
+"y0": 0.72034,
+"y1": 0.73432,
+"text": "Kincardineshire. The first of the",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.62651,
+"x1": 0.87192,
+"y0": 0.73409,
+"y1": 0.74466,
+"text": "family was Hugh de Arburbothe.",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.87686,
+"y0": 0.74761,
+"y1": 0.76125,
+"text": "noth, who assumed his surname",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.87562,
+"y0": 0.76091,
+"y1": 0.77386,
+"text": "from the lands which he acquired",
+"conf": 0.994
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.87645,
+"y0": 0.77557,
+"y1": 0.7875,
+"text": "in 11o5 with the daughter of Osbert",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.62692,
+"x1": 0.87603,
+"y0": 0.78852,
+"y1": 0.8008,
+"text": "Olifard, and on which his descen-",
+"conf": 0.992
+},
+{
+"column": 3,
+"x0": 0.62528,
+"x1": 0.87603,
+"y0": 0.80182,
+"y1": 0.81409,
+"text": "dants have resided for more than",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.62487,
+"x1": 0.87645,
+"y0": 0.81443,
+"y1": 0.82943,
+"text": "twenty generations' : Lowcr's Pat.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.62569,
+"x1": 0.70503,
+"y0": 0.82841,
+"y1": 0.84341,
+"text": "Brit. p. 1o.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.63802,
+"x1": 0.87316,
+"y0": 0.8458,
+"y1": 0.86011,
+"text": "1752. Married--Robert and Ann Ar.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.62445,
+"x1": 0.87233,
+"y0": 0.85602,
+"y1": 0.87,
+"text": "buthnot (sic) : St. Geo. Chap. Mayfair,",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.62281,
+"x1": 0.66515,
+"y0": 0.86932,
+"y1": 0.88091,
+"text": "p. 219.",
+"conf": 0.947
+},
+{
+"column": 3,
+"x0": 0.69722,
+"x1": 0.88056,
+"y0": 0.91568,
+"y1": 0.94739,
+"text": "Digitized by Googl",
+"conf": 0.902
+}
+]

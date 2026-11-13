@@ -7,3 +7,4 @@ source/djvu.txt
 __pycache__/
 .claude/
 data/review.csv
+data/review_*.csv

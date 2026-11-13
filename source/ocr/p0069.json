@@ -1,0 +1,1793 @@
+[
+{
+"column": 1,
+"x0": 0.19729,
+"x1": 0.29429,
+"y0": 0.06443,
+"y1": 0.07568,
+"text": "AVELING",
+"conf": 0.833
+},
+{
+"column": 1,
+"x0": 0.13235,
+"x1": 0.37032,
+"y0": 0.0917,
+"y1": 0.10705,
+"text": "Simon Auty et Johanna uxor ejus,",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.27333,
+"y0": 0.10398,
+"y1": 0.11625,
+"text": "1379: P. T. Yorks. P. 72.",
+"conf": 0.957
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.30333,
+"y0": 0.1125,
+"y1": 0.12716,
+"text": "Robertus Auty: ibid. p. 73.",
+"conf": 0.994
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.25154,
+"y0": 0.12341,
+"y1": 0.13636,
+"text": "Cecilia Auty : ibid.",
+"conf": 0.943
+},
+{
+"column": 1,
+"x0": 0.13481,
+"x1": 0.37115,
+"y0": 0.13432,
+"y1": 0.14659,
+"text": "George Autie, of Lydiate, 1596 : Wills",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.1192,
+"x1": 0.29141,
+"y0": 0.14352,
+"y1": 0.15955,
+"text": "at Chester (1545-1620), p. 8.",
+"conf": 0.97
+},
+{
+"column": 1,
+"x0": 0.13481,
+"x1": 0.36991,
+"y0": 0.15443,
+"y1": 0.16773,
+"text": "1784 Marricd-- John Baldwin and Eliz.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.31443,
+"y0": 0.16432,
+"y1": 0.17898,
+"text": "Auty : St. Geo. Han. Sg. i. 363.",
+"conf": 0.987
+},
+{
+"column": 1,
+"x0": 0.13317,
+"x1": 0.37197,
+"y0": 0.17489,
+"y1": 0.19023,
+"text": "West Riding Court Dir., 4, I ; Boston",
+"conf": 0.983
+},
+{
+"column": 1,
+"x0": 0.12207,
+"x1": 0.19277,
+"y0": 0.18648,
+"y1": 0.20045,
+"text": "(U.S.), 2, 0.",
+"conf": 0.977
+},
+{
+"column": 1,
+"x0": 0.13687,
+"x1": 0.37156,
+"y0": 0.20216,
+"y1": 0.2158,
+"text": "Aveling.—Bapt. ‘the son of",
+"conf": 0.956
+},
+{
+"column": 1,
+"x0": 0.12248,
+"x1": 0.37238,
+"y0": 0.21511,
+"y1": 0.23182,
+"text": "Aveline'; v. Eveline. The g in",
+"conf": 0.988
+},
+{
+"column": 1,
+"x0": 0.12248,
+"x1": 0.36991,
+"y0": 0.22977,
+"y1": 0.24375,
+"text": "Aveling is, of coursc, excrescent,",
+"conf": 0.969
+},
+{
+"column": 1,
+"x0": 0.12166,
+"x1": 0.23017,
+"y0": 0.24307,
+"y1": 0.25739,
+"text": "as in Jennings.",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.13481,
+"x1": 0.23264,
+"y0": 0.25875,
+"y1": 0.26898,
+"text": "Arelina le Gros.",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.23798,
+"y0": 0.26693,
+"y1": 0.28125,
+"text": "Avelina de Leys.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.3695,
+"y0": 0.27875,
+"y1": 0.29136,
+"text": "Avelina (without surname), co. Suff.,",
+"conf": 0.951
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.1792,
+"y0": 0.28909,
+"y1": 0.30273,
+"text": "1273... A.",
+"conf": 0.876
+},
+{
+"column": 1,
+"x0": 0.1344,
+"x1": 0.33909,
+"y0": 0.29648,
+"y1": 0.31386,
+"text": "W'illian Avelinc, co. Camb., ibid.",
+"conf": 0.959
+},
+{
+"column": 1,
+"x0": 0.1344,
+"x1": 0.36868,
+"y0": 0.30943,
+"y1": 0.32341,
+"text": "Thormas Kyng ct Avelyn uxor e ejus,",
+"conf": 0.899
+},
+{
+"column": 1,
+"x0": 0.12166,
+"x1": 0.28072,
+"y0": 0.32,
+"y1": 0.33432,
+"text": "1379 : P. T. Yorks. p. 127.",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.37156,
+"y0": 0.32989,
+"y1": 0.34489,
+"text": "Avelina Batayl, co. Norf., temp. 1430:",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.12207,
+"x1": 0.1903,
+"y0": 0.34148,
+"y1": 0.35341,
+"text": "FF. x. 342.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.1344,
+"x1": 0.37115,
+"y0": 0.35102,
+"y1": 0.36398,
+"text": "Andrew Avelyn, rector of Swanton-",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.33909,
+"y0": 0.36091,
+"y1": 0.37625,
+"text": "Morley, co. Nori., 1489 : ibid. x. 57.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13112,
+"x1": 0.37238,
+"y0": 0.37148,
+"y1": 0.38614,
+"text": " John' Avelyn, vicar' of Tibenhaun, co.",
+"conf": 0.95
+},
+{
+"column": 1,
+"x0": 0.12166,
+"x1": 0.27168,
+"y0": 0.38239,
+"y1": 0.39636,
+"text": "Norf., 1503 : ibid. v. 278.",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.1381,
+"x1": 0.36991,
+"y0": 0.39875,
+"y1": 0.41034,
+"text": "Aveline is found both in the 16th",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12084,
+"x1": 0.3695,
+"y0": 0.4117,
+"y1": 0.42568,
+"text": "and i7th centuries as a font-name.",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.13481,
+"x1": 0.37074,
+"y0": 0.42807,
+"y1": 0.43966,
+"text": "1575. Tremor Harvye_and Aveline",
+"conf": 0.93
+},
+{
+"column": 1,
+"x0": 0.12084,
+"x1": 0.37032,
+"y0": 0.43727,
+"y1": 0.45023,
+"text": "Baldwyn : Marriage Lic. (London), i. 66.",
+"conf": 0.991
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.37074,
+"y0": 0.44818,
+"y1": 0.45977,
+"text": "1661-2. Samuel Temmatt and Avelin",
+"conf": 0.975
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.37115,
+"y0": 0.45705,
+"y1": 0.47307,
+"text": "Bateman, co. Berks: Marriage Alleg.",
+"conf": 0.99
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.24168,
+"y0": 0.46864,
+"y1": 0.48261,
+"text": "(Canterbury), p. 66.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.13194,
+"x1": 0.37115,
+"y0": 0.47784,
+"y1": 0.49352,
+"text": "1708. Sainucl Aveline and Eliz. George.",
+"conf": 0.964
+},
+{
+"column": 1,
+"x0": 0.1192,
+"x1": 0.37156,
+"y0": 0.48773,
+"y1": 0.50443,
+"text": "Laroche : Marriage Lic. (London), ii. 337.",
+"conf": 0.985
+},
+{
+"column": 1,
+"x0": 0.13153,
+"x1": 0.37074,
+"y0": 0.49818,
+"y1": 0.51386,
+"text": "London, 3 : Boston (U.S.), 2 ; MDB.",
+"conf": 0.947
+},
+{
+"column": 1,
+"x0": 0.12084,
+"x1": 0.21661,
+"y0": 0.50977,
+"y1": 0.52375,
+"text": "(Cambridge), 7.",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.13851,
+"x1": 0.36128,
+"y0": 0.5258,
+"y1": 0.53977,
+"text": "Avenell, Averell, Averill.-",
+"conf": 0.965
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.36991,
+"y0": 0.53705,
+"y1": 0.55614,
+"text": "? Bapt. .'the son of 'Avenel' (?).",
+"conf": 0.923
+},
+{
+"column": 1,
+"x0": 0.12248,
+"x1": 0.3658,
+"y0": 0.55375,
+"y1": 0.56739,
+"text": "Always without prefix in the Hun",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.1229,
+"x1": 0.37156,
+"y0": 0.5667,
+"y1": 0.58102,
+"text": "dred Rolls, whose instances are",
+"conf": 0.998
+},
+{
+"column": 1,
+"x0": 0.12002,
+"x1": 0.37197,
+"y0": 0.57966,
+"y1": 0.595,
+"text": "generally in the neighbourhood of",
+"conf": 0.999
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.37115,
+"y0": 0.59364,
+"y1": 0.60966,
+"text": "co. Camb.1 Mr. Lower suggests a",
+"conf": 0.971
+},
+{
+"column": 1,
+"x0": 0.11879,
+"x1": 0.37156,
+"y0": 0.60659,
+"y1": 0.62227,
+"text": "local origin from Avenelles, in the",
+"conf": 0.993
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.37032,
+"y0": 0.62091,
+"y1": 0.63625,
+"text": "department of Eure. This is quite",
+"conf": 0.996
+},
+{
+"column": 1,
+"x0": 0.11879,
+"x1": 0.37115,
+"y0": 0.63318,
+"y1": 0.64989,
+"text": "possible; one thing seems quite",
+"conf": 0.992
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.37115,
+"y0": 0.6475,
+"y1": 0.66182,
+"text": "ccrtain, the chicf modern variant is",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.12125,
+"x1": 0.37074,
+"y0": 0.66114,
+"y1": 0.67648,
+"text": "Averill or Averell. Any one who",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12002,
+"x1": 0.37074,
+"y0": 0.67375,
+"y1": 0.68943,
+"text": "has studied the corruptions under-",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.37074,
+"y0": 0.68739,
+"y1": 0.70273,
+"text": "gone by surnames will feel no sur.",
+"conf": 0.974
+},
+{
+"column": 1,
+"x0": 0.12002,
+"x1": 0.21167,
+"y0": 0.70136,
+"y1": 0.715,
+"text": "prise at this.",
+"conf": 0.976
+},
+{
+"column": 1,
+"x0": 0.13358,
+"x1": 0.31607,
+"y0": 0.71534,
+"y1": 0.73136,
+"text": "John Avenel, co. Camb., 1273.",
+"conf": 0.989
+},
+{
+"column": 1,
+"x0": 0.1344,
+"x1": 0.31196,
+"y0": 0.72761,
+"y1": 0.74023,
+"text": "Ralph Avenel, co. Norf., ibid.",
+"conf": 0.966
+},
+{
+"column": 1,
+"x0": 0.13276,
+"x1": 0.30538,
+"y0": 0.73773,
+"y1": 0.75,
+"text": "Elena Avenel, co. Oxf, ibid.",
+"conf": 0.958
+},
+{
+"column": 1,
+"x0": 0.13153,
+"x1": 0.36827,
+"y0": 0.74659,
+"y1": 0.76193,
+"text": "1626. Richard Treat and Mary Arerill,",
+"conf": 0.98
+},
+{
+"column": 1,
+"x0": 0.11961,
+"x1": 0.36909,
+"y0": 0.7575,
+"y1": 0.77352,
+"text": "d. William Averell (sic) : Marriage Lic.",
+"conf": 0.955
+},
+{
+"column": 1,
+"x0": 0.12043,
+"x1": 0.22359,
+"y0": 0.76909,
+"y1": 0.78136,
+"text": "(London), ii. 178",
+"conf": 0.995
+},
+{
+"column": 1,
+"x0": 0.13194,
+"x1": 0.36991,
+"y0": 0.77898,
+"y1": 0.79295,
+"text": "1664. Bapt.—Ann, d. Gcorgc Averill :",
+"conf": 0.96
+},
+{
+"column": 1,
+"x0": 0.12002,
+"x1": 0.28607,
+"y0": 0.78955,
+"y1": 0.80284,
+"text": "St. Jas. Clerkenwell, i. 221.",
+"conf": 0.978
+},
+{
+"column": 1,
+"x0": 0.1307,
+"x1": 0.37074,
+"y0": 0.79909,
+"y1": 0.81648,
+"text": "London, 3, O, 0; Boston (U.S.), 0, 3, 19.",
+"conf": 0.938
+},
+{
+"column": 1,
+"x0": 0.13605,
+"x1": 0.37074,
+"y0": 0.81614,
+"y1": 0.83284,
+"text": "Avener.--Occup. 'the avcner.'",
+"conf": 0.967
+},
+{
+"column": 1,
+"x0": 0.12207,
+"x1": 0.36827,
+"y0": 0.82977,
+"y1": 0.84511,
+"text": ": O.F. avenier, avener, oat-mer-",
+"conf": 0.915
+},
+{
+"column": 1,
+"x0": 0.12207,
+"x1": 0.37115,
+"y0": 0.84307,
+"y1": 0.86011,
+"text": "chant. A chicf officer of.the stable,",
+"conf": 0.978
+},
+{
+"column": 2,
+"x0": 0.49836,
+"x1": 0.51891,
+"y0": 0.06273,
+"y1": 0.07705,
+"text": "69",
+"conf": 0.997
+},
+{
+"column": 2,
+"x0": 0.38286,
+"x1": 0.63152,
+"y0": 0.09205,
+"y1": 0.105,
+"text": "who had charge of the provender",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.38245,
+"x1": 0.567,
+"y0": 0.10432,
+"y1": 0.12034,
+"text": "for the horses (H.E.D.).",
+"conf": 0.993
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.63235,
+"y0": 0.11898,
+"y1": 0.13364,
+"text": "'The aveyner shall ordeyn provande",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.40424,
+"x1": 0.47,
+"y0": 0.13023,
+"y1": 0.14352,
+"text": "good won",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.40013,
+"x1": 0.60111,
+"y0": 0.14045,
+"y1": 0.15307,
+"text": "For the lordys horsis everychon.'",
+"conf": 0.994
+},
+{
+"column": 2,
+"x0": 0.44287,
+"x1": 0.62248,
+"y0": 0.15068,
+"y1": 0.165,
+"text": "146o. Boke of Curtasye, 305:",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.63522,
+"y0": 0.15955,
+"y1": 0.17693,
+"text": "'To John Redyng, avener, for ihe",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.63276,
+"y0": 0.17216,
+"y1": 0.18511,
+"text": "cxpenses of le palfrais, 5ol. ': Materials",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63235,
+"y0": 0.18205,
+"y1": 0.19534,
+"text": "for History of Reign of Henry Vll, p. 407.",
+"conf": 0.971
+},
+{
+"column": 2,
+"x0": 0.39437,
+"x1": 0.61344,
+"y0": 0.19261,
+"y1": 0.20932,
+"text": "Alan le Avener, co. Linc., I273: A",
+"conf": 0.968
+},
+{
+"column": 2,
+"x0": 0.39396,
+"x1": 0.58796,
+"y0": 0.20489,
+"y1": 0.21716,
+"text": "Walter le Avener, co. Oxf., ibid",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39314,
+"x1": 0.60316,
+"y0": 0.21477,
+"y1": 0.22875,
+"text": "William le Avenare, co. Oxf., ibid.",
+"conf": 0.975
+},
+{
+"column": 2,
+"x0": 0.39437,
+"x1": 0.56247,
+"y0": 0.22602,
+"y1": 0.2383,
+"text": "Ralph le Avener, 1306. M.",
+"conf": 0.969
+},
+{
+"column": 2,
+"x0": 0.39149,
+"x1": 0.62906,
+"y0": 0.23966,
+"y1": 0.25227,
+"text": "am afraid thc surname is extinct.",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.39684,
+"x1": 0.62906,
+"y0": 0.25636,
+"y1": 0.27136,
+"text": "Avery, Avory, Auvrey,",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.63276,
+"y0": 0.27068,
+"y1": 0.2833,
+"text": "Averson.--Bapt. ‘the son of",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.38081,
+"x1": 0.63235,
+"y0": 0.2833,
+"y1": 0.2983,
+"text": "Avery'; V. Every. Avery  is",
+"conf": 0.852
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63235,
+"y0": 0.29716,
+"y1": 0.31182,
+"text": "strongly represented in the United",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63317,
+"y0": 0.30977,
+"y1": 0.32545,
+"text": "States, especially in Boston. _ This",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.38245,
+"x1": 0.63152,
+"y0": 0.32341,
+"y1": 0.33807,
+"text": "is easily  accountcd for. Jacob",
+"conf": 0.951
+},
+{
+"column": 2,
+"x0": 0.38245,
+"x1": 0.63111,
+"y0": 0.33807,
+"y1": 0.35239,
+"text": "Avcrie (aged 33) ) and  Gcorge",
+"conf": 0.804
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63276,
+"y0": 0.35034,
+"y1": 0.36602,
+"text": "Averie (aged 23) sailed for Virginia",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.63152,
+"y0": 0.36466,
+"y1": 0.37864,
+"text": "in 1635.( Others of the same name",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.38204,
+"x1": 0.63111,
+"y0": 0.37864,
+"y1": 0.39091,
+"text": "followed. (v. Hotten's Lists of Emi-",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.58919,
+"y0": 0.39125,
+"y1": 0.40625,
+"text": "grants, p. i2i, and v. Index.)",
+"conf": 0.938
+},
+{
+"column": 2,
+"x0": 0.39314,
+"x1": 0.63194,
+"y0": 0.40557,
+"y1": 0.42125,
+"text": "Hugh fl. Auveray, co. Notts, 1273. A.",
+"conf": 0.967
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.56946,
+"y0": 0.41614,
+"y1": 0.4308,
+"text": "RaIph Averey, co. Oxf., ibid.",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.63029,
+"y0": 0.42773,
+"y1": 0.44,
+"text": "1541. Ralphc, son of Mr. Averson : St.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38163,
+"x1": 0.51398,
+"y0": 0.43761,
+"y1": 0.44989,
+"text": "Peter's, Cornhill, p. 2.",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.627,
+"y0": 0.44818,
+"y1": 0.46045,
+"text": "16o8. Avere Thompoon, . co. Cumb.",
+"conf": 0.879
+},
+{
+"column": 2,
+"x0": 0.38245,
+"x1": 0.63111,
+"y0": 0.45943,
+"y1": 0.47068,
+"text": "Queen's Coll.: Keg. Univ. Oxf. vol. ii.",
+"conf": 0.98
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.45849,
+"y0": 0.47068,
+"y1": 0.48193,
+"text": "pt. ii. p 301.",
+"conf": 0.886
+},
+{
+"column": 2,
+"x0": 0.39396,
+"x1": 0.63111,
+"y0": 0.47955,
+"y1": 0.49148,
+"text": "1609. Married --- Mathewe Averson",
+"conf": 0.961
+},
+{
+"column": 2,
+"x0": 0.38081,
+"x1": 0.62906,
+"y0": 0.49034,
+"y1": 0.50295,
+"text": "and Eliz. Phillippes : St. Michael, Cornhill,",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.38204,
+"x1": 0.41574,
+"y0": 0.50261,
+"y1": 0.51284,
+"text": "p. 19.",
+"conf": 0.959
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.6307,
+"y0": 0.51011,
+"y1": 0.52341,
+"text": "1621.-- John Burley and Mary Avarey :",
+"conf": 0.987
+},
+{
+"column": 2,
+"x0": 0.38163,
+"x1": 0.57686,
+"y0": 0.52102,
+"y1": 0.53432,
+"text": "Marriagc Lic. (London), ii. 102.",
+"conf": 0.976
+},
+{
+"column": 2,
+"x0": 0.39437,
+"x1": 0.62906,
+"y0": 0.53193,
+"y1": 0.54386,
+"text": "178o.- James Avory and Lucy Christ.",
+"conf": 0.942
+},
+{
+"column": 2,
+"x0": 0.37957,
+"x1": 0.57563,
+"y0": 0.53943,
+"y1": 0.55614,
+"text": "mass : St. Geo. Han.'Sg. i. 315.",
+"conf": 0.97
+},
+{
+"column": 2,
+"x0": 0.39149,
+"x1": 0.63152,
+"y0": 0.55068,
+"y1": 0.56807,
+"text": "London, 13, 3, I, 0 ; Boston (U.S.), 41,",
+"conf": 0.962
+},
+{
+"column": 2,
+"x0": 0.38081,
+"x1": 0.42191,
+"y0": 0.565,
+"y1": 0.57557,
+"text": "0, 0, 0.",
+"conf": 0.893
+},
+{
+"column": 2,
+"x0": 0.39684,
+"x1": 0.62824,
+"y0": 0.57557,
+"y1": 0.58955,
+"text": "Aves, Avis, Avison.--Bapt.",
+"conf": 0.964
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.63194,
+"y0": 0.58852,
+"y1": 0.60489,
+"text": "' the son of Avis,' originally Hawisia",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.38081,
+"x1": 0.63194,
+"y0": 0.60352,
+"y1": 0.61818,
+"text": "or Hawoyse. This very soon",
+"conf": 0.946
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.6307,
+"y0": 0.61648,
+"y1": 0.63045,
+"text": "settled into Avicia, Avice, or Avis.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.37999,
+"x1": 0.63235,
+"y0": 0.62943,
+"y1": 0.64545,
+"text": "It was decidedly popular for several",
+"conf": 0.991
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63194,
+"y0": 0.64375,
+"y1": 0.65773,
+"text": "centuries, and isjust coming into use",
+"conf": 0.988
+},
+{
+"column": 2,
+"x0": 0.38122,
+"x1": 0.63358,
+"y0": 0.65602,
+"y1": 0.67136,
+"text": "again, after two hundred years of",
+"conf": 0.989
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63111,
+"y0": 0.67034,
+"y1": 0.685,
+"text": "almost entire neglect. (For history",
+"conf": 0.992
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.63111,
+"y0": 0.68364,
+"y1": 0.6983,
+"text": "of the name, v. Yonge, ii. 212.)",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.38081,
+"x1": 0.62002,
+"y0": 0.69727,
+"y1": 0.71159,
+"text": "For further instances, v. Haweis.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.59741,
+"x1": 0.61632,
+"y0": 0.71386,
+"y1": 0.72273,
+"text": "A",
+"conf": 0.982
+},
+{
+"column": 2,
+"x0": 0.56905,
+"x1": 0.59659,
+"y0": 0.72523,
+"y1": 0.73443,
+"text": "ibid",
+"conf": 0.979
+},
+{
+"column": 2,
+"x0": 0.39355,
+"x1": 0.6118,
+"y0": 0.73341,
+"y1": 0.74466,
+"text": "Margaret fl. Avice, co. Camb., ibid.",
+"conf": 0.985
+},
+{
+"column": 2,
+"x0": 0.39314,
+"x1": 0.5448,
+"y0": 0.74318,
+"y1": 0.75716,
+"text": "Avice le Aubergere. H.",
+"conf": 0.977
+},
+{
+"column": 2,
+"x0": 0.39478,
+"x1": 0.49589,
+"y0": 0.75477,
+"y1": 0.76602,
+"text": "Hawisia lc Gros.",
+"conf": 0.939
+},
+{
+"column": 2,
+"x0": 0.39437,
+"x1": 0.49507,
+"y0": 0.765,
+"y1": 0.77591,
+"text": "William Avison.",
+"conf": 0.996
+},
+{
+"column": 2,
+"x0": 0.39314,
+"x1": 0.62906,
+"y0": 0.7742,
+"y1": 0.78784,
+"text": "1590. Bapt.---Avis, d. Philip Cliff:",
+"conf": 0.952
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.5822,
+"y0": 0.78545,
+"y1": 0.79807,
+"text": "Stepney Parish Church, London.",
+"conf": 0.995
+},
+{
+"column": 2,
+"x0": 0.39314,
+"x1": 0.63029,
+"y0": 0.79705,
+"y1": 0.80795,
+"text": "16oo. -- Avice,. d. Thomas Bennett :",
+"conf": 0.957
+},
+{
+"column": 2,
+"x0": 0.3804,
+"x1": 0.59166,
+"y0": 0.80659,
+"y1": 0.8192,
+"text": "Reg. St. Columb Major, Cornwall.",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.39273,
+"x1": 0.62947,
+"y0": 0.81682,
+"y1": 0.83045,
+"text": "16o1. Buried-Margery Avison : St.",
+"conf": 0.945
+},
+{
+"column": 2,
+"x0": 0.37999,
+"x1": 0.52754,
+"y0": 0.8267,
+"y1": 0.84068,
+"text": "Peter's, Cornhill, p. 15i.",
+"conf": 0.981
+},
+{
+"column": 2,
+"x0": 0.39232,
+"x1": 0.63152,
+"y0": 0.83659,
+"y1": 0.85125,
+"text": "1622. Samuel Avis and Eliz. Lenton :",
+"conf": 0.972
+},
+{
+"column": 2,
+"x0": 0.38163,
+"x1": 0.57069,
+"y0": 0.8492,
+"y1": 0.86114,
+"text": "Marriage Lic: (London), i. 118.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.73617,
+"x1": 0.79908,
+"y0": 0.06375,
+"y1": 0.07807,
+"text": "AXON",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65394,
+"x1": 0.89241,
+"y0": 0.09102,
+"y1": 0.10568,
+"text": "1773. Married-Gcorge Plumley and",
+"conf": 0.967
+},
+{
+"column": 3,
+"x0": 0.64201,
+"x1": 0.88706,
+"y0": 0.10193,
+"y1": 0.11591,
+"text": "Dorothy Avis : St. Geo. Han. Sq. i. 231.",
+"conf": 0.973
+},
+{
+"column": 3,
+"x0": 0.65353,
+"x1": 0.89282,
+"y0": 0.11182,
+"y1": 0.12648,
+"text": "1778. '-- William Avesand Mary School",
+"conf": 0.956
+},
+{
+"column": 3,
+"x0": 0.64242,
+"x1": 0.74398,
+"y0": 0.12409,
+"y1": 0.13534,
+"text": "ing : ibid. p. 288.",
+"conf": 0.99
+},
+{
+"column": 3,
+"x0": 0.65311,
+"x1": 0.88419,
+"y0": 0.13295,
+"y1": 0.1483,
+"text": "London, 5, 7, O; Philadelphia, 0, I, 3.",
+"conf": 0.954
+},
+{
+"column": 3,
+"x0": 0.65805,
+"x1": 0.89077,
+"y0": 0.14693,
+"y1": 0.16227,
+"text": "Awdrey, Awdry, Audrey.--",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.64366,
+"x1": 0.88789,
+"y0": 0.16159,
+"y1": 0.17489,
+"text": "Bapt.‘the son  of Etheldreda,",
+"conf": 0.96
+},
+{
+"column": 3,
+"x0": 0.64448,
+"x1": 0.89241,
+"y0": 0.17591,
+"y1": 0.18818,
+"text": "popularly Awdry.  St. Awdry's",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.64284,
+"x1": 0.89241,
+"y0": 0.18818,
+"y1": 0.20216,
+"text": "Fair is held on Oct. 17, at the Isle",
+"conf": 0.978
+},
+{
+"column": 3,
+"x0": 0.64366,
+"x1": 0.89159,
+"y0": 0.20216,
+"y1": 0.2158,
+"text": "of Ely. Its St. Awdry nccklaces,",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89241,
+"y0": 0.21545,
+"y1": 0.23011,
+"text": "showy but cheap, gave rise to the",
+"conf": 0.986
+},
+{
+"column": 3,
+"x0": 0.64366,
+"x1": 0.88994,
+"y0": 0.22943,
+"y1": 0.24307,
+"text": "term ‘tawdry-lace,' whence adj.",
+"conf": 0.957
+},
+{
+"column": 3,
+"x0": 0.64242,
+"x1": 0.77358,
+"y0": 0.24307,
+"y1": 0.25534,
+"text": "tawdry; v. Skeat.",
+"conf": 0.985
+},
+{
+"column": 3,
+"x0": 0.65435,
+"x1": 0.89077,
+"y0": 0.25705,
+"y1": 0.27068,
+"text": "Etheldreda le Ray, C. R.,27Edw.111,pt.I.",
+"conf": 0.924
+},
+{
+"column": 3,
+"x0": 0.65311,
+"x1": 0.89241,
+"y0": 0.26659,
+"y1": 0.2833,
+"text": "Etheldreda Plote, co. Camb., 1273. A.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.65435,
+"x1": 0.89241,
+"y0": 0.27739,
+"y1": 0.29136,
+"text": "Audrey Bendish, co. Norf.: FF. viii. 188.",
+"conf": 0.983
+},
+{
+"column": 3,
+"x0": 0.65394,
+"x1": 0.83567,
+"y0": 0.28795,
+"y1": 0.30159,
+"text": "Awdric Butta, temp. Eliz. Z.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65394,
+"x1": 0.89241,
+"y0": 0.29886,
+"y1": 0.31148,
+"text": "1567.. Bapt.--Audrye Chatterton: St.",
+"conf": 0.95
+},
+{
+"column": 3,
+"x0": 0.64119,
+"x1": 0.75179,
+"y0": 0.30875,
+"y1": 0.32205,
+"text": "Michael, Cornhill.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65476,
+"x1": 0.89159,
+"y0": 0.32034,
+"y1": 0.33193,
+"text": "1579. Married--George  Burton and",
+"conf": 0.944
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89241,
+"y0": 0.32886,
+"y1": 0.34352,
+"text": "Joanc Awdry : St.Antholin (London),p. 27.",
+"conf": 0.964
+},
+{
+"column": 3,
+"x0": 0.65435,
+"x1": 0.88912,
+"y0": 0.3408,
+"y1": 0.35239,
+"text": "1610. Bapt.-Awdrey, d. John   Cooke",
+"conf": 0.919
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89077,
+"y0": 0.3517,
+"y1": 0.36227,
+"text": "butcher : St. Dionis Backchurch (London).",
+"conf": 0.987
+},
+{
+"column": 3,
+"x0": 0.65476,
+"x1": 0.89159,
+"y0": 0.3592,
+"y1": 0.37557,
+"text": "1624-5: Thomas White and Audrey.",
+"conf": 0.936
+},
+{
+"column": 3,
+"x0": 0.64078,
+"x1": 0.89241,
+"y0": 0.37114,
+"y1": 0.38477,
+"text": "alias Etheldred Annie : Marriage Lic.",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.74891,
+"y0": 0.38205,
+"y1": 0.39534,
+"text": "(London), ii. 149.",
+"conf": 0.996
+},
+{
+"column": 3,
+"x0": 0.65435,
+"x1": 0.89241,
+"y0": 0.39227,
+"y1": 0.40489,
+"text": "Awdry' Almond, 1635: Hotten's Lists",
+"conf": 0.976
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.76331,
+"y0": 0.40318,
+"y1": 0.41648,
+"text": "of Emigrants, p. 93.",
+"conf": 0.959
+},
+{
+"column": 3,
+"x0": 0.65476,
+"x1": 0.89118,
+"y0": 0.41307,
+"y1": 0.4267,
+"text": "Awdie Bullinghame (fem.), 1636: St.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64325,
+"x1": 0.84636,
+"y0": 0.42364,
+"y1": 0.43659,
+"text": "Mary Aldermary (London), p. 18.",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.65435,
+"x1": 0.89323,
+"y0": 0.43352,
+"y1": 0.44682,
+"text": "1737. Buricd--Audry. wife of Thomas",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.64325,
+"x1": 0.89159,
+"y0": 0.44443,
+"y1": 0.45739,
+"text": "Amyas, surgeon : St. Andrew the Apostle",
+"conf": 0.953
+},
+{
+"column": 3,
+"x0": 0.64201,
+"x1": 0.78921,
+"y0": 0.45534,
+"y1": 0.46761,
+"text": "(Norwich) : FF. iv. 311.",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.65435,
+"x1": 0.89241,
+"y0": 0.46455,
+"y1": 0.47784,
+"text": "1768. Married---Rowland Hopkins and",
+"conf": 0.972
+},
+{
+"column": 3,
+"x0": 0.64284,
+"x1": 0.88624,
+"y0": 0.4758,
+"y1": 0.48739,
+"text": "Audery Stevens : St, Geo. Han. Sq. i. 182.",
+"conf": 0.961
+},
+{
+"column": 3,
+"x0": 0.65353,
+"x1": 0.87514,
+"y0": 0.48568,
+"y1": 0.50034,
+"text": "London, 0, O, 0 ; Crockford, 0, 5. 0.",
+"conf": 0.929
+},
+{
+"column": 3,
+"x0": 0.65805,
+"x1": 0.89077,
+"y0": 0.4992,
+"y1": 0.51352,
+"text": "Awre.--Local, ‘of Awre,' a",
+"conf": 0.657
+},
+{
+"column": 3,
+"x0": 0.64201,
+"x1": 0.79332,
+"y0": 0.51318,
+"y1": 0.5275,
+"text": "parish in co. Glouc.",
+"conf": 0.998
+},
+{
+"column": 3,
+"x0": 0.65394,
+"x1": 0.89077,
+"y0": 0.52784,
+"y1": 0.54114,
+"text": "Robert de Awre held Awre and Box,",
+"conf": 0.993
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89035,
+"y0": 0.54011,
+"y1": 0.55239,
+"text": "co. Glouc., 55 Hen. I1l: Atkyn's Hist.",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.64201,
+"x1": 0.72959,
+"y0": 0.55034,
+"y1": 0.5633,
+"text": "Glouc., p. 122.",
+"conf": 0.901
+},
+{
+"column": 3,
+"x0": 0.65476,
+"x1": 0.89035,
+"y0": 0.56023,
+"y1": 0.57216,
+"text": "W'alter deA wre, co.Glonc., 1Edw.I : ibid.",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.65476,
+"x1": 0.78469,
+"y0": 0.57011,
+"y1": 0.58341,
+"text": "MDB. (co. Glouc.), I.",
+"conf": 0.939
+},
+{
+"column": 3,
+"x0": 0.65024,
+"x1": 0.86568,
+"y0": 0.58409,
+"y1": 0.59875,
+"text": "Axon.-Bapt. ‘the son of-",
+"conf": 0.963
+},
+{
+"column": 3,
+"x0": 0.64284,
+"x1": 0.89159,
+"y0": 0.5967,
+"y1": 0.61273,
+"text": "(l). This Lancashire and Cheshire",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64119,
+"x1": 0.89118,
+"y0": 0.61273,
+"y1": 0.62534,
+"text": "surnamc has clcarly no connexion",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.892,
+"y0": 0.625,
+"y1": 0.64034,
+"text": "with Axton(q.y.). It is a patronymic",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89077,
+"y0": 0.6383,
+"y1": 0.65295,
+"text": "formed like Jaxon, Dixon, Dix,",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.64119,
+"x1": 0.892,
+"y0": 0.65227,
+"y1": 0.66625,
+"text": "or Cox, which represent Jackson,",
+"conf": 0.997
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89282,
+"y0": 0.66455,
+"y1": 0.68057,
+"text": "Dickson, Dicks, or Cocks. I can",
+"conf": 0.982
+},
+{
+"column": 3,
+"x0": 0.64119,
+"x1": 0.89241,
+"y0": 0.67818,
+"y1": 0.6942,
+"text": "but suggest that it is Atkinson,",
+"conf": 0.999
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.89282,
+"y0": 0.69182,
+"y1": 0.70784,
+"text": "which in my part of Lancashire",
+"conf": 0.979
+},
+{
+"column": 3,
+"x0": 0.64325,
+"x1": 0.89159,
+"y0": 0.70636,
+"y1": 0.72,
+"text": "(Furness) is invariably pronounced",
+"conf": 0.989
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.87679,
+"y0": 0.72,
+"y1": 0.73261,
+"text": "Atkison or Akison ; v. Atkinson.",
+"conf": 0.984
+},
+{
+"column": 3,
+"x0": 0.65476,
+"x1": 0.89035,
+"y0": 0.73409,
+"y1": 0.74432,
+"text": "Thomas Acson.  of Knottvsforth. in",
+"conf": 0.951
+},
+{
+"column": 3,
+"x0": 0.64078,
+"x1": 0.89241,
+"y0": 0.74284,
+"y1": 0.75886,
+"text": "Cheshire, 1561 : Wills at Cbester (1545-",
+"conf": 0.98
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.70739,
+"y0": 0.7558,
+"y1": 0.76875,
+"text": "1620), P. 1.",
+"conf": 0.981
+},
+{
+"column": 3,
+"x0": 0.65517,
+"x1": 0.87802,
+"y0": 0.76568,
+"y1": 0.77761,
+"text": "John Acson, of Leftwick, 1585 : ibid.",
+"conf": 0.974
+},
+{
+"column": 3,
+"x0": 0.65558,
+"x1": 0.89118,
+"y0": 0.77489,
+"y1": 0.78989,
+"text": "John  Ackson, of Leftwich, yeoxan,",
+"conf": 0.925
+},
+{
+"column": 3,
+"x0": 0.6416,
+"x1": 0.81347,
+"y0": 0.78648,
+"y1": 0.79875,
+"text": "1641 : ibid. (1621-1650), p. 1.",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.65229,
+"x1": 0.88994,
+"y0": 0.79568,
+"y1": 0.81,
+"text": "Thomas Axon, of Ashton-under-Lync,",
+"conf": 0.965
+},
+{
+"column": 3,
+"x0": 0.64037,
+"x1": 0.83649,
+"y0": 0.80693,
+"y1": 0.81989,
+"text": "husbandman, 1635 : ibid. p. 10.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.65353,
+"x1": 0.89241,
+"y0": 0.81545,
+"y1": 0.83114,
+"text": "1581. Bapt. Ellen Ackeson: Prest:",
+"conf": 0.966
+},
+{
+"column": 3,
+"x0": 0.63996,
+"x1": 0.81511,
+"y0": 0.82739,
+"y1": 0.84102,
+"text": "bury Ch. (co. Chester), p. 68.",
+"conf": 0.995
+},
+{
+"column": 3,
+"x0": 0.65353,
+"x1": 0.88994,
+"y0": 0.8383,
+"y1": 0.85057,
+"text": "1602. William Acson, co. Ches. : Rcg.",
+"conf": 0.975
+},
+{
+"column": 3,
+"x0": 0.64119,
+"x1": 0.82005,
+"y0": 0.84886,
+"y1": 0.86148,
+"text": "U'niv. Oxf. vol. ii. pt. ii. p. 256",
+"conf": 0.971
+},
+{
+"column": 3,
+"x0": 0.69752,
+"x1": 0.8994,
+"y0": 0.91568,
+"y1": 0.94807,
+"text": "Digitized by Google",
+"conf": 0.95
+}
+]
